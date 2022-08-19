@@ -1,0 +1,130 @@
+/* Global styles extracted from src-content HTML files */
+
+/* Base page styles - extracted from body BGCOLOR/TEXT attributes */
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+/* Link colors - extracted from body LINK/VLINK/ALINK attributes */
+a {
+    color: #0033CC;
+}
+
+a:visited {
+    color: #990099;
+}
+
+a:active {
+    color: #FF0000;
+}
+
+/* Body font - extracted from FACE="Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif" */
+body,
+.font-body,
+p,
+td,
+th,
+li,
+blockquote {
+    font-family: Verdana, Tahoma, Arial, Helvetica, "Sans-serif", sans-serif;
+}
+
+/* Monospace font - extracted from FACE="Courier New Baltic,monospace" in PRE tags */
+pre,
+.font-mono {
+    font-family: "Courier New Baltic", "Courier New", monospace;
+}
+
+/* Bold and underline classes - extracted from <B> and <U> usage */
+.font-bold,
+b,
+strong {
+    font-weight: bold;
+}
+
+.font-underline,
+u {
+    text-decoration: underline;
+}
+
+/* Alignment classes - extracted from ALIGN attributes */
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
+/* NetObjects Fusion table layout - extracted from BORDER/CELLSPACING/CELLPADDING */
+table.nof-layout,
+table[border="0"] {
+    border: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+/* Image spacing classes - extracted from VSPACE/HSPACE attributes */
+.img-hspace {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.img-vspace {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* Soul family tree specific styles (extracted from inline styles in soul/index.html) */
+.soul-table-collapse {
+    border-collapse: collapse;
+}
+
+.soul-table-full {
+    width: 100%;
+}
+
+.soul-table-bordered {
+    border: 1px solid #ddd;
+}
+
+.soul-td-bordered {
+    border: 1px solid #ddd;
+}
+
+.soul-td-padded {
+    padding: 8px;
+}
+
+/* Clear pixel helper */
+img[alt=""] {
+    display: block;
+}
+
+/* Text size classes - for FONT SIZE replacement */
+.font-size-large {
+    font-size: large;
+}
+
+.font-size-medium {
+    font-size: medium;
+}
+
+.font-size-small {
+    font-size: small;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
