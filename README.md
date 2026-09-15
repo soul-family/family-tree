@@ -1,10 +1,8 @@
-# Soul-Family-Tree
+# Soul Family Tree
 
-Soul family tree
+This repository preserves the Soul family tree archive and its related family branches.
 
-## Archive
-
-This repository is an archive of the Soul family tree website originally published at petersoul.co.uk. It preserves family history pages written between July 2002 and March 2019, containing family tree data, images, and historical pages documenting the Soul family lineage and related branches including Bailey, Clark Unwin, Cockin, Coles, Fletcher, Giles, Handley, Hankin, Holt, Hone, Jacobsohn Cohen, Roberts, Simmonds, Smith, Soul, and Wilson. The content has been backdated to reflect its original publication timeline.
+Family tree pages, attribution, source notes, images, and maintenance documentation are kept here as a focused archive.
 
 ## License
 
@@ -13,3 +11,5 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 ## Usage
 
 You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit and distribute any derivative works under the same license.
+
+*This archive is maintained by and for the Soul family. Questions, corrections, and contributions are welcome - please use the repository's issue tracker or the secure contact form.*
