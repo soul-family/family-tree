@@ -197,9 +197,6 @@ def generate_path_variations(base_path, replacement='_www_'):
             variations.append((c_backslash, replacement))
         variations.append((json_form, replacement))
 
-    if '_Vicki_documents' in base_path and base_path != '_Vicki_documents':
-        variations.append(('_Vicki_documents', replacement))
-
     seen = set()
     unique = []
     for old, new in variations:
