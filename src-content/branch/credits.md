@@ -1,6 +1,5 @@
 ---
 title: Credits
-layout: default
 ---
 
 Family Tree Credits

@@ -1,6 +1,5 @@
 ---
 title: Layout of the 'essential connections' between the trees
-layout: default
 ---
 
 Collection of Family Trees compiled by Brendan Soul over many years, and refreshed and extended by Peter Soul from 2018

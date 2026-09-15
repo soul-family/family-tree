@@ -29,7 +29,7 @@ p { margin: 0 0 1em 0; }
 
 a { color: #0033CC; text-decoration: none; }
 a:hover { text-decoration: underline; }
-a:visited { color: #990099; }
+a:visited { color: #0033CC; }
 
 /* --- Layout --- */
 .layout-wrapper {
