@@ -27,3 +27,6 @@ __pycache__/
 # Logs
 *.log
 debug*
+
+# Dependencies
+node_modules/

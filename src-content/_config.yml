@@ -1,0 +1,21 @@
+title: Family Tree Archive
+description: Collection of Family Trees compiled by Brendan Soul and Peter Soul
+author: Peter Soul Archive
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: nil
+  auto_ids: true
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default

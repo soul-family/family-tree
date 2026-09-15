@@ -1,0 +1,129 @@
+---
+title: Holt Family Tree
+layout: default
+---
+
+```
+ Thomas Holt, 1846 directory coal merchant, 5 Up. Brunswick ter.
+ Barnsbury Rd; 1861 census 36 Thornhill Sq., 60, banker's clerk, 
+ B Warwickshire; D 6 Dec 1868 aged 68, bd Abney Park grave 1168 sq 96,
+ from 36 Thornhill Sq, Islington.
+
+  =  Helen (Britten) 1871 census, 36 Thornhill Sq, widow, 62, annuitant,
+  |  B Middlesex; D 21 Sept 1874, 66, bd Abney Park grave 1168 sq 96,
+  |  from 36 Thornhill Sq; will proved 17 Nov 1874 by Alexander Goode
+  |  Holt of 6 Tower St, City of London, wine merchant, son, sole executor.
+  |
+  |   __Helen Britten Holt B 9 Aug 1836 at 5 Brunswick Terrace, Islington, 
+  |  |  bpt 30 Oct 1836, Claremont Chapel, Pentonville, d of Thomas Holt
+  |  |  & Helen his wife d of Richard Britten; D 28 June 1892, bd Abney
+  |  |  Park 2 July, 56, from The Deaconesses Institution, Tottenham N
+  |  |  gv 1168 sq 96
+  |  |
+  |__|  
+     |__Ann Bruce (Holt) B 18 January 1838 at 5 Brunswick Terrace, 
+     |  Islington, d of Thomas Holt coal merchant, & Helen Holt formerly
+     |  Britten; bpt 11 Mar 1838 Claremont Chapel, Pentonville; D 6 Jan 1900,
+     |  19 Drayton Park N, 61, bd Highgate Cemetery gv 33590 sq 148.
+     |
+     |   = [George Simmonds Soul](../soul/#GeorgeSimmondsSoul)
+     |   |
+     |   M 9 Nov 1865 in the Barnsbury Chapel, Islington, according to the
+     |   rites and ceremonies of the Congregationalists, 27, spinster, of  
+     |   36 Thornhill Sq., Barnsbury, d of Thomas Holt banker's clerk, & 
+     |   29, bachelor, merchant's assistant, of 11 Boxworth Grove, Barnsbury,
+     |   s of Joseph Soul secretary.
+     |
+     |
+     |__Thomas Richard Holt 1841 census Brunswick Terrace; 1861 census
+     |  36 Thornhill Sq, 21, merchant's clerk; 13 July 1874 named joint
+     |  executor of the will of his mother Helen Holt 'if not abroad';
+     |  17 Nov 1874 at Cairo in Egypt when the will was proved; 1895-1903
+     |  churchwarden St George's Tufnell Park; D 10 Mar 1913,
+     |  bd Highgate Cemetery from 27 Princes Avenue, Finchley, 73, gv 32742
+     |  sq 147.
+     |
+     |   = Anne Elizabeth (Fluker) D 8 Mar 1898, bd Highgate Cemetery 12 Mar,
+     |   | aged 50, from 130 Tufnell Park Rd, gv 32742 sq 147.
+     |   | 
+     |   |                      __Thomas James Holt B 8 Sept 1877 Cairo, s of Thomas Richard
+     |   |                     |  Holt bank manager, & Anne Elizabeth (Fluker); D 12 Jan 1934,
+     |   |                     |  bd Scarborough, inscrip Highgate Cemetery gv 32742.
+     |   |                     | 
+     |   |                     |
+     |   |                     |__Cecil Bruce Holt B 7 Jan 1879;
+     |   |_____________________|  bpt 23 Mar 1879 St George's
+     |                         |  Tufnell Park, s of Thomas Richard
+     |                         |  Holt merchant & Anne Elizabeth, of
+     |                         |  130 Tufnell Park Road; D 25 June 
+     |                         |  1952, bd Highgate Cemetery, 73, from
+     |                         |  16 Forest Side, Buckhurst Hill, Epping,
+     |                         |  gv 33607 sq 147.
+     |                         |
+     |                         |   = Ethel (  ), D 18 Mar 1943, bd Highgate
+     |                         |     Cemetery gv 33607 sq 147.
+     |                         |
+     |                         |__Ralph Jesse Fluker Holt B 18 Aug
+     |                         |  1880, bpt 17 Oct 1880 St George's
+     |                         |  Tufnell Park, s of Thomas Richard 
+     |                         |  & Anne Elizabeth Holt, of 130
+     |                         |  Tufnell Park Rd; D 13 Jan 1932,
+     |                         |  bd Scarborough, inscrip Highgate
+     |                         |  Cemetery gv 32742.                      
+     |                         |                            __ Ralph Joseph Richard Holt, D 14 Dec 1904, aged
+     |                         |   = Josephine (  )        |   8 months, bd Highgate Cemetery gv 32742 sq 147,
+     |                         |   |_______________________|   from 40 Black Horse Rd, Walthamstow.
+     |                         |
+     |                         |__Mabel Claire (Holt) B 18 Dec 1881;
+     |                            bpt 19 Mar 1882 St George's 
+     |                            Tufnell Park, d of Thomas Richard
+     |                            & Anne Elizabeth Holt of 130 
+     |                            Tufnell Park Rd; D 31 Jan 1954,
+     |                            inscrip Highgate Cemetery gv 
+     |                            32742 sq 147.
+     |
+     |                             = John Henry Sutton, D 13 Nov 1933
+     |                               inscrip Highgate Cemetery gv
+     |                               32742 sq 147.
+     |
+     |__William Henry Holt, D 25 Feb 1862 aged 21, bd Abney Park gv 1168 sq 96.
+     |
+     |__Robert Bruce Holt, D 14 Feb 1845 aged 18 months, bd Abney Park gv 1168 sq 96.
+     | 
+     |
+     |__Alexander Goode Holt, 1871 census, 36 Thornhill Sq, 24, commercial
+     |  clerk; 1874 directory, wine merchant, 6 Tower St, City; 1881 census
+     |  11 St John's Park, Islington, 34, wine merchant, B Islington,
+     |  1901 census, 11 St John's Pk, 54, wine merchant, employer;
+     |  D 11 Feb 1938 aged 91, bd Highgate Cemetery gv 33606 sq 14.
+     |
+     |   = Elizabeth (Freeman) 1881 census, 11 St John's Park,
+     |   | 34, B Islington; 1901 census, 11 St John's Pk, 54;
+     |   | D 28 Nov 1921, bd Highgate Cemetery gv 33606 sq 147. 
+     |   |
+     |   M 1873 Q2, Islington.
+     |   |________________________Edith Holt, 1881 census, 11 St
+     |                            John's Park, 11 months, B Islington;
+     |                            1901 census, 11 St John's Park, 20.
+     |
+     |__Mary Jane Holt, D 6 Apr 1907 at 12 Blomfield St, Paddington, 58,
+     |  spinster, of independent means; bd Abney Park gv 1168 sq 96,
+     |  from 12 Blomfield St W; 22 Apr 1907 letters of administration 
+     |  to Jessie Bird Holt sister, effects '473:17:2.
+     |
+     |__Jessie Bird Holt, 1871 census, 36 Thornhill Sq, 20, B Middlesex;
+     |  D 3 April 1912, bd Highgate Cemetery from Milton Hospital, Southsea,
+     |  61, gv 38663 sq 147; 10 May 1912 'of 25 Granada Rd, Southsea, Hants,
+     |  formerly of The Beach House Hotel, Deal, Kent', D at The Asylum,
+     |  Portsmouth, probate to Andrew Fisher Holt brother, effects '656:18:1.
+     |
+     |__Andrew Fisher Holt, 1871 census, 36 Thornhill Sq, 18, banker's clerk,
+        B Middlesex; 1887 named 'of The National Provincial Bank of London'
+        an executor of the will of George Simmonds Soul; D 23 July 1915,
+        25 Granada Rd, Southsea, Hants, 62, bank manager (retired), informant
+        Alex G. Holt brother, of 30 Summerland Mansions, Muswell Hill, N;
+        bd Highgate Cemetery from 25 Granada Rd, gv 38663 sq 147; 14 Sept
+        1915 probate to George Herbert Soul & Thomas James Holt nephews,
+        effects '1159:1:4.
+ 
+```
