@@ -2,7 +2,8 @@ import os
 import re
 from urllib.parse import urlparse
 
-base = r"C:\_Vicki_documents\online github - familytree petersoul.co.uk\src-content"
+base = os.path.join(os.path.dirname(__file__), '..', '..', 'src-content')
+base = os.path.abspath(base)
 
 # Collect all HTML files
 html_files = []

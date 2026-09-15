@@ -95,7 +95,7 @@ def verify_database(db_path, developer_id=None, script_dir=None):
         for row in cursor.fetchall():
             sid, directory = row
             if directory and '_www_' not in directory:
-                if '_Vicki_documents/website - petersoul.co.uk' in directory or 'website - petersoul.co.uk' in directory:
+                if '/' in directory or '\\' in directory:
                     issues.append(f"Exposed project path in session {sid}.directory: {directory}")
     except sqlite3.Error as e:
         issues.append(f"Path check failed: {e}")
