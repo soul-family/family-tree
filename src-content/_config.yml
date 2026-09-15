@@ -10,8 +10,7 @@ kramdown:
   auto_ids: true
   entity_output: as_char
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-
-permalink: pretty
+  parse_block_html: true
 
 defaults:
   -

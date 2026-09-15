@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "format": "prettier --write \"**/*.{html,md,json}\"",
+    "format": "prettier --write \"**/*.{html,md,json}\" && node .dev-scripts/scripts/minify-md-tables.js",
     "format:check": "prettier --check \"**/*.{html,md,json}\"",
+    "format:tables": "node .dev-scripts/scripts/minify-md-tables.js",
     "lint": "eslint \"**/*.{md,json}\"",
     "lint:fix": "eslint \"**/*.{md,json}\" --fix"
   },
