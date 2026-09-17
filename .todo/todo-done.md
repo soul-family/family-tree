@@ -1,0 +1,139 @@
+# Todo - Done
+
+Completed work tasks moved from the todo-next.md file.
+
+> **Contribution rules**: All entries must follow the rules in `_docs/contribution-guides/shared/adding-text.md` file.
+
+## Consulting
+
+- T-1: Confirm migration consent
+- T-2: Research website archiving best practices and preservation standards
+- T-3: Define archive purpose, audience, and success criteria
+- T-4: Adopt open-source-friendly workflows, create GitHub organisation to host the archive
+- T-5: Validate author intent and preservation boundaries, documentation and transparency on updates
+- T-6: Add Readme and License files
+- T-10: Separate the family tree and newsletter into its own dedicated repository
+
+## Migration
+
+- T-9: Create preparation folders with commit subfolders
+- T-12: Review documentation for consistent scope
+- T-13: Create agent instruction files
+- T-14: Fix cross-references across documentation
+- T-17: Create index pages for all preparation commits
+- T-18: Verify index pages exist for all column commits
+- T-19: Create shared utilities for managing navigation links
+- T-20: Fix all navigation links in preparation folders
+- T-21: Add verification checks to ensure links work correctly
+- T-22: Add privacy checks to prevent personal data exposure
+- T-23: Reorganize documentation into topic-based folders
+- T-24: Standardize documentation filenames
+- T-25: Remove unnecessary domain references from documentation
+- T-26: Create admin guide for managing archive access
+- T-27: Create user guide for requesting archive changes
+- T-28: Create user guide for submitting new information
+- T-30: Preserve original files and publishing dates
+- T-31: Extract content structure, metadata, and publication dates
+- T-32: Document original design and visual styling
+- T-33: Preserve author text exactly as published
+- T-34: Create inventory of all source files and assets
+- T-35: Verify backup completeness
+- T-36: Preserve AI-generated migration code and planning artifacts
+- T-37: Maintain transparency log for all decisions and interactions
+- T-54: Remove external search forms from all pages
+- T-55: Remove all plaintext email addresses from pages
+- T-56: Obfuscate contact email addresses on contact pages
+- T-57: Add privacy policy guide
+- T-58: Remove empty notes page from archive and all references
+- T-59: Update index pages to use trailing-slash URLs
+- T-60: Preserve file source dates where available
+- T-61: Fix filtering into preparation commits
+- T-62: Align all commit dates and source files
+- T-63: Verify index pages are created for all preparation folders
+
+## v1.0.0 Modernisation
+
+- T-7: Separate each tree branch into own folder with index pages
+- T-8: Add credits page
+- T-38: Update to modern HTML standards
+- T-42: Modernise to HTML5
+- T-43: Update contact information on the pages
+- T-44: Remove outdated email assets and references
+- T-45: Improve file structure
+- T-46: Create archive guides
+- T-47: Create management guides
+- T-48: Add updates and report files
+- T-50: Fix stats overwrite issue
+- T-52: Review pages metadata and dates for consistency
+- T-53: Document changes with changelogs and documentation files
+- T-66: Encode pages to UTF-8
+- T-67: Replace table layouts with div-based structure
+- T-68: Extract styling using CSS3 variables
+- T-69: Remove duplicate images
+- T-71: Add captions under all images with rights info
+- T-73: Update AI activity folder to reflect AI usage and transparency
+- T-74: Add meta title showing on browser tab
+- T-75: Update changelog management guide
+- T-76: Add AI skills for AI workflows
+- T-77: Create human-readable statistics report in project documentation
+- T-78: Create AI development stats report on project totals
+- T-79: Document session stats units and time calculation methodology
+- T-80: Add commit metadata documentation
+- T-81: Separate AI assistant dev guide
+- T-82: Keep original images in print-ready format alongside web-optimized versions
+- T-83: Review AI logs files
+- T-84: Review AI activity files
+- T-85: Fix cross-references across documentation and scripts
+- T-86: Create AI session backup script
+- T-87: Optimise AI session management
+- T-88: Create session backup AI skill
+- T-89: Create skills guide with calling syntax and benefits
+- T-90: Back up AI sessions databases
+- T-91: Add AI transparency skill
+- T-92: Anonymize local paths in session backup database
+- T-93: Add multi-AI-developer support to session backup
+- T-94: Add current AI session auto-discovery
+- T-95: Simplify path replacement configuration to human-friendly format
+- T-96: Move session databases to shared co-developer directory
+- T-97: Generate per-session statistics files
+- T-98: Add tiered word-count user input time calculation
+- T-99: Document backup preparation process and issues
+- T-101: Clean local AI session backups, add append mode to backup script
+- T-102: Update contribution guidelines
+- T-108: Add version management guide
+- T-103: Create AI logging guidelines
+- T-104: Update stats calculation for comprehensive user input time model
+- T-105: Create standalone stats generation tool
+- T-106: Fix cross-references across documentation files
+- T-107: Normalize stats field names in databases and reports
+- T-108: Add human-readable totals to AI reports
+- T-109: Update stats script with auto-detection
+- T-110: Add multi-database config support
+- T-111: Add pre-commit hook to verify session stats regeneration after database changes
+- T-112: Create contributor quick-start guide for backup workflow, stats generation, and reporting
+- T-113: Add dry-run mode to backup scripts
+- T-114: Automate local paths anonymization for session backup
+- T-115: Deduplicate documentation
+- T-116: Create session auto-discovery utility for project-relevant AI sessions
+- T-117: Add database schema for backup database
+- T-118: Consolidate documentation
+- T-119: Clean up runtime temp scripts
+- T-121: Review AI co-developer configs and documentation
+- T-122: Add AI activity retention policy
+- T-123: Review AI co-developer configurations
+- T-125: Remove stale caches and temporary script files
+- T-126: Add AI session database stats
+- T-127: Deduplicate docs and config files
+- T-128: Unify session stats
+- T-129: Add pre-commit audit for session database integrity
+- T-130: Implement incremental backup deduplication to reduce database growth
+- T-132: Review all project files
+- T-133: Update backup scripts with database integrity checks
+- T-135: Add pre-commit audit for documentation
+- T-137: Cleanup temporary AI sessions
+- T-138: Create total stats from AI session databases
+- T-144: Add backup database index on frequently queried columns
+- T-145: Create session archive manager for cold storage
+- T-146: Cleanup orphaned session files
+- T-148: Add session metadata during backup
+- T-149: Create database vacuum scheduler for periodic optimization
