@@ -37,7 +37,7 @@ python .dev-scripts/ai-sessions/ai-sessions-backup.py --db-path <path-to-source.
 ## Command-line Arguments
 
 | Argument | Description |
-|----------|-------------|
+| --- | --- |
 | `--db-path PATH` | Path to the AI co-developer SQLite database - required |
 | `--output-dir DIR` | Output directory (default: `.ai-activity/ai-sessions/<developer>`) |
 | `--output-name NAME` | Output database filename (default: from developer config) |
@@ -52,7 +52,7 @@ python .dev-scripts/ai-sessions/ai-sessions-backup.py --db-path <path-to-source.
 Located in `.dev-scripts/ai-sessions/` and per-developer subdirectories:
 
 | File | Purpose |
-|------|---------|
+| --- | --- |
 | `.dev-scripts/ai-sessions/ai-developers.jsonc` | AI developer definitions and configuration |
 | `.dev-scripts/ai-sessions/shared/config_loader.py` | Configuration loading functions |
 | `.dev-scripts/ai-sessions/<developer-id>/session-ids.jsonc` | Session IDs to back up - `{"session_ids": [...]}` |

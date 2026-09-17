@@ -7,7 +7,7 @@ Exported AI co-developer session transcripts stored here for archival and offlin
 This project supports multiple AI co-developers. Each developer's sessions are stored in a separate subdirectory:
 
 | Developer | Databases | Purpose |
-|-----------|----------|---------|
+| --- | --- | --- |
 | `kilo-code` | sessions.db | Primary family-tree AI assistant session export |
 | `opencode` | (none) | AI co-developer (future use) |
 | `github-copilot` | (none) | AI pair programmer (future use) |

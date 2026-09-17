@@ -8,7 +8,7 @@ Human-readable statistics for AI-assisted work on the family tree repository. Th
 ## Project Totals
 
 | Metric | Value |
-|--------|-------|
+| --- | --- |
 | Sessions | 7 |
 | User requests | 40 |
 | Messages | 713 |
@@ -19,7 +19,7 @@ Human-readable statistics for AI-assisted work on the family tree repository. Th
 ## Active Time
 
 | Component | Human |
-|-----------|-------|
+| --- | --- |
 | AI processing | 12h 46m |
 | User activity | 6h 38m |
 | **Total active** | **19h 25m** |
@@ -27,7 +27,7 @@ Human-readable statistics for AI-assisted work on the family tree repository. Th
 ## Token Usage
 
 | Type | Count |
-|------|-------|
+| --- | --- |
 | Input tokens | 4,976,512 |
 | Output tokens | 101,877 |
 | Reasoning tokens | 158,408 |
@@ -35,7 +35,7 @@ Human-readable statistics for AI-assisted work on the family tree repository. Th
 ## User Activity
 
 | Phase | Human |
-|-------|-------|
+| --- | --- |
 | Writing prompts | 1h 9m |
 | Waiting for output | 6m |
 | Reviewing responses | 3h 23m |

@@ -10,7 +10,7 @@ This report documents the first major update to the family tree archive since it
 
 - **One folder per family branch** - Each lineage now has its own section with a clear index page
 - **Central index** - A main page links to every public family branch
-- **Dedicated credits page** - All contributors, sources, and permissions in one place
+- **Dedicated about page** - All contributors, sources, and permissions in one place
 - **Shared resources** - Photographs and styles organised in common folders
 
 ### Privacy Improvements

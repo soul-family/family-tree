@@ -16,7 +16,7 @@ Standalone reference for GitHub workflows using VS Code and the GitHub web inter
 ### Pull Requests
 
 | Action | Method |
-|--------|--------|
+| --- | --- |
 | Create PR | Source Control panel → "..." → "Create Pull Request" |
 | View PRs | `Ctrl+Shift+P` → "GitHub: View Pull Requests" |
 | Checkout PR | In PR view, click "Checkout" |

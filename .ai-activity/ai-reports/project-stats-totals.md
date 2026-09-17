@@ -5,7 +5,7 @@ Aggregated AI development metrics for the family tree repository only.
 Source: \kilo-code-sessions.stats.json\.
 
 | Metric | Value |
-|--------|-------|
+| --- | --- |
 | Sessions | 10 |
 | User requests | 40 |
 | Messages | 733 |

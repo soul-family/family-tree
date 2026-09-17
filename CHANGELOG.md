@@ -183,7 +183,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - User guides for requesting and submitting archive updates
 - Multi-user access documentation with permission levels
 - Updated archive to modern HTML5 standards while preserving original content
-- Family tree folder structure with per-tree folders and shared credits page
+- Family tree folder structure with per-tree folders 
 - Progressive index pages for all preparation commits
 - Date-aware backup and commit preparation verification
 - AI transparency logging with structured audit trail

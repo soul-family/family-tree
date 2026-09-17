@@ -31,7 +31,7 @@ Before uploading, ensure the static site is complete:
 After upload, edit the item metadata:
 
 | Field | Value |
-|-------|-------|
+| --- | --- |
 | Title | Soul Family Tree |
 | Creator | Peter Soul |
 | Date | 2026 |
@@ -77,7 +77,7 @@ Once verified, share the Archive.org links:
 ## Troubleshooting
 
 | Issue | Solution |
-|-------|----------|
+| --- | --- |
 | Links broken after upload | Ensure all href attributes use relative paths |
 | Images missing | Check that asset paths are correct and files were uploaded |
 | Crawl incomplete | Increase crawl depth or wait for automatic recrawl |

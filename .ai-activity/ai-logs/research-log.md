@@ -42,7 +42,7 @@
 ## Tools Used
 
 | Tool | Purpose |
-|------|---------|
+| --- | --- |
 | Visual Studio Code | File editing, project navigation |
 | PowerShell | Command execution, file operations |
 | Git | Version control, commit strategy, history management |

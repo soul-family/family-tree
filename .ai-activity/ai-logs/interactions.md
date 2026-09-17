@@ -10,7 +10,7 @@
 1. Created separated folders for family tree branches and updated navigation.
 2. Verified attribution and removed temporary working material.
 
-**Result:** Family tree content separated with updated navigation and credits attribution.
+**Result:** Family tree content separated with updated navigation.
 
 ## Interaction: Project review and inconsistency audit
 

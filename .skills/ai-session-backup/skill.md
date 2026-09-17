@@ -69,7 +69,7 @@ SQLite databases and stats JSON files created in `.ai-activity/ai-sessions/<deve
 Each database contains three tables:
 
 | Table | Purpose |
-|-------|---------|
+| --- | --- |
 | `session` | Session metadata (ID, title, directory, tokens, cost) |
 | `message` | Conversation turns (role, model, finish reason) |
 | `part` | Content pieces (text, reasoning, tool calls/results) |

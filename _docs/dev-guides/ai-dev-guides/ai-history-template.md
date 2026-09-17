@@ -37,9 +37,9 @@ diff check · `ACCEPT` · `ABANDON` · `META` (plan change, backtrack).
 | # | T | When | Detail | Note |
 | --- | --- | --- | --- | --- |
 | 1 | ASK | _t0_ | `"fix the login redirect"` | vague - no file, no expected behaviour (`ai-stats.md` 3.Clarity) |
-| 2 | SEARCH | | glob for `*login*`, reads `src/pages/login.tsx` | hunt begins because no path given |
-| 3 | CTX | | user pastes error + path after 2 turns | arrived late - cost turns 2–3 |
-| … | | | | |
+| 2 | SEARCH |  | glob for `*login*`, reads `src/pages/login.tsx` | hunt begins because no path given |
+| 3 | CTX |  | user pastes error + path after 2 turns | arrived late - cost turns 2–3 |
+| … |  |  |  |  |
 
 ## 3. Turning points
 

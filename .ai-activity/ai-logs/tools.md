@@ -3,7 +3,7 @@
 ## External Apps and Tools Used
 
 | Category | Tools | Purpose |
-|----------|-------|---------|
+| --- | --- | --- |
 | Development environment | Visual Studio Code, PowerShell terminal | File editing, command execution, project navigation |
 | Version control | Git | Repository inspection, commit strategy, history management |
 | Scripting | Python | Task management, changelog generation, pre-commit audit |
@@ -15,7 +15,7 @@
 ## Techniques Used
 
 | Technique | Purpose |
-|-----------|---------|
+| --- | --- |
 | glob | Lists files matching patterns to confirm source files exist |
 | read | Reads source files to understand structure, link patterns, and content |
 | grep | Searches for link patterns and specific text across source files |
@@ -33,7 +33,7 @@
 ## Current Review Techniques
 
 | Technique | Purpose |
-|-----------|---------|
+| --- | --- |
 | Targeted repository reading | Compare task, documentation, changelog, and log records with contribution rules |
 | Pattern search | Locate duplicate task states, implementation-specific log details, and stale references |
 | Automated repository audit | Verify todos, documentation links, transparency, changelog, and session statistics |

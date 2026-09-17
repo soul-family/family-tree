@@ -75,7 +75,7 @@ See [skills-guide.md](../ai-dev-guides/skills-guide.md) for all available projec
 Sessions stored in SQLite database with three tables:
 
 | Table | Purpose |
-|-------|---------|
+| --- | --- |
 | `session` | Session metadata (ID, title, directory, tokens, cost) |
 | `message` | Chat turns (user, assistant, tool) with JSON data |
 | `part` | Individual content pieces (text, reasoning, tool calls/results) |
@@ -107,7 +107,7 @@ Database locations:
 
 ### Tools Summary
 | Category | Key Tools |
-|----------|-----------|
+| --- | --- |
 | File I/O | read, write, edit, glob, grep |
 | Shell | bash, background_process |
 | Web | webfetch, websearch |
@@ -167,7 +167,7 @@ The script auto-discovers the current session from the developer's session knowl
 The project supports multiple AI co-developers, each with their own session directories under `.ai-activity/ai-sessions/`:
 
 | Developer | Directory | Purpose |
-|-----------|-----------|---------|
+| --- | --- | --- |
 | `kilo-code` | `.ai-activity/ai-sessions/kilo-code/` | Primary Kilo session databases (most complete) |
 | `kilo-code-2` | `.ai-activity/ai-sessions/kilo-code-2/` | Alternate Kilo session database |
 | `opencode` | `.ai-activity/ai-sessions/opencode/` | OpenCodeco-developer sessions |
@@ -199,7 +199,7 @@ agent_manager(action="move", sessionID="ses_xxx", sectionID="...")
 
 ### Common Issues
 | Problem | Fix |
-|---------|-----|
+| --- | --- |
 | "OldString not found" | Check exact text, including whitespace |
 | "Found multiple matches" | Add more surrounding context |
 | Unicode errors | Ensure UTF-8 encoding; use `sys.stdout.reconfigure(encoding='utf-8')` |

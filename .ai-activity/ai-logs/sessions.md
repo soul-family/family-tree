@@ -3,8 +3,8 @@
 Session index for the archive project. Detailed entries are in `interactions.md`.
 
 | Date | Session | Outcome |
-|------|---------|---------|
-| 2026-08-04 | commit0-famtree folder structure and file copy | Family tree content separated with updated navigation and credits attribution. |
+| --- | --- | --- |
+| 2026-08-04 | commit0-famtree folder structure and file copy | Family tree content separated with updated navigation. |
 | 2026-08-04 | Project review and inconsistency audit | All inconsistencies documented and scheduled for correction. |
 | 2026-08-04 | Email removal and obfuscation | All plaintext emails removed from HTML; contact pages use obfuscated email format. |
 | 2026-08-04 | Metadata date backdating | All files and folders in prep commits backdated to blog post creation dates. |

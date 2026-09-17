@@ -3,7 +3,7 @@
 ## External Sources Consulted
 
 | Source | Type | URL | Reliability |
-|--------|------|-----|-------------|
+| --- | --- | --- | --- |
 | Wikipedia - NetObjects Fusion | Online reference | https://en.wikipedia.org/wiki/NetObjects_Fusion | Medium |
 | Creative Commons | License reference | https://creativecommons.org/licenses/by-nc-sa/4.0/ | High |
 | National Archives | External link in content | http://discovery.nationalarchives.gov.uk/ | High |
@@ -22,7 +22,7 @@
 ## Current Review Sources
 
 | Source | Type | Reliability |
-|--------|------|-------------|
+| --- | --- | --- |
 | Project contribution guidance | Local project guidance | High |
 | Task, documentation, changelog, and activity records | Local project records | High |
 | Repository audit output | Generated verification result | High |

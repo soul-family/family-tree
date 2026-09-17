@@ -11,7 +11,7 @@ The stats files report two categories of time: **AI processing time** and **user
 AI processing time is the actual wall-clock time the AI model spent generating responses. It is calculated as the sum of `(time.completed - time.created)` for every assistant message in the session.
 
 | Field | Meaning |
-|-------|---------|
+| --- | --- |
 | `ai_processing_seconds` | Sum of all per-message processing times in seconds |
 | `ai_processing_count` | Number of assistant messages with valid start/end times |
 | `ai_processing_human` | Human-readable format (e.g., "61h 10m") |
@@ -25,14 +25,14 @@ User activity time estimates how long the user spent on activities separated int
 Time spent writing and submitting prompts.
 
 | Component | Calculation | Description |
-|-----------|-------------|-------------|
+| --- | --- | --- |
 | Writing input | Based on prompt word count | Time to type and formulate the prompt |
 | Waiting for output | Fixed time per prompt | System acceptance + initial check |
 
 **Writing Input Tiers:**
 
 | Word Count | Estimated Time | Rationale |
-|------------|----------------|-----------|
+| --- | --- | --- |
 | 1-9 words | 15 seconds | Short reply or one-word confirmation |
 | 10-49 words | 1 minute | Brief instruction or quick question |
 | 50-199 words | 3 minutes | Multi-sentence request with details |
@@ -44,7 +44,7 @@ Time spent writing and submitting prompts.
 System acknowledgment and processing start.
 
 | Component | Time | Rationale |
-|-----------|------|-----------|
+| --- | --- | --- |
 | System acceptance | 3 seconds | Time for prompt to be acknowledged |
 | Initial check | 5 seconds | Quick scan to confirm processing started |
 | **Subtotal** | **8 seconds** | Applied once per user prompt |
@@ -55,7 +55,7 @@ System acknowledgment and processing start.
 Time spent reviewing AI responses and verifying file changes.
 
 | Component | Calculation | Description |
-|-----------|-------------|-------------|
+| --- | --- | --- |
 | Review output summary | Based on response parts + final text length | Reading and understanding the response |
 | Verify file changes | Fixed time per prompt with changes | Reviewing git diff and commit verification |
 
@@ -77,7 +77,7 @@ output_phase = review_output_time + verify_file_changes_time
 The stats file reports:
 
 | Field | Meaning |
-|-------|---------|
+| --- | --- |
 | `user_activity_seconds` | Total estimated user activity time |
 | `user_activity_human` | Human-readable format |
 | `user_input_phase_seconds` | Time spent on input (writing + waiting) |

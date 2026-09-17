@@ -9,7 +9,7 @@ The root `CHANGELOG.md` is the published, released changelog. It is generated fr
 ## Files
 
 | File | Purpose |
-|------|---------|
+| --- | --- |
 | `CHANGELOG.md` | Released changes grouped by version, in reverse chronological order (generated) |
 | `VERSION` | Single line containing the current version number in semver format |
 | `.changelog/unreleased.md` | Work-in-progress entries for the next version, manually maintained |

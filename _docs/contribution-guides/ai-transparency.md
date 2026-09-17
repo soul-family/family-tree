@@ -5,7 +5,7 @@ Quick reference for AI transparency in this project. For the full guide, see `_d
 ## Log Files
 
 | File | Purpose |
-|------|---------|
+| --- | --- |
 | `.ai-activity/ai-logs/interactions.md` | Detailed per-task interaction log |
 | `.ai-activity/ai-logs/sessions.md` | Session index with outcomes |
 | `.ai-activity/ai-logs/sources.md` | Research sources consulted |

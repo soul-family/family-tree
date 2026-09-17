@@ -14,7 +14,7 @@ Every AI interaction should preserve, organize, and spread knowledge - never los
 ### Author's Accurate Content Preservation Rules
 
 | Rule | Description | Example |
-|------|-------------|---------|
+| --- | --- | --- |
 | Preserve exact wording | Keep original phrases where possible | "Use cadence to command attention" not "Cadence helps you command attention" |
 | Tag additions | Mark inferred content with [CLARIFIED] | [CLARIFIED - inferred from subject context] |
 | Flag gaps | Mark unfillable gaps with [GAP] | [GAP - needs source] |
@@ -98,7 +98,7 @@ Every AI interaction must log to `.ai-activity/ai-logs/` folder:
 
 ### When to Log
 | Phase | Action |
-|-------|--------|
+| --- | --- |
 | Session Start | Review previous session in sessions.md |
 | During Research | Log queries to tools.md, sources to sources.md |
 | During Work | Log file changes to interactions.md |
@@ -122,7 +122,7 @@ Every AI interaction must log to `.ai-activity/ai-logs/` folder:
 ### Available Skills
 
 | Skill | Path | Description |
-|-------|------|-------------|
+| --- | --- | --- |
 | AI Transparency | `.skills/ai-transparency/skill.md` | Logs AI interactions, preserves planning artifacts, and maintains a clear audit trail of decisions, sources, and tools used. |
 | AI Session Backup | `.skills/ai-session-backup/skill.md` | Exports AI co-developer session data from the local SQLite database into project-specific backup databases with local paths anonymized to _www_. |
 | AI Analysis | `.skills/ai-analysis/skill.md` | Analyzes individual AI co-developer session transcripts for user behaviour, AI behaviour, and improvement opportunities. |

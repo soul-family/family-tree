@@ -29,7 +29,7 @@ All data stays on the local machine. No conversation content is shared with thir
 
 ### Data Categories
 | Category | Examples | Storage |
-|----------|----------|---------|
+| --- | --- | --- |
 | Session data | Prompts, responses, tool calls | SQLite database |
 | Logs | Decisions, sources, tool usage | Version control (git) |
 | Exports | Session transcripts | Local files (gitignored) |
@@ -105,7 +105,7 @@ All data stays on the local machine. No conversation content is shared with thir
 
 ### Session-Level Metrics
 | Metric | Definition | Purpose |
-|--------|------------|---------|
+| --- | --- | --- |
 | Messages per session | Total conversation turns | Session complexity |
 | Tool calls per session | Number of tool invocations | AI activity level |
 | Tokens per session | Input + output tokens | Resource consumption |
@@ -113,7 +113,7 @@ All data stays on the local machine. No conversation content is shared with thir
 
 ### User Behaviour Metrics
 | Metric | Definition | Interpretation |
-|--------|------------|----------------|
+| --- | --- | --- |
 | Prompt length | Average characters per user message | Specificity indicator |
 | Clarification requests | User questions asking for details | Communication clarity |
 | Revisions per task | Times user edits/adjusts requests | Task scoping |
@@ -122,7 +122,7 @@ All data stays on the local machine. No conversation content is shared with thir
 
 ### AI Behaviour Metrics
 | Metric | Definition | Interpretation |
-|--------|------------|----------------|
+| --- | --- | --- |
 | Tool diversity | Unique tools used | Versatility |
 | Most used tool | Tool with highest call count | Efficiency focus |
 | Error recovery attempts | Retries after failures | Robustness |
@@ -214,7 +214,7 @@ Ask AI to analyze session data:
 
 ### Metrics Dashboard Suggestions
 | Category | Metrics | Tools |
-|----------|---------|-------|
+| --- | --- | --- |
 | Volume | Sessions/day, Messages/session | SQLite queries |
 | Quality | Error rate, Revision rate | Part type analysis |
 | Efficiency | Tool calls/task, Time/session | Timestamp deltas |

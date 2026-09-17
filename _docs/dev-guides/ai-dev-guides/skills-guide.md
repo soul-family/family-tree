@@ -9,7 +9,7 @@ Skills are pre-written markdown workflows stored in `.skills/`. Each skill defin
 ### Project Benefits
 
 | Benefit | Active Skills |
-|---------|--------------|
+| --- | --- |
 | Transparency audit | `ai-transparency` enforces consistent logging in `.ai-activity/` |
 | Session preservation | `ai-session-backup` exports sessions with local paths anonymized |
 | Self-improvement | `ai-analysis` reviews session transcripts for behavioural insights |
@@ -114,7 +114,7 @@ The skill name matches the folder name under `.skills/`. Archived skills are not
 ## Skill Loading in Context
 
 | Phase | Skill to load |
-|-------|---------------|
+| --- | --- |
 | Session start | `ai-transparency` |
 | During work | `ai-transparency` |
 | Before commit | `pre_commit_audit` script |

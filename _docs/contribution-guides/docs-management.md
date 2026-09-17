@@ -30,7 +30,7 @@ These become outdated during normal project evolution:
 Describe behavior, capability, and intent:
 
 | Instead of | Write |
-|------------|-------|
+| --- | --- |
 | "Add `--developer` flag to script" | "Add multi-AI co-developer support" |
 | "Update `generate_path_variations()`" | "Improve path replacement logic" |
 | "Move databases to `.ai-activity/`" | "Consolidate session storage location" |

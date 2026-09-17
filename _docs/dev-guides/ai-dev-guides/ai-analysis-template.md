@@ -31,9 +31,9 @@
 | # | Role | Time | Δ | Dur | Tag | Words | Note |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | user | `_ts_` | `_–_` | `_–_` | ASK | `_n_` | `_first task_` |
-| 2 | assistant | `_ts_` | `_+m:ss_` | `_m:ss response_` | - | `_n_` | |
+| 2 | assistant | `_ts_` | `_+m:ss_` | `_m:ss response_` | - | `_n_` |  |
 | 3 | user | `_ts_` | `_+m:ss_` | `_–_` | CTX | `_n_` | `_gave path late_` |
-| … | | | | | | | |
+| … |  |  |  |  |  |  |  |
 
 Tags reuse `ai-history.md` types: `ASK, CTX, HEDGE, CRAM, CLAR, SEARCH, EDIT,
 RUN, FAIL, RETRY, CORR, REDO, SCOPE, VERIFY, ACCEPT, ABANDON, META`.

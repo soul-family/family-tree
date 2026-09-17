@@ -56,7 +56,7 @@ They will receive an email with a link to accept.
 ## What Can Each Person Do?
 
 | Role | What They Can Do | Best For |
-|------|------------------|----------|
+| --- | --- | --- |
 | **Read** | View files, download the archive | Family members, researchers |
 | **Write** | Edit files, fix issues | Active maintainers |
 | **Admin** | Everything | Repository owner |

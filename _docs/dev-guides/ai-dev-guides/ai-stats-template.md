@@ -97,10 +97,10 @@
 ## Raw Counts
 
 | Metric | Count |
-|--------|-------|
-| User text parts | |
-| AI text parts | |
-| Reasoning parts | |
-| Tool-uses parts | |
-| Tool-results parts | |
-| Total parts | |
+| --- | --- |
+| User text parts |  |
+| AI text parts |  |
+| Reasoning parts |  |
+| Tool-uses parts |  |
+| Tool-results parts |  |
+| Total parts |  |

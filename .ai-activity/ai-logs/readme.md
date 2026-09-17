@@ -3,7 +3,7 @@
 Structured activity logs from AI-assisted co-development on the project. Each file tracks a specific aspect of AI activity:
 
 | File | Contents |
-|------|----------|
+| --- | --- |
 | `interactions.md` | Per-task interaction entries with actions taken and outcomes |
 | `sources.md` | External and local sources consulted during research |
 | `tools.md` | Tools and techniques used across sessions |

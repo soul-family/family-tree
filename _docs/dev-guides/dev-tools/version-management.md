@@ -7,7 +7,7 @@ This project uses [Semantic Versioning](https://semver.org/) with a single sourc
 ## Version Sources
 
 | File | Purpose |
-|------|---------|
+| --- | --- |
 | `VERSION` | Current version number (e.g., `1.7.0`) |
 | `CHANGELOG.md` | Released versions with change descriptions |
 | `.changelog/unreleased.md` | Pending changes for next version |
