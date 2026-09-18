@@ -39,7 +39,7 @@ Peter Soul
 
 ![](../assets/images/Joseph_Soul.JPG)
 
-[Joseph Soul](../soul/#Josephsoul)
+[Joseph Soul](../soul/#JosephSoul)
 
 For an article on him, go to [Sole Society](http://sole.org.uk/) and search for Joseph Soul
 
@@ -51,9 +51,9 @@ For an article on him, go to [Sole Society](http://sole.org.uk/) and search for 
 
 | Name | Source | Description |
 | --- | --- | --- |
-| British and Foreign Anti-Slavery Society Convention of 1840 | https://npg.org.uk/collections/search/portrait/mw00028/The-Anti-Slavery-Society-Convention-1840?search=sp&sText=slavery&firstRun=true&rNo=0 | Group portrait by Benjamin Robert Haydon (1786 - 1846), which includes [Joseph Soul](../soul/#Josephsoul), on display in the Regency Gallery, National Portrait Gallery, London. |
-| National Archives | http://discovery.nationalarchives.gov.uk/results/r?_q=joseph+soul | Correspondence of [Joseph Soul](../soul/#Josephsoul). |
-| St John's College Library, Cambridge | http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0275%2FClarkson%2FFolder%201-5 | Papers of Thomas Clarkson, including summaries of letters from [Joseph Soul](../soul/#Josephsoul) (see documents 82 - 144). |
+| British and Foreign Anti-Slavery Society Convention of 1840 | https://npg.org.uk/collections/search/portrait/mw00028/The-Anti-Slavery-Society-Convention-1840?search=sp&sText=slavery&firstRun=true&rNo=0 | Group portrait by Benjamin Robert Haydon (1786 - 1846), which includes [Joseph Soul](../soul/#JosephSoul), on display in the Regency Gallery, National Portrait Gallery, London. |
+| National Archives | http://discovery.nationalarchives.gov.uk/results/r?_q=joseph+soul | Correspondence of [Joseph Soul](../soul/#JosephSoul). |
+| St John's College Library, Cambridge | http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0275%2FClarkson%2FFolder%201-5 | Papers of Thomas Clarkson, including summaries of letters from [Joseph Soul](../soul/#JosephSoul) (see documents 82 - 144). |
 | Washington H. Soul Pattinson & Co. Ltd. | http://soulpattinson.com.au/ | Chemists, New South Wales, trading as Soul Pattinson; formed in 1903 by the merger of Washington H. Soul & Co., founded in 1863 by [Caleb Soul](../soul/#CalebSoul) and his son [Washington Handley Soul](../soul/#WashingtonHSoul), with Pattinson & Co. |
 | Portrait by George Patten | https://npg.org.uk/collections/search/portrait/mw03223/William-Hone?LinkID=mp02253&search=sas&sText=hone&role=sit&rNo=0 | Of [William Hone](../hone/#WilliamHone), National Portrait Gallery, London. |
 | The William Hone Biotext | http://honearchive.org/ | A Web Project by Kyle Grimes, University of Alabama at Birmingham, on the life and career of [William Hone](../hone/#WilliamHone). |

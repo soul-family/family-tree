@@ -33,7 +33,7 @@ layout: default
         |   grave 70572 sq 49, aged 90, from
         |   19 Courtney Road.
         |
-        |    = [Joseph Soul](../soul/#Josephsoul)
+        |    = [Joseph Soul](../soul/#JosephSoul)
         |    |
         |    M 6 May 1830 St Bride's Fleet Street,
         |    spinster & bachelor, each of this

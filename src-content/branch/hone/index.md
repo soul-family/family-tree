@@ -219,7 +219,7 @@ D 1831, bd Bunhill Fields, London,
    |    | published 'Old Humphrey' for her father (MEHS);
    |    | 1834 Directory, Grasshopper Coffee House & Hotel,
    |    | Matilda Hone, 13 Gracechurch St London; 1844
-   |    | Directory, City Rd, Orphan Working School, [Joseph Soul](../soul/#Josephsoul)
+   |    | Directory, City Rd, Orphan Working School, [Joseph Soul](../soul/#JosephSoul)
    |    | secretary, Matilda Hone mistress; 1871 census,
    |    | 4 Milner Sq, Islington, 65, school mistress,
    |    | B Surrey, Lambeth; 1881 census, 3 Nightingale Rd,
