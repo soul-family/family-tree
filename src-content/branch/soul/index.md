@@ -15,6 +15,7 @@ layout: default
 <a name="ChristianaWebb"></a>
 <a name="JohnSoul"></a>
 <a name="MarySoul"></a>
+<a name="HannahSoul"></a>
 
 ```
 John Soul
@@ -1025,26 +1026,26 @@ John Soul
    |                                              M 7 Sept 1872.
    |                                              |_______________________Evelyn Mary Henderson B 18 Jan 1878; D 10 Jan 1903.
    |
-   |_____Christiana (Soul) Webb bpt 4 Mar 1770, Stonehouse, Glos.,
+   |_____Christiana (Soul)  bpt 4 Mar 1770, Stonehouse, Glos.,
          Gloucestershire, d of John & Mary Soul.
 
-          = William Webb   
-          |               _Sarah Webb bpt 24 July 1788, Rodborough
+          = William    
+          |               _Sarah  bpt 24 July 1788, Rodborough
           M 19 July      | Tabernacle, Gloucestershire, d of William
-          1787,          | & Christian Webb, of the parish of King's
+          1787,          | & Christian , of the parish of King's
           Stonehouse,    | Stanley.
           Glos.          | 
-          |              |_Mary Webb bpt 20 Sept 1790, Rodborough
+          |              |_Mary  bpt 20 Sept 1790, Rodborough
           |______________| Tabernacle, d of Willm & Christn 
-                         | Webb.
+                         | .
                          | 
-                         |_John Webb B 27 June 1794, bpt 20 July 1794,
+                         |_John  B 27 June 1794, bpt 20 July 1794,
                          | Rodborough Tabernacle, s of William & Christian
-                         | Webb.
+                         | .
                          | 
-                         |_William Webb B 24 June 1797, bpt 23 July 1797,
+                         |_William  B 24 June 1797, bpt 23 July 1797,
                            Rodborough Tabernacle, s of William & Christian
-                           Webb.
+                           .
  
 ```
 

@@ -159,13 +159,27 @@ pre code {
   border-radius: 4px;
 }
 
-.letter-meta dt {
-  font-weight: bold;
-  margin-top: 4px;
+.letter-meta table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
 }
 
-.letter-meta dd {
-  margin: 0 0 4px 0;
+.letter-meta th,
+.letter-meta td {
+  padding: 4px 8px 4px 0;
+  vertical-align: top;
+  text-align: left;
+}
+
+.letter-meta th {
+  font-weight: bold;
+  white-space: nowrap;
+  width: 0;
+}
+
+.letter-meta td {
+  width: 100%;
 }
 
 .letter-id {

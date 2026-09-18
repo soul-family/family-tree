@@ -1,5 +1,6 @@
 ---
 title: About
+layout: default
 ---
 
 The family trees on this site represent a collaborative compilation effort.

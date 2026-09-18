@@ -10,11 +10,11 @@ layout: default
 
 <div class="letter" id="letter-1">
   <div class="letter-meta">
-    <dl>
-      <dt>L1</dt>
-      <dd>Date: October 17, 1790</dd>
-      <dd>People: <a href="../branch/soul/#DanielSoul">brother Daniel Soul (b.1764)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L1 |
+    | **Date** | October 17, 1790 |
+    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
   </div>
 
 **brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
@@ -36,11 +36,11 @@ Daniel Soul
 
 <div class="letter" id="letter-2">
   <div class="letter-meta">
-    <dl>
-      <dt>L2</dt>
-      <dd>Date: October 8, 1791</dd>
-      <dd>People: <a href="../branch/soul/#JohnSoul">John Soul</a>, <a href="../branch/soul/#MarySoul">Mary Soul</a>, <a href="../branch/soul/#EliSoul">Eli Soul (b.1766)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L2 |
+    | **Date** | October 8, 1791 |
+    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul) |
   </div>
 
 **parents John Soul & Mary Soul to son Eli Soul (b.1766)**
@@ -82,11 +82,11 @@ I hope these few lines will find you well as it leaves us at present, blessed be
 
 <div class="letter" id="letter-3">
   <div class="letter-meta">
-    <dl>
-      <dt>L3</dt>
-      <dd>Date: January 9, 1792</dd>
-      <dd>People: <a href="../branch/soul/#DanielSoul">brother Daniel Soul (b.1764)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L3 |
+    | **Date** | January 9, 1792 |
+    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
   </div>
 
 **brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
@@ -109,11 +109,11 @@ and affectionate brother Daniel Soul
 
 <div class="letter" id="letter-4">
   <div class="letter-meta">
-    <dl>
-      <dt>L4</dt>
-      <dd>Date: February 20, 1793</dd>
-      <dd>People: <a href="../branch/soul/#DanielSoul">brother Daniel Soul (b.1764)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a>, <a href="../branch/soul/#JohnSoul1787">son John Soul (b.1787)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L4 |
+    | **Date** | February 20, 1793 |
+    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [son John Soul (b.1787)](../branch/soul/#JohnSoul1787) |
   </div>
 
 **brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
@@ -138,11 +138,11 @@ I hear Dr Glass is to preach at Bishopsgate 17th March. I hope it is true and th
 
 <div class="letter" id="letter-5">
   <div class="letter-meta">
-    <dl>
-      <dt>L5</dt>
-      <dd>Date: March 6, 1793</dd>
-      <dd>People: <a href="../branch/soul/#DanielSoul">brother Daniel Soul (b.1764)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L5 |
+    | **Date** | March 6, 1793 |
+    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
   </div>
 
 **brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
@@ -165,11 +165,11 @@ I believe your watch is done. I remain yours affectionately, Daniel Soul
 
 <div class="letter" id="letter-6">
   <div class="letter-meta">
-    <dl>
-      <dt>L6</dt>
-      <dd>Date: November 2, 1793</dd>
-      <dd>People: <a href="../branch/soul/#JohnSoul">John Soul</a>, <a href="../branch/soul/#MarySoul">Mary Soul</a>, <a href="../branch/soul/#EliSoul">Eli Soul (b.1766)</a>, <a href="../branch/soul/#ElizabethSoul">Elizabeth Soul (b.1795)</a>, <a href="../branch/soul/#DanielSoul">Daniel Soul (b.1764)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L6 |
+    | **Date** | November 2, 1793 |
+    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
   </div>
 
 **parents John Soul & Mary Soul to son Eli Soul (b.1766) & daughter-in-law Elizabeth Soul (b.1795)**
@@ -184,7 +184,7 @@ I congratulate you on your happy union with each other. May the Lord unite you b
 
 I thank you for the present you sent me as a token of your love and affection  towards us all, indeed. I want to know how it is with your brother [Daniel Soul (b.1764)](../branch/soul/#DanielSoul). Whether he  has any business yet. My love to him, and please to tell him that as he has set  out for the Celestial City he must expect tribulations by the way. Tell him to beg the Lord that it may work patience and patience, experience and experience, hope, hope that maketh not ashamed, and may the love of God be shed abroad in his and in yours and in mine and in all our hearts by the Holy Ghost, amen.
 
-My love to his wife and to my grandson and to cousin John and his wife and to  all friends. Emmi & Kezia & your brother & sister Webb's love to you and your dear wife & to their brother Daniel and his wife and to all  friends, and please to accept the same from your affectionate father and mother  John Soul & Mary Soul
+My love to his wife and to my grandson and to cousin John and his wife and to  all friends. Emmi & Kezia & your brother & sister 's love to you and your dear wife & to their brother Daniel and his wife and to all  friends, and please to accept the same from your affectionate father and mother  John Soul & Mary Soul
 
 PS All things are again upon an amicable footing and very friendly in the two  families about Emmi & John, & I am very well satisfied.
 
@@ -194,11 +194,11 @@ PS All things are again upon an amicable footing and very friendly in the two  
 
 <div class="letter" id="letter-7">
   <div class="letter-meta">
-    <dl>
-      <dt>L7</dt>
-      <dd>Date: March 8, 1794</dd>
-      <dd>People: <a href="../branch/soul/#JohnSoul">John Soul</a>, <a href="../branch/soul/#MarySoul">Mary Soul</a>, <a href="../branch/soul/#EliSoul">Eli Soul (b.1766)</a>, <a href="../branch/soul/#ElizabethSoul">Elizabeth Soul (b.1795)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L7 |
+    | **Date** | March 8, 1794 |
+    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
   </div>
 
 **parents John Soul & Mary Soul to son Eli Soul (b.1766) & daughter-in-law Elizabeth Soul (b.1795)**
@@ -230,11 +230,11 @@ John Soul & Mary Soul.
 
 <div class="letter" id="letter-8">
   <div class="letter-meta">
-    <dl>
-      <dt>L8</dt>
-      <dd>Date: January 29, 1795</dd>
-      <dd>People: <a href="../branch/soul/#DanielSoul">brother Daniel Soul (b.1764)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L8 |
+    | **Date** | January 29, 1795 |
+    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
   </div>
 
 **brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
@@ -253,11 +253,11 @@ I look for you every evening to come and spend a few minutes.
 
 <div class="letter" id="letter-9">
   <div class="letter-meta">
-    <dl>
-      <dt>L9</dt>
-      <dd>Date: February 11, 1798</dd>
-      <dd>People: <a href="../branch/soul/#EmmaSoul">sister Emma Soul (b.1763)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a>, <a href="../branch/soul/#ElizabethSoul">Elizabeth Soul (b.1795)</a>, <a href="../branch/soul/#DanielSoul">Daniel Soul (b.1764)</a>, Samuel Soul</dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L9 |
+    | **Date** | February 11, 1798 |
+    | **People** | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), Samuel Soul |
   </div>
 
 **sister Emma Soul (b.1763) to brother Eli Soul (b.1766) & sister-in-law Elizabeth Soul (b.1795)**
@@ -279,11 +279,11 @@ Emma Soul
 
 <div class="letter" id="letter-10">
   <div class="letter-meta">
-    <dl>
-      <dt>L10</dt>
-      <dd>Date: March 23, 1798</dd>
-      <dd>People: <a href="../branch/soul/#JohnSoul">John Soul</a>, <a href="../branch/soul/#MarySoul">Mary Soul</a>, <a href="../branch/soul/#EliSoul">Eli Soul (b.1766)</a>, <a href="../branch/soul/#ElizabethSoul">Elizabeth Soul (b.1795)</a>, <a href="../branch/soul/#DanielSoul">Daniel Soul (b.1764)</a>, <a href="../branch/soul/#ChristianaWebb">Christiana Webb (b.1770)</a>, <a href="../branch/soul/#EmmaSoul">Emma Soul (b.1763)</a>, <a href="../branch/soul/#KeziaSoul">Kezia Soul (b.1768)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L10 |
+    | **Date** | March 23, 1798 |
+    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) |
   </div>
 
 **parents John Soul & Mary Soul to son Eli Soul (b.1766) & daughter-in-law Elizabeth Soul (b.1795)**
@@ -296,7 +296,7 @@ Ebley, March 23 1798
 
 I am almost ashamed to write to you after so long silence. One reason was that I have waited for to send by Mr Porlock but I have missed of the time when when he hath set out for 3 times. But now I have an opportunity to send by Mr  Thomas and to let you know that my affection is not abated towards you in the  least but I trust I have you in mind at a throne of grace continually that the  Lord may bless you in temporals and spirituals that you may grow in grace and in the knowledge and love of the Lord Jesus Christ. I hope that the life and power of religion is kept up in your soul. I have as to my own experience to lament the darkness of my mind and deadness of my affections and borrowings of my soul.  But then what must such a poor sinner do? Why go to Jesus the friend of sinners, he that can heal all manner of diseases. Aye and he's as willing as he is able, for he says whosoever cometh unto me , I will in no wise cast out. So may the  lord help us at all times and in all places to look to him who is the helper of  the helpless amen & amen
 
-I should be exceeding glad to hear from you by the bearer how you go on in the ways of God and likewise in the world, and how your brother [Daniel Soul (b.1764)](../branch/soul/#DanielSoul) goes on. Tho  I send letters to him, he will not write to me. May the Lord bring him back again to himself. Then all animosity and shyness will be done away. How is Betsy [Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) and how does she grow? And how is my other grandchild? Please to give my love to all enquiring  friends and tell them we are all in good health, and I hope these few lines will  find uou the same. Your brother and sister Webb (Christiana Webb) and Sister Merrett [Emma Soul (b.1763)](../branch/soul/#EmmaSoul) & Sister Cox [Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) give their  kind love to you, and please to accept the same from you affectionate father and mother  
+I should be exceeding glad to hear from you by the bearer how you go on in the ways of God and likewise in the world, and how your brother [Daniel Soul (b.1764)](../branch/soul/#DanielSoul) goes on. Tho  I send letters to him, he will not write to me. May the Lord bring him back again to himself. Then all animosity and shyness will be done away. How is Betsy [Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) and how does she grow? And how is my other grandchild? Please to give my love to all enquiring  friends and tell them we are all in good health, and I hope these few lines will  find uou the same. Your brother and sister  (Christiana ) and Sister Merrett [Emma Soul (b.1763)](../branch/soul/#EmmaSoul) & Sister Cox [Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) give their  kind love to you, and please to accept the same from you affectionate father and mother  
 John Soul & Mary Soul
 
 </div>
@@ -305,14 +305,14 @@ John Soul & Mary Soul
 
 <div class="letter" id="letter-11">
   <div class="letter-meta">
-    <dl>
-      <dt>L11</dt>
-      <dd>Date: August 2, 1799</dd>
-      <dd>People: <a href="../branch/soul/#ChristianaWebb">sister Christiana Webb (b.1770)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a>, <a href="../branch/soul/#ElizabethSoul">Elizabeth Soul (b.1795)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L11 |
+    | **Date** | August 2, 1799 |
+    | **People** | [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
   </div>
 
-**sister Christiana Webb (b.1770) to brother Eli Soul (b.1766) & sister-in-law Elizabeth Soul (b.1795)**
+**sister Christiana  (b.1770) to brother Eli Soul (b.1766) & sister-in-law Elizabeth Soul (b.1795)**
 
 Aug 2 1799
 
@@ -328,11 +328,11 @@ Dear brother, if the wind had not proved contrary, as you said in your letter  
 
 <div class="letter" id="letter-12">
   <div class="letter-meta">
-    <dl>
-      <dt>L12</dt>
-      <dd>Date: August 3, 1799</dd>
-      <dd>People: <a href="../branch/soul/#EmmaSoul">sister Emma Soul (b.1763)</a>, <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a>, <a href="../branch/soul/#ElizabethSoul">Elizabeth Soul (b.1795)</a>, <a href="../branch/soul/#DanielSoul">Daniel Soul (b.1764)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L12 |
+    | **Date** | August 3, 1799 |
+    | **People** | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
   </div>
 
 **sister Emma Soul (b.1763) to brother Eli Soul (b.1766) & sister-in-law Elizabeth Soul (b.1795)**
@@ -355,14 +355,14 @@ Dear brother, I am happy to think I did not harken to my cousin John, but in mer
 
 <div class="letter" id="letter-13">
   <div class="letter-meta">
-    <dl>
-      <dt>L13</dt>
-      <dd>Date: June 26, 1807</dd>
-      <dd>People: <a href="../branch/soul/#EliSoul">brother Eli Soul (b.1766)</a>, <a href="../branch/soul/#ChristianaWebb">sister Christiana Webb (b.1770)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L13 |
+    | **Date** | June 26, 1807 |
+    | **People** | [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb) |
   </div>
 
-**brother Eli Soul (b.1766) to sister Christiana Webb (b.1770)**
+**brother Eli Soul (b.1766) to sister Christiana  (b.1770)**
 
 London June 26 1807
 
@@ -378,11 +378,11 @@ PS Pardon my scribble while upon guard to fill up an hour to some  profit I hop
 
 <div class="letter" id="letter-14">
   <div class="letter-meta">
-    <dl>
-      <dt>L14</dt>
-      <dd>Date: October 6, 1810</dd>
-      <dd>People: <a href="../branch/soul/#EliSoul">father Eli Soul (b.1766)</a>, <a href="../branch/soul/#ElizabethSoul">Elizabeth Soul (b.1795)</a>, <a href="../branch/soul/#EmmaSoul">Emma Soul (b.1763)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L14 |
+    | **Date** | October 6, 1810 |
+    | **People** | [father Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul) |
   </div>
 
 **father Eli Soul (b.1766) to daughter Betsy (Elizabeth Soul b.1795)**
@@ -405,11 +405,11 @@ Cains Cross, October 6 1810, Glostershire.
 
 <div class="letter" id="letter-15">
   <div class="letter-meta">
-    <dl>
-      <dt>L15</dt>
-      <dd>Date: January 23, 1823</dd>
-      <dd>People: <a href="../branch/soul/#EliSoul">Eli Soul (b.1766)</a>, <a href="../branch/soul/#EliSoul">Eli Soul (b.1798)</a></dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L15 |
+    | **Date** | January 23, 1823 |
+    | **People** | [Eli Soul (b.1766)](../branch/soul/#EliSoul), [son Eli Soul (b.1798)](../branch/soul/#EliSoul) |
   </div>
 
 **Will of Eli Soul (b.1766)**
@@ -423,11 +423,11 @@ signed this 23rd day of Jany 1823 Eli Soul senr
 
 <div class="letter" id="letter-16">
   <div class="letter-meta">
-    <dl>
-      <dt>L16</dt>
-      <dd>Date: December 6, 1827</dd>
-      <dd>People: <a href="../branch/soul/#JosephSoul">Joseph Soul (b.1805)</a>, Hannah Soul, John Prichard</dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L16 |
+    | **Date** | December 6, 1827 |
+    | **People** | [Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Hannah Soul (b.1798)](../branch/soul/#HannahSoul), John Prichard |
   </div>
 
 **Joseph Soul's account of the death of his sister Hannah Soul (b.1798)**
@@ -453,14 +453,14 @@ John Prichard was baptized in St Leonard's Shoreditch, 14 January 1828,  born 7
 
 <div class="letter" id="letter-17">
   <div class="letter-meta">
-    <dl>
-      <dt>L17</dt>
-      <dd>Date: January 19, 1829</dd>
-      <dd>People: <a href="../branch/soul/#ChristianaWebb">aunt Christiana Webb (b.1770)</a>, <a href="../branch/soul/#JosephSoul">nephew Joseph Soul (b.1805)</a>, <a href="../branch/soul/#EmmaSoul">Emma Soul (b.1763)</a>, <a href="../branch/soul/#KeziaSoul">Kezia Soul (b.1768)</a>, Thomas Soul</dd>
-    </dl>
+    | Field | Value |
+    | --- | --- |
+    | **Letter ID** | L17 |
+    | **Date** | January 19, 1829 |
+    | **People** | [aunt Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [nephew Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul), Thomas Soul |
   </div>
 
-**aunt Christiana Webb (b.1770) to nephew Joseph Soul (b.1805)**
+**aunt Christiana  (b.1770) to nephew Joseph Soul (b.1805)**
 
 Mr Soul at Mess Jones & Sons, 4 Tavistock Street, Covent Garden, London
 
@@ -477,7 +477,7 @@ My dear nephew, it rejoices my heart to hear that you are panting  after that h
 My Sister Merrett [Emma Soul (b.1763)](../branch/soul/#EmmaSoul) desires her love to you to your mother and all the family. Sister Cox [Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) sends her love to you and your mother and all the family, and would be glad to know how she gets on. I have not seen Mr Knight since I received your letter. Mr Trigg lives in the same neighbourhood that he did when my dear brother was down in the country. I think he was a friend of his. He has been married I think about 2 years. He keeps his school now. I should have been very agreeably surprised had you come  last autumn. We should all have been very glad to have seen you. My family was not very large at first, but I assure you it is increased to a large circle now. I have 17 grandchildren, the eldest near 18 years, and the youngest 12 days. My eldest daughter Sarah and her husband lives near me, keeps a grocers shop, and has plenty of  room to accommodate you if you could be spared to come down and see us at spring. We should all be very happy to see you. My eldest son John lives at that delightful spot where my dear brother your father drew his first infant breath. He has 6 children. My other daughter Mary lives a little higher up. She has 7 children, and my other son William lives near his sister Mary. He has 1 child and that is with me. He has been married twice. His first wife died when the child was about 1 year and half old. I was with them. The child took me as his mother  and always calls me mother, and so when the second marriage took place I removed and the child has lived with me ever since, and is my only companion. He is 8 years old and a fine boy.
 
 So my dear nephew I have given you a short history of my family. I think in reading it you will be almost tired. Can you give me any  intelligence whether your cousin Thomas Soul is living, and where he is. All my family and myself desires our love to you and your dear mother and all your family, and if we should never  see each other on earth, may we be prepared to meet at the right hand of the Judge at the last day, and to hear that blessed Sentence come ye blessed of my father, inherit the kingdom prepared for you from before the foundation of the world. That this may be our happy lot and portion is the fervent prayer of your affectionate aunt  
-C. Webb.
+C. .
 
 </div>
 
