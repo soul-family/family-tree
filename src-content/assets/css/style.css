@@ -85,7 +85,7 @@ a:visited { color: #0033CC; }
 
 .sidebar-nav a {
   display: block;
-  padding: 0.2em 0;
+  padding: 0;
   color: #0033CC;
   text-decoration: none;
 }
@@ -96,7 +96,7 @@ a:visited { color: #0033CC; }
 
 /* --- Sidebar toggle (mobile) --- */
 .sidebar-toggle {
-  display: none;
+  display: block;
   position: fixed;
   top: 0.5rem;
   left: 0.5rem;

@@ -8,15 +8,12 @@ title: Letters
 </nav>
 
 <div class="letter" id="letter-1">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L1 |
-    | **Date** | October 17, 1790 |
-    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  </div>
-
-**brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L1 |
+  | **Date** | October 17, 1790 |
+  | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
+  {:.letter-meta}
 
 London October 17 1790
 
@@ -34,15 +31,12 @@ Daniel Soul
 ---
 
 <div class="letter" id="letter-2">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L2 |
-    | **Date** | October 8, 1791 |
-    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  </div>
-
-**parents John Soul & Mary Soul to son Eli Soul (b.1766)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L2 |
+  | **Date** | October 8, 1791 |
+  | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul) |
+  {:.letter-meta}
 
 Ebley 8 October 1791
 
@@ -80,15 +74,12 @@ I hope these few lines will find you well as it leaves us at present, blessed be
 ---
 
 <div class="letter" id="letter-3">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L3 |
-    | **Date** | January 9, 1792 |
-    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  </div>
-
-**brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L3 |
+  | **Date** | January 9, 1792 |
+  | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
+  {:.letter-meta}
 
 ### Mr Soul
 
@@ -107,15 +98,12 @@ and affectionate brother Daniel Soul
 ---
 
 <div class="letter" id="letter-4">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L4 |
-    | **Date** | February 20, 1793 |
-    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [son John Soul (b.1787)](../branch/soul/#JohnSoul1787) |
-  </div>
-
-**brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L4 |
+  | **Date** | February 20, 1793 |
+  | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [son John Soul (b.1787)](../branch/soul/#JohnSoul1787) |
+  {:.letter-meta}
 
 Mr Soul, Rev Dr Glasses, No 33 Gerrard Street, Soho,
 
@@ -136,15 +124,12 @@ I hear Dr Glass is to preach at Bishopsgate 17th March. I hope it is true and th
 ---
 
 <div class="letter" id="letter-5">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L5 |
-    | **Date** | March 6, 1793 |
-    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  </div>
-
-**brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L5 |
+  | **Date** | March 6, 1793 |
+  | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
+  {:.letter-meta}
 
 Mr Soul, Rev Dr Glasses, No 33 Gerrard Street, Soho,
 
@@ -163,15 +148,12 @@ I believe your watch is done. I remain yours affectionately, Daniel Soul
 ---
 
 <div class="letter" id="letter-6">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L6 |
-    | **Date** | November 2, 1793 |
-    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
-  </div>
-
-**parents John Soul & Mary Soul to son Eli Soul (b.1766) & daughter-in-law Elizabeth Soul (b.1795)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L6 |
+  | **Date** | November 2, 1793 |
+  | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
+  {:.letter-meta}
 
 Ebley, Nov 2 1793
 
@@ -192,15 +174,12 @@ PS All things are again upon an amicable footing and very friendly in the two  
 ---
 
 <div class="letter" id="letter-7">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L7 |
-    | **Date** | March 8, 1794 |
-    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
-  </div>
-
-**parents John Soul & Mary Soul to son Eli Soul (b.1766) & daughter-in-law Elizabeth Soul (b.1795)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L7 |
+  | **Date** | March 8, 1794 |
+  | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
+  {:.letter-meta}
 
 Mr Eli Soul, Long Alley No 43, Moorfields, London,
 
@@ -228,15 +207,12 @@ John Soul & Mary Soul.
 ---
 
 <div class="letter" id="letter-8">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L8 |
-    | **Date** | January 29, 1795 |
-    | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  </div>
-
-**brother Daniel Soul (b.1764) to brother Eli Soul (b.1766)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L8 |
+  | **Date** | January 29, 1795 |
+  | **People** | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
+  {:.letter-meta}
 
 Jany 29 1795
 
@@ -251,15 +227,12 @@ I look for you every evening to come and spend a few minutes.
 ---
 
 <div class="letter" id="letter-9">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L9 |
-    | **Date** | February 11, 1798 |
-    | **People** | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), Samuel Soul |
-  </div>
-
-**sister Emma Soul (b.1763) to brother Eli Soul (b.1766) & sister-in-law Elizabeth Soul (b.1795)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L9 |
+  | **Date** | February 11, 1798 |
+  | **People** | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), Samuel Soul |
+  {:.letter-meta}
 
 Febry 11 1798
 
@@ -277,15 +250,12 @@ Emma Soul
 ---
 
 <div class="letter" id="letter-10">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L10 |
-    | **Date** | March 23, 1798 |
-    | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) |
-  </div>
-
-**parents John Soul & Mary Soul to son Eli Soul (b.1766) & daughter-in-law Elizabeth Soul (b.1795)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L10 |
+  | **Date** | March 23, 1798 |
+  | **People** | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) |
+  {:.letter-meta}
 
 Mr Eli Soul, Long Alley No 43, Moorfields, London,
 
@@ -303,15 +273,12 @@ John Soul & Mary Soul
 ---
 
 <div class="letter" id="letter-11">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L11 |
-    | **Date** | August 2, 1799 |
-    | **People** | [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
-  </div>
-
-**sister Christiana  (b.1770) to brother Eli Soul (b.1766) & sister-in-law Elizabeth Soul (b.1795)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L11 |
+  | **Date** | August 2, 1799 |
+  | **People** | [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
+  {:.letter-meta}
 
 Aug 2 1799
 
@@ -326,15 +293,12 @@ Dear brother, if the wind had not proved contrary, as you said in your letter  
 ---
 
 <div class="letter" id="letter-12">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L12 |
-    | **Date** | August 3, 1799 |
-    | **People** | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
-  </div>
-
-**sister Emma Soul (b.1763) to brother Eli Soul (b.1766) & sister-in-law Elizabeth Soul (b.1795)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L12 |
+  | **Date** | August 3, 1799 |
+  | **People** | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
+  {:.letter-meta}
 
 Mr Eli Soul, at no 2 Long Alley, Moorfields, London,
 
@@ -353,15 +317,12 @@ Dear brother, I am happy to think I did not harken to my cousin John, but in mer
 ---
 
 <div class="letter" id="letter-13">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L13 |
-    | **Date** | June 26, 1807 |
-    | **People** | [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb) |
-  </div>
-
-**brother Eli Soul (b.1766) to sister Christiana  (b.1770)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L13 |
+  | **Date** | June 26, 1807 |
+  | **People** | [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb) |
+  {:.letter-meta}
 
 London June 26 1807
 
@@ -376,15 +337,12 @@ PS Pardon my scribble while upon guard to fill up an hour to some  profit I hop
 ---
 
 <div class="letter" id="letter-14">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L14 |
-    | **Date** | October 6, 1810 |
-    | **People** | [father Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul) |
-  </div>
-
-**father Eli Soul (b.1766) to daughter Betsy (Elizabeth Soul b.1795)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L14 |
+  | **Date** | October 6, 1810 |
+  | **People** | [father Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul) |
+  {:.letter-meta}
 
 To Mrs. Soul, No 49 Little Cheapside, Moorfields, London,
 
@@ -403,15 +361,12 @@ Cains Cross, October 6 1810, Glostershire.
 ---
 
 <div class="letter" id="letter-15">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L15 |
-    | **Date** | January 23, 1823 |
-    | **People** | [Eli Soul (b.1766)](../branch/soul/#EliSoul), [son Eli Soul (b.1798)](../branch/soul/#EliSoul) |
-  </div>
-
-**Will of Eli Soul (b.1766)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L15 |
+  | **Date** | January 23, 1823 |
+  | **People** | [Eli Soul (b.1766)](../branch/soul/#EliSoul), [son Eli Soul (b.1798)](../branch/soul/#EliSoul) |
+  {:.letter-meta}
 
 Know all men by these presents that I do give and bequeath to my beloved wife the whole and all of my personal property to be at her  disposal after my decease, save & except my watch which I give to my eldest son [Eli Soul (b.1798)](../branch/soul/#EliSoul).  
 signed this 23rd day of Jany 1823 Eli Soul senr
@@ -421,15 +376,12 @@ signed this 23rd day of Jany 1823 Eli Soul senr
 ---
 
 <div class="letter" id="letter-16">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L16 |
-    | **Date** | December 6, 1827 |
-    | **People** | [Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Hannah Soul (b.1798)](../branch/soul/#HannahSoul), John Prichard |
-  </div>
-
-**Joseph Soul's account of the death of his sister Hannah Soul (b.1798)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L16 |
+  | **Date** | December 6, 1827 |
+  | **People** | [Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Hannah Soul (b.1798)](../branch/soul/#HannahSoul), John Prichard |
+  {:.letter-meta}
 
 6 Dec 1827  
 My dear sister Mrs [Hannah] Prichard was taken in labor at 9 o'clock in the morning & not delivered until the following evening, Friday the 7th inst, when a boy was brought forth. She had a most severe and painful delivery, and was very bad in consequence.
@@ -451,15 +403,12 @@ John Prichard was baptized in St Leonard's Shoreditch, 14 January 1828,  born 7
 ---
 
 <div class="letter" id="letter-17">
-  <div class="letter-meta">
-    | Field | Value |
-    | --- | --- |
-    | **Letter ID** | L17 |
-    | **Date** | January 19, 1829 |
-    | **People** | [aunt Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [nephew Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul), Thomas Soul |
-  </div>
-
-**aunt Christiana  (b.1770) to nephew Joseph Soul (b.1805)**
+  | Field | Value |
+  | --- | --- |
+  | **Letter ID** | L17 |
+  | **Date** | January 19, 1829 |
+  | **People** | [aunt Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [nephew Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul), Thomas Soul |
+  {:.letter-meta}
 
 Mr Soul at Mess Jones & Sons, 4 Tavistock Street, Covent Garden, London
 
