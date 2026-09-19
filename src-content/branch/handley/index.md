@@ -1,6 +1,5 @@
 ---
 title: Handley Family Tree
-layout: default
 ---
 
 ```

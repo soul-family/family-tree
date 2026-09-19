@@ -1,6 +1,5 @@
 ---
 title: Cockin Family Tree
-layout: default
 ---
 
 ```

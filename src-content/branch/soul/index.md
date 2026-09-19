@@ -1,6 +1,5 @@
 ---
 title: Soul Family Tree
-layout: default
 ---
 
 <a name="EmmaSoul"></a>

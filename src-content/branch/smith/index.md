@@ -1,6 +1,5 @@
 ---
 title: Smith Family Tree
-layout: default
 ---
 
 ```

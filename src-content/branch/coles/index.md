@@ -1,6 +1,5 @@
 ---
 title: Coles Family Tree
-layout: default
 ---
 
 ```

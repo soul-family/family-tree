@@ -1,6 +1,5 @@
 ---
 title: Simmonds Family Tree
-layout: default
 ---
 
 ```

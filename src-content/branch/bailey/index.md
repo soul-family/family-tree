@@ -1,6 +1,5 @@
 ---
 title: Bailey Family Tree
-layout: default
 ---
 
 ```

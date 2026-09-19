@@ -1,6 +1,5 @@
 ---
 title: Letters
-layout: default
 ---
 
 <nav class="letters-nav">

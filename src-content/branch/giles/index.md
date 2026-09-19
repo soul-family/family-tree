@@ -1,6 +1,5 @@
 ---
 title: Giles Family Tree
-layout: default
 ---
 
 ```

@@ -1,6 +1,5 @@
 ---
 title: Hone Family Tree
-layout: default
 ---
 
 ```

@@ -1,6 +1,5 @@
 ---
 title: Jacobsohn & Cohen Family Trees
-layout: default
 ---
 
 ```

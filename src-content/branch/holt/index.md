@@ -1,6 +1,5 @@
 ---
 title: Holt Family Tree
-layout: default
 ---
 
 ```

@@ -1,6 +1,5 @@
 ---
 title: Clark & Unwin Family Trees
-layout: default
 ---
 
 ```

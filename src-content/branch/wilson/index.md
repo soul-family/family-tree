@@ -1,6 +1,5 @@
 ---
 title: Wilson Family Tree
-layout: default
 ---
 
 ```

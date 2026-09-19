@@ -1,6 +1,5 @@
 ---
 title: Roberts Family Tree
-layout: default
 ---
 
 ```

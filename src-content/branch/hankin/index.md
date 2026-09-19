@@ -1,6 +1,5 @@
 ---
 title: Hankin Family Tree
-layout: default
 ---
 
 ```

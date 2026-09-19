@@ -1,6 +1,5 @@
 ---
 title: Fletcher Family Tree
-layout: default
 ---
 
 ```
