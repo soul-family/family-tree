@@ -165,12 +165,15 @@ pre code {
 .letters-nav {
   position: sticky;
   top: 0;
+  left: 0;
+  right: 0;
   background-color: #f5f0e6;
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 4px;
   z-index: 100;
   border-bottom: 2px solid #d4c5a9;
+  align-self: start;
 }
 
 .letter {
@@ -185,9 +188,6 @@ pre code {
   padding: 10px;
   background: #ebe3d3;
   border-radius: 4px;
-}
-
-.letter-meta table {
   width: 100%;
   border-collapse: collapse;
   margin: 0;
@@ -198,12 +198,6 @@ pre code {
   padding: 4px 8px 4px 0;
   vertical-align: top;
   text-align: left;
-}
-
-.letter-meta th {
-  font-weight: bold;
-  white-space: nowrap;
-  width: 0;
 }
 
 .letter-meta td {
@@ -242,7 +236,7 @@ img {
     height: 100vh;
     width: 260px;
     max-width: 85vw;
-    transform: translateX(-100%);
+    transform: translateX(calc(-100% + 50px));
     transition: transform 0.2s ease;
     z-index: 150;
     border-right: 1px solid #ddd;
