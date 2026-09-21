@@ -8,8 +8,9 @@ title: Letters
 </nav>
 
 <div class="letter" id="letter-1">
-  | Letter 1, October 17, 1790 | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 1, October 17, 1790</strong> — [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul)
+  </div>
 
 London October 17 1790
 
@@ -27,8 +28,9 @@ Daniel Soul
 ---
 
 <div class="letter" id="letter-2">
-  | Letter 2, October 8, 1791 | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 2, October 8, 1791</strong> — [John Soul](../branch/soul/index.md#JohnSoul), [Mary Soul](../branch/soul/index.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul/index.md#EliSoul)
+  </div>
 
 Ebley 8 October 1791
 
@@ -66,8 +68,9 @@ I hope these few lines will find you well as it leaves us at present, blessed be
 ---
 
 <div class="letter" id="letter-3">
-  | Letter 3, January 9, 1792 | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 3, January 9, 1792</strong> — [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul)
+  </div>
 
 ### Mr Soul
 
@@ -86,8 +89,9 @@ and affectionate brother Daniel Soul
 ---
 
 <div class="letter" id="letter-4">
-  | Letter 4, February 20, 1793 | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [son John Soul (b.1787)](../branch/soul/#JohnSoul1787) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 4, February 20, 1793</strong> — [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [son John Soul (b.1787)](../branch/soul/index.md#JohnSoul1787)
+  </div>
 
 Mr Soul, Rev Dr Glasses, No 33 Gerrard Street, Soho,
 
@@ -95,7 +99,7 @@ Mr Soul, Rev Dr Glasses, No 33 Gerrard Street, Soho,
 
 **Dear Brother**
 
-Death has again paid me a visit and taken with him my son John [John Soul (b.1787)](../branch/soul/#JohnSoul1787). He had been rather worse than usual about a fortnight, we suppose with his teeth and old complaint together. And on Monday morning, without  those violent agonies my  other poor John was in, sweetly fell asleep. I cannot say I feel so much sensibility of affliction at parting with him as I did in parting with  my first, because he (at 16 months old tomorrow) could neither speak nor use his feet or hardly his hands, and had he lived, there was to me no prospect of his  ever walking or working. So God has graciously taken him out of this  world of care sin and sorrow and has I hope translated him into the Kingdom of his Dear Son to be an inheritor with the saints in light------
+Death has again paid me a visit and taken with him my son John [John Soul (b.1787)](../branch/soul/index.md#JohnSoul1787). He had been rather worse than usual about a fortnight, we suppose with his teeth and old complaint together. And on Monday morning, without  those violent agonies my  other poor John was in, sweetly fell asleep. I cannot say I feel so much sensibility of affliction at parting with him as I did in parting with  my first, because he (at 16 months old tomorrow) could neither speak nor use his feet or hardly his hands, and had he lived, there was to me no prospect of his  ever walking or working. So God has graciously taken him out of this  world of care sin and sorrow and has I hope translated him into the Kingdom of his Dear Son to be an inheritor with the saints in light------
 
 Dear Brother, by reading your last I perceive Satan is never at a  Lop. He has temptations and doubts for every believer under every  circumstance. Because you have been restrained from that excess of riot I ran into, you are in doubt of the safety of your state and the  certainty of your call, but don't you see Satan's cloven foot in it?  God's ways are unsearchable and not as our ways, and is it to be supposed we shall fully understand them until that day when all the  chosen seed shall meet around the Throne &c. Then we shall see why  the wicked are now exalted and the righteous groaning out their life under the weight of daily sins, doubts, temptations, and for the most part poverty and great trials in temporals. God could I doubt not, when  he takes away the love of sin, at once take out the root of it from our hearts, was it not that he sees it best for us, and most conducive to his glory it should remain. We should not so clearly see his hand, nor  have so many deliverances to place to his account, nor would the end of  our journey be so often desired, nor perhaps the rest that remains be so sweet. But my dear Br, in answer to your question whether God finally rejects any to whom he has given a desire to seek his face, a love to  prayer and praying people, a loathing wordly practices and ungodly companions, and a desire for holiness, I answer to me it seems impossible, the man who has these has the witness in himself that he is  born of God. It is the effect of divine power &, as the magicians  said by Moses's miracle, it is the finger of God. None but him can do it. The world wishes not, and Satan cannot any further than outside shew, which I fear is too much the case with me. I have heard it  remarked as an observation of Mr Whitfield's that though many Christians who had before conversion lived moral lives were often in doubts of  being right. Yet he said others were in greater danger of sitting down  with reformation and to think it was regeneration. This...
 
@@ -108,8 +112,9 @@ I hear Dr Glass is to preach at Bishopsgate 17th March. I hope it is true and th
 ---
 
 <div class="letter" id="letter-5">
-  | Letter 5, March 6, 1793 | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 5, March 6, 1793</strong> — [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul)
+  </div>
 
 Mr Soul, Rev Dr Glasses, No 33 Gerrard Street, Soho,
 
@@ -128,18 +133,19 @@ I believe your watch is done. I remain yours affectionately, Daniel Soul
 ---
 
 <div class="letter" id="letter-6">
-  | Letter 6, November 2, 1793 | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 6, November 2, 1793</strong> — [John Soul](../branch/soul/index.md#JohnSoul), [Mary Soul](../branch/soul/index.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul)
+  </div>
 
 Ebley, Nov 2 1793
 
-Mr Eli Soul at Mr [Daniel Soul (b.1764)](../branch/soul/#DanielSoul), in Austin  Street Nr 10, behind Shoreditch Church, London
+Mr Eli Soul at Mr [Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), in Austin  Street Nr 10, behind Shoreditch Church, London
 
 **My Dear Son & Daughter**
 
 I congratulate you on your happy union with each other. May the Lord unite you both not only to each other but to himself with the covenant bonds of the  gospel by his spirit thru Christ Jesus, the head of the church. Then when the  union is dissolved with each other , which death will do, you will be taken up  to your Head, the Bridegroom above, where you shall live and reign with him for  ever, even so amen.
 
-I thank you for the present you sent me as a token of your love and affection  towards us all, indeed. I want to know how it is with your brother [Daniel Soul (b.1764)](../branch/soul/#DanielSoul). Whether he  has any business yet. My love to him, and please to tell him that as he has set  out for the Celestial City he must expect tribulations by the way. Tell him to beg the Lord that it may work patience and patience, experience and experience, hope, hope that maketh not ashamed, and may the love of God be shed abroad in his and in yours and in mine and in all our hearts by the Holy Ghost, amen.
+I thank you for the present you sent me as a token of your love and affection  towards us all, indeed. I want to know how it is with your brother [Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul). Whether he  has any business yet. My love to him, and please to tell him that as he has set  out for the Celestial City he must expect tribulations by the way. Tell him to beg the Lord that it may work patience and patience, experience and experience, hope, hope that maketh not ashamed, and may the love of God be shed abroad in his and in yours and in mine and in all our hearts by the Holy Ghost, amen.
 
 My love to his wife and to my grandson and to cousin John and his wife and to  all friends. Emmi & Kezia & your brother & sister 's love to you and your dear wife & to their brother Daniel and his wife and to all  friends, and please to accept the same from your affectionate father and mother  John Soul & Mary Soul
 
@@ -150,8 +156,9 @@ PS All things are again upon an amicable footing and very friendly in the two  
 ---
 
 <div class="letter" id="letter-7">
-  | Letter 7, March 8, 1794 | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 7, March 8, 1794</strong> — [John Soul](../branch/soul/index.md#JohnSoul), [Mary Soul](../branch/soul/index.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul)
+  </div>
 
 Mr Eli Soul, Long Alley No 43, Moorfields, London,
 
@@ -179,8 +186,9 @@ John Soul & Mary Soul.
 ---
 
 <div class="letter" id="letter-8">
-  | Letter 8, January 29, 1795 | [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 8, January 29, 1795</strong> — [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul)
+  </div>
 
 Jany 29 1795
 
@@ -195,8 +203,9 @@ I look for you every evening to come and spend a few minutes.
 ---
 
 <div class="letter" id="letter-9">
-  | Letter 9, February 11, 1798 | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), Samuel Soul |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 9, February 11, 1798</strong> — [sister Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), Samuel Soul
+  </div>
 
 Febry 11 1798
 
@@ -204,9 +213,9 @@ Febry 11 1798
 
 I think its out of my turn but as Mr Portlock is coming to town I take the  opportunity of sending a line to you to let you know we are all well, as I hope  this will find you.
 
-Dear brother will you be so kind to buy me a braid as near the colour of the  pattern as you can but not brighter. I should like a tolerable good one. I will leave you to be judge of the price. I have sent half a guinea and what you have over please buy some little trifle for little Betsy [Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) with my kind  love to her and little Samuel Soul. Mr Portlock has been, so I send it by my neighbours. You may send that if you please to be left  at my aunt Temple's. Please to seal it up as they may not know what it is.
+Dear brother will you be so kind to buy me a braid as near the colour of the  pattern as you can but not brighter. I should like a tolerable good one. I will leave you to be judge of the price. I have sent half a guinea and what you have over please buy some little trifle for little Betsy [Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul) with my kind  love to her and little Samuel Soul. Mr Portlock has been, so I send it by my neighbours. You may send that if you please to be left  at my aunt Temple's. Please to seal it up as they may not know what it is.
 
-With my kind love to you both, hoping to see you this summer down here, to brother Daniel [Daniel Soul (b.1764)](../branch/soul/#DanielSoul), to cousin John, from you ever loving sister  
+With my kind love to you both, hoping to see you this summer down here, to brother Daniel [Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), to cousin John, from you ever loving sister  
 Emma Soul
 
 </div>
@@ -214,8 +223,9 @@ Emma Soul
 ---
 
 <div class="letter" id="letter-10">
-  | Letter 10, March 23, 1798 | [John Soul](../branch/soul/#JohnSoul), [Mary Soul](../branch/soul/#MarySoul), [son Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 10, March 23, 1798</strong> — [John Soul](../branch/soul/index.md#JohnSoul), [Mary Soul](../branch/soul/index.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul), [sister Christiana Webb (b.1770)](../branch/soul/index.md#ChristianaWebb), [sister Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/index.md#KeziaSoul)
+  </div>
 
 Mr Eli Soul, Long Alley No 43, Moorfields, London,
 
@@ -225,7 +235,7 @@ Ebley, March 23 1798
 
 I am almost ashamed to write to you after so long silence. One reason was that I have waited for to send by Mr Porlock but I have missed of the time when when he hath set out for 3 times. But now I have an opportunity to send by Mr  Thomas and to let you know that my affection is not abated towards you in the  least but I trust I have you in mind at a throne of grace continually that the  Lord may bless you in temporals and spirituals that you may grow in grace and in the knowledge and love of the Lord Jesus Christ. I hope that the life and power of religion is kept up in your soul. I have as to my own experience to lament the darkness of my mind and deadness of my affections and borrowings of my soul.  But then what must such a poor sinner do? Why go to Jesus the friend of sinners, he that can heal all manner of diseases. Aye and he's as willing as he is able, for he says whosoever cometh unto me , I will in no wise cast out. So may the  lord help us at all times and in all places to look to him who is the helper of  the helpless amen & amen
 
-I should be exceeding glad to hear from you by the bearer how you go on in the ways of God and likewise in the world, and how your brother [Daniel Soul (b.1764)](../branch/soul/#DanielSoul) goes on. Tho  I send letters to him, he will not write to me. May the Lord bring him back again to himself. Then all animosity and shyness will be done away. How is Betsy [Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) and how does she grow? And how is my other grandchild? Please to give my love to all enquiring  friends and tell them we are all in good health, and I hope these few lines will  find uou the same. Your brother and sister  (Christiana ) and Sister Merrett [Emma Soul (b.1763)](../branch/soul/#EmmaSoul) & Sister Cox [Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) give their  kind love to you, and please to accept the same from you affectionate father and mother  
+I should be exceeding glad to hear from you by the bearer how you go on in the ways of God and likewise in the world, and how your brother [Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul) goes on. Tho  I send letters to him, he will not write to me. May the Lord bring him back again to himself. Then all animosity and shyness will be done away. How is Betsy [Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul) and how does she grow? And how is my other grandchild? Please to give my love to all enquiring  friends and tell them we are all in good health, and I hope these few lines will  find uou the same. Your brother and sister  (Christiana ) and Sister Merrett [Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul) & Sister Cox [Kezia Soul (b.1768)](../branch/soul/index.md#KeziaSoul) give their  kind love to you, and please to accept the same from you affectionate father and mother  
 John Soul & Mary Soul
 
 </div>
@@ -233,8 +243,9 @@ John Soul & Mary Soul
 ---
 
 <div class="letter" id="letter-11">
-  | Letter 11, August 2, 1799 | [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 11, August 2, 1799</strong> — [sister Christiana Webb (b.1770)](../branch/soul/index.md#ChristianaWebb), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul)
+  </div>
 
 Aug 2 1799
 
@@ -249,8 +260,9 @@ Dear brother, if the wind had not proved contrary, as you said in your letter  
 ---
 
 <div class="letter" id="letter-12">
-  | Letter 12, August 3, 1799 | [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/#DanielSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 12, August 3, 1799</strong> — [sister Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul)
+  </div>
 
 Mr Eli Soul, at no 2 Long Alley, Moorfields, London,
 
@@ -262,15 +274,16 @@ I thank you for your kind letter by Mr Nichols. I am very glad to hear you are w
 
 Dear brother, I thank you very kindly for you kind offer to come and live with you. If I knew how to get my bread in London, I would soon be there, though  I am very comfortable at present, as Mr Nichols will tell you, as I have broke  off all connections with one you know, ever since the death of our dear father, for which I am slighted by my relations, but I don't care for that now I don't  live with them. May you and I, dear brother, be found at last numbered with the blessed with our dear parent who is sure to receive the answer to his prayer.  How many times, nay it was his constant practice to pray that we all might be  found at God's right hand at last. May I be among the happy number. If I am kept, what will it avail me if all the rest is there. I fear sometimes I shall  be the only one left out.
 
-Dear brother, I am happy to think I did not harken to my cousin John, but in mercy was prevented, yet I wish him well. Please to give my kind love to him when you see him, to brother Daniel [Daniel Soul (b.1764)](../branch/soul/#DanielSoul) if you see  him, love to your children, to sister Betty and should be glad to see her again. Please to accept the same yourself. From your ever affectionate sister Emma Soul.
+Dear brother, I am happy to think I did not harken to my cousin John, but in mercy was prevented, yet I wish him well. Please to give my kind love to him when you see him, to brother Daniel [Daniel Soul (b.1764)](../branch/soul/index.md#DanielSoul) if you see  him, love to your children, to sister Betty and should be glad to see her again. Please to accept the same yourself. From your ever affectionate sister Emma Soul.
 
 </div>
 
 ---
 
 <div class="letter" id="letter-13">
-  | Letter 13, June 26, 1807 | [brother Eli Soul (b.1766)](../branch/soul/#EliSoul), [sister Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 13, June 26, 1807</strong> — [brother Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [sister Christiana Webb (b.1770)](../branch/soul/index.md#ChristianaWebb)
+  </div>
 
 London June 26 1807
 
@@ -285,14 +298,15 @@ PS Pardon my scribble while upon guard to fill up an hour to some  profit I hop
 ---
 
 <div class="letter" id="letter-14">
-  | Letter 14, October 6, 1810 | [father Eli Soul (b.1766)](../branch/soul/#EliSoul), [daughter Elizabeth Soul (b.1795)](../branch/soul/#ElizabethSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 14, October 6, 1810</strong> — [father Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [daughter Elizabeth Soul (b.1795)](../branch/soul/index.md#ElizabethSoul), [sister Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul)
+  </div>
 
 To Mrs. Soul, No 49 Little Cheapside, Moorfields, London,
 
 **Mr Dear Becy**
 
-By the blessing of God I arrived safe at Stroud five minutes before  12 o'clock very much tired with sitting so long on the coach, & my sister had not rec'd the letter which Eli put in. So I walked gently down by the side of the river & from there to Sister Merrett [Emma Soul (b.1763)](../branch/soul/#EmmaSoul)'s who I found at home. She desires her kind love to you & the  children. I hope you will also accept my love to you & give my love to all my children. But my Dear ... there is the same God in London as here & here as in London, & he never faileth or forsaketh any that pray unto him & put their trust in him. May you my dear experience his goodness & mercy not only in temporal things which will soon decay & be gone but in spiritals which will last for ever  & ever, which is I trust is my daily prayer for you that this may be your happy position here & in eternity. I hope you will not trouble about me but take care of your self & the children.
+By the blessing of God I arrived safe at Stroud five minutes before  12 o'clock very much tired with sitting so long on the coach, & my sister had not rec'd the letter which Eli put in. So I walked gently down by the side of the river & from there to Sister Merrett [Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul)'s who I found at home. She desires her kind love to you & the  children. I hope you will also accept my love to you & give my love to all my children. But my Dear ... there is the same God in London as here & here as in London, & he never faileth or forsaketh any that pray unto him & put their trust in him. May you my dear experience his goodness & mercy not only in temporal things which will soon decay & be gone but in spiritals which will last for ever  & ever, which is I trust is my daily prayer for you that this may be your happy position here & in eternity. I hope you will not trouble about me but take care of your self & the children.
 
 I shall if please God set off again at 3 o'clock on Thursday next  from Stroud. Then I shall see you again on Friday morning about 10 o'clock.
 
@@ -305,10 +319,11 @@ Cains Cross, October 6 1810, Glostershire.
 ---
 
 <div class="letter" id="letter-15">
-  | Letter 15, January 23, 1823 | [Eli Soul (b.1766)](../branch/soul/#EliSoul), [son Eli Soul (b.1798)](../branch/soul/#EliSoul) |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 15, January 23, 1823</strong> — [Eli Soul (b.1766)](../branch/soul/index.md#EliSoul), [son Eli Soul (b.1798)](../branch/soul/index.md#EliSoul)
+  </div>
 
-Know all men by these presents that I do give and bequeath to my beloved wife the whole and all of my personal property to be at her  disposal after my decease, save & except my watch which I give to my eldest son [Eli Soul (b.1798)](../branch/soul/#EliSoul).  
+Know all men by these presents that I do give and bequeath to my beloved wife the whole and all of my personal property to be at her  disposal after my decease, save & except my watch which I give to my eldest son [Eli Soul (b.1798)](../branch/soul/index.md#EliSoul).  
 signed this 23rd day of Jany 1823 Eli Soul senr
 
 </div>
@@ -316,8 +331,9 @@ signed this 23rd day of Jany 1823 Eli Soul senr
 ---
 
 <div class="letter" id="letter-16">
-  | Letter 16, December 6, 1827 | [Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Hannah Soul (b.1798)](../branch/soul/#HannahSoul), John Prichard |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 16, December 6, 1827</strong> — [Joseph Soul (b.1805)](../branch/soul/index.md#JosephSoul), [sister Hannah Soul (b.1798)](../branch/soul/index.md#HannahSoul), John Prichard
+  </div>
 
 6 Dec 1827  
 My dear sister Mrs [Hannah] Prichard was taken in labor at 9 o'clock in the morning & not delivered until the following evening, Friday the 7th inst, when a boy was brought forth. She had a most severe and painful delivery, and was very bad in consequence.
@@ -339,8 +355,9 @@ John Prichard was baptized in St Leonard's Shoreditch, 14 January 1828,  born 7
 ---
 
 <div class="letter" id="letter-17">
-  | Letter 17, January 19, 1829 | [aunt Christiana Webb (b.1770)](../branch/soul/#ChristianaWebb), [nephew Joseph Soul (b.1805)](../branch/soul/#JosephSoul), [sister Emma Soul (b.1763)](../branch/soul/#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/#KeziaSoul), Thomas Soul |
-  {:.letter-meta}
+  <div class="letter-meta">
+    <strong>Letter 17, January 19, 1829</strong> — [aunt Christiana Webb (b.1770)](../branch/soul/index.md#ChristianaWebb), [nephew Joseph Soul (b.1805)](../branch/soul/index.md#JosephSoul), [sister Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul/index.md#KeziaSoul), Thomas Soul
+  </div>
 
 Mr Soul at Mess Jones & Sons, 4 Tavistock Street, Covent Garden, London
 
@@ -354,7 +371,7 @@ My dear nephew, I am sorry to hear of the death of your dear sister.  I had nev
 
 My dear nephew, it rejoices my heart to hear that you are panting  after that holy spirit that animated the breast and heart of your dear father. May he descend in his sacred influences into your soul and  enable you to give up yourself to him and him alone, and may you tread  in the steps of your dear parent and follow his as far as he followed  Christ. Your remark on his letters are true. They did breath heaven. It has warmed and animated my very soul, when I read them over not long  since. And I am sorry I did not answer and have kept up a correspondence with one whom I hope was endeavouring to follow his example. I remember one letter he wrote. He was lamenting that he had  to travel alone, by himself, not one going with him. If he was here now how it would rejoice his heart to see one of his sons enquiring the way to Zion, with his face forward. But we would not wish him back again  in this poor sinful world. He like St Paul has fought the fight and  finished the faith, and I have not the least doubt but that he has received the crown which the Lord the righteous judge had laid up for him against the day and if we come to the Lord Jesus Christ with a broken heart and a contrite spirit, renouncing all dependence upon  anything that we can do to merit life and salvation, empty of self and relying alone upon what Christ has done and suffered and the full  atonement which he made upon the cross for all that came unto him  venturing their souls upon his finished salvation. If we come to him in that character he has promised he will never cast out such, and if so  we one day shall join him in that happy and glorious realms of bliss  never to grieve more, and join my dear parents and all the blood bought throng, in singing praises to him that has loved us and washed us from  our sins in his own blood. To him be glory for ever and ever amen. My dear nephew, take courage, press forward through every difficulty, be much in prayer, and in the means of grace, and may the holy spirit apply his precious word and promises to your soul for without his influence  nothing can profit. May he bless you in soul and body in time and  eternity for charity's sake amen.
 
-My Sister Merrett [Emma Soul (b.1763)](../branch/soul/#EmmaSoul) desires her love to you to your mother and all the family. Sister Cox [Kezia Soul (b.1768)](../branch/soul/#KeziaSoul) sends her love to you and your mother and all the family, and would be glad to know how she gets on. I have not seen Mr Knight since I received your letter. Mr Trigg lives in the same neighbourhood that he did when my dear brother was down in the country. I think he was a friend of his. He has been married I think about 2 years. He keeps his school now. I should have been very agreeably surprised had you come  last autumn. We should all have been very glad to have seen you. My family was not very large at first, but I assure you it is increased to a large circle now. I have 17 grandchildren, the eldest near 18 years, and the youngest 12 days. My eldest daughter Sarah and her husband lives near me, keeps a grocers shop, and has plenty of  room to accommodate you if you could be spared to come down and see us at spring. We should all be very happy to see you. My eldest son John lives at that delightful spot where my dear brother your father drew his first infant breath. He has 6 children. My other daughter Mary lives a little higher up. She has 7 children, and my other son William lives near his sister Mary. He has 1 child and that is with me. He has been married twice. His first wife died when the child was about 1 year and half old. I was with them. The child took me as his mother  and always calls me mother, and so when the second marriage took place I removed and the child has lived with me ever since, and is my only companion. He is 8 years old and a fine boy.
+My Sister Merrett [Emma Soul (b.1763)](../branch/soul/index.md#EmmaSoul) desires her love to you to your mother and all the family. Sister Cox [Kezia Soul (b.1768)](../branch/soul/index.md#KeziaSoul) sends her love to you and your mother and all the family, and would be glad to know how she gets on. I have not seen Mr Knight since I received your letter. Mr Trigg lives in the same neighbourhood that he did when my dear brother was down in the country. I think he was a friend of his. He has been married I think about 2 years. He keeps his school now. I should have been very agreeably surprised had you come  last autumn. We should all have been very glad to have seen you. My family was not very large at first, but I assure you it is increased to a large circle now. I have 17 grandchildren, the eldest near 18 years, and the youngest 12 days. My eldest daughter Sarah and her husband lives near me, keeps a grocers shop, and has plenty of  room to accommodate you if you could be spared to come down and see us at spring. We should all be very happy to see you. My eldest son John lives at that delightful spot where my dear brother your father drew his first infant breath. He has 6 children. My other daughter Mary lives a little higher up. She has 7 children, and my other son William lives near his sister Mary. He has 1 child and that is with me. He has been married twice. His first wife died when the child was about 1 year and half old. I was with them. The child took me as his mother  and always calls me mother, and so when the second marriage took place I removed and the child has lived with me ever since, and is my only companion. He is 8 years old and a fine boy.
 
 So my dear nephew I have given you a short history of my family. I think in reading it you will be almost tired. Can you give me any  intelligence whether your cousin Thomas Soul is living, and where he is. All my family and myself desires our love to you and your dear mother and all your family, and if we should never  see each other on earth, may we be prepared to meet at the right hand of the Judge at the last day, and to hear that blessed Sentence come ye blessed of my father, inherit the kingdom prepared for you from before the foundation of the world. That this may be our happy lot and portion is the fervent prayer of your affectionate aunt  
 C. .
@@ -368,5 +385,5 @@ C. .
 
 | Name              | Source                                                                                      | Description                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| National Archives | http://discovery.nationalarchives.gov.uk/results/r?_q=joseph+soul                           | Correspondence of [Joseph Soul (b.1805)](../branch/soul/#JosephSoul). |
+| National Archives | http://discovery.nationalarchives.gov.uk/results/r?_q=joseph+soul                           | Correspondence of [Joseph Soul (b.1805)](../branch/soul/index.md#JosephSoul). |
 | Archive.org       | https://web.archive.org/web/20120327174732/http://www.jbsoul.supanet.com/webpages/soul.html | Latest archived 24.03.2012                                            |

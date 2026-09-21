@@ -32,7 +32,7 @@ Tayloe house agent, effects '5,276 3s 3d.
     | Ann Maria Cockin widow, John Brown bookseller, and Thomas Moorby accountant
     | and estate agent, effects '42,690 13s 4d, resworn Dec 1902 '44,243 13s -d.
     |
-    |   = [Ann Maria (Roberts)](../roberts/#AnnMRoberts), 1871 census, school house, Northowram,
+    |   = [Ann Maria (Roberts)](../roberts/index.md#AnnMRoberts), 1871 census, school house, Northowram,
     |   | Queensbury, Yorkshire, 28, B Yorkshire, Hull;
     |   | 1881 census, 45 Mason St, East Sculcoates,
     |   | Kingston upon Hull, 38; D 18 Sept 1918.
@@ -53,7 +53,7 @@ Tayloe house agent, effects '5,276 3s 3d.
     |     | 15 Sept 1872 bpt Queensbury parish church; 1881 census, 45 Mason
     |     | St, Kingston upon Hull, 8, scholar, B Halifax.
     |     |
-    |     |  = [David Taylor Wilson](../wilson/#DavidTWilson)
+    |     |  = [David Taylor Wilson](../wilson/index.md#DavidTWilson)
     |     |  |
     |     |  M 12 Feb 1901 Christ Church Hull.
     |     |

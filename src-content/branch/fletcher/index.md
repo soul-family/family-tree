@@ -50,20 +50,20 @@ title: Fletcher Family Tree
       period of 30 years.  He received a large grant of land as a military
       officer but he never settled on it, having built himself a beautiful
       residence at New Town, in which he died.  He married the daughter
-      of the late [Joseph Hone](../hone/#JosephHone), barrister and Chairman of Quarter Sessions,
+      of the late [Joseph Hone](../hone/index.md#JosephHone), barrister and Chairman of Quarter Sessions,
       and he leaves a widow and a large number of children and grandchildren
       to lament his death'; 21 Oct 1872 Supreme Court of Tasmania, will of
       William Fletcher, late of New Town in the County of Buckingham in the
       Island of Tasmania, deceased, exhibited and proved, administration to 
       George William Fletcher son of the deceased and sole executor.
 
-       = [Hannah (Hone)](../hone/#HannahHone); 25 Oct 1879 Supreme Court of
+       = [Hannah (Hone)](../hone/index.md#HannahHone); 25 Oct 1879 Supreme Court of
        | Tasmania, will of Hannah Fletcher late of Stowellville, New Town, Tasmania,
        | who died on or about l4 Oct 1879, proved, administration to George William
        | Fletcher son of the deceased and sole executor.
        |
        M 28 Dec 1824, parish of Hobart Town, Van Diemens Land,
-       bachelor, & spinster d of [Joseph Hone](../hone/#JosephHone) attorney general
+       bachelor, & spinster d of [Joseph Hone](../hone/index.md#JosephHone) attorney general
        of Van Diemens Land, each of the parish.
        |
        |

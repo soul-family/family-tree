@@ -25,7 +25,7 @@ title: Holt Family Tree
      |  Britten; bpt 11 Mar 1838 Claremont Chapel, Pentonville; D 6 Jan 1900,
      |  19 Drayton Park N, 61, bd Highgate Cemetery gv 33590 sq 148.
      |
-     |   = [George Simmonds Soul](../soul/#GeorgeSimmondsSoul)
+     |   = [George Simmonds Soul](../soul/index.md#GeorgeSimmondsSoul)
      |   |
      |   M 9 Nov 1865 in the Barnsbury Chapel, Islington, according to the
      |   rites and ceremonies of the Congregationalists, 27, spinster, of  

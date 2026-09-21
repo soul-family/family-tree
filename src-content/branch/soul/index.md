@@ -521,7 +521,7 @@ John Soul
    |                |                  | Rd, unm, 26; 1881 census 20 High St, Lewisham, 36, asst milliner & draper;
    |                |                  | 1901 census 11 Salisbury Terr, Newbury; D 12 May 1924, late of Sunnyside,
    |                |                  | Queens Rd, Stonehouse. Glos, spinster, 17 June probate Gloucester to
-   |                |                  | [Margaret Dickerson Smith](../smith/#MargaretDSmith) spinster.
+   |                |                  | [Margaret Dickerson Smith](../smith/index.md#MargaretDSmith) spinster.
    |                |                  |
    |                |                  |_Thomas McNab Soul B 30 Aug 1848, bpt 20 Sept 1848 St Luke's Old St,
    |                |                    s of Eli Soul book-binder & Rebecca Mary Soul, of Tabernacle Walk;
@@ -612,7 +612,7 @@ John Soul
    |                | group portrait by Benjamin Robert Haydon, on display in the
    |                | National Portrait Gallery, London; 1843 directory 20 Brunswick
    |                | Parade, Islington; 1844 Directory City Rd, Orphan Working
-   |                | School secretary, [Matilda Hone](../hone/#MatildaHone) mistress; 1861 census
+   |                | School secretary, [Matilda Hone](../hone/index.md#MatildaHone) mistress; 1861 census
    |                | 11 Boxworth Grove, Islington; 1870 directory, sec to
    |                | Orphan Working School, Maitland Park, Haverstock Hill
    |                | NW, & hon sec to the Alexandra Orphanage for Infants,
@@ -622,7 +622,7 @@ John Soul
    |                | Park, 76, gv 70572 sq 49; effects '92:12:4. For article on him,
    |                | see [Sole Society](http://www.sole.org.uk/) and search for Joseph Soul.
    |                |
-   |                |  = [Ann (Simmonds)](../simmonds/#AnnSimmonds)                                     
+   |                |  = [Ann (Simmonds)](../simmonds/index.md#AnnSimmonds)                                     
    |                |  | B 6 May 1807,    _Joseph Simmonds Soul B 26 Aug 1833; 23 Sept 1834 Dr Williams's Library cert 4909,
    |                |  | bpt 20 June     | 'B 26 Aug 1833 at 13 Guildford Street East, Wilmington Sq, Clerkenwell, s of Joseph
    |                |  | 1807 St Clement | Soul bookseller & Ann Soul d of George Simmonds carpenter of 11 Bear Yard, parish
@@ -632,15 +632,15 @@ John Soul
    |                |  | Simmonds; D     | Rd, bank cashier; 1911 ditto (ret'd); 31 Mar 1904 retired from London Joint Stock Bank after 
    |                |  |                 | 51 years' service (DP 3/1/1967); D 31 Mar 1913, bd Abney Park, Stoke Newington, grave 70572 sq 49.
    |                |  | 16 Apr 1898,    |
-   |                |  | 19 Courtney     |  = [Ellen (Hone)](../hone/#EllenHone)                            
+   |                |  | 19 Courtney     |  = [Ellen (Hone)](../hone/index.md#EllenHone)                            
    |                |  | Rd, Drayton     |  | B 31 Mar 1822,  _Walter Joseph Hone Soul B 12 Oct 1855; 1871 census, 10 Somerford Grove, 15;
    |                |  | Park, bd Abney  |  | bpt 30 Dec     | 1881 census, 3 Nightingale Rd, banker's clerk; emig. to S Africa, reached Cape 
-   |                |  | Park, gv 70572  |  | 1834 King's    | Town 25 Dec 1881, secretary to [Dr Hahn( )](../hone/#CarlHugoHahn1) on his journey to Ovamboland to settle native
+   |                |  | Park, gv 70572  |  | 1834 King's    | Town 25 Dec 1881, secretary to [Dr Hahn( )](../hone/index.md#CarlHugoHahn1) on his journey to Ovamboland to settle native
    |                |  | sq 49.          |  | Weigh House    | disturbances; Kimberley protector of natives; Riversdale asst magistrate; left 1899
    |                |  |                 |  | Chapel, d of   | on outbreak of Boer War (MEHS); 1901 census 3 Nightingale Rd, accountant; D 15 Oct 1903 
    |                |  |                 |  | William Hone   | Kimberley fever (MEHS); bd Abney Park gv 70572 sq 49, from 3 Nightingale Rd.
    |                |  |                 |  | book-seller    |
-   |                |  |                 |  | & publisher,   |  = [Rosa Leah (Jacobsohn)](../jacobsohn_cohen/#RosaLJ)                                                                                           (third cousins of Peter Soul & Brendan Soul) 
+   |                |  |                 |  | & publisher,   |  = [Rosa Leah (Jacobsohn)](../jacobsohn_cohen/index.md#RosaLJ)                                                                                           (third cousins of Peter Soul & Brendan Soul) 
    |                |  |                 |  | & Sarah        |  | B 4 May                 _Harold Moritz Joseph Soul B 19 May 1886, at Riversdale, South Africa; 1901             
    |                |  |                 |  | Johnson; 1899  |  | 1865; after            | UK census, 13, pupil St Leonard's Collegiate School, Ellenslea Rd, Hastings,           _Donald Jocelyn Soul B 30 July 1916, Wisconsin;
    |                |  M 6 May 1830 St   |  | gave portrait  |  | Walter's death         | B Riversdale, Cape Colony; emig USA; D 23 Feb 1941 Los Angeles.                       | D 17 Oct 1973, Los Angeles.
@@ -670,7 +670,7 @@ John Soul
    |                |                    |  Islington,       | Soul B 5 June 1857;         Caterham on leave 23 May 1919; Australian Military Police, London; sailed 3 Dec 1919, Durban 25 Dec, Australia
    |                |                    |  bachelor,        | 1871 census, 4 Milner       13 Jan 1920 (MEHS); manager in Bk of Australia; D 24 Jan 1937 struck by lightning at Herberton, N Queensland (DP 3/1/1967).
    |                |                    |  banker's clerk,  | Sq, Islington, house-      
-   |                |                    |  of 11 Boxworth   | hold of aunt [Matilda Hone](../hone/#MatildaHone),   = Florence Ann (Beeston). 
+   |                |                    |  of 11 Boxworth   | hold of aunt [Matilda Hone](../hone/index.md#MatildaHone),   = Florence Ann (Beeston). 
    |                |                    |  Grove, s of      | 13, scholar, B Hackney;      |
    |                |                    |  Joseph Soul      | 1920 compiled tree of        M 17 Aug 1921 Queensland.
    |                |                    |  secretary to     | descendants of her grand-    |
@@ -716,7 +716,7 @@ John Soul
    |                | B 18 Dec 1809,     | bd Highgate Cemetery gv 33590 sq 148; probate London 16 June to George
    |                | bpt 6 Feb 1810     | Herbert Soul son, effects ( )'439 16s.
    |                | Moorfields         |
-   |                | Tabernacle,        |  = [Ann Bruce (Holt)](../holt/#AnnBruceHolt)
+   |                | Tabernacle,        |  = [Ann Bruce (Holt)](../holt/index.md#AnnBruceHolt)
    |                | s of Eli &         |  | B 18 Jan 1838,    _Agnes Bruce Soul B 11 Sept 1866, The Times 13 Sept 'at 74 Easton Terrace, Dublin, the wife of Mr George Simmonds Soul,
    |                | Elizabeth          |  | 5 Brunswick      | of a daughter'; 2 Nov 1880 2 Ormond Terrace, Rathmines (written on vocal score of Mendelssohn's Elijah);
    |                | Soul, of parish    |  | Terrace,         | 1901 census 19 Drayton Pk; 1911 ditto; D 26 Mar 1951 The Cottage Hospital, Welwyn Garden City, of 43 Woodhall Lane, Welwyn
@@ -734,7 +734,7 @@ John Soul
    |                | Finsbury, 51,      |  | lington St,      | flying bomb, D 13 July 1944 Royal Northern Hospital, 18 July bd Highgate
    |                | bookbinder, B      |  | Islington, 53;   | gv 42078 sq 117 by D.T. Wilson Rector of Bidborough; effects '4706:19:6.
    |                | Middx Moorfields;  |  | D 6 Jan 1900,    |
-   |                | D 18 Jan 1866,     |  | at 19 Drayton    |  = [Florence Emily (Coles)](../coles/#FlorenceEColes)
+   |                | D 18 Jan 1866,     |  | at 19 Drayton    |  = [Florence Emily (Coles)](../coles/index.md#FlorenceEColes)
    |                | 26 Tabernacle      |  | Park, 61, bd     |  | B 15 Apr 1871
    |                | Walk, 56, book-    |  | Highgate Cem.,   |  | Half Moon Inn,    _Gerald Bruce Soul B 7 Feb 1904, s of George Herbert Soul bank accountant & Florence 
    |                | binder, found      |  | gv 33590 sq 148. |  | Half Moon Lane,  | Emily Soul formerly Coles, The Times 9 Feb 'at 8 Tufnell-house, Anson-road N.,
@@ -758,7 +758,7 @@ John Soul
    |                |  |                 |  of T. Holt,        |  | 100 West End     | of St Thomas a Becket Hamburg; retd 1965; organist & choir-master St Wilfrid's
    |                |  |                 |  Joseph Soul,       |  | Lane, West       | Bognor Regis; D 29 June 1997, bd Highgate Cemetery gv 42078 sq 117.
    |                |  |                 |  Jos S.Soul, &      |  | Hampstead;       |
-   |                |  M 1 Mar 1840      |  Helen Britten      |  | D 7 Mar 1921,    |  = [Dorothea Florence Taylor (Wilson)](../wilson/#DorotheaFTWilson)        _John Brendan Soul B 1939, s of Denis Bruce Soul banker & Dorothea Florence Taylor Soul, of Hongkong &
+   |                |  M 1 Mar 1840      |  Helen Britten      |  | D 7 Mar 1921,    |  = [Dorothea Florence Taylor (Wilson)](../wilson/index.md#DorotheaFTWilson)        _John Brendan Soul B 1939, s of Denis Bruce Soul banker & Dorothea Florence Taylor Soul, of Hongkong &
    |                |  Shoreditch        |  Holt; according    |  | at 82 Carleton   |  | B 11 Nov 1908 at Christ Church          | Shanghai Bank flats, Johore Bahru, Malay States; 1942 evac Singapore to Liverpool in 'Empress of Japan'.
    |                |  Register Office,  |  to the rites       |  | Rd, Tufnell      |  | Vicarage, Cobden St, Leicester,         |
    |                |  bachelor, book-   |  & ceremonies       |  | Park, intra-     |  | d of David Taylor Wilson Clerk          |                                            _David Joseph Blair B 1973; 2002 author of 'Degrees in Violence - Robert
@@ -925,7 +925,7 @@ John Soul
    |                |                    |_Elizabeth Simmonds (Soul) B 11 Apr 1841;
    |                |                    | 1861 census, 11 Boxworth Grove, 19, music teacher.
    |                |                    |
-   |                |                    |  = [Thomas Dickerson Smith](../smith/#ThomasDSmith).  (follow this link for their descendants)
+   |                |                    |  = [Thomas Dickerson Smith](../smith/index.md#ThomasDSmith).  (follow this link for their descendants)
    |                |                    |  |
    |                |                    |  M 1873 Hackney.
    |                |                    |
@@ -938,7 +938,7 @@ John Soul
    |                |                    | 20 Brunswick Parade, d of Joseph Soul & Ann Soul formerly Simmonds;
    |                |                    | 1861 census, 11 Boxworth Grove, 15, scholar.
    |                |                    |
-   |                |                    |  =2 [William Thomas Giles](../giles/#WilliamTGiles)  (follow this link for their descendants)
+   |                |                    |  =2 [William Thomas Giles](../giles/index.md#WilliamTGiles)  (follow this link for their descendants)
    |                |                    |  |
    |                |                    |  M 6 May 1880 (WHS).
    |                |                    |

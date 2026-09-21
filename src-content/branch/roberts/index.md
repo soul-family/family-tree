@@ -22,7 +22,7 @@ of admin to Martha Roberts widow.
                  | Roberts blacksmith, & Martha Roberts formerly Chivin; 1861 census,
                  | Nags Head Lane, 18, pupil teacher, B Hull.
                  |
-                 |  = [John Cockin](../cockin/#JohnCockin)
+                 |  = [John Cockin](../cockin/index.md#JohnCockin)
                  |  |
                  |  M 23 Apr 1867 St Mary's Hull, 24, spinster, of St Mary's, d of
                  |  Samuel Roberts blacksmith, & 21, bachelor, school master, of Skipton,

@@ -22,7 +22,7 @@ title: Bailey Family Tree
   |         |  d of James Alexander Bailey solicitor & Jane Manning
   |         |  Bailey of Hobart Town.
   |_________|
-            |   =2 [Charles John Coles](../coles/#CharlesJohnColes)  (follow link to see their descendants)
+            |   =2 [Charles John Coles](../coles/index.md#CharlesJohnColes)  (follow link to see their descendants)
             |   |
             |   M 31 July 1860 St Mark's Islington, spinster, of 4 Wycombe 
             |   Terrace, d of James Alexander Bailey clerk, & widower, of
@@ -65,7 +65,7 @@ title: Bailey Family Tree
             |   Park Rd, s of James Alexander Bailey       | book-binder, & Emily Bailey, of 51 Russell Rd; 1901
             |   (decd) clerk government service, &         | census Tasma, Anson Rd, Islington, 22.
             |   spinster, of 22 Allen Rd, Stoke Newington, |
-            |   d of Thomas Deane butcher, in pres of      |  = [Thomas Charles Hankin](../hankin/#ThomaCHankin)  (follow link to see their descendants)
+            |   d of Thomas Deane butcher, in pres of      |  = [Thomas Charles Hankin](../hankin/index.md#ThomaCHankin)  (follow link to see their descendants)
             |   Thos Deane, Alfred M Bailey, & Sarah       |  |
             |   Deane.                                     |  M 8 Apr 1915 St George's Tufnell Park, 36, spinster,
             |   |__________________________________________|  of 'Tasma', Anson Rd, Tufnell Park, d of Frank

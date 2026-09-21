@@ -40,7 +40,8 @@ jobs:
 
       - name: Post-process HTML links
         run: |
-          find _site -name "*.html" -type f -exec sed -i 's/\.md"/"/g' {} +
+          find _site -name "*.html" -type f -exec sed -i 's/\/index\.md/\//g' {} +
+          find _site -name "*.html" -type f -exec sed -i 's/\.md\([#"]\)/\1/g' {} +
           find _site -name "*.html" -type f -exec sed -i "s/\.md'/'/g" {} +
 
       - name: Upload artifact

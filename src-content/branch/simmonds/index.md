@@ -32,7 +32,7 @@ title: Simmonds Family Tree
         |   grave 70572 sq 49, aged 90, from
         |   19 Courtney Road.
         |
-        |    = [Joseph Soul](../soul/#JosephSoul)
+        |    = [Joseph Soul](../soul/index.md#JosephSoul)
         |    |
         |    M 6 May 1830 St Bride's Fleet Street,
         |    spinster & bachelor, each of this
