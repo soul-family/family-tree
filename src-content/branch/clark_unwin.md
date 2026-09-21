@@ -52,7 +52,7 @@ Samuel Clark.
  |______________Hannah (Clark) D 30 Aug 1854, 1 Bird-in-Hand Court, Cheapside. City of London,
                 25, wife of Charles John Coles billiard marker, uterine haemorrhage.
               
-                 =1 [Charles John Coles](../coles/index.md#CharlesJohnColes) B 7 Nov 1824, bpt 28 Nov 1824
+                 =1 [Charles John Coles](../coles.md#CharlesJohnColes) B 7 Nov 1824, bpt 28 Nov 1824
                  |  St George-in-the-East, s of Daniel Coles confectioner,
                  |  & Amey, of Church Road; 1861 census, Bird in Hand Court
                  |  between 76 & 77 Cheapside, 36, manager of billiard
@@ -75,7 +75,7 @@ Samuel Clark.
                  |                                           | marker, & Hannah Coles formerly Clark; 1871 census, Half
                  |                                           | Moon Inn, Half Moon Lane, Dulwich, 16, B Middx. Cheapside.
                  M 22 Aug 1852 Islington Parish Church,      |
-                 bachelor, grocer, of 20 Shepperton St,      |  = [Thomas Hankin](../hankin/index.md#ThomasHankin).
+                 bachelor, grocer, of 20 Shepperton St,      |  = [Thomas Hankin](../hankin.md#ThomasHankin).
                  s of Daniel Coles pastry cook, & spinster,  |  |
                  of 11 Shepperton St, d of Samuel Clark      |  M 14 Mar 1877 St George's Tufnell Park, spinster, of Barnsbury
                  tailor.                                     |  Rd, d of Charles John Coles licensed victualler, & bachelor, of
@@ -83,3 +83,4 @@ Samuel Clark.
                                                                 d of Charles John Coles of Barnsbury Rd, & s of the late Thomas
                                                                 Hankin of Gloucester Rd, South Kensington.
 ```
+

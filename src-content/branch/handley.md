@@ -5,7 +5,7 @@ title: Handley Family Tree
 ```
  Thomas Handley, D 16 Oct 1859 at 31 Baring St, Hoxton
  Old Town, 75, a messenger in the bankruptcy court,
- informant [Caleb Soul](../soul/index.md#CalebSoul) of 37 Cleveland Rd, Islington;
+ informant [Caleb Soul](../soul.md#CalebSoul) of 37 Cleveland Rd, Islington;
  bd Abney Park gv 19146 sq 27.
 
   = Elizabeth (Jebb), 1861 census
@@ -28,7 +28,7 @@ title: Handley Family Tree
   |                                     | Ardleigh Villa, Point Piper Rd, Woolahra,
   |_____________________________________| Sydney, NSW, bd South Head Cemetery. 
                                         |
-                                        |  =2 [Caleb Soul](../soul/index.md#CalebSoul).
+                                        |  =2 [Caleb Soul](../soul.md#CalebSoul).
                                         |  |
                                         |  M 13 Aug 1844, Islington Register Office;
                                         |  spinster, of 20 Brunswick Parade, Islington,
@@ -44,3 +44,4 @@ title: Handley Family Tree
                                           Ontario, Canada West, aged 50, inscrip
                                           Abney Park gv 19146 sq 27.
 ```
+

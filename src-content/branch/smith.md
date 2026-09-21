@@ -9,7 +9,7 @@ D 5 July 1921,of Sunnyside, Queen's Road, Stonehouse, Glos., commision agent, pr
 Gloucester 15 Aug to Elizabeth Simmonds Smith widow, and Margaret Dickerson
 Smith spinster, effects '2055 17s 6d.
 
- = [Elizabeth Simmonds (Soul)](../soul/index.md#ElizabethSimmondsSoul) B 11 Apr 1841; 
+ = [Elizabeth Simmonds (Soul)](../soul.md#ElizabethSimmondsSoul) B 11 Apr 1841; 
  | 1861 census, 11 Boxworth Grove, Islington,   _Joseph Soul Smith B 2 July 1875.            _Leslie Joseph Soul Smith B 1905,       
  | 19, music teacher; 1901 census The Limes,   | 1901 census The Limes. Stroud, 25,         | D 1956, Stroud.
  | Stroud, 59; 1911 census The Limes;          | commision agent/worsted, B Stroud;         |
@@ -34,5 +34,6 @@ Smith spinster, effects '2055 17s 6d.
                                                  there (WHS).
 
 
-(WHS) Family History Notes compiled by [Washington Handley Soul](../soul/index.md#WashingtonHSoul) dated 30 Jan 1918.
+(WHS) Family History Notes compiled by [Washington Handley Soul](../soul.md#WashingtonHSoul) dated 30 Jan 1918.
 ```
+

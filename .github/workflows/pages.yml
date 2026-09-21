@@ -40,6 +40,18 @@ jobs:
 
       - name: Post-process HTML links
         run: |
+          for f in _site/branch/*.html; do
+            [ -f "$f" ] || continue
+            dir="$(basename "$f" .html)"
+            mkdir -p "_site/branch/$dir"
+            mv "$f" "_site/branch/$dir/index.html"
+          done
+          for f in _site/letters.html _site/sources.html; do
+            [ -f "$f" ] || continue
+            dir="$(basename "$f" .html)"
+            mkdir -p "_site/$dir"
+            mv "$f" "_site/$dir/index.html"
+          done
           find _site -name "*.html" -type f -exec sed -i 's/\/index\.md/\//g' {} +
           find _site -name "*.html" -type f -exec sed -i 's/\.md\([#"]\)/\1/g' {} +
           find _site -name "*.html" -type f -exec sed -i "s/\.md'/'/g" {} +

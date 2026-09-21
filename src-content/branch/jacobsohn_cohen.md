@@ -12,7 +12,7 @@ title: Jacobsohn & Cohen Family Trees
   |
   |    _Rosa Leah (Jacobsohn) B 4 May 1865.
   |___|
-      |  = [Walter Joseph Hone Soul](../soul/index.md#WalterJHSoul)
+      |  = [Walter Joseph Hone Soul](../soul.md#WalterJHSoul)
       |  |
       |  M 4 Aug 1886, South Africa.
       |
@@ -53,3 +53,4 @@ title: Jacobsohn & Cohen Family Trees
       |
       |_Lewis Bertie Jacobsohn.
 ```
+

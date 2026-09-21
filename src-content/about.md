@@ -41,7 +41,7 @@ In the interests of data protection, Peter has reduced to year-only the dates re
 
 ![](assets/images/Joseph_Soul.JPG)
 
-[Joseph Soul](branch/soul/#JosephSoul)
+[Joseph Soul](branch/soul.md#JosephSoul)
 
 For an article on him, go to [Sole Society](http://sole.org.uk/) and search for Joseph Soul.
 
@@ -49,7 +49,7 @@ For an article on him, go to [Sole Society](http://sole.org.uk/) and search for 
 
 The core research and compilation was carried out by Brendan Soul over many years, with further refreshing and extension from 2018 by Peter Soul.
 The trees contain data contributed by various family members. And more information drawn from historical sources including census records, birth/death/marriage indexes, wills, probate records, parish registers, and archives.
-External sources include the National Archives, St John's College Library Cambridge, the Sole Society, the National Portrait Gallery, and various other genealogical and historical repositories. See [Sources](./sources/index.md) page.
+External sources include the National Archives, St John's College Library Cambridge, the Sole Society, the National Portrait Gallery, and various other genealogical and historical repositories. See [Sources](./sources.md) page.
 
 ## License
 The contents of the website with the family tree are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the original authors and indicate if changes were made.

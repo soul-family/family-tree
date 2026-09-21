@@ -16,7 +16,7 @@ title: Hankin Family Tree
       B Paddington; 1901 census, Swan Hotel, New Alresford, Hants,
       47, hotel proprietor, employer, B Paddington, London.
 
-       = [Hannah Amelia (Coles)](../coles/index.md#HannahAColes)
+       = [Hannah Amelia (Coles)](../coles.md#HannahAColes)
        | B 21 Aug 1854, 1 Bird in Hand Court, City of
        | London, d of Charles John Coles billiard marker,
        | & Hannah Coles formerly Clark; 1871 census, 
@@ -50,7 +50,7 @@ title: Hankin Family Tree
                | New Alresford; 1939 Hampshire Directory, Hankin's Ltd,
                | motor engnrs, West St, TN28.
                |
-               |  = [Jane Selina (Bailey)](../bailey/index.md#JaneSBailey)
+               |  = [Jane Selina (Bailey)](../bailey.md#JaneSBailey)
                |  | B 18 Mar 1879; bpt 25 May 1879,
                |  | St George's Tufnell Park, d of Frank
                |  | Evans Bailey book-binder & Emily
@@ -88,3 +88,4 @@ title: Hankin Family Tree
                                                                                        |_________________________|
  
 ```
+

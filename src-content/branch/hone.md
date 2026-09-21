@@ -77,7 +77,7 @@ D 1831, bd Bunhill Fields, London,
    |    |
    |    |
    |    |_Fanny (Hone) B 5 Apr 1803; 1881 census, 3 Nightingale Rd,
-   |    | household of [Joseph Simmonds Soul](../soul/index.md#JosephSimmondsSoul), widow, 77, B City
+   |    | household of [Joseph Simmonds Soul](../soul.md#JosephSimmondsSoul), widow, 77, B City
    |    | of London; D 10 Mar 1883 at residence of her son
    |    | Thomas at Margaretting, Essex (MEHS), bd Abney Park, Stoke
    |    | Newington, 15 Mar, aged 79. 
@@ -218,11 +218,11 @@ D 1831, bd Bunhill Fields, London,
    |    | published 'Old Humphrey' for her father (MEHS);
    |    | 1834 Directory, Grasshopper Coffee House & Hotel,
    |    | Matilda Hone, 13 Gracechurch St London; 1844
-   |    | Directory, City Rd, Orphan Working School, [Joseph Soul](../soul/index.md#JosephSoul)
+   |    | Directory, City Rd, Orphan Working School, [Joseph Soul](../soul.md#JosephSoul)
    |    | secretary, Matilda Hone mistress; 1871 census,
    |    | 4 Milner Sq, Islington, 65, school mistress,
    |    | B Surrey, Lambeth; 1881 census, 3 Nightingale Rd,
-   |    | household of brother-in-law [Joseph Simmonds Soul](../soul/index.md#JosephSimmondsSoul),
+   |    | household of brother-in-law [Joseph Simmonds Soul](../soul.md#JosephSimmondsSoul),
    |    | 75, B Lambeth, Surrey; D 10 Sept 1884, bd Abney
    |    | Park, gv 316 sq 76.
    |    |
@@ -452,7 +452,7 @@ D 1831, bd Bunhill Fields, London,
    |    | & publisher, & Sarah (Johnson); 1871 census, 4 Milner Sq, Islington,
    |    | household of sister [Matilda Hone](#MatildaHone), 52, schoolmistress;
    |    | 1881 census, 3 Nightingale Rd, household of brother-in-law
-   |    | [Joseph Simmonds Soul](../soul/index.md#JosephSimmondsSoul), 62; D 13 Aug 1898,
+   |    | [Joseph Simmonds Soul](../soul.md#JosephSimmondsSoul), 62; D 13 Aug 1898,
    |    | bd Abney Park gv 76795 sq 76 beside gv of Willian & Sarah Hone
    |    | .
    |    |
@@ -472,7 +472,7 @@ D 1831, bd Bunhill Fields, London,
    |    | earliest established infant schools (MEHS); D 24 Nov 1910, bd Abney
    |    | Park gv 70572 sq 49, from 3 Nightingale Rd, Lower Clapton.
    |    |
-   |    |  = [Joseph Simmonds Soul](../soul/index.md#JosephSimmondsSoul)
+   |    |  = [Joseph Simmonds Soul](../soul.md#JosephSimmondsSoul)
    |    |
    |    |_Alice (Hone) B 8 Dec 1825 parish of St Bride's Fleet St, bpt 30
    |      Dec 1834 King's Weigh House Chapel, d of William Hone bookseller
@@ -547,7 +547,7 @@ D 1831, bd Bunhill Fields, London,
    |                                           
    |  1= Ann (Lamport); 1824 emig Hobart      _Hannah (Hone)
    |   | Town; D 15 Jan 1839 aged 61 yrs,    |
-   |   | bd St David's Park, Hobart, 'wife   |  = [William Fletcher](../fletcher/index.md#WilliamFletcher)
+   |   | bd St David's Park, Hobart, 'wife   |  = [William Fletcher](../fletcher.md#WilliamFletcher)
    |   | of Joseph Hone barrister at law     |  |
    |   | of Gray's Inn'.                     |  M 26 Dec 1826, parish of Hobart Town, spinster
    |   |                                     |  & bachelor, each of the parish.
@@ -584,3 +584,4 @@ D 1831, bd Bunhill Fields, London,
      Clerkenwell, bpt Providence Chapel 12 Nov 1798, s of
      William Hone & Frances Maria his wife.
 ```
+

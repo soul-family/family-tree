@@ -418,3 +418,4 @@ Daniel Coles
                                         4 Norfolk Road, household of Charles J Coles, brother, single,
                                         30, book binder, B London Southwark.
 ```
+

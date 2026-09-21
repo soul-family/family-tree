@@ -81,7 +81,7 @@ sey, widower, 77, baker, B Warmington.
    |       Upper Holloway, London; 31 May 1937 Rector of Bidborough, Kent; retired 1946;
    |       D 28 Jan 1967; bd 1 Feb churchyard of St Lawrence, Bidborough.
    |
-   |        1= [Lilias Roberts (Cockin)](../cockin/index.md#LiliasRCockin); D 23 May 1950; bd Bidborough.
+   |        1= [Lilias Roberts (Cockin)](../cockin.md#LiliasRCockin); D 23 May 1950; bd Bidborough.
    |         |
    |         M 12 Feb 1901 Christ Church Hull.         _Edith Mary Taylor Wilson B Dec 1901 Devonport;
    |         |________________________________________| D 13 Jan 1937 aged 35, bd 18 Jan Rochdale Cemetery.
@@ -122,7 +122,7 @@ sey, widower, 77, baker, B Warmington.
                                                       | Cockin; 1942 evac Singapore to Liverpool in 'Empress, of Japan';
                                                       | D 3 April 1983 inscrip Highgate grave 42078.
                                                       |
-                                                      |  = [Denis Bruce Soul](../soul/index.md#DenisBSoul)
+                                                      |  = [Denis Bruce Soul](../soul.md#DenisBSoul)
                                                       |  |
                                                       |  M 23 July 1938 St Lawrence's
                                                       |  Bidborough, Kent, (David Taylor
@@ -154,3 +154,4 @@ sey, widower, 77, baker, B Warmington.
                                                          |
                                                          |____Christopher Sheehan B 1944, Hampstead.
 ```
+

@@ -35,7 +35,7 @@ title: Giles Family Tree
              draper's clerk, B Thornton Heath.
            
 
-     2= [Mary Ann Simmonds (Soul)](../soul/index.md#MaryAnnSimmondsSoul)
+     2= [Mary Ann Simmonds (Soul)](../soul.md#MaryAnnSimmondsSoul)
       | B 16 May 1845 at 20 Brunswick Parade, d of Joseph Soul,
       | & Ann Soul formerly Simmonds; 1901 census, 19 Courtney
       | Rd, widow.
@@ -89,3 +89,4 @@ title: Giles Family Tree
         |_Hilda Mary Giles B 8 Mar 1889 (WHS); 1901 census, 19 Courtney Rd, 12;
           D between 1976 - 1978.
 ```
+
