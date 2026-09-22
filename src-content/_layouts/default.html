@@ -9,14 +9,13 @@
 <body>
   <div class="layout-wrapper">
     <aside class="sidebar">
-      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="document.querySelector('.layout-wrapper').classList.toggle('sidebar-expanded')"></button>
       <div class="sidebar-content">
         {% include navigation.html %}
       </div>
     </aside>
     <main class="main-content">
       <div class="site-header">
-        <button class="sidebar-toggle" aria-label="Toggle menu" onclick="document.querySelector('.layout-wrapper').classList.toggle('sidebar-expanded')"></button>
+        <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
         <a class="site-title" href="{{ '/' | relative_url }}">Soul Family Tree</a>
       </div>
       <div class="container container-1185">
@@ -26,5 +25,20 @@
       {% include footer.html %}
     </main>
   </div>
+  <script>
+    function toggleSidebar() {
+      document.querySelector('.layout-wrapper').classList.toggle('sidebar-expanded');
+      document.cookie = 'sidebarState=' + (document.querySelector('.layout-wrapper').classList.contains('sidebar-expanded') ? 'expanded' : 'collapsed') + ';path=/;max-age=31536000';
+    }
+    (function() {
+      var match = document.cookie.match(/sidebarState=(expanded|collapsed)/);
+      var state = match ? match[1] : 'expanded';
+      if (state === 'collapsed') {
+        document.querySelector('.layout-wrapper').classList.remove('sidebar-expanded');
+      } else {
+        document.querySelector('.layout-wrapper').classList.add('sidebar-expanded');
+      }
+    })();
+  </script>
 </body>
 </html>

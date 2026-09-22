@@ -106,10 +106,15 @@ a:visited {
 
 /* --- Site header --- */
 .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
   display: flex;
   align-items: center;
   gap: 0.75rem;
   margin-bottom: 1.5rem;
+  background: #fff;
+  padding: 0.75rem 0;
 }
 
 .site-title {
@@ -143,24 +148,6 @@ a:visited {
 
 .sidebar-toggle::before {
   content: '⋮';
-}
-
-.site-header .sidebar-toggle::before {
-  content: '⋮';
-}
-
-.sidebar .sidebar-toggle {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-}
-
-.sidebar .sidebar-toggle::before {
-  content: '◀';
-}
-
-.layout-wrapper.sidebar-expanded .sidebar .sidebar-toggle::before {
-  content: '▶';
 }
 
 /* --- Navigation --- */
