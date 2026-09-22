@@ -4,10 +4,10 @@ This directory contains documentation for AI development tools used in the proje
 
 ## Available Co-Developers
 
-| Co-Developer | Description |
-| --- | --- |
-| Kilo | AI coding assistant |
-| Opencode | AI coding assistant |
+| Co-Developer | Description         |
+| ------------ | ------------------- |
+| Kilo         | AI coding assistant |
+| Opencode     | AI coding assistant |
 
 Additional co-developers can be added by extending the developer config.
 

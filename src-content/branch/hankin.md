@@ -7,7 +7,7 @@ title: Hankin Family Tree
  Gloucester Rd, Kensington, bd 3 Oct 1873 Brompton
  Cemetery.
 
-  =   
+  =
   |___Thomas Hankin, 1881 census 1 Lupus St (Pimlico),
       29, licensed victualler, B Paddington; 1886 directory
       wine merchants, Thomas Hankin, 34 Gloucester rd & 29
@@ -19,7 +19,7 @@ title: Hankin Family Tree
        = [Hannah Amelia (Coles)](../coles.md#HannahAColes)
        | B 21 Aug 1854, 1 Bird in Hand Court, City of
        | London, d of Charles John Coles billiard marker,
-       | & Hannah Coles formerly Clark; 1871 census, 
+       | & Hannah Coles formerly Clark; 1871 census,
        | Half Moon Inn, Half Moon Lane, Dulwich, 16,
        | B Middx Cheapside; 1891 census, Springfield
        | Public House, 53 Solon Rd, Lambeth, B Cheapside,
@@ -29,7 +29,7 @@ title: Hankin Family Tree
        | Avenue, Alresford, widow, probate Winchester
        | to William Medley Coles & John Keith Louis Wenham
        | company directors, effects £6,184 15s 1d.
-       | 
+       |
        |
        M 14 Mar 1877, St George's Tufnell Park, bachelor,
        of Tufnell Park Rd, s of Thomas Hankin (decd), &
@@ -40,10 +40,10 @@ title: Hankin Family Tree
        Kensington, & d of Charles John Coles of Barnsbury
        Rd.
        |
-       |         
+       |
        |        _Thomas Charles Hankin 1881 census, 1 Lupus St,
        |       | aged 2 months, B Pimlico; 1891 census, Springfield Public House,
-       |       | 53 Solon Rd, Lambeth, 10, B Pimlico; 1901 census, 2 to 7 
+       |       | 53 Solon Rd, Lambeth, 10, B Pimlico; 1901 census, 2 to 7
        |_______| Paternoster Row, City of London, 20, apprentice draper,
                | B Pimlico, London; 1931 Hampshire Directory, Glenroy,
                | Grange Rd; F.I.M.T., motor engnr, West St, T(el)N(o)28,
@@ -56,7 +56,7 @@ title: Hankin Family Tree
                |  | Evans Bailey book-binder & Emily
                |  | Bailey, of 51 Russell Rd.
                |  |                                          _Charles Alexander Hankin B 30 Oct 1918;
-               |  M 8 Apr 1915 St George's Tufnell Park,    | 1929-1935 Wellingborough School, Northants; 
+               |  M 8 Apr 1915 St George's Tufnell Park,    | 1929-1935 Wellingborough School, Northants;
                |  39, bachelor, engineer, of 'Glenroy',     | D 18 June 2000.
                |  Southampton Rd, Alresford,s of Thomas     |
                |  Hankin (decd) licensed victualler, & 36,  |  = Jean Alexia Dimmock (Donald).
@@ -79,13 +79,12 @@ title: Hankin Family Tree
                                                                                     |  M 1976.                   | |_Thomas Matthew Irving B 1982.
                                                                                     |  |_________________________|
                                                                                     |
-                                                                                    |_John Charles Hankin 
+                                                                                    |_John Charles Hankin
                                                                                       B 1950.                       _Emily Jane Hankin B 1984.
                                                                                                                   _|
                                                                                        = Jane Anne (Farrar)      | |
                                                                                        |                         | |_Alice Kate Hankin B 1988.
                                                                                        M 1952.                   |
                                                                                        |_________________________|
- 
-```
 
+```

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide explains how to find and browse the  archived pages on Archive.org (Internet Archive) using the Wayback Machine.
+This guide explains how to find and browse the archived pages on Archive.org (Internet Archive) using the Wayback Machine.
 
 ## Wayback Machine URL
 
@@ -23,10 +23,8 @@ This shows all captured snapshots of the family tree archive over time.
 
 ## Finding Specific Content
 
-
 1. Use the Wayback Machine URL with a specific date if known
 2. Or browse the archive's internal navigation once loaded
-
 
 ## Offline Access
 

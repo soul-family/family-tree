@@ -26,7 +26,7 @@ title: Handley Family Tree
   |                                     | Pembridge Mills, Weobley, Herefordshire,
   |                                     | d of Thomas Handley; D 22 Nov 1897,
   |                                     | Ardleigh Villa, Point Piper Rd, Woolahra,
-  |_____________________________________| Sydney, NSW, bd South Head Cemetery. 
+  |_____________________________________| Sydney, NSW, bd South Head Cemetery.
                                         |
                                         |  =2 [Caleb Soul](../soul.md#CalebSoul).
                                         |  |
@@ -44,4 +44,3 @@ title: Handley Family Tree
                                           Ontario, Canada West, aged 50, inscrip
                                           Abney Park gv 19146 sq 27.
 ```
-

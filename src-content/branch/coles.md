@@ -10,8 +10,8 @@ Daniel Coles
  M 26 Aug 1810 St George-in-the-East London,
  bachelor & spinster, each of the parish.
  |
- |   _Amelia Coles B 9 Aug 1811, bpt 13 Oct 1811 
- |__| St George-in-the-East, d of Daniel Coles 
+ |   _Amelia Coles B 9 Aug 1811, bpt 13 Oct 1811
+ |__| St George-in-the-East, d of Daniel Coles
     | confectioner, & Amy of Ratcliff Highway.
     |
     |_Mary Ann Coles B 6 July 1813, bpt 18 June
@@ -41,7 +41,7 @@ Daniel Coles
     |_Henry Mather William Coles B 10 May 1823, bpt 8
     | June 1823 St George-in-the East, s of Daniel Coles
     | confectioner, & Amy Coles, of Sun Tavern Fields.
-    |     
+    |
     |_Charles John Coles B 7 Nov 1824, bpt 28 Nov 1824
     | St George-in-the-East, s of Daniel Coles confectioner,
     | & Amey, of Church Road; 1861 census, Bird in Hand Court
@@ -59,11 +59,11 @@ Daniel Coles
     | Highgate Cemetery gv 36555 sq 117 from Drayton Court
     | Hotel, Ealing; 29 Sept 1908 probate of will granted
     | to Charles Alexander Coles, William Henry Coles, and
-    | Frank Evans Bailey the executors. 
+    | Frank Evans Bailey the executors.
     |
     |  1= Hannah (Clark)
     |   | D 30 Aug 1854, 1 Bird in Hand Court,       _Hannah Amelia (Coles) B 21 Aug 1854 at 1 Bird in Hand
-    |   | 25, wife of Charles John Coles billiard   | Court, City of London, d of Charles John Coles billiard 
+    |   | 25, wife of Charles John Coles billiard   | Court, City of London, d of Charles John Coles billiard
     |   | marker, uterine haemorrhage.              | marker, & Hannah Coles formerly Clark; 1871 census, Half
     |   |                                           | Moon Inn, Half Moon Lane, Dulwich, 16, B Middx. Cheapside.
     |   M 22 Aug 1852 Islington Parish Church,      |
@@ -76,9 +76,9 @@ Daniel Coles
     |                                                  Hankin of Gloucester Rd, South Kensington.
     |  2= Elizabeth Amelia (Bailey)
     |   |  B 19 Aug 1834 at sea on a voyage from England to Hobart
-    |   |  Town; bpt 3 Dec 1834, parish of Hobart Town, County 
+    |   |  Town; bpt 3 Dec 1834, parish of Hobart Town, County
     |   |  of Buckingham (Tasmania) d of James Alexander Bailey
-    |   |  solicitor & Jane Manning Bailey of Hobart Town; D 11 
+    |   |  solicitor & Jane Manning Bailey of Hobart Town; D 11
     |   |  Nov 1906 at 33 Hillmarton Rd, Lower Holloway, London,
     |   |  72, wife of Charles John Coles a retired hotel proprietor,
     |   |  informant Hannah A. Hankin (step-)daughter, of Swan Hotel,
@@ -106,8 +106,8 @@ Daniel Coles
     |                            |                                                      |                                           |
     |                            |                                                      M 1932                                      |
     |                            |                                                      |___________________________________________|
-    |                            | 
-    |                            |                                                     2= Marjorie Amy (---) D 2004. 
+    |                            |
+    |                            |                                                     2= Marjorie Amy (---) D 2004.
     |                            |                                                      |
     |                            |                                                      M ?
     |                            |                                                                                                   (second cousins of Peter Soul & Brendan Soul)
@@ -149,7 +149,7 @@ Daniel Coles
     |                            |                                                  |                                               |                                                                                          B 1994, Guildford.
     |                            |                                                  |                                               |
     |                            |                                                  |                                               |
-    |                            |                                                  |                                               |_David Keith Wenham B 1929, Pancras.        _
+    |                            |                                                  |                                               |**David Keith Wenham B 1929, Pancras.        **
     |                            |                                                  |                                               |                                           |
     |                            |                                                  |                                               |  = Anthea M (Walmsley) B 1933, Preston.   |_
     |                            |                                                  |                                               |  |                                        |
@@ -296,11 +296,11 @@ Daniel Coles
     |                            | d of Charles John Coles hotel keeper, & Elizabeth Amelia, of 51 Russell Rd;                                                                     |                                         | B 2003, Birmingham.
     |                            | 1901 census, Park House, High St, Ixworth, Suffolk, B Essex Brentwood;                                                                          M 2000, Worcester.                        |
     |                            | 1911 census The Hermitage, Mill Lane, Richmond, Yorks; D 1955, Norwich.                                                                         |_________________________________________|
-    |                            |                                                                                               
+    |                            |
     |                            |  = Ernest Edward (Sawrey-)Cookson B 1868; 1901 census High St, Ixworth, Suffolk, 33, living on
     |                            |  | own means, B Hurworth on Tees, Durham; 1911 census The Hermitage, Mill Lane, Richmond, Yorks,
     |                            |  | racehorse trainer; 1939 register, Welwyn Garden City, riding stables manager; D 1948, WGC.     (second cousins of Peter Soul & Brendan Soul)
-    |                            |  |                                        
+    |                            |  |
     |                            |  M 16 June 1898 at Albany, W Australia,   _Aileen Marguerite (Sawrey-Cookson) B 10 Aug 1901,      _Elizabeth Jane Bland B 1935
     |                            |  d of C.J. Coles of London, & s of the   | Ixworth, Suffolk ;Principal, Bishop's High School     |
     |                            |  late James Sawrey Cookson of Neasham    | for Girls (Who is Who in British Guiana, 1945-48);    |_Susan Bland B 1937
@@ -326,23 +326,23 @@ Daniel Coles
     |                            |                                             |                                                    |
     |                            |                                             M 1933, Uxbridge.                                    |
     |                            |                                             |____________________________________________________|
-    |                            |_Florence Emily (Coles) B 15 April 1871,     
+    |                            |_Florence Emily (Coles) B 15 April 1871,
     |                            | Half Moon Inn, Half Moon Lane, Dulwich,
     |                            | d of Charles John Coles licensed victualler,
     |                            | & Elizabeth Amelia Coles formerly Bailey;
-    |                            | bpt 30 July 1871, St George's Tufnell Park, d of 
+    |                            | bpt 30 July 1871, St George's Tufnell Park, d of
     |                            | Charles John Coles hotel keeper, & Elizabeth Amelia
     |                            | Coles, of Herne Hill, Dulwich; D 1921, Tufnell Park.
     |                            |
     |                            |  = George Herbert Soul  (follow link to see their descendants)
     |                            |  |
     |                            |  M 5 June 1902 St George's Tufnell Park,
-    |                            |  31, spinster, of 33 Hillmarton Rd, d of 
+    |                            |  31, spinster, of 33 Hillmarton Rd, d of
     |                            |  Charles John Coles, & 34, bachelor, bank
     |                            |  accountant, of 8 Tufnell House, Anson Rd,
-    |                            |  s of George Simmonds Soul accountant, 
+    |                            |  s of George Simmonds Soul accountant,
     |                            |  in pres of E.A. Coles, William Lisson
-    |                            |  Bailey, & Cecil Bruce Holt. 
+    |                            |  Bailey, & Cecil Bruce Holt.
     |                            |
     |                            |
     |                            |_Georgina Elizabeth Coles B 2 Oct 1876,
@@ -350,7 +350,7 @@ Daniel Coles
     |                              d of Charles John Coles licensed victualler,
     |                              & Elizabeth Amelia Coles, of 14 Barnsbury
     |                              Rd, Islington; D 14 Feb 1880, bd Highgate
-    |                              Cemetery, gv 21479 sq 117, from White 
+    |                              Cemetery, gv 21479 sq 117, from White
     |                              Conduit House Tavern.
     |
     |
@@ -418,4 +418,3 @@ Daniel Coles
                                         4 Norfolk Road, household of Charles J Coles, brother, single,
                                         30, book binder, B London Southwark.
 ```
-

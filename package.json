@@ -3,16 +3,16 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "format": "prettier --write \"**/*.{html,md,json}\" && node .dev-scripts/scripts/minify-md-tables.js",
+    "format": "prettier --write \"**/*.{html,md,json}\" && node .dev-scripts/scripts/fix-md-emphasis.js",
     "format:check": "prettier --check \"**/*.{html,md,json}\"",
-    "format:tables": "node .dev-scripts/scripts/minify-md-tables.js",
-    "lint": "eslint \"**/*.{md,json}\"",
-    "lint:fix": "eslint \"**/*.{md,json}\" --fix"
+    "lint": "eslint \"**/*.{md,json}\" && node .dev-scripts/scripts/fix-md-emphasis.js --check",
+    "lint:fix": "eslint \"**/*.{md,json}\" --fix && node .dev-scripts/scripts/fix-md-emphasis.js"
   },
   "devDependencies": {
-    "prettier": "^3.4.2",
+    "@shopify/prettier-plugin-liquid": "^1.11.0",
     "eslint": "^8.57.0",
+    "eslint-plugin-json": "^3.1.0",
     "eslint-plugin-markdown": "^5.1.0",
-    "eslint-plugin-json": "^3.1.0"
+    "prettier": "^3.4.2"
   }
 }

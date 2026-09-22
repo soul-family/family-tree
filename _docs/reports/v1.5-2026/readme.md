@@ -57,6 +57,7 @@ The original website was built with tools that are no longer available (NetObjec
 ## For Family Members
 
 You don't need technical skills to use this archive:
+
 - Browse online at the family domain
 - Download a complete copy for offline reading
 - Submit corrections through the issue tracker
@@ -65,6 +66,7 @@ You don't need technical skills to use this archive:
 ## For Contributors
 
 If you're helping maintain the archive:
+
 - All content in plain text files
 - Standard folder structure
 - Clear contribution guidelines

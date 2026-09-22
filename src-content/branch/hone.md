@@ -3,7 +3,7 @@ title: Hone Family Tree
 ---
 
 ```
-William Hone B 31 Mar 1755;                                      
+William Hone B 31 Mar 1755;
 The William Hone [Biotext biography](http://honearchive.org/);
 D 1831, bd Bunhill Fields, London,
 12 Feb, aged 76, from Percival Street.
@@ -12,14 +12,14 @@ D 1831, bd Bunhill Fields, London,
  | bd Bunhill Fields 22 Apr, aged 76,
  | from Percival Street.
  |
- |    
+ |
  |  _William Hone B at Bath 3 June 1780; [portrait](http://www.npg.org.uk/collections/search/portrait/mw03223/William-Hone?LinkID=mp02253&search=sas&sText=hone&role=sit&rNo=0)
  | | by George Patten at National Portrait Gallery,
  | | London; [The William Hone Biotext](http://honearchive.org/) ed by Kyle Grimes,
  | | University of Alabama at Birmingham; Romantic Circles'
  | | [brief chronology of life](http://www.rc.umd.edu/editions/hone/chrono.htm); D 6 Nov 1842, bd Abney Park
  | | Cemetery, Stoke Newington, N London, gv 316 sq 76,
- | | aged 62, from Grove Place, Tottenham, funeral attended 
+ | | aged 62, from Grove Place, Tottenham, funeral attended
  | | by Charles Dickens and George Cruikshank; 10 Jan 1843
  | | £40, a division of the goods chattels and credits of
  | | William Hone late of no 8 Grove Place Tottenham, granted
@@ -43,7 +43,7 @@ D 1831, bd Bunhill Fields, London,
    |    |  |_____________________________________________|                                    |_Mary Rose Burn B 1869 Victoria, Australia                  | W Australia                    _Doreen Barrett
    |    |                                                |_Allan Burn B 27 Oct 1828           |                                                            |                               |
    |    |                                                  London, D 1883 Bairnsdale,         |_Alice Charlotte (Burn)                                     |                               |                                 _Wesley Barrett
-   |    |                                                  Victoria, Australia                | B 3 June 1862 Victoria,      _May Constance (Williams)     |_Lillian Constance (Granberg)  |_Mervyn Barrett                 | 
+   |    |                                                  Victoria, Australia                | B 3 June 1862 Victoria,      _May Constance (Williams)     |_Lillian Constance (Granberg)  |_Mervyn Barrett                 |
    |    |                                                                                     |                             | B 1884, Victoria; D 9 March  | B 1913 W Australia; D 1998    |                                |  = Michelle (Otway-Melvin)
    |    |                                                   = Joice (Morgan) B 17 June 1833,  |  = David Evan Williams      | 1964 W Australia.            | W Australia                   |  = Cheryl (Grant) d of Hector  |
    |    |                                                   | Tredegar, Wales, d of John      |  | B 1 July 1864 Belvoir,   |                              |                               |  | Grant, B 23 July 1905       |
@@ -53,9 +53,9 @@ D 1831, bd Bunhill Fields, London,
    |    |                                                   | South Gippsland, Victoria       |  | Katanning, W Australia.  |  | (Erickasen), D 1940       |  | Australia                  |  | D 5 Mar 2003 W Australia    |
    |    |                                                   | Australia                       |  |                          |  | W Australia               |  |                            |  |                             |  = Lauren Fernandez
    |    |                                                   |_________________________________|  |                          |  |                           |  M 1936 W Australia.          |  M W Australia                 |
-   |    |                                                                                     |  |                          |  M 28 Dec 1910               |  |                            |  |_____________________________|                                
+   |    |                                                                                     |  |                          |  M 28 Dec 1910               |  |                            |  |_____________________________|
    |    |                                                                                     |  M 8 Nov 1833, Middle       |  |___________________________|  |____________________________|                                |_Melissa (Barrett)
-   |    |                                                                                     |  | Creek, Wodonga           |                              |                               |                                   
+   |    |                                                                                     |  | Creek, Wodonga           |                              |                               |
    |    |                                                                                     |  |__________________________|                              |_David Edward Kitchener        |_Cheryl Barrett                    = Lachlan Simson
    |    |                                                                                     |                             |                                Granberg B 1 Oct 1916         |
    |    |                                                                                     |_William Allan Burn B 1864   |                                W Australia, D 1968 W         |_Wayne Barrett
@@ -80,16 +80,16 @@ D 1831, bd Bunhill Fields, London,
    |    | household of [Joseph Simmonds Soul](../soul.md#JosephSimmondsSoul), widow, 77, B City
    |    | of London; D 10 Mar 1883 at residence of her son
    |    | Thomas at Margaretting, Essex (MEHS), bd Abney Park, Stoke
-   |    | Newington, 15 Mar, aged 79. 
+   |    | Newington, 15 Mar, aged 79.
    |    |
-   |    |  = Thomas Hemsley B 11 June       _Thomas Hemsley B 16 Aug 1827 King St, Tower Hill, parish of 
-   |    |  | 1798, Newington Butts,        | St Botolph Aldgate, bpt 30 Dec 1834 King's Weigh House Chapel 
+   |    |  = Thomas Hemsley B 11 June       _Thomas Hemsley B 16 Aug 1827 King St, Tower Hill, parish of
+   |    |  | 1798, Newington Butts,        | St Botolph Aldgate, bpt 30 Dec 1834 King's Weigh House Chapel
    |    |  | Surrey, bpt King's Weigh      | by Thomas Binney, s of Thomas Hemsley optician, & Fanny (Hone);
    |    |  | House Chapel, 30 Dec 1834,    | 1881 census, Ivy Cottage, Margaretting, Essex, widower, 53,
    |    |  | s of Thomas Hemsley optician  | optician employing 7 men, B City of London; 1901 census, 15
    |    |  | & Elizabeth (Seaton); 1834    | Cleveland Rd, Wanstead, Essex, widower, 73, nautical optician,
    |    |  | Directory, 11 King St, Tower  | working on own account, B parish of St Botolph, Aldgate.
-   |    |  | Hill.                         | 
+   |    |  | Hill.                         |
    |    |  |                               |  = Jessie (Franklyn) B 30 Nov 1825; D 29 Nov 1869, bd 4 Dec,
    |    |  M 29 Apr 1826 St Botolph-       |  | Abney Park, Stoke Newington, with Franklyn Charles.
    |    |  without-Aldgate by licence,     |  |
@@ -104,7 +104,7 @@ D 1831, bd Bunhill Fields, London,
    |    |  |_______________________________|    |  M 22 June 1876, Islington.   _Ethel Clara Hemsley B 3 Apr 1877, Edmonton (MEHS).
    |    |                                  |    |  |___________________________|
    |    |                                  |    |                              |_Violet Mary Hemsley B 2 Apr 1878; 1901 census 15 Capel Rd,
-   |    |                                  |    |                              | East Ham, single, 22, B Middx Tottenham. 
+   |    |                                  |    |                              | East Ham, single, 22, B Middx Tottenham.
    |    |                                  |    |                              |
    |    |                                  |    |                              |_Winifred Sarah Hemsley B 15 Oct 1879.
    |    |                                  |    |                              |
@@ -117,7 +117,7 @@ D 1831, bd Bunhill Fields, London,
    |    |                                  |    |                              |
    |    |                                  |    |                              |_Thomas Alexis Franklyn Hemsley B 12 Nov 1884 (MEHS); 1901 census
    |    |                                  |    |                              | 15 Capel Rd, West Ham, 16, mercantile clerk, B Middx Tottenham;
-   |    |                                  |    |                              | 
+   |    |                                  |    |                              |
    |    |                                  |    |                              |
    |    |                                  |    |                              |_Robert Harry Hemsley B 9 May 1886, Romford (MEHS); 1901 census
    |    |                                  |    |                              | 15 Capel Rd, West Ham, 14, mercantile clerk, B Essex Upminster;
@@ -241,7 +241,7 @@ D 1831, bd Bunhill Fields, London,
    |    |  = Elizabeth (Preece),     _Alfred Hone B 1836 (MEHS); 1841 census William St, Hampstead    |_Edward William Hone B 1890 Q3 Islington; 1901 census,
    |    |  | 1851 census 12 London  | Rd. 4; 1851 census, 12 London St, 14, scholar, B Middx,         | 59 Cobbold Rd, 10, B Highbury; emig to Lima, Peru.
    |    |  | St, 40, B Kingstone,   | St Pancras; 1856 exhibited medallion portrait Royal Academy     |
-   |    |  | Herefordshire; 1881    | (Graves***REMOVED***; executed bronze equestrian memorial to Prince         |_Frank Ernest Hone B 1892 Q2, Edmonton; 1901 census,
+   |    |  | Herefordshire; 1881    | (Graves**REMOVED**; executed bronze equestrian memorial to Prince         |_Frank Ernest Hone B 1892 Q2, Edmonton; 1901 census,
    |    |  | census 17 Victoria     | Imperial erected in S Africa (MEHS); 1881 census, 17            | 59 Cobbold Rd, 9, B Edmonton; emig to Lima, Peru.
    |    |  | Rd, Hornsey, 70, B     | Victoria Rd, Hornsey, 45, designer (artizan), B St Pancras,     |
    |    |  | Hereford.              | (also in household: Alfred Hone father 71 annuitant, £lizabeth  |_Harry Hone B 1894 Q3, Edmonton; 1901 census, 59 Cobbold Rd,
@@ -253,7 +253,7 @@ D 1831, bd Bunhill Fields, London,
    |    |  |                        |                     | B St Pancras; 1901 census,                |  |                                                       _Harry Hone B 1914 Q3 Aston, Birmingham; WW2 Leading Aircraftman,
    |    |  M 16 June 1835 St        |  = Annie () 1881    | 59 Cobbold Rd, Willesden,                 |  M 1914 Q1 Birmingham.                                  | Royal Air Force; author of 'Community Leaders of Virginia',
    |    |  Pancras Old Church,      |  | census, 17       | 34, stone & marble mason,                 |  |______________________________________________________| 'The Light at the End of the Tunnel', and 'Destiny or Fate?'.
-   |    |  bachelor & spinster,     |  | Victoria Rd,     | employer, working at home,                |                                                          
+   |    |  bachelor & spinster,     |  | Victoria Rd,     | employer, working at home,                |
    |    |  each of the parish       |  | Hornsey, 39.     | B London, Kentish Town;                   |_Charles Walter Hone B 1896 Q2, Edmonton; 1901 census,             _Violet Hone.
    |    |  |                        |  | B Stepney.       | emigrated to Lima, Peru.        ;         | 59 Cobbold Rd, 5, B Edmonton; emig to Lima, Peru.                |
    |    |  |                        |  |                  |                                           |                                                                  |_George Hone B 1933.
@@ -289,8 +289,8 @@ D 1831, bd Bunhill Fields, London,
    |    |                           |                       single, 18, laundress, working at home, B Stoke Newington, London.
    |    |                           |
    |    |                           |_William Hone, 1841 census William St, Hampstead Rd, 3; 1851 census,
-   |    |                           | 12 London St, 12, scholar, B St Pancras.                     
-   |    |                           | 
+   |    |                           | 12 London St, 12, scholar, B St Pancras.
+   |    |                           |
    |    |                           |_Frances Elizabeth (Hone) B Q1 1842, St Pancras; 1851 census, 12 London St,
    |    |                           | 9, B St Pancras, scholar.
    |    |                           |
@@ -342,7 +342,7 @@ D 1831, bd Bunhill Fields, London,
    |    |  M 3 Oct 1843 Windhoek, S Africa.   |                                                      of "Delville", Gordon's Bay, Cape Province, South Africa,
    |    |  |__________________________________|                                                      enlisted 1st Regiment South African Infantry, bd Upavon
    |    |                                     |                                                      Churchyard (CWGC).
-   |    |                                     |                              
+   |    |                                     |
    |    |                                     |_Elieser Traugott Hahn B 15 Aug 1848 Otjikango, S Africa; Eeeti Evangeelne Luterlik Kirik [photograph and biographical notes](http://www.eelk.ee/%7Eelulood/hahn_eliesertraugott.html);
    |    |                                     | Biographisch-Bibliographischen Kirchenlexikons [biography](https://www.bbkl.de/public/index.php/frontend/lexicon?letter=H&child=Ha&article=hahn_t1.art); D 19 Mar 1939 Burgdorf, Hanover, Germany.
    |    |                                     |
@@ -350,11 +350,11 @@ D 1831, bd Bunhill Fields, London,
    |    |                                     |  |
    |    |                                     |  |   __Gotthilft Traugott Hahn B 13 Feb 1874 Kuressaare; D 28 Mar 1874 Valjala.
    |    |                                     |  |  |
-   |    |                                     |  |__|                                  
+   |    |                                     |  |__|
    |    |                                     |     |__Gotthilft Traugott Hahn B 1/13 Feb 1875 R'uge;
    |    |                                     |     |  Eeeti Evangeelne Luterlik Kirik [photograph and biographical notes](http://www.eelk.ee/%7Eelulood/hahn_traugott.html);
    |    |                                     |     |  Biographisch-Bibliographischen Kirchenlexikons [biography](https://www.bbkl.de/public/index.php/frontend/lexicon?letter=H&child=Ha&article=hahn_t.art);
-   |    |                                     |     |  
+   |    |                                     |     |
    |    |                                     |     |   = Gerta Ernestine Anna (von zur M'hlen) B 28 Aug 1878 Tallinn; D 13 Jan 1974 Heidelberg.
    |    |                                     |     |   |
    |    |                                     |     |   M  29 Aug/12 Sept 1903 Tallinn.
@@ -364,7 +364,7 @@ D 1831, bd Bunhill Fields, London,
    |    |                                     |     |
    |    |                                     |     |
    |    |                                     |     |__Emma Julie (Hahn) B 3 Aug 1878 R'uge; D 15 May 1955 Wetmar, Hanover.
-   |    |                                     |     |                              
+   |    |                                     |     |
    |    |                                     |     |   = Woldemar Paul Sielmann B 23 Mar 1875 T'stamaa;
    |    |                                     |     |   | Eeeti Evangeelne Luterlik Kirik [biographical notes](http://www.eelk.ee/%7Eelulood/sielmann_woldemar.html);
    |    |                                     |     |   | D 3 Aug 1942 Burgdorf.
@@ -409,8 +409,8 @@ D 1831, bd Bunhill Fields, London,
    |    |                                     |     |
    |    |                                     |     |
    |    |                                     |     |__Magdalene Elisabeth Seni (Hahn) B 22 Aug 1883 R'uge; D 15 Nov 1943 Giesen.
-   |    |                                     |     |                  
-   |    |                                     |     |                 
+   |    |                                     |     |
+   |    |                                     |     |
    |    |                                     |     |__Carl Hugo Hahn B 22 Sept/4 Oct (Russian/Western calendars) 1886 Tallinn;
    |    |                                     |     |  Biographisch-Bibliographischen Kirchenlexikons [biography](https://www.bbkl.de/public/index.php/frontend/lexicon?letter=H&child=Ha&article=hahn_hu1.art); D 5 Nov 1957 Dresden.
    |    |                                     |     |
@@ -424,8 +424,8 @@ D 1831, bd Bunhill Fields, London,
    |    |                                     |     |__Maria Hahn 30 Apr 1889 Tallinn.
    |    |                                     |     |
    |    |                                     |     |__Maria Elisabeth Margarete (Hahn) B 24.06.1892 Tallinn; D 4 June 1953 Abo, Soome.
-   |    |                                     |      
-   |    |                                     |         = Franz Edward Hannula B 14 Aug 1887 Olukonda, Edela Aafrica. 
+   |    |                                     |
+   |    |                                     |         = Franz Edward Hannula B 14 Aug 1887 Olukonda, Edela Aafrica.
    |    |                                     |         |
    |    |                                     |         M 23 Aug 1914 Pargas, Soome.
    |    |                                     |
@@ -433,18 +433,18 @@ D 1831, bd Bunhill Fields, London,
    |    |                                     |
    |    |                                     |_Emma Marguerite (Hahn) B 6 July 1850 Rehobeth, Namaland, S Africa;
    |    |                                       emigrated to USA 1880s; D 6 Nov 1906 Bronx, New York.
-   |    |                      
+   |    |
    |    |                                        = Heinrich Beiderbecke, B 1845; emigrated to USA 1880s; pastor in
    |    |                                        | New York (MEHS); D 10 May 1936 Glen Rock, New Jersey.
    |    |                                        |
    |    |_Charlotte Hone died in infancy.        M 6 July 1875.
    |    |                                        |
    |    |                                        |_______________Frederick Christian Beiderbecke B 1876 SW Africa;
-   |    |                                        
+   |    |
    |    |                                                         = Catherine (Thum)
    |    |                                                         |
    |    |                                                         |____________________Joseph Thum Beidebecker B 1911; D 1995.
-   |    |                                                       
+   |    |
    |    |_? died in infancy.
    |    |
    |    |_Rose Hone B 27 Aug 1818 parish of St Bride's Fleet St, bpt 30
@@ -457,10 +457,10 @@ D 1831, bd Bunhill Fields, London,
    |    | .
    |    |
    |    |_Samuel Parr Hone, B 9 May 1820, bpt 15 Mar 1829 St Mary's Islington;
-   |    | 3 Apr 1829 presentation to Christ's Hospital, 'son of William Hone 
+   |    | 3 Apr 1829 presentation to Christ's Hospital, 'son of William Hone
    |    | Citizen & Spectaclemaker', by Thomas Piper of 42 Eastcheap, admitted
    |    | from St Mary Islington Middlesex, 'cloathed' 9 Oct 1829; 12 June
-   |    | 1835 discharged from Christ's Hospital 'by his Father residing 
+   |    | 1835 discharged from Christ's Hospital 'by his Father residing
    |    | at Peckham Rye Common who will provide him a Master'; engaged
    |    | in The Times Printing Office (MEHS); D 1870 Q2, aged 49, Islington.
    |    |
@@ -484,7 +484,7 @@ D 1831, bd Bunhill Fields, London,
    |      Alice Fourdinois, married, 45, visitor, B London.
    |
    |       1= Jean-Baptiste Lovati       _Alice Romola Lovati B 1847 Q4, St George's Hanover Sq
-   |        |                           | district; D 1851 aged 3 yrs 8 mnths, bd Abney Park, 
+   |        |                           | district; D 1851 aged 3 yrs 8 mnths, bd Abney Park,
    |        |___________________________| gv 316 sq 76, 3 July 1851, from 19 Cumming St, Pentonville.
    |                                    |
    |                                    |
@@ -497,7 +497,7 @@ D 1831, bd Bunhill Fields, London,
    |                                    |_Angeline Fourdinois, B 29 June 1869 (MEHS); 1871
    |                                      census, 4 Milner Sq, Islington, 1, visitor, B
    |                                      Champagne; later Sanze (MEHS).
-   |           
+   |
    |_Joseph Hone, B 30 Dec 1783; [photograph in State Library of Tasmania](https://stors.tas.gov.au/AUTAS001139592703); [house](https://stors.tas.gov.au/AUTAS001131820383j2k); D 22 Sept 1861.
    | Lawyer and civil servant, barrister of Gray's Inn, practised in the
    | Courts of Chancery and Exchequer, on the Midland circuit in London. He
@@ -544,7 +544,7 @@ D 1831, bd Bunhill Fields, London,
    | aged 78; bd St David's Park, Hobart; Oct 1861, letters of administration
    | to Elizabeth Augusta Hone widow of the decd.
    |
-   |                                           
+   |
    |  1= Ann (Lamport); 1824 emig Hobart      _Hannah (Hone)
    |   | Town; D 15 Jan 1839 aged 61 yrs,    |
    |   | bd St David's Park, Hobart, 'wife   |  = [William Fletcher](../fletcher.md#WilliamFletcher)
@@ -561,7 +561,7 @@ D 1831, bd Bunhill Fields, London,
    |   |                                     |  M 27 July 1825.
    |   |                                     |
    |   |_____________________________________|
-   |                                         |_Martha Ann Hone, D 7 Sept 1839, aged 28, 
+   |                                         |_Martha Ann Hone, D 7 Sept 1839, aged 28,
    |  2= Elizabeth Augusta (Rowe)              bd St David's Park, Hobart, 'd of Joseph
    |   |                                       Hone barrister at law of Gray's Inn'.
    |   |
@@ -584,4 +584,3 @@ D 1831, bd Bunhill Fields, London,
      Clerkenwell, bpt Providence Chapel 12 Nov 1798, s of
      William Hone & Frances Maria his wife.
 ```
-

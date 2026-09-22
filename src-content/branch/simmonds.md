@@ -3,7 +3,7 @@ title: Simmonds Family Tree
 ---
 
 ```
- George Simmonds, 1818 Westminster Poll, Parishes 
+ George Simmonds, 1818 Westminster Poll, Parishes
  of St Clement Danes & St Mary le Strand, Geo. Simmonds
  of 11 Bear Yard, Linc. Inn F., carpenter, voted
  as householder for candidates Sir Francis Burdett bart
@@ -23,9 +23,9 @@ title: Simmonds Family Tree
   |     |___Jane Mary Simmonds B 7 Feb 1805; bpt
   |     |   18 Mar 1805 St Clement Danes, d of George
   |     |   & Elizabeth.
-  |     |   
+  |     |
   |     |___Ann (Simmonds) B 6 May 1807; bpt
-  |     |   20 June 1807 St Clement Danes, 
+  |     |   20 June 1807 St Clement Danes,
   |     |   d of George & Elizabeth; D 16 Apr
   |_____|   1898 at 19 Courtney Road, Drayton
         |   Park, Holloway, bd Abney Park
@@ -88,7 +88,7 @@ title: Simmonds Family Tree
         |___Frederick William Ladds Simmonds bpt 20
         |   July 1818 St Clement Danes, s of George
         |   Simmonds carpenter & Elizabeth Simmonds
-        |   of 11 Bear Yard; D aged 6 days, bd 28 
+        |   of 11 Bear Yard; D aged 6 days, bd 28
         |   July 1818 St Clement Danes, of 11 Bear
         |   Yard.
         |
@@ -96,7 +96,6 @@ title: Simmonds Family Tree
             Danes, d of George Simmonds carpenter
             & Elizabeth Simmonds of Bear Yard; 1841
             census, 15 Blackmoor Street, 21.
-
 
  George Henry Simmonds, 1846 Directory
  surveyor of pavements, 7 Gt. Alie St
@@ -115,7 +114,6 @@ title: Simmonds Family Tree
   in pres of George Simmonds & Elizabeth  |
   Simmonds.                               |
   |_______________________________________|
-
 
  John Daniel Simmonds, 6 May 1830 witness at
  marriage of Ann Simmonds & Joseph Soul, St
@@ -140,4 +138,3 @@ title: Simmonds Family Tree
   bachelor & spinster. each of the parish,
   in pres of Zachariah Finch & Jane Finch.
 ```
-

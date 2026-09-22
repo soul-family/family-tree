@@ -58,23 +58,25 @@ If no session IDs are found in config or arguments, the script falls back to int
 The script's path replacement function generates all slash-form variations automatically — forward slash, backslash, JSON-escaped, and with/without drive letter. The JSON config files only need to list each base path once:
 
 ```json
-{"paths": ".*" "replacement": "_www_"}
+{"paths": ".*" "replacement": "**www**"}
 ```
 
 ## Output Format
 
 SQLite databases and stats JSON files created in `.ai-activity/ai-sessions/<developer>/`:
+
 - `<project>-sessions.db` and `<project>-sessions.stats.json` — project-specific sessions
 
 Each database contains three tables:
 
-| Table | Purpose |
-| --- | --- |
+| Table     | Purpose                                               |
+| --------- | ----------------------------------------------------- |
 | `session` | Session metadata (ID, title, directory, tokens, cost) |
-| `message` | Conversation turns (role, model, finish reason) |
-| `part` | Content pieces (text, reasoning, tool calls/results) |
+| `message` | Conversation turns (role, model, finish reason)       |
+| `part`    | Content pieces (text, reasoning, tool calls/results)  |
 
 Each stats JSON file contains:
+
 - `database` — database filename
 - `generated_at` — ISO timestamp of stats generation
 - `totals` — total counts across all sessions

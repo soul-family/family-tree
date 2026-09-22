@@ -54,7 +54,7 @@ title: Fletcher Family Tree
       and he leaves a widow and a large number of children and grandchildren
       to lament his death'; 21 Oct 1872 Supreme Court of Tasmania, will of
       William Fletcher, late of New Town in the County of Buckingham in the
-      Island of Tasmania, deceased, exhibited and proved, administration to 
+      Island of Tasmania, deceased, exhibited and proved, administration to
       George William Fletcher son of the deceased and sole executor.
 
        = [Hannah (Hone)](../hone.md#HannahHone); 25 Oct 1879 Supreme Court of
@@ -96,7 +96,7 @@ title: Fletcher Family Tree
                 |_Joseph Walter Fletcher B 4 Feb 1839, New Town, VDL; |_Walter John Watson Fletcher B 26 Nov 1869, Warwick Reserve, Qld;
                 | D 5 Sept 1915, Sydney, NSW.                         | D 1885, White Swamp, NSW.
                 |                                                     |
-                |_Sidney Gerald Fletcher B 15 June 1841, New          |_Sarah Margaret Fletcher B c 1872, White Swamp, NSW; 
+                |_Sidney Gerald Fletcher B 15 June 1841, New          |_Sarah Margaret Fletcher B c 1872, White Swamp, NSW;
                 | Town, VDL; D 19 Oct 1874, Ipswich, Qld.             | D c 1960, Brisbane, Qld.
                 |                                                     |
                 |                                                     |_Sidney Swettenham Fletcher B 1874, White Swamp, NSW;
@@ -119,4 +119,3 @@ title: Fletcher Family Tree
                 |
                 |_Margaret Elizabeth Fletcher B 25 Jan 1855, New Town, VDL.
 ```
-

@@ -12,4 +12,4 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 
 You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit and distribute any derivative works under the same license.
 
-*This archive is maintained by and for the Soul family. Questions, corrections, and contributions are welcome - please use the repository's issue tracker or the secure contact form.*
+This archive is maintained by and for the Soul family. Questions, corrections, and contributions are welcome - please use the repository's issue tracker or the secure contact form.

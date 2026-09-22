@@ -1,7 +1,9 @@
 /* Minimal stylesheet for Family Tree Archive - GitHub Pages / kramdown */
 
 /* --- Base --- */
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+}
 
 body {
   margin: 0;
@@ -13,30 +15,58 @@ body {
 }
 
 /* --- Typography --- */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
   line-height: 1.3;
   font-weight: bold;
 }
 
-h1 { font-size: 1.6em; padding-bottom: 0.3em; }
-h2 { font-size: 1.35em; }
-h3 { font-size: 1.15em; }
-h4 { font-size: 1em; }
+h1 {
+  font-size: 1.6em;
+  padding-bottom: 0.3em;
+}
+h2 {
+  font-size: 1.35em;
+}
+h3 {
+  font-size: 1.15em;
+}
+h4 {
+  font-size: 1em;
+}
 
-p { margin: 0 0 1em 0; }
+p {
+  margin: 0 0 1em 0;
+}
 
-a { color: #0033CC; text-decoration: none; }
-a:hover { text-decoration: underline; }
-a:visited { color: #0033CC; }
+a {
+  color: #0033cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: #0033cc;
+}
 
 /* --- Layout --- */
 .layout-wrapper {
   display: grid;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: 50px 1fr;
   gap: 0;
   min-height: 100vh;
+  transition: grid-template-columns 0.2s ease;
+}
+
+.layout-wrapper.sidebar-expanded {
+  grid-template-columns: 300px 1fr;
 }
 
 .sidebar {
@@ -47,16 +77,26 @@ a:visited { color: #0033CC; }
   overflow-y: auto;
   background: #f5f5f5;
   border-right: 1px solid #ddd;
+  padding: 0.75rem;
+  transition:
+    width 0.2s ease,
+    padding 0.2s ease;
+  width: 50px;
+}
+
+.layout-wrapper.sidebar-expanded .sidebar {
+  width: 300px;
   padding: 1.5rem;
-  transition: transform 0.2s ease;
 }
 
-.sidebar.collapsed {
-  transform: translateX(-100%);
+.sidebar-brand,
+.sidebar-nav {
+  display: none;
 }
 
-.layout-wrapper:has(.sidebar.collapsed) {
-  grid-template-columns: 0 1fr;
+.layout-wrapper.sidebar-expanded .sidebar-brand,
+.layout-wrapper.sidebar-expanded .sidebar-nav {
+  display: block;
 }
 
 .main-content {
@@ -94,7 +134,7 @@ a:visited { color: #0033CC; }
 .sidebar-nav a {
   display: block;
   padding: 0;
-  color: #0033CC;
+  color: #0033cc;
   text-decoration: none;
 }
 
@@ -102,38 +142,33 @@ a:visited { color: #0033CC; }
   text-decoration: underline;
 }
 
-/* --- Sidebar toggle (mobile) --- */
+/* --- Sidebar toggle (ear) --- */
 .sidebar-toggle {
-  display: block;
-  position: fixed;
-  top: 0.5rem;
-  left: 0.5rem;
-  z-index: 200;
-  padding: 0.5rem 0.75rem;
-  background: #f5f5f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 40px;
+  margin-bottom: 0.5rem;
+  background: transparent;
   border: 1px solid #ccc;
   border-radius: 4px;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1;
   cursor: pointer;
+  color: #333;
+}
+
+.sidebar-toggle::before {
+  content: '▶';
+}
+
+.layout-wrapper.sidebar-expanded .sidebar-toggle::before {
+  content: '◀';
 }
 
 .sidebar-overlay {
-  display: none;
-  position: fixed;
-  inset: 0;
-  background: rgba(0,0,0,0.35);
-  z-index: 140;
-}
-
-.sidebar-overlay.is-open {
-  display: block;
-}
-
-@media (min-width: 721px) {
-  .sidebar-overlay {
-    display: none !important;
-  }
+  display: none !important;
 }
 
 /* --- Footer --- */
@@ -147,7 +182,7 @@ a:visited { color: #0033CC; }
 
 /* --- Pre / Code blocks (preserve family-tree ASCII art and anchors) --- */
 pre {
-  font-family: "Courier New Baltic", "Courier New", Consolas, monospace;
+  font-family: 'Courier New Baltic', 'Courier New', Consolas, monospace;
   font-size: 0.82em;
   line-height: 1.35;
   background: #f8f8f8;
@@ -161,7 +196,7 @@ pre {
 }
 
 code {
-  font-family: "Courier New Baltic", "Courier New", Consolas, monospace;
+  font-family: 'Courier New Baltic', 'Courier New', Consolas, monospace;
   font-size: 0.88em;
   background: #f4f4f4;
   padding: 0.15em 0.35em;
@@ -202,6 +237,48 @@ pre code {
   border-radius: 4px;
 }
 
+/* --- Tables --- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  font-size: 0.95em;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 0.5em 0.75em;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #f5f5f5;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background: #fafafa;
+}
+
+/* Wrap long table content */
+td,
+th {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Scroll wrapper for very wide tables */
+.table-wrapper {
+  overflow-x: auto;
+  margin: 1em 0;
+}
+
+.table-wrapper table {
+  min-width: 600px;
+}
+
 /* --- HR --- */
 hr {
   border: none;
@@ -220,39 +297,23 @@ img {
 /* --- Responsive --- */
 @media (max-width: 720px) {
   .layout-wrapper {
-    grid-template-columns: 1fr;
+    grid-template-columns: 50px 1fr;
   }
 
-  .sidebar-toggle {
-    display: block;
+  .layout-wrapper.sidebar-expanded {
+    grid-template-columns: 300px 1fr;
   }
 
   .sidebar {
-    position: fixed;
+    position: sticky;
     top: 0;
-    left: 0;
-    height: 100vh;
-    width: 260px;
-    max-width: 85vw;
-    transform: translateX(calc(-100% + 50px));
-    transition: transform 0.2s ease;
-    z-index: 150;
-    border-right: 1px solid #ddd;
+    width: 50px;
+    padding: 0.75rem;
   }
 
-  .sidebar.collapsed {
-    transform: translateX(calc(-100% + 50px));
-  }
-
-  .sidebar:not(.collapsed) {
-    transform: translateX(0);
-    box-shadow: 2px 0 8px rgba(0,0,0,0.15);
-  }
-
-  .sidebar-nav {
-    flex-direction: column;
-    flex-wrap: nowrap;
-    gap: 0;
+  .layout-wrapper.sidebar-expanded .sidebar {
+    width: 300px;
+    padding: 1.5rem;
   }
 
   .main-content {
@@ -262,20 +323,5 @@ img {
   pre {
     font-size: 0.72em;
     padding: 0.7em;
-  }
-}
-
-@media (min-width: 721px) {
-  .sidebar {
-    position: sticky;
-    transform: none !important;
-  }
-
-  .sidebar.collapsed {
-    transform: translateX(-100%) !important;
-  }
-
-  .sidebar-overlay {
-    display: none !important;
   }
 }

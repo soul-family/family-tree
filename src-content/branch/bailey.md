@@ -5,8 +5,8 @@ title: Bailey Family Tree
 ```
  James Alexander Bailey, 13 Oct 1834 arrived Hobart, Tasmania, per "Mansfield"
  from London, with wife & child; 1835 Ass't clerk Convict Dept., Clerk convict
- dept., 1837 Clerk of victualling accounts, Convict dept., 1840 Chief clerk 
- Convict dept. 
+ dept., 1837 Clerk of victualling accounts, Convict dept., 1840 Chief clerk
+ Convict dept.
 
   = Jane Manning (Lisson) D 20 July 1876, aged 73, bd 25 July
   | Highgate Cemetery, London, gv 21479, sq 117, from 51 Russell
@@ -24,7 +24,7 @@ title: Bailey Family Tree
   |_________|
             |   =2 [Charles John Coles](../coles.md#CharlesJohnColes)  (follow link to see their descendants)
             |   |
-            |   M 31 July 1860 St Mark's Islington, spinster, of 4 Wycombe 
+            |   M 31 July 1860 St Mark's Islington, spinster, of 4 Wycombe
             |   Terrace, d of James Alexander Bailey clerk, & widower, of
             |   "refreshment rooms", Cheapside, s of Daniel Coles pastry cook.
             |
@@ -47,7 +47,7 @@ title: Bailey Family Tree
             |
             |__Walter Ambrose Lucas Bailey B Hobart 1842.
             |
-            | 
+            |
             |__Frank Evans Bailey B Hobart 1845; 1901 census Tasma, Anson
             |  Rd, Islington, publishers' book binder, employer, B Tasmania;
             |  D 14 Mar 1921, 75, bd Highgate Cemetery from 63 Anson Rd,,
@@ -56,7 +56,7 @@ title: Bailey Family Tree
             |  Rd, Highbury, & Tasma, 63 Anson Rd, Tufnell Park, to Frank
             |  Deane Bailey & James Alexander Bailey company directors,
             |  & William Henry Coles hotel proprietor, effects '12,302 18s 1d.
-            | 
+            |
             |   = Emily (Deane) 1901 census Tasma, Anson
             |   | Rd, Islington, 47, B Northfleet, Kent.
             |   |
@@ -73,8 +73,8 @@ title: Bailey Family Tree
             |                                              |  engineer, of 'Glenroy', Southampton Rd, Alresford,
             |                                              |  s of Thomas Hankin (decd) licensed victualler; in
             |                                              |  pres of H.A. Hankin, E. Bailey, & Frank Evans Bailey.
-            |                                              |  
-            |                                              |_Frank Deane Bailey B 1883; 1901 census Tasma, Anson Rd,  
+            |                                              |
+            |                                              |_Frank Deane Bailey B 1883; 1901 census Tasma, Anson Rd,
             |                                              |  Islington, 18, book binder apprentice, B London Holloway.
             |                                              |
             |                                              |
@@ -85,7 +85,7 @@ title: Bailey Family Tree
             |__Alfred Manning Bailey B Hobart 1847; 1901 census,
                58 High St, Tunbridge Wells, Kent, 53, toy &
                fancy goods dealer, B Tasmania Hobart.
-             
+
                 = Frances Marie (Waters) 1901 census, 58 High
                 | St, Tunbridge Wells, 49, B London Holloway.   _Leonard Waters Bailey B 9 Dec 1880; bpt 27 Mar 1881 St George's
                 |                                              | Tufnell Park, s of Alfred Bailey bookseller & Fanny Bailey, of
@@ -95,8 +95,7 @@ title: Bailey Family Tree
                 clerk government service, & spinster,          | Pas de Calais, France, Bay 1.
                 of 76 Sledon Rd, d of Thomas George            |
                 Waters solicitor's clerk, in pres of          _|
-                Thos G Waters, Frank E Bailey, Julian        | |_Helen Frances Bailey B 24 Oct 1886; bpt 19 Dec 1886 St George's 
+                Thos G Waters, Frank E Bailey, Julian        | |_Helen Frances Bailey B 24 Oct 1886; bpt 19 Dec 1886 St George's
                 Waters, & Marie Waters.                      |   Tufnell Park, d of Alfred Bailey bookseller & Frances Bailey,
                 |____________________________________________|   of 61 Seven Sisters Rd; 1901 census Tasma, Anson Rd, 14.
 ```
-

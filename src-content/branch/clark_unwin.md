@@ -5,7 +5,7 @@ title: Clark & Unwin Family Trees
 ```
 James Clarke
 
- = Sarah        
+ = Sarah
  |             _Hephzibah Clarke B 29 Oct 1816, bpt at the Meeting House,
  |            | d of James Clarke & Sarah of the parish of Gt Waltham, Essex.
  |____________|
@@ -15,7 +15,7 @@ James Clarke
               |  d of James Clark boot maker; & widower, farmer, of 2 Prospect St, s of
               |  Joseph Unwin miller; in pres of Elizabeth Clark.
               |
-              | 
+              |
               |_Sarah Clark B 22 Sept 1818, bpt 25 Oct 1818; Indep, Little Waltham, Essex,
               | d of James Clarke & Sarah; D 1852 aged 33.
               |
@@ -44,14 +44,13 @@ James Clarke
               |_Samuel Clark B 16 Apr 1834; bpt 20 July 1834, Little Waltham, Essex,
                 d of James Clarke & Sarah.
 
-
 Samuel Clark.
 
  =
- |            
+ |
  |______________Hannah (Clark) D 30 Aug 1854, 1 Bird-in-Hand Court, Cheapside. City of London,
                 25, wife of Charles John Coles billiard marker, uterine haemorrhage.
-              
+
                  =1 [Charles John Coles](../coles.md#CharlesJohnColes) B 7 Nov 1824, bpt 28 Nov 1824
                  |  St George-in-the-East, s of Daniel Coles confectioner,
                  |  & Amey, of Church Road; 1861 census, Bird in Hand Court
@@ -69,9 +68,9 @@ Samuel Clark.
                  |  Highgate Cemetery gv 36555 sq 117 from Drayton Court
                  |  Hotel, Ealing; 29 Sept 1908 probate of will granted
                  |  to Charles Alexander Coles, William Henry Coles, and
-                 |  Frank Evans Bailey the executors. 
+                 |  Frank Evans Bailey the executors.
                  |                                            _Hannah Amelia (Coles) B 21 Aug 1854 at 1 Bird in Hand
-                 |                                           | Court, City of London, d of Charles John Coles billiard 
+                 |                                           | Court, City of London, d of Charles John Coles billiard
                  |                                           | marker, & Hannah Coles formerly Clark; 1871 census, Half
                  |                                           | Moon Inn, Half Moon Lane, Dulwich, 16, B Middx. Cheapside.
                  M 22 Aug 1852 Islington Parish Church,      |
@@ -83,4 +82,3 @@ Samuel Clark.
                                                                 d of Charles John Coles of Barnsbury Rd, & s of the late Thomas
                                                                 Hankin of Gloucester Rd, South Kensington.
 ```
-

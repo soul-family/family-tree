@@ -17,7 +17,7 @@ of admin to Martha Roberts widow.
  |_______________| d of Samuel Roberts blacksmith, & Martha Roberts formerly Chiven;
                  | 1861 census, Nags Head Lane, 21, governess, B Hull; 1871 census,
                  | 2 Nags Head Lane, 31, certificate teacher, B Hull.
-                 |                  
+                 |
                  |_Ann Maria Roberts B 1 Aug 1842, Aldbro St, Sculcoates, d of Samuel
                  | Roberts blacksmith, & Martha Roberts formerly Chivin; 1861 census,
                  | Nags Head Lane, 18, pupil teacher, B Hull.
@@ -37,4 +37,3 @@ of admin to Martha Roberts widow.
                    13, scholar, B Hull; 1871 census. 3 Nags Head Lane, Southcoates,
                    Kingston upon Hull, master smith, B Hull.
 ```
-

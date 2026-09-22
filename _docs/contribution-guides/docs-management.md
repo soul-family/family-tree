@@ -29,13 +29,13 @@ These become outdated during normal project evolution:
 
 Describe behavior, capability, and intent:
 
-| Instead of | Write |
-| --- | --- |
-| "Add `--developer` flag to script" | "Add multi-AI co-developer support" |
-| "Update `generate_path_variations()`" | "Improve path replacement logic" |
-| "Move databases to `.ai-activity/`" | "Consolidate session storage location" |
-| "Fix line 142 in audit script" | "Fix version synchronization check" |
-| "Create `VERSION` file" | "Add version tracking" |
+| Instead of                            | Write                                  |
+| ------------------------------------- | -------------------------------------- |
+| "Add `--developer` flag to script"    | "Add multi-AI co-developer support"    |
+| "Update `generate_path_variations()`" | "Improve path replacement logic"       |
+| "Move databases to `.ai-activity/`"   | "Consolidate session storage location" |
+| "Fix line 142 in audit script"        | "Fix version synchronization check"    |
+| "Create `VERSION` file"               | "Add version tracking"                 |
 
 ## Documentation-Specific Rules
 
@@ -67,12 +67,14 @@ AI activity logs track decisions, sources, tool usage, and session outcomes. The
 ### Logging Principles
 
 #### Future-Proof Entries
+
 - Do not mention specific filenames, function names, script names, or file paths
 - Do not reference task numbers (T-numbers), these can change or be reassigned
 - Describe capabilities and outcomes, not implementation details
 - Write entries that remain accurate even when code or structure changes
 
 #### Self-Contained Entries
+
 - Each log entry should stand alone
 - Do not create cross-references to other docs that could break
 - Include all necessary context within the entry
@@ -85,6 +87,7 @@ AI activity logs track decisions, sources, tool usage, and session outcomes. The
 **Task:** [One sentence describing the goal]
 
 **Decisions/Notes:**
+
 - [Decision or action taken]
 - [Another decision or action]
 
@@ -94,22 +97,26 @@ AI activity logs track decisions, sources, tool usage, and session outcomes. The
 ### What to Log
 
 #### Sessions (`sessions.md`)
+
 - Session title (descriptive, not task number)
 - Task description (goal-focused)
 - Key decisions made
 - Outcome achieved
 
 #### Interactions (`interactions.md`)
+
 - Date of interaction
 - Task description
 - Actions taken (describe what was done, not which functions were called)
 - Result achieved
 
 #### Sources (`sources.md`)
+
 - Sources consulted (type and reliability, not specific file paths)
 - Research findings
 
 #### Tools (`tools.md`)
+
 - Tools and techniques used (describe capability, not specific tool names)
 
 ## Enforcement
@@ -117,16 +124,19 @@ AI activity logs track decisions, sources, tool usage, and session outcomes. The
 The pre-commit audit checks:
 
 ### Todo and Changelog
+
 - File extensions in entries
 - Path-like strings in entries
 - Duplicate tasks across todo files
 
 ### Logs
+
 - T-numbers in log entries
 - File extensions in log entries
 - Path-like strings in log entries
 
 ### Documentation
+
 - Referenced files exist
 - Cross-references are valid
 
@@ -137,11 +147,13 @@ Violations fail the commit with actionable messages.
 ### Todo Entries
 
 **Good:**
+
 ```markdown
 - T-123: Add incremental stats generation with caching
 ```
 
 **Bad:**
+
 ```markdown
 - T-123: Add --incremental flag to ai-sessions-stats.py
 ```
@@ -149,14 +161,18 @@ Violations fail the commit with actionable messages.
 ### Changelog Entries
 
 **Good:**
+
 ```markdown
 ### Added
+
 - Incremental stats generation with caching
 ```
 
 **Bad:**
+
 ```markdown
 ### Added
+
 - Added --incremental flag to ai-sessions-stats.py
 - Created _normalize_session() function
 ```
@@ -164,11 +180,13 @@ Violations fail the commit with actionable messages.
 ### Log Entries
 
 **Good:**
+
 ```markdown
 The user wants to refactor the backup workflow. This means separating backup from stats generation.
 ```
 
 **Bad:**
+
 ```markdown
 I moved ai-sessions-backup.py from folder A to folder B
 ```

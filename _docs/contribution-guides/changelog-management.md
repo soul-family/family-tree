@@ -8,11 +8,11 @@ The root `CHANGELOG.md` is the published, released changelog. It is generated fr
 
 ## Files
 
-| File | Purpose |
-| --- | --- |
-| `CHANGELOG.md` | Released changes grouped by version, in reverse chronological order (generated) |
-| `VERSION` | Single line containing the current version number in semver format |
-| `.changelog/unreleased.md` | Work-in-progress entries for the next version, manually maintained |
+| File                       | Purpose                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| `CHANGELOG.md`             | Released changes grouped by version, in reverse chronological order (generated) |
+| `VERSION`                  | Single line containing the current version number in semver format              |
+| `.changelog/unreleased.md` | Work-in-progress entries for the next version, manually maintained              |
 
 ## Workflow
 
@@ -34,6 +34,7 @@ The `unreleased.md` file is the single source of truth for "what is in progress"
 - **Major** (e.g., `v1.x.x` → `v2.0.0`) for breaking changes or large rewrites
 
 The generator always increments the patch number of the most recent version. To release a minor or major version:
+
 1. Edit `.changelog/unreleased.md` with your entries
 2. Run the generator to promote to a patch version
 3. Manually edit the version header in `CHANGELOG.md` to the desired version
@@ -42,11 +43,13 @@ The generator always increments the patch number of the most recent version. To 
 ## Version File
 
 The `VERSION` file is optional. If present:
+
 - It should contain only the version number without the `v` prefix (e.g., `1.7.0`)
 - The changelog generator will update it automatically when promoting unreleased entries
 - The pre-commit audit will verify it matches `CHANGELOG.md` if it exists, but will not auto-promote
 
 If not present:
+
 - Version tracking is manual via `CHANGELOG.md` only
 - No validation errors are generated
 
@@ -71,21 +74,27 @@ Append entries to `.changelog/unreleased.md` like this:
 ## [unreleased]
 
 ### Added
+
 - New feature or capability
 
 ### Changed
+
 - Existing behavior modified
 
 ### Fixed
+
 - Bug fixes or corrections
 
 ### Deprecated
+
 - Features marked for removal
 
 ### Removed
+
 - Features removed in this version
 
 ### Security
+
 - Security-related changes
 ```
 
@@ -94,11 +103,13 @@ Only include the section headings that have entries; remove empty ones.
 ## Examples
 
 **Good (future-proof):**
+
 - "Add multi-AI co-developer support to session backup"
 - "Add tiered word-count user input time calculation"
 - "Consolidate session databases in shared co-developer directory"
 
 **Bad (will become outdated):**
+
 - "Add `--developer` flag to `ai-sessions-backup.py`"
 - "Update `generate_path_variations()` function"
 - "Move databases to developer-specific subdirectories under `.ai-activity/ai-sessions/`"

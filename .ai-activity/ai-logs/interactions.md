@@ -7,6 +7,7 @@
 **Task:** Preserve family tree content in a separated archive structure and update internal navigation.
 
 **Actions:**
+
 1. Created separated folders for family tree branches and updated navigation.
 2. Verified attribution and removed temporary working material.
 
@@ -19,6 +20,7 @@
 **Task:** Review project state, update AI transparency logs, and identify inconsistencies across todo files, guides, skills, and documentation.
 
 **Actions:**
+
 1. Read all todo files, guides, docs, skills, and instructions.
 2. Ran pre-commit audit and identified inconsistencies.
 
@@ -31,6 +33,7 @@
 **Task:** Remove all plaintext email addresses from HTML pages and replace with obfuscated format.
 
 **Actions:**
+
 1. Searched all HTML files for email addresses and removed mailto links.
 2. Updated contact pages to use obfuscated email format.
 
@@ -43,6 +46,7 @@
 **Task:** Set all file and folder meta dates in prep commit folders to corresponding blog post creation dates.
 
 **Actions:**
+
 1. Created and ran date-mapping script on all column commits.
 2. Verified dates across sample commits and documented filesystem behavior.
 
@@ -55,6 +59,7 @@
 **Task:** Generate per-commit index pages that list only blog posts available at that commit date.
 
 **Actions:**
+
 1. Created index-generation script with encoding support and progressive filtering.
 2. Ran script on all 167 column commits and verified listings.
 
@@ -67,6 +72,7 @@
 **Task:** Update todo files and migration guides to reflect completed work.
 
 **Actions:**
+
 1. Updated completed and active task lists with current state.
 2. Updated migration guides and backup documentation.
 
@@ -79,6 +85,7 @@
 **Task:** Modernize the archive markup with HTML5 doctype, CSS3 variables, and UTF-8 encoding while preserving original content and design.
 
 **Actions:**
+
 1. Converted HTML to HTML5 doctype, replaced tables with divs, extracted CSS3 variables.
 2. Applied UTF-8 encoding, optimized images, and implemented responsive sticky navigation.
 
@@ -91,6 +98,7 @@
 **Task:** Document and preserve AI-skills in a dedicated skills folder, referencing them across changelog, reports, and migration guide.
 
 **Actions:**
+
 1. Created skill definitions for AI transparency, commit prep verification, date-aware backup, commit preparation, and date-aware pre-commit.
 2. Added skill references to changelog, reports, and migration guide.
 
@@ -103,6 +111,7 @@
 **Task:** Remove v1 preparation scripts no longer needed after migration, retaining task management, changelog generation, and pre-commit audit tools.
 
 **Actions:**
+
 1. Removed v1 preparation scripts and associated utility modules.
 2. Updated pre-commit audit to remove v1 prep checks.
 
@@ -115,6 +124,7 @@
 **Task:** Prepare changelog v1.5.0 with completed work, update reports and migration guide, and update AI transparency logs.
 
 **Actions:**
+
 1. Added changelog entries for v1.5.0 work and generated changelog.
 2. Updated version history in reports and migration guide.
 3. Moved completed tasks from active todo to done list.
@@ -128,6 +138,7 @@
 **Task:** Archive v1 preparation skills documentation, keeping only ai-transparency as active.
 
 **Actions:**
+
 1. Moved four v1 preparation skills to archived folder and added archived notes.
 2. Updated all references in reports, migration guide, agent instructions, changelog, and logs.
 
@@ -140,6 +151,7 @@
 **Task:** Remove remaining v1 migration intermediate files and obsolete gitignore entries.
 
 **Actions:**
+
 1. Removed preparation folders, temporary working directories, Python cache directories, and obsolete gitignore entries.
 2. Updated root changelog with semver link and cleanup entry.
 
@@ -152,6 +164,7 @@
 **Task:** Optimize AI transparency skill, documentation, and configuration for the post-v1.5 project state.
 
 **Actions:**
+
 1. Updated AI transparency skill, documentation, tools log, research log, and agent instructions.
 2. Added semver link to root changelog.
 
@@ -164,6 +177,7 @@
 **Task:** Reorganize development guides, update AI activity logs, and back up AI session data.
 
 **Actions:**
+
 1. Consolidated dev guides, removed obsolete files, and renamed uppercase filenames in ai-logs to lowercase.
 2. Wrote readme content for .ai-activity subdirectories and backed up website and famtree sessions.
 
@@ -176,6 +190,7 @@
 **Task:** Restructure documentation folders, update session backup script to use JSON config, create skills guide, and fix cross-references.
 
 **Actions:**
+
 1. Restructured docs into underscore-prefixed folders with ai-dev-guides subfolder.
 2. Updated session backup script to load configuration from JSON files.
 3. Created session backup skill and skills guide.
@@ -189,6 +204,7 @@
 **Task:** Update changelog with released work entries and add interaction log entry for changelog/logging maintenance.
 
 **Actions:**
+
 1. Added changelog entries for new skills, documentation reorganization, and script relocation.
 2. Ran changelog generator and added interaction entry for documentation maintenance.
 
@@ -201,6 +217,7 @@
 **Task:** Add co-developer support to session backup script, auto-discover current session ID, update path replacement JSON, and consolidate databases.
 
 **Actions:**
+
 1. Updated path replacement JSON to bare root paths and enhanced path variation generation.
 2. Added co-developer selection, current-session auto-discovery, and updated documentation.
 
@@ -213,6 +230,7 @@
 **Task:** Move session databases to shared co-developer directory and generate session stats JSON files.
 
 **Actions:**
+
 1. Moved session databases to shared co-developer directory and generated per-session stats.
 2. Added stats JSON files alongside databases and updated script default output directory.
 
@@ -225,6 +243,7 @@
 **Task:** Consolidate co-developer support documentation and remove redundant pre-commit audit log entries.
 
 **Actions:**
+
 1. Added co-developers to tools log and updated documentation with co-developer directory table.
 2. Removed pre-commit audit verification entries from interactions and sessions logs.
 
@@ -237,6 +256,7 @@
 **Task:** Refine duration calculations in stats JSON, add session stats units guide, and create AI development analysis reports.
 
 **Actions:**
+
 1. Replaced flat user input estimate with tiered word-count calculation and added word count distribution to stats JSON.
 2. Created session stats units guide and project-totals JSON/document.
 3. Created AI development statistics report and updated stats JSON units section.
@@ -250,6 +270,7 @@
 **Task:** Review project files for current archive focus, update changelog-management guide, consolidate todo lists, and add tasks for family tree repository separation.
 
 **Actions:**
+
 1. Updated changelog-management guide, consolidated todo lists, and updated about-archive guide.
 2. Updated statistics report and reconstructed changelog with version sections.
 
@@ -262,6 +283,7 @@
 **Task:** Fix the changelog generator to promote unreleased to a new version, run it from pre-commit, and audit for duplicated/inconsistent content.
 
 **Actions:**
+
 1. Rewrote changelog generator to increment patch and promote unreleased entries.
 2. Wired generator into pre-commit audit and fixed broken references and duplicate content.
 
@@ -274,6 +296,7 @@
 **Task:** Implement repository optimization tasks including documentation consolidation, database optimization, and verification tooling.
 
 **Actions:**
+
 1. Consolidated duplicate documentation, added SQLite VACUUM and integrity checks, implemented database indexing and deduplication verification.
 2. Created session archive manager, orphaned session cleanup, unified stats aggregator, retention policy, and cache cleanup.
 
@@ -286,6 +309,7 @@
 **Task:** Review and correct inconsistencies across task records, documentation, changelog state, and activity logs.
 
 **Actions:**
+
 1. Audited task lifecycle state, documentation links, changelog readiness, and transparency records.
 2. Corrected navigation references, removed retired tasks, reworded historical entries, and promoted completed changelog entries.
 
@@ -298,12 +322,14 @@
 **Task:** Simplify HTML markup across family tree pages and remove redundant styling.
 
 **Actions:**
+
 1. Removed presentational attributes (width, align, valign, border, hspace, vspace) from table and image elements across all familytree HTML files.
 2. Resolved merge conflict in letters/index.html, keeping the cleaned version and removing conflict markers and duplicate content.
 3. Removed unnecessary <B> tags from headings, images, PRE blocks, and paragraph text across all familytree HTML files to reduce redundant bold styling.
 4. Fixed missing </PRE> closing tags in familytree HTML files.
 
 **Result:** All familytree HTML files simplified. Presentational attributes and unnecessary bold tags removed. Missing PRE closing tags fixed. Merge conflict resolved.
+
 ## Interaction: Merge contact and license into about page, remove sitemap
 
 **Time:** 2026-09-15T14:55:18
@@ -311,6 +337,7 @@
 **Task:** Merge contact and license pages into about page, remove sitemap page and all links.
 
 **Actions:**
+
 1. Merged contact.html and license.html content into about.html with Contact and License sections
 
 **Result:** About page now contains all site information. Contact and sitemap pages removed.
@@ -322,6 +349,7 @@
 **Task:** Investigate why 7 newsletter sessions were empty in the backup database and determine if data was lost.
 
 **Actions:**
+
 1. Searched all accessible databases: Kilo runtime DB, old project backup, git history backups, and local copies
 2. Found the 7 newsletter sessions existed as empty placeholders (0 messages, 0 parts) in the backup DB at commit edde43b and later
 3. Confirmed these sessions never contained any message data in any accessible source

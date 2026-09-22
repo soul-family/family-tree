@@ -5,6 +5,7 @@ Repeatable verification tasks for the Archive project. Audit tasks are not tied 
 ## Purpose
 
 Audit tasks verify project health and prevent regressions across:
+
 - Todo integrity and numbering
 - AI transparency and logging
 - Changelog format and versioning

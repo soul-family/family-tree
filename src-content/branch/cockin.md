@@ -19,7 +19,7 @@ Tayloe house agent, effects '5,276 3s 3d.
  |   _George Anthony Cockin, will dated 13 July 1903 of George Cockin 'I bequeath
  |  | my gold watch and chain to my son George Anthony Cockin'.
  |  |
- |  |                    
+ |  |
  |  |_John Cockin B 24 Aug 1845, Back Bolton St, Bury, Lancashire, s of George Cockin
  |__| calico printer, and Jane Cockin formerly Andrews; 1871 census, school house,
     | Northowram, Queensbury, Yorkshire, 25, school master, B Lancashire, Bury;
@@ -37,7 +37,7 @@ Tayloe house agent, effects '5,276 3s 3d.
     |   | 1881 census, 45 Mason St, East Sculcoates,
     |   | Kingston upon Hull, 38; D 18 Sept 1918.
     |   |
-    |   M 23 Apr 1867 St Mary's Hull, 21, bachelor, school master, 
+    |   M 23 Apr 1867 St Mary's Hull, 21, bachelor, school master,
     |   of Skipton, s of George Cockin pawnbroker, & 24, spinster,
     |   of St Mary's, d of Samuel Roberts blacksmith, in pres of
     |   Samuel Roberts, Samuel Roberts junr, Eliza Roberts, & Ann
@@ -60,12 +60,12 @@ Tayloe house agent, effects '5,276 3s 3d.
     |     |_Charles Herbert Cockin 6 Sept 1874 bpt Queensbury parish church;
     |     | 1881 census, 45 Mason St, Kingston upon Hull, 6, scholar, B Halifax;
     |     | D 13 Feb 1882.
-    |     | 
+    |     |
     |     |_George Samuel Cockin B 7 Dec 1876 Norton near Malton; 1881 census,
     |     | 45 Mason St, Kingston upon Hull, 4, B Yorkshire, Norton Malton;
     |     | Oct 1895 Corpus Christi College Cambridge s of John Cockin school-
     |     | master of Hull', BA 1898; 1899 ordained deacon; 1899 ordained
-    |     | priest (Manchester***REMOVED***; MA 1902: 1903 author of 'The Form of Solemnization
+    |     | priest (Manchester**REMOVED**; MA 1902: 1903 author of 'The Form of Solemnization
     |     | of Matrimony with notes and commentary'; 1904 author of 'Some Difficulties
     |     | in The Life of Our Lord'; 1910-17  Rector of St Catharine's
     |     | Manchester; 1917-19 Organising Secretary for the South American
@@ -97,8 +97,8 @@ Tayloe house agent, effects '5,276 3s 3d.
     |     |_Maurice Stanley Cockin B 23 Dec 1881, Hull; Hymers College Hull; Oct 1900
     |     | Gonville & Caius College Cambridge s of John Cockin of the Park Hull decd; 1904 BA;
     |     | assistant district commisioner W Africa; WW1 capt East Yorks Regt. wounded,
-    |     | mentioned in despatches; 
-    |     |  
+    |     | mentioned in despatches;
+    |     |
     |     |
     |     |  = Alice Grace (Gear) D 23 Oct 1952, Leyden House, Mortlake.                  _Maurice Herbert Battle Cockin
     |     |  |                                                                           | B 17 Nov 1915
@@ -106,13 +106,13 @@ Tayloe house agent, effects '5,276 3s 3d.
     |     |  |___________________________________________________________________________|
     |     |                                                                              |
     |     |_Gertrude Annie Cockin D 5 Nov 1885 aged 1.                                   |_Alice Mary Celia (Cockin) B 12 Aug 1918;
-    |     |                                                                                1994 author 'Nathaniel Sparks - Memoirs 
+    |     |                                                                                1994 author 'Nathaniel Sparks - Memoirs
     |     |_Edith Eliza Cockin B 28 Sept 1886                                              of Thomas Hardy's cousin, the Engraver';
     |
     |        = Leonard Burbidge.                                                            = Gordon Barclay [Gordon Barclay Vietnam Fund](https://thefriend.org/article/gordon-barclay-vietnam-fund-laid-down/)
-    |                                                                                         
+    |
     |        |
-    |        M 24 Feb 1914 Holy Trinity, Hull                                                 
+    |        M 24 Feb 1914 Holy Trinity, Hull
     |
     |_Joseph Cockin, 1881 census, 5 Albion Parade, Holderness Rd, Southcoates,
     | Kingston upon Hull, 33, brass moulder, B Lancashire, Bury.
@@ -120,11 +120,11 @@ Tayloe house agent, effects '5,276 3s 3d.
     |_Rachel (Cockin) 1881 census, 52 Jenning St, 29, B Hull.
 
        = Robert Nutall Rowbotham, 1881 census, 52 Jenning St, 36, tea dealer & grocer,
-       | B Chapel on le Frith, Derbyshire; 1888 Hull & District Directory, 52 Jenning 
+       | B Chapel on le Frith, Derbyshire; 1888 Hull & District Directory, 52 Jenning
        | St, provision dlr;
        |
        M Sculcoates 1875 quarter 4.        _Lily Rowbotham B 1877 q1, Sculcoates;
-       |                                  | 1881 census, 52 Jenning St, Sutton & Stoneferry, 
+       |                                  | 1881 census, 52 Jenning St, Sutton & Stoneferry,
        |                                  | 4. scholar, B Hull.
        |                                  |
        |                                  |
@@ -134,4 +134,3 @@ Tayloe house agent, effects '5,276 3s 3d.
                                             Sutton & Stoneferry, 2, B Hull.
 
 ```
-

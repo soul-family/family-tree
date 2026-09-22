@@ -4,13 +4,13 @@ Quick reference for AI transparency in this project. For the full guide, see `_d
 
 ## Log Files
 
-| File | Purpose |
-| --- | --- |
+| File                                   | Purpose                           |
+| -------------------------------------- | --------------------------------- |
 | `.ai-activity/ai-logs/interactions.md` | Detailed per-task interaction log |
-| `.ai-activity/ai-logs/sessions.md` | Session index with outcomes |
-| `.ai-activity/ai-logs/sources.md` | Research sources consulted |
-| `.ai-activity/ai-logs/tools.md` | Tools and techniques used |
-| `.ai-activity/ai-logs/research-log.md` | Research findings and outcomes |
+| `.ai-activity/ai-logs/sessions.md`     | Session index with outcomes       |
+| `.ai-activity/ai-logs/sources.md`      | Research sources consulted        |
+| `.ai-activity/ai-logs/tools.md`        | Tools and techniques used         |
+| `.ai-activity/ai-logs/research-log.md` | Research findings and outcomes    |
 
 ## Entry Format
 
@@ -22,6 +22,7 @@ Quick reference for AI transparency in this project. For the full guide, see `_d
 **Task:** [one sentence describing the work performed]
 
 **Actions:**
+
 1. [action item]
 2. [action item]
 

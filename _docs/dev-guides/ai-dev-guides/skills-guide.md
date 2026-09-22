@@ -8,12 +8,12 @@ Skills are pre-written markdown workflows stored in `.skills/`. Each skill defin
 
 ### Project Benefits
 
-| Benefit | Active Skills |
-| --- | --- |
-| Transparency audit | `ai-transparency` enforces consistent logging in `.ai-activity/` |
-| Session preservation | `ai-session-backup` exports sessions with local paths anonymized |
-| Self-improvement | `ai-analysis` reviews session transcripts for behavioural insights |
-| Knowledge retention | All decisions, sources, and tools persist in version-controlled logs |
+| Benefit              | Active Skills                                                        |
+| -------------------- | -------------------------------------------------------------------- |
+| Transparency audit   | `ai-transparency` enforces consistent logging in `.ai-activity/`     |
+| Session preservation | `ai-session-backup` exports sessions with local paths anonymized     |
+| Self-improvement     | `ai-analysis` reviews session transcripts for behavioural insights   |
+| Knowledge retention  | All decisions, sources, and tools persist in version-controlled logs |
 
 ## How to Call a Skill
 
@@ -34,24 +34,28 @@ The skill name matches the folder name under `.skills/`. Archived skills are not
 **Benefits for the project:** Ensures every AI interaction is logged consistently; creates a verifiable audit trail for all decisions and file changes.
 
 **When to use:**
+
 - At the start of every AI interaction
 - When making planning decisions
 - When creating or modifying files
 - When reviewing or auditing project history
 
 **Inputs to give:**
+
 - Task description (one sentence)
 - Key decisions made (bulleted, concise)
 - Files modified (role-based, not exact paths)
 - Outcome or next step
 
 **What it produces:**
+
 - Entries in `.ai-activity/ai-logs/interactions.md`
 - Source references in `sources.md`
 - Tool usage in `tools.md`
 - Session summaries in `sessions.md`
 
 **Verification checklist:**
+
 - [ ] `interactions.md` updated with current task
 - [ ] `sources.md` reflects all consulted sources
 - [ ] `tools.md` updated with tools used
@@ -64,6 +68,7 @@ The skill name matches the folder name under `.skills/`. Archived skills are not
 **Benefits for the project:** Preserves session data in portable SQLite databases with local paths anonymized; enables offline analysis without exposing filesystem structure.
 
 **When to use:**
+
 - Before pushing session data to a shared repository
 - When archiving sessions for long-term storage
 - When local paths must be hidden from collaborators
@@ -73,11 +78,13 @@ The skill name matches the folder name under `.skills/`. Archived skills are not
 **Script:** `.dev-scripts/ai-assistant/scripts/ai-sessions-backup.py`
 
 **What it produces:**
+
 - `sessions.db` and matching `.stats.json` files in `.ai-activity/ai-sessions/<developer>/`
 - Each database contains `session`, `message`, and `part` tables
 - All local paths replaced with `_www_`
 
 **Verification checklist:**
+
 - [ ] Database files exist in `.ai-activity/ai-sessions/<developer>/`
 - [ ] Stats JSON files exist alongside databases
 - [ ] Session directories show `_www_` (not local paths)
@@ -91,21 +98,25 @@ The skill name matches the folder name under `.skills/`. Archived skills are not
 **Benefits for the project:** Reveals usage patterns, identifies improvement opportunities, and generates actionable recommendations from individual session transcripts.
 
 **When to use:**
+
 - After completing or reviewing a single AI co-developer session
 - When analyzing session effectiveness
 - When preparing recommendations for process improvement
 
 **Inputs to give:**
+
 - Session transcript file from `.ai-activity/ai-sessions/`
 - Session ID, title, and basic metadata
 - The session analysis template for metrics structure
 
 **What it produces:**
+
 - Report documents in `.ai-activity/ai-reports/`
 - Recommendations in `.ai-activity/ai-user-outcomes/`
 - Metrics dashboard queries for SQLite analysis
 
 **Verification checklist:**
+
 - [ ] All message counts verified against transcript
 - [ ] Tool call counts verified
 - [ ] Improvement suggestions are specific and actionable
@@ -113,10 +124,10 @@ The skill name matches the folder name under `.skills/`. Archived skills are not
 
 ## Skill Loading in Context
 
-| Phase | Skill to load |
-| --- | --- |
-| Session start | `ai-transparency` |
-| During work | `ai-transparency` |
-| Before commit | `pre_commit_audit` script |
-| Session backup | `ai-session-backup` |
-| Post-session analysis | `ai-analysis` |
+| Phase                 | Skill to load             |
+| --------------------- | ------------------------- |
+| Session start         | `ai-transparency`         |
+| During work           | `ai-transparency`         |
+| Before commit         | `pre_commit_audit` script |
+| Session backup        | `ai-session-backup`       |
+| Post-session analysis | `ai-analysis`             |

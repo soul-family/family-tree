@@ -1,14 +1,13 @@
 All notable changes to this project are documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/),
-and this project adheres to [Semantic Versioning](https://semver.org/).
-
+The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
 > **Contribution rules**: All entries must follow `_docs/contribution-guides/shared/adding-text.md` file for rules.
 
 ## [v1.7.0]
 
 ### Added
+
 - Database schema JSON for AI session databases
 - Database schema documentation for AI session databases
 - Deduplicated AI user outcomes documentation
@@ -40,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Column post titles to each page
 
 ### Changed
+
 - HTML simplification: removed presentational attributes from family tree pages
 - AI activity logs updated to remove specific filenames and task references
 - AI logging guidelines created for future-proof log entries
@@ -94,6 +94,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Documentation and skills updated with correct script paths
 
 ### Fixed
+
 - Duplicate session discovery function definition resolved
 - Path replacement configuration now loads from the canonical configuration location
 - Duplicate path replacement rules deduplicated
@@ -102,8 +103,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [v1.6.0]
 
-
 ### Added
+
 - Session stats documentation with tiered word-count user input time methodology
 - AI development project totals report and human-readable statistics report
 - Repository separation tasks for family tree migration
@@ -119,6 +120,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Skills guide documenting all active and archived skills
 
 ### Changed
+
 - AI transparency skill updated to reflect archived skills and simplified workflow
 - Documentation updated to reflect current archive structure
 - Research documentation updated with current project state
@@ -145,6 +147,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Path references and cross-references updated for current folder structure
 
 ### Removed
+
 - v1 migration preparation folders and intermediate files
 - Local Python cache directories
 - Obsolete version-control entries for v1 migration temp folders
@@ -152,10 +155,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [v1.5.0]
 
 ### Added
+
 - HTML5 doctype and modern markup standards
 - Column post titles to each page
 
 ### Changed
+
 - Archive modernized to HTML5 doctype
 - Table-based layouts converted to div-based structure
 - Styling extracted using CSS3 variables
@@ -166,9 +171,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [v1.0.0]
 
 ### Added
+
 - Original website content backup with complete migration workflow
 - Establish archive repository with complete backup of original website content
-- Create preparation folder structure for staged  coomit history
+- Create preparation folder structure for staged coomit history
 - Implement date mapping system to preserve original publication dates
 - Developer tools for migration, verification, and version control
 - AI transparency logging and task tracking practices
@@ -183,7 +189,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - User guides for requesting and submitting archive updates
 - Multi-user access documentation with permission levels
 - Updated archive to modern HTML5 standards while preserving original content
-- Family tree folder structure with per-tree folders 
+- Family tree folder structure with per-tree folders
 - Progressive index pages for all preparation commits
 - Date-aware backup and commit preparation verification
 - AI transparency logging with structured audit trail
@@ -193,6 +199,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Changelog folder structure with unreleased entries
 
 ### Changed
+
 - Restructure file paths for content organization
 - Encoding recovery for special characters
 - Assets deduplicated across versions
@@ -204,12 +211,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Documentation refers to "the Archive" instead of domain names
 
 ### Fixed
+
 - Date parsing for publication filenames
 - Timestamp handling for archive-extracted files
 - Duplicate skill registry entries
 - Encoding corruption: preserve apostrophes and special characters
 
 ### Improved
+
 - Columns page navigation correctly links to related content
 - Main index pages properly organize blog posts and static pages
 - Link validation understands folder-style URLs

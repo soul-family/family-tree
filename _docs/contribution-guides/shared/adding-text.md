@@ -26,26 +26,26 @@ These become outdated during normal project evolution:
 
 Describe behavior, capability, and intent:
 
-| Instead of | Write |
-| --- | --- |
-| "Add `--developer` flag to script" | "Add multi-AI co-developer support" |
-| "Update `generate_path_variations()`" | "Improve path replacement logic" |
-| "Move databases to `.ai-activity/`" | "Consolidate session storage location" |
-| "Fix line 142 in audit script" | "Fix version synchronization check" |
-| "Create `VERSION` file" | "Add version tracking" |
-| **Documentation with `## See Also`** | **Self-contained documentation** - each file must work standalone without cross-references to other docs that could break if files move or change |
+| Instead of                             | Write                                                                                                                                               |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "Add `--developer` flag to script"     | "Add multi-AI co-developer support"                                                                                                                 |
+| "Update `generate_path_variations()`"  | "Improve path replacement logic"                                                                                                                    |
+| "Move databases to `.ai-activity/`"    | "Consolidate session storage location"                                                                                                              |
+| "Fix line 142 in audit script"         | "Fix version synchronization check"                                                                                                                 |
+| "Create `VERSION` file"                | "Add version tracking"                                                                                                                              |
+| **Documentation with `## See Also`** | **Self-contained documentation*** - each file must work standalone without cross-references to other docs that could break if files move or change |
 
 ## Required Instead
 
 Describe behavior, capability, and intent:
 
-| Instead of | Write |
-| --- | --- |
-| "Add `--developer` flag to script" | "Add multi-AI co-developer support" |
-| "Update `generate_path_variations()`" | "Improve path replacement logic" |
-| "Move databases to `.ai-activity/`" | "Consolidate session storage location" |
-| "Fix line 142 in audit script" | "Fix version synchronization check" |
-| "Create `VERSION` file" | "Add version tracking" |
+| Instead of                            | Write                                  |
+| ------------------------------------- | -------------------------------------- |
+| "Add `--developer` flag to script"    | "Add multi-AI co-developer support"    |
+| "Update `generate_path_variations()`" | "Improve path replacement logic"       |
+| "Move databases to `.ai-activity/`"   | "Consolidate session storage location" |
+| "Fix line 142 in audit script"        | "Fix version synchronization check"    |
+| "Create `VERSION` file"               | "Add version tracking"                 |
 
 ## By Context
 
@@ -58,6 +58,7 @@ Describe the outcome, not the implementation:
 ```
 
 Not:
+
 ```markdown
 - T-123: Add --incremental flag to ai-sessions-stats.py
 ```
@@ -68,12 +69,15 @@ Describe what changed for users:
 
 ```markdown
 ### Added
+
 - Incremental stats generation with caching
 ```
 
 Not:
+
 ```markdown
 ### Added
+
 - Added --incremental flag
 - Created _normalize_session() function
 ```
@@ -87,6 +91,7 @@ The user wants to refactor the backup workflow. This means separating backup fro
 ```
 
 Not:
+
 ```markdown
 I moved ai-sessions-backup.py from folder A to folder B
 ```
@@ -100,6 +105,7 @@ The backup script exports session data to anonymized databases.
 ```
 
 Not:
+
 ```markdown
 The script is at `.dev-scripts/ai-assistant/ai-sessions-backup.py`
 ```
@@ -113,6 +119,7 @@ Explain why, not what:
 ```
 
 Not:
+
 ```python
 # Load all messages in one query
 ```
@@ -127,6 +134,7 @@ Not:
 ## Enforcement
 
 The pre-commit audit checks todo and changelog entries for:
+
 - File extensions
 - Path-like strings
 - Implementation-specific terminology

@@ -12,9 +12,6 @@ The archive is intended for researchers, and anyone interested in the historical
 
 Each page includes a `Latest Updated on` annotation at the bottom. This shows when the content was last revised in the archive.
 
-
-
-
 Links to external websites open in a new tab or window. The archive does not maintain or control external content.
 
 ## Browser Compatibility

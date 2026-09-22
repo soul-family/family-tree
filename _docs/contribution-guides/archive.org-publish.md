@@ -30,15 +30,15 @@ Before uploading, ensure the static site is complete:
 
 After upload, edit the item metadata:
 
-| Field | Value |
-| --- | --- |
-| Title | Soul Family Tree |
-| Creator | Peter Soul |
-| Date | 2026 |
+| Field       | Value                                                                             |
+| ----------- | --------------------------------------------------------------------------------- |
+| Title       | Soul Family Tree                                                                  |
+| Creator     | Peter Soul                                                                        |
+| Date        | 2026                                                                              |
 | Description | Soul family tree archive with branches, attribution, and historical source notes. |
-| Collection | web |
-| Subject | genealogy; family history; Soul family |
-| License | Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International |
+| Collection  | web                                                                               |
+| Subject     | genealogy; family history; Soul family                                            |
+| License     | Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International           |
 
 ## Step 4: Enable Web Archive Format
 
@@ -76,9 +76,9 @@ Once verified, share the Archive.org links:
 
 ## Troubleshooting
 
-| Issue | Solution |
-| --- | --- |
-| Links broken after upload | Ensure all href attributes use relative paths |
-| Images missing | Check that asset paths are correct and files were uploaded |
-| Crawl incomplete | Increase crawl depth or wait for automatic recrawl |
-| Personal data exposed | Remove emails/phones from source and re-upload |
+| Issue                     | Solution                                                   |
+| ------------------------- | ---------------------------------------------------------- |
+| Links broken after upload | Ensure all href attributes use relative paths              |
+| Images missing            | Check that asset paths are correct and files were uploaded |
+| Crawl incomplete          | Increase crawl depth or wait for automatic recrawl         |
+| Personal data exposed     | Remove emails/phones from source and re-upload             |

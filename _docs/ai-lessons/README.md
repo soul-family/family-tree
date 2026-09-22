@@ -13,15 +13,15 @@ Every rule here is measurable - each one maps 1:1 to a field in session stats, s
 
 ### Contents
 
-| File | Covers | Stats it fixes |
-| --- | --- | --- |
-| `quick-reference.md` | Pre-flight checklist, card-per-rule cheat sheet, common anti-patterns | all |
-| `prompts-and-task-encoding.md` | Writing one task per message, clear goals, killing hedges | 3.Clarity, 6 |
-| `context-and-constraints.md` | File paths, error logs, stack, constraints, acceptance criteria | 3.Clarity, 4.Steering |
-| `steering-and-iteration.md` | Correcting early, avoiding re-requests, scoping extensions | 3.Steering |
-| `verification-and-acceptance.md` | Tests/lint/build gates, reviewing the diff, "done" definitions | 5.Outcome |
-| `session-hygiene-and-meta.md` | Session splitting, task replacing, focus, freshness | 1, 3.Volume, 4.Process |
-| `hooks-and-automation.md` | Service/prompt hooks to automate the rules, telemetry for stats | all (persistently) |
+| File                             | Covers                                                                | Stats it fixes         |
+| -------------------------------- | --------------------------------------------------------------------- | ---------------------- |
+| `quick-reference.md`             | Pre-flight checklist, card-per-rule cheat sheet, common anti-patterns | all                    |
+| `prompts-and-task-encoding.md`   | Writing one task per message, clear goals, killing hedges             | 3.Clarity, 6           |
+| `context-and-constraints.md`     | File paths, error logs, stack, constraints, acceptance criteria       | 3.Clarity, 4.Steering  |
+| `steering-and-iteration.md`      | Correcting early, avoiding re-requests, scoping extensions            | 3.Steering             |
+| `verification-and-acceptance.md` | Tests/lint/build gates, reviewing the diff, "done" definitions        | 5.Outcome              |
+| `session-hygiene-and-meta.md`    | Session splitting, task replacing, focus, freshness                   | 1, 3.Volume, 4.Process |
+| `hooks-and-automation.md`        | Service/prompt hooks to automate the rules, telemetry for stats       | all (persistently)     |
 
 ### How to use
 
@@ -55,4 +55,5 @@ Recommendation and outcome documents produced from AI analysis activities on the
 Analysis documents are generated as markdown files in this folder, following the analysis workflow from `.skills/ai-analysis/skill.md`.
 
 Current contents:
+
 - `ai-recommendations.md` - Session-specific AI reasoning and recommendations

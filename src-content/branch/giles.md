@@ -10,9 +10,9 @@ title: Giles Family Tree
   M 10 Feb 1834 St Pancras (Old Church), bachelor
   & spinster, each of the parish.
   |
-  |                                              
+  |
   |_William Thomas Giles, B 30 Jan 1836, 12 Warren St, White
-    Conduit Fields, parish of St James Clerkenwell, bpt 10 
+    Conduit Fields, parish of St James Clerkenwell, bpt 10
     Apr 1836, Claremont Chapel, Pentonville, s of Samuel Giles,
     & Charlotte Esther d of Joseph Sills; 1881 census, 19
     Courtney Rd, Highbury, 45, comm clerk tea trade; 1891
@@ -22,7 +22,7 @@ title: Giles Family Tree
     manager, effects £276 7s 9d.
 
      1= Elizabeth (Palmer)
-      |    
+      |
       |___Elizabeth Charlotte (Giles) B 26 Sept 1869, 175 Prince
           of Wales Rd, Kentish Town, d of William Thomas Giles
           commercial clerk, & Elizabeth Giles formerly Palmer;
@@ -33,7 +33,7 @@ title: Giles Family Tree
            = Charles Stacey Harrison Rudd B 1880 Plumstead, Kent;
              1901 census, 19 Courtney Rd, boarder. single, 20,
              draper's clerk, B Thornton Heath.
-           
+
 
      2= [Mary Ann Simmonds (Soul)](../soul.md#MaryAnnSimmondsSoul)
       | B 16 May 1845 at 20 Brunswick Parade, d of Joseph Soul,
@@ -85,8 +85,7 @@ title: Giles Family Tree
         |                   |
         |                   |_Jonathan Frederick Wright B 8 July 1977 Ottawa, Ontario, Canada;
         |                     D 4 Aug 1994 Calgary, Alberta, Canada
-        | 
+        |
         |_Hilda Mary Giles B 8 Mar 1889 (WHS); 1901 census, 19 Courtney Rd, 12;
           D between 1976 - 1978.
 ```
-

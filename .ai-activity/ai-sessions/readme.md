@@ -6,13 +6,14 @@ Exported AI co-developer session transcripts stored here for archival and offlin
 
 This project supports multiple AI co-developers. Each developer's sessions are stored in a separate subdirectory:
 
-| Developer | Databases | Purpose |
-| --- | --- | --- |
-| `kilo-code` | sessions.db | Primary family-tree AI assistant session export |
-| `opencode` | (none) | AI co-developer (future use) |
-| `github-copilot` | (none) | AI pair programmer (future use) |
+| Developer        | Databases   | Purpose                                         |
+| ---------------- | ----------- | ----------------------------------------------- |
+| `kilo-code`      | sessions.db | Primary family-tree AI assistant session export |
+| `opencode`       | (none)      | AI co-developer (future use)                    |
+| `github-copilot` | (none)      | AI pair programmer (future use)                 |
 
 Additional co-developers can be added by:
+
 1. Adding a new entry to `.dev-scripts/ai-assistant/scripts/ai-developers.jsonc`
 2. Creating a matching subdirectory under `.dev-scripts/ai-assistant/<developer-id>/`
 3. Adding `database-schema.jsonc`, `paths-to-replace.jsonc`, and `session-ids.jsonc` in that subdirectory
@@ -20,6 +21,7 @@ Additional co-developers can be added by:
 ## Usage
 
 Scripts are in `.dev-scripts/ai-assistant/`:
+
 - `ai-sessions-backup.py` - Export sessions with path anonymization
 - `ai-sessions-stats.py` - Generate session statistics
 - `session-ids-*.json` - Session IDs per developer

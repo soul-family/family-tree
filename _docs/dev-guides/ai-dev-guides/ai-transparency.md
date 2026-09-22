@@ -5,14 +5,18 @@ Guide for transparent AI-assisted development. Covers data governance, privacy, 
 ## 1. AI Usage Overview
 
 ### Interaction Logging
+
 AI assistants log all interactions for transparency:
+
 - **Decisions** - Rationale behind key choices
 - **Sources** - Research references and extractions
 - **Tool usage** - Which tools were called and why
 - **Session summaries** - High-level outcomes per session
 
 ### Data Storage
+
 AI sessions are stored in a local SQLite database with three tables:
+
 - `session` - metadata (ID, title, timestamps, token counts, cost)
 - `message` - conversation turns (role, model, finish reason)
 - `part` - content pieces (text, reasoning, tool calls/results)
@@ -20,6 +24,7 @@ AI sessions are stored in a local SQLite database with three tables:
 All data stays on the local machine. No conversation content is shared with third parties.
 
 ### Transparency Principles
+
 - One log entry per decision or significant action
 - Structured format (tables, bullets) for readability
 - No deletion of planning artifacts without explicit instruction
@@ -28,15 +33,17 @@ All data stays on the local machine. No conversation content is shared with thir
 ## 2. Data Governance
 
 ### Data Categories
-| Category | Examples | Storage |
-| --- | --- | --- |
-| Session data | Prompts, responses, tool calls | SQLite database |
-| Logs | Decisions, sources, tool usage | Version control (git) |
-| Exports | Session transcripts | Local files (gitignored) |
-| Code changes | Source code, configurations | Project directory |
-| Credentials | API keys, passwords | Environment variables |
+
+| Category     | Examples                       | Storage                  |
+| ------------ | ------------------------------ | ------------------------ |
+| Session data | Prompts, responses, tool calls | SQLite database          |
+| Logs         | Decisions, sources, tool usage | Version control (git)    |
+| Exports      | Session transcripts            | Local files (gitignored) |
+| Code changes | Source code, configurations    | Project directory        |
+| Credentials  | API keys, passwords            | Environment variables    |
 
 ### Data Lifecycle
+
 1. **Creation** - During active AI sessions
 2. **Logging** - Immediately to structured logs
 3. **Version control** - Logs committed; raw sessions gitignored
@@ -44,11 +51,13 @@ All data stays on the local machine. No conversation content is shared with thir
 5. **Deletion** - Only on explicit user instruction
 
 ### Access Control
+
 - Database file: local, user-controlled permissions
 - Logs: visible to repository collaborators
 - Credentials: never stored in files or logs
 
 ### Backup Strategy
+
 - Version control serves as backup for structured logs
 - Database backup: copy the SQLite file to a safe location
 - No automated cloud backup of raw sessions
@@ -56,18 +65,21 @@ All data stays on the local machine. No conversation content is shared with thir
 ## 3. Data Privacy
 
 ### What Data is Collected
+
 - User prompts and AI responses (full conversation)
 - Tool call arguments and results (including file contents when read)
 - File paths and project structure
 - Timestamps, model used, token counts, cost
 
 ### What is NOT Collected
+
 - System-level information beyond working directory
 - Network requests (only URLs fetched via web tools)
 - Passwords or secrets (never logged)
 - Personal data beyond what is provided in the project
 
 ### Privacy Best Practices
+
 - Review tool call results before they are logged
 - Avoid pasting secrets, passwords, or sensitive data
 - Use `.gitignore` to exclude sensitive files
@@ -75,6 +87,7 @@ All data stays on the local machine. No conversation content is shared with thir
 - Restrict database file permissions
 
 ### Compliance Considerations
+
 - **GDPR**: Users can request deletion of session data
 - **Data residency**: All data stays on the local machine
 - **No third-party sharing**: Conversation content is not shared
@@ -82,21 +95,25 @@ All data stays on the local machine. No conversation content is shared with thir
 ## 4. Benefits
 
 ### Audit Trail
+
 - Every decision traces to a session log entry
 - File modifications recorded with context
 - Useful for compliance, debugging, and knowledge transfer
 
 ### Reproducibility
+
 - Structured logs define repeatable workflows
 - Session transcripts can be replayed or referenced
 - Decisions and rationale preserved for future review
 
 ### Learning and Improvement
+
 - Review past sessions to identify patterns
 - Analyze interaction quality over time
 - Improve prompts and workflows iteratively
 
 ### Team Collaboration
+
 - Logs can be shared via version control
 - Documentation captures team conventions
 - Workflows are shareable across team members
@@ -104,32 +121,36 @@ All data stays on the local machine. No conversation content is shared with thir
 ## 5. Statistics & Metrics
 
 ### Session-Level Metrics
-| Metric | Definition | Purpose |
-| --- | --- | --- |
-| Messages per session | Total conversation turns | Session complexity |
-| Tool calls per session | Number of tool invocations | AI activity level |
-| Tokens per session | Input + output tokens | Resource consumption |
-| Session duration | Time from first to last message | Efficiency |
+
+| Metric                 | Definition                      | Purpose              |
+| ---------------------- | ------------------------------- | -------------------- |
+| Messages per session   | Total conversation turns        | Session complexity   |
+| Tool calls per session | Number of tool invocations      | AI activity level    |
+| Tokens per session     | Input + output tokens           | Resource consumption |
+| Session duration       | Time from first to last message | Efficiency           |
 
 ### User Behaviour Metrics
-| Metric | Definition | Interpretation |
-| --- | --- | --- |
-| Prompt length | Average characters per user message | Specificity indicator |
-| Clarification requests | User questions asking for details | Communication clarity |
-| Revisions per task | Times user edits/adjusts requests | Task scoping |
-| Approval rate | % of AI suggestions accepted | Trust and accuracy |
-| Session restarts | New sessions vs. continuing | Context limits |
+
+| Metric                 | Definition                          | Interpretation        |
+| ---------------------- | ----------------------------------- | --------------------- |
+| Prompt length          | Average characters per user message | Specificity indicator |
+| Clarification requests | User questions asking for details   | Communication clarity |
+| Revisions per task     | Times user edits/adjusts requests   | Task scoping          |
+| Approval rate          | % of AI suggestions accepted        | Trust and accuracy    |
+| Session restarts       | New sessions vs. continuing         | Context limits        |
 
 ### AI Behaviour Metrics
-| Metric | Definition | Interpretation |
-| --- | --- | --- |
-| Tool diversity | Unique tools used | Versatility |
-| Most used tool | Tool with highest call count | Efficiency focus |
-| Error recovery attempts | Retries after failures | Robustness |
-| Reasoning depth | Reasoning tokens vs. output | Thoughtfulness |
-| First-attempt success | Tasks completed without revision | Quality |
+
+| Metric                  | Definition                       | Interpretation   |
+| ----------------------- | -------------------------------- | ---------------- |
+| Tool diversity          | Unique tools used                | Versatility      |
+| Most used tool          | Tool with highest call count     | Efficiency focus |
+| Error recovery attempts | Retries after failures           | Robustness       |
+| Reasoning depth         | Reasoning tokens vs. output      | Thoughtfulness   |
+| First-attempt success   | Tasks completed without revision | Quality          |
 
 ### Collecting Statistics
+
 ```python
 import sqlite3
 
@@ -160,6 +181,7 @@ conn.close()
 ```
 
 ### KPI Dashboard Queries
+
 - **Weekly activity**: Sessions created per week
 - **Token consumption**: Daily/weekly token usage trends
 - **Tool effectiveness**: Success rate per tool (successful vs. failed calls)
@@ -168,6 +190,7 @@ conn.close()
 ## 6. AI Analysis
 
 ### Analyzing AI Usage Patterns
+
 Use AI to analyze your own AI usage for optimization:
 
 ```python
@@ -198,14 +221,18 @@ conn.close()
 ```
 
 ### Session Stats Analysis
+
 AI-powered session analysis reveals:
+
 - Prompt specificity trends over time
 - Tool usage efficiency improvements
 - Common error patterns and failure points
 - Session outcome comparisons (completed vs. abandoned)
 
 ### Pattern Recognition Questions
+
 Ask AI to analyze session data:
+
 - "What task types do I delegate to AI most often?"
 - "Which tools are underutilized?"
 - "Where do sessions most commonly fail or get abandoned?"
@@ -213,11 +240,12 @@ Ask AI to analyze session data:
 - "Are my prompts becoming more or less specific over time?"
 
 ### Metrics Dashboard Suggestions
-| Category | Metrics | Tools |
-| --- | --- | --- |
-| Volume | Sessions/day, Messages/session | SQLite queries |
-| Quality | Error rate, Revision rate | Part type analysis |
-| Efficiency | Tool calls/task, Time/session | Timestamp deltas |
+
+| Category   | Metrics                           | Tools               |
+| ---------- | --------------------------------- | ------------------- |
+| Volume     | Sessions/day, Messages/session    | SQLite queries      |
+| Quality    | Error rate, Revision rate         | Part type analysis  |
+| Efficiency | Tool calls/task, Time/session     | Timestamp deltas    |
 | Engagement | Approval rate, Clarification rate | Role-based analysis |
 
 ## 7. Implementation Checklist

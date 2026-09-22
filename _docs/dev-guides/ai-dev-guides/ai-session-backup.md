@@ -36,32 +36,33 @@ python .dev-scripts/ai-sessions/ai-sessions-backup.py --db-path <path-to-source.
 
 ## Command-line Arguments
 
-| Argument | Description |
-| --- | --- |
-| `--db-path PATH` | Path to the AI co-developer SQLite database - required |
-| `--output-dir DIR` | Output directory (default: `.ai-activity/ai-sessions/<developer>`) |
-| `--output-name NAME` | Output database filename (default: from developer config) |
-| `--developer NAME` | AI co-developer ID from config (default: first configured developer) |
-| `--current-session` | Auto-discover and include the most recent session |
-| `--sessions IDS` | Comma-separated session IDs (overrides JSON config) |
+| Argument                   | Description                                                           |
+| -------------------------- | --------------------------------------------------------------------- |
+| `--db-path PATH`           | Path to the AI co-developer SQLite database - required                |
+| `--output-dir DIR`         | Output directory (default: `.ai-activity/ai-sessions/<developer>`)    |
+| `--output-name NAME`       | Output database filename (default: from developer config)             |
+| `--developer NAME`         | AI co-developer ID from config (default: first configured developer)  |
+| `--current-session`        | Auto-discover and include the most recent session                     |
+| `--sessions IDS`           | Comma-separated session IDs (overrides JSON config)                   |
 | `--paths-to-replace PATHS` | Comma-separated paths to replace with `_www_` (overrides JSON config) |
-| `--append` | Append new sessions to existing database instead of recreating it |
+| `--append`                 | Append new sessions to existing database instead of recreating it     |
 
 ## Config Files
 
 Located in `.dev-scripts/ai-sessions/` and per-developer subdirectories:
 
-| File | Purpose |
-| --- | --- |
-| `.dev-scripts/ai-sessions/ai-developers.jsonc` | AI developer definitions and configuration |
-| `.dev-scripts/ai-sessions/shared/config_loader.py` | Configuration loading functions |
-| `.dev-scripts/ai-sessions/<developer-id>/session-ids.jsonc` | Session IDs to back up - `{"session_ids": [...]}` |
-| `.dev-scripts/readonly-paths-to-replace.jsonc` | Local paths to anonymize - `{"rules": [{"paths": [...], "replacement": "_www_"}]}` |
-| `.dev-scripts/ai-sessions/shared/database-schema.jsonc` | Database schema definition |
+| File                                                        | Purpose                                                                            |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `.dev-scripts/ai-sessions/ai-developers.jsonc`              | AI developer definitions and configuration                                         |
+| `.dev-scripts/ai-sessions/shared/config_loader.py`          | Configuration loading functions                                                    |
+| `.dev-scripts/ai-sessions/<developer-id>/session-ids.jsonc` | Session IDs to back up - `{"session_ids": [...]}`                                  |
+| `.dev-scripts/readonly-paths-to-replace.jsonc`              | Local paths to anonymize - `{"rules": [{"paths": [...], "replacement": "_www_"}]}` |
+| `.dev-scripts/ai-sessions/shared/database-schema.jsonc`     | Database schema definition                                                         |
 
 ## How It Works
 
 ### Default Mode
+
 1. Loads session IDs from JSON config files (or command line)
 2. Reads session data from the source database
 3. Applies path replacement to anonymize local paths
@@ -69,12 +70,14 @@ Located in `.dev-scripts/ai-sessions/` and per-developer subdirectories:
 5. Generates a `.stats.json` file with per-session statistics
 
 ### Append Mode (`--append`)
+
 1. Checks existing sessions in the output database
 2. Only processes sessions not already present
 3. Applies path replacement per-entry for efficiency
 4. Preserves all existing data
 
 ### Path Replacement
+
 - All slash form variations are generated automatically from base paths
 - Replacement is applied to all text fields in session, message, and part tables
 - JSON-escaped paths are handled correctly

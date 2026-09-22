@@ -53,7 +53,6 @@ GitHub provides several built-in statistics:
 2. View commits per day/week
 3. Identify peak activity periods
 
-
 ## Browsing the Archive
 
 ### Viewing Content

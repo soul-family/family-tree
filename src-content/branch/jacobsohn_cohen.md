@@ -21,7 +21,7 @@ title: Jacobsohn & Cohen Family Trees
       |
       |_Joseph Henry Jacobsohn.
       |
-      | 
+      |
       |_Sydney Samuel Jacobsohn B 1869; D 14/15 Apr 1912 passenger on [Titanic](http://www.encyclopedia-titanica.org/bio/p/2nd/jacobsohn_ss.shtml).
       | 22 July 1912, High Court London, grant of probate of the contents
       | of the lost will (lost on the Titanic) as contained in Mrs Jacobsohn's
@@ -53,4 +53,3 @@ title: Jacobsohn & Cohen Family Trees
       |
       |_Lewis Bertie Jacobsohn.
 ```
-

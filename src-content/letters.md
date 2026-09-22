@@ -7,10 +7,9 @@ title: Letters
   <a href="#letter-1">L1</a> | <a href="#letter-2">L2</a> | <a href="#letter-3">L3</a> | <a href="#letter-4">L4</a> | <a href="#letter-5">L5</a> | <a href="#letter-6">L6</a> | <a href="#letter-7">L7</a> | <a href="#letter-8">L8</a> | <a href="#letter-9">L9</a> | <a href="#letter-10">L10</a> | <a href="#letter-11">L11</a> | <a href="#letter-12">L12</a> | <a href="#letter-13">L13</a> | <a href="#letter-14">L14</a> | <a href="#letter-15">L15</a> | <a href="#letter-16">L16</a> | <a href="#letter-17">L17</a> | <a href="#sources">Sources</a>
 </nav>
 
-<div class="letter" id="letter-1">
-  <div class="letter-meta">
-    <strong>Letter 1, October 17, 1790</strong> — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
-  </div>
+<a id="letter-1"></a>
+
+**Letter 1, October 17, 1790** — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
 
 London October 17 1790
 
@@ -23,14 +22,11 @@ My dear brother, I am ashamed of myself when I consider upon progress of religio
 I have paid for your flocks, have got your serge and your seal, and  two letters. We will talk more about it between our two selves. I remain with all friends respects and more,  
 Daniel Soul
 
-</div>
-
 ---
 
-<div class="letter" id="letter-2">
-  <div class="letter-meta">
-    <strong>Letter 2, October 8, 1791</strong> — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul)
-  </div>
+<a id="letter-2"></a>
+
+**Letter 2, October 8, 1791** — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul)
 
 Ebley 8 October 1791
 
@@ -63,14 +59,11 @@ Now may the Lord give you faith in his Dear Self to honour and glorify by ventur
 
 I hope these few lines will find you well as it leaves us at present, blessed be God for it, and for every mercy amen. At one time I did hope to have seen all my children together once more here below, but however all is for the best, tho we can't always see it so. May you and I and  all the family meet at last above, there to spend a blest eternity together is the sincere prayer of you loving and affectionate father & mother John Soul & Mary Soul.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-3">
-  <div class="letter-meta">
-    <strong>Letter 3, January 9, 1792</strong> — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
-  </div>
+<a id="letter-3"></a>
+
+**Letter 3, January 9, 1792** — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
 
 ### Mr Soul
 
@@ -84,14 +77,11 @@ Middlesex
 
 and affectionate brother Daniel Soul
 
-</div>
-
 ---
 
-<div class="letter" id="letter-4">
-  <div class="letter-meta">
-    <strong>Letter 4, February 20, 1793</strong> — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [son John Soul (b.1787)](../branch/soul.md#JohnSoul1787)
-  </div>
+<a id="letter-4"></a>
+
+**Letter 4, February 20, 1793** — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [son John Soul (b.1787)](../branch/soul.md#JohnSoul1787)
 
 Mr Soul, Rev Dr Glasses, No 33 Gerrard Street, Soho,
 
@@ -107,14 +97,11 @@ Daniel Soul.
 
 I hear Dr Glass is to preach at Bishopsgate 17th March. I hope it is true and that I shall see you here that day. Could you enquire how much cerseymere\[?\] would make a coat. Faced with the same for me.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-5">
-  <div class="letter-meta">
-    <strong>Letter 5, March 6, 1793</strong> — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
-  </div>
+<a id="letter-5"></a>
+
+**Letter 5, March 6, 1793** — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
 
 Mr Soul, Rev Dr Glasses, No 33 Gerrard Street, Soho,
 
@@ -128,14 +115,11 @@ I thank you for your information respecting going into Glostershire and think  
 
 I believe your watch is done. I remain yours affectionately, Daniel Soul
 
-</div>
-
 ---
 
-<div class="letter" id="letter-6">
-  <div class="letter-meta">
-    <strong>Letter 6, November 2, 1793</strong> — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul)
-  </div>
+<a id="letter-6"></a>
+
+**Letter 6, November 2, 1793** — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul)
 
 Ebley, Nov 2 1793
 
@@ -151,14 +135,11 @@ My love to his wife and to my grandson and to cousin John and his wife and to  
 
 PS All things are again upon an amicable footing and very friendly in the two  families about Emmi & John, & I am very well satisfied.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-7">
-  <div class="letter-meta">
-    <strong>Letter 7, March 8, 1794</strong> — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul)
-  </div>
+<a id="letter-7"></a>
+
+**Letter 7, March 8, 1794** — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul)
 
 Mr Eli Soul, Long Alley No 43, Moorfields, London,
 
@@ -181,14 +162,11 @@ I have directed the bacon to your house only. If you don't have any more bacon, 
 Your Mother is much the same with her complaint. Your Aunt Temple is a good deal better than when wrote to your brother this week. Kezia is at Bath with her  gd mother. All the others' love to you both, and please to accept the same from your affectionate father,  
 John Soul & Mary Soul.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-8">
-  <div class="letter-meta">
-    <strong>Letter 8, January 29, 1795</strong> — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
-  </div>
+<a id="letter-8"></a>
+
+**Letter 8, January 29, 1795** — [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul)
 
 Jany 29 1795
 
@@ -198,14 +176,11 @@ I have just rec'd your kind letter, and return you my grateful thanks for the tr
 
 I look for you every evening to come and spend a few minutes.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-9">
-  <div class="letter-meta">
-    <strong>Letter 9, February 11, 1798</strong> — [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), Samuel Soul
-  </div>
+<a id="letter-9"></a>
+
+**Letter 9, February 11, 1798** — [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), Samuel Soul
 
 Febry 11 1798
 
@@ -218,14 +193,11 @@ Dear brother will you be so kind to buy me a braid as near the colour of the  p
 With my kind love to you both, hoping to see you this summer down here, to brother Daniel [Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), to cousin John, from you ever loving sister  
 Emma Soul
 
-</div>
-
 ---
 
-<div class="letter" id="letter-10">
-  <div class="letter-meta">
-    <strong>Letter 10, March 23, 1798</strong> — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [sister Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb), [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul.md#KeziaSoul)
-  </div>
+<a id="letter-10"></a>
+
+**Letter 10, March 23, 1798** — [John Soul](../branch/soul.md#JohnSoul), [Mary Soul](../branch/soul.md#MarySoul), [son Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul), [sister Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb), [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul.md#KeziaSoul)
 
 Mr Eli Soul, Long Alley No 43, Moorfields, London,
 
@@ -235,17 +207,14 @@ Ebley, March 23 1798
 
 I am almost ashamed to write to you after so long silence. One reason was that I have waited for to send by Mr Porlock but I have missed of the time when when he hath set out for 3 times. But now I have an opportunity to send by Mr  Thomas and to let you know that my affection is not abated towards you in the  least but I trust I have you in mind at a throne of grace continually that the  Lord may bless you in temporals and spirituals that you may grow in grace and in the knowledge and love of the Lord Jesus Christ. I hope that the life and power of religion is kept up in your soul. I have as to my own experience to lament the darkness of my mind and deadness of my affections and borrowings of my soul.  But then what must such a poor sinner do? Why go to Jesus the friend of sinners, he that can heal all manner of diseases. Aye and he's as willing as he is able, for he says whosoever cometh unto me , I will in no wise cast out. So may the  lord help us at all times and in all places to look to him who is the helper of  the helpless amen & amen
 
-I should be exceeding glad to hear from you by the bearer how you go on in the ways of God and likewise in the world, and how your brother [Daniel Soul (b.1764)](../branch/soul.md#DanielSoul) goes on. Tho  I send letters to him, he will not write to me. May the Lord bring him back again to himself. Then all animosity and shyness will be done away. How is Betsy [Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul) and how does she grow? And how is my other grandchild? Please to give my love to all enquiring  friends and tell them we are all in good health, and I hope these few lines will  find uou the same. Your brother and sister  (Christiana ) and Sister Merrett [Emma Soul (b.1763)](../branch/soul.md#EmmaSoul) & Sister Cox [Kezia Soul (b.1768)](../branch/soul.md#KeziaSoul) give their  kind love to you, and please to accept the same from you affectionate father and mother  
+I should be exceeding glad to hear from you by the bearer how you go on in the ways of God and likewise in the world, and how your brother [Daniel Soul (b.1764)](../branch/soul.md#DanielSoul) goes on. Tho  I send letters to him, he will not write to me. May the Lord bring him back again to himself. Then all animosity and shyness will be done away. How is Betsy [Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul) and how does she grow? And how is my other grandchild? Please to give my love to all enquiring  friends and tell them we are all in good health, and I hope these few lines will  find uou the same. Your brother and sister (Christiana ) and Sister Merrett [Emma Soul (b.1763)](../branch/soul.md#EmmaSoul) & Sister Cox [Kezia Soul (b.1768)](../branch/soul.md#KeziaSoul) give their  kind love to you, and please to accept the same from you affectionate father and mother  
 John Soul & Mary Soul
-
-</div>
 
 ---
 
-<div class="letter" id="letter-11">
-  <div class="letter-meta">
-    <strong>Letter 11, August 2, 1799</strong> — [sister Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul)
-  </div>
+<a id="letter-11"></a>
+
+**Letter 11, August 2, 1799** — [sister Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul)
 
 Aug 2 1799
 
@@ -255,14 +224,11 @@ I take this opportunity of scribbling over a few lines unto you, as having an  
 
 Dear brother, if the wind had not proved contrary, as you said in your letter  to my sister Emmi, I should have been very glad to have seen you this summer. We are very comfortably situated up in our old place. I think it seems pleasanter than it used to be. I hope next summer, if please god, to have the happiness of your company. I saw my sister Emmi yesterday, and she seemed in good health. My mother desires her kind love to all of you and hopes you are all well. Her  health was very bad all last winter but when the weather was warmer she got a little the better of it. She is in pretty good health now and likes the place very well. I thank you for your letter to me. My husband desires his kind to you  and all friends. My children sends their duty to you. The unworthy sister  C.W.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-12">
-  <div class="letter-meta">
-    <strong>Letter 12, August 3, 1799</strong> — [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul)
-  </div>
+<a id="letter-12"></a>
+
+**Letter 12, August 3, 1799** — [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister-in-law Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [brother Daniel Soul (b.1764)](../branch/soul.md#DanielSoul)
 
 Mr Eli Soul, at no 2 Long Alley, Moorfields, London,
 
@@ -276,14 +242,11 @@ Dear brother, I thank you very kindly for you kind offer to come and live with y
 
 Dear brother, I am happy to think I did not harken to my cousin John, but in mercy was prevented, yet I wish him well. Please to give my kind love to him when you see him, to brother Daniel [Daniel Soul (b.1764)](../branch/soul.md#DanielSoul) if you see  him, love to your children, to sister Betty and should be glad to see her again. Please to accept the same yourself. From your ever affectionate sister Emma Soul.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-13">
-  <div class="letter-meta">
-    <strong>Letter 13, June 26, 1807</strong> — [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb)
-  </div>
+<a id="letter-13"></a>
+
+**Letter 13, June 26, 1807** — [brother Eli Soul (b.1766)](../branch/soul.md#EliSoul), [sister Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb)
 
 London June 26 1807
 
@@ -293,14 +256,11 @@ I have not wrote nor heard from you a great while, but you have  nevertheless b
 
 PS Pardon my scribble while upon guard to fill up an hour to some  profit I hope to you & to me. We are all tolerably well, thanks be to God, & hope that this will find you also well & happy. Our love to you all from your ever affectionate brother Eli Soul.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-14">
-  <div class="letter-meta">
-    <strong>Letter 14, October 6, 1810</strong> — [father Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul)
-  </div>
+<a id="letter-14"></a>
+
+**Letter 14, October 6, 1810** — [father Eli Soul (b.1766)](../branch/soul.md#EliSoul), [daughter Elizabeth Soul (b.1795)](../branch/soul.md#ElizabethSoul), [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul)
 
 To Mrs. Soul, No 49 Little Cheapside, Moorfields, London,
 
@@ -314,26 +274,20 @@ PS Please to give my respects to all my friends that enquire after me. Farewell 
 
 Cains Cross, October 6 1810, Glostershire.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-15">
-  <div class="letter-meta">
-    <strong>Letter 15, January 23, 1823</strong> — [Eli Soul (b.1766)](../branch/soul.md#EliSoul), [son Eli Soul (b.1798)](../branch/soul.md#EliSoul)
-  </div>
+<a id="letter-15"></a>
+
+**Letter 15, January 23, 1823** — [Eli Soul (b.1766)](../branch/soul.md#EliSoul), [son Eli Soul (b.1798)](../branch/soul.md#EliSoul)
 
 Know all men by these presents that I do give and bequeath to my beloved wife the whole and all of my personal property to be at her  disposal after my decease, save & except my watch which I give to my eldest son [Eli Soul (b.1798)](../branch/soul.md#EliSoul).  
 signed this 23rd day of Jany 1823 Eli Soul senr
 
-</div>
-
 ---
 
-<div class="letter" id="letter-16">
-  <div class="letter-meta">
-    <strong>Letter 16, December 6, 1827</strong> — [Joseph Soul (b.1805)](../branch/soul.md#JosephSoul), [sister Hannah Soul (b.1798)](../branch/soul.md#HannahSoul), John Prichard
-  </div>
+<a id="letter-16"></a>
+
+**Letter 16, December 6, 1827** — [Joseph Soul (b.1805)](../branch/soul.md#JosephSoul), [sister Hannah Soul (b.1798)](../branch/soul.md#HannahSoul), John Prichard
 
 6 Dec 1827  
 My dear sister Mrs [Hannah] Prichard was taken in labor at 9 o'clock in the morning & not delivered until the following evening, Friday the 7th inst, when a boy was brought forth. She had a most severe and painful delivery, and was very bad in consequence.
@@ -350,14 +304,11 @@ She was perfectly resigned. Indeed for months prior to her accouchment she expre
 Hannah Prichard was buried in Bunhill Fields, 15 December 1827, aged 29, from Clifton Street.  
 John Prichard was baptized in St Leonard's Shoreditch, 14 January 1828,  born 7 December 1827, son of John Prichard and Hannah (deceased), of Clifton Street.
 
-</div>
-
 ---
 
-<div class="letter" id="letter-17">
-  <div class="letter-meta">
-    <strong>Letter 17, January 19, 1829</strong> — [aunt Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb), [nephew Joseph Soul (b.1805)](../branch/soul.md#JosephSoul), [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul.md#KeziaSoul), Thomas Soul
-  </div>
+<a id="letter-17"></a>
+
+**Letter 17, January 19, 1829** — [aunt Christiana Webb (b.1770)](../branch/soul.md#ChristianaWebb), [nephew Joseph Soul (b.1805)](../branch/soul.md#JosephSoul), [sister Emma Soul (b.1763)](../branch/soul.md#EmmaSoul), [sister Kezia Soul (b.1768)](../branch/soul.md#KeziaSoul), Thomas Soul
 
 Mr Soul at Mess Jones & Sons, 4 Tavistock Street, Covent Garden, London
 
@@ -376,14 +327,6 @@ My Sister Merrett [Emma Soul (b.1763)](../branch/soul.md#EmmaSoul) desires her l
 So my dear nephew I have given you a short history of my family. I think in reading it you will be almost tired. Can you give me any  intelligence whether your cousin Thomas Soul is living, and where he is. All my family and myself desires our love to you and your dear mother and all your family, and if we should never  see each other on earth, may we be prepared to meet at the right hand of the Judge at the last day, and to hear that blessed Sentence come ye blessed of my father, inherit the kingdom prepared for you from before the foundation of the world. That this may be our happy lot and portion is the fervent prayer of your affectionate aunt  
 C. .
 
-</div>
-
 ---
 
-<a id="sources"></a>
-## Sources
 
-| Name              | Source                                                                                      | Description                                                           |
-| ----------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| National Archives | http://discovery.nationalarchives.gov.uk/results/r?_q=joseph+soul                           | Correspondence of [Joseph Soul (b.1805)](../branch/soul.md#JosephSoul). |
-| Archive.org       | https://web.archive.org/web/20120327174732/http://www.jbsoul.supanet.com/webpages/soul.html | Latest archived 24.03.2012                                            |
