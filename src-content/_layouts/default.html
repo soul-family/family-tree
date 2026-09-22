@@ -8,8 +8,8 @@
 </head>
 <body>
   <div class="layout-wrapper">
-    <aside class="sidebar">
-      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="document.querySelector('.layout-wrapper').classList.toggle('sidebar-expanded')"></button>
+    <aside class="sidebar" onclick="document.querySelector('.layout-wrapper').classList.toggle('sidebar-expanded')">
+      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="event.stopPropagation(); document.querySelector('.layout-wrapper').classList.toggle('sidebar-expanded')"></button>
       <div class="sidebar-content">
         <div class="sidebar-brand">
           <a class="site-title" href="{{ '/' | relative_url }}">Soul Family Tree</a>
