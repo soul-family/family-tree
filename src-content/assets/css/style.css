@@ -104,9 +104,12 @@ a:visited {
   min-width: 0;
 }
 
-/* --- Sidebar brand --- */
-.sidebar-brand {
-  margin-bottom: 1rem;
+/* --- Site header --- */
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
 }
 
 .site-title {
@@ -118,6 +121,46 @@ a:visited {
 
 .site-title:hover {
   text-decoration: underline;
+}
+
+/* --- Sidebar toggle --- */
+.sidebar-toggle {
+  width: 32px;
+  height: 32px;
+  background: transparent;
+  border: none;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #333;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.sidebar-toggle::before {
+  content: '⋮';
+}
+
+.site-header .sidebar-toggle::before {
+  content: '⋮';
+}
+
+.sidebar .sidebar-toggle {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+}
+
+.sidebar .sidebar-toggle::before {
+  content: '◀';
+}
+
+.layout-wrapper.sidebar-expanded .sidebar .sidebar-toggle::before {
+  content: '▶';
 }
 
 /* --- Navigation --- */
@@ -140,39 +183,6 @@ a:visited {
 
 .sidebar-nav a:hover {
   text-decoration: underline;
-}
-
-/* --- Sidebar toggle (ear) --- */
-.sidebar-toggle {
-  position: absolute;
-  bottom: 8px;
-  right: 8px;
-  width: 28px;
-  height: 28px;
-  background: transparent;
-  border: none;
-  border-radius: 50%;
-  font-size: 0.9rem;
-  line-height: 1;
-  cursor: pointer;
-  color: #333;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0;
-  z-index: 10;
-}
-
-.sidebar-toggle::before {
-  content: '◀';
-}
-
-.layout-wrapper.sidebar-expanded .sidebar-toggle::before {
-  content: '▶';
-}
-
-.sidebar-overlay {
-  display: none !important;
 }
 
 /* --- Footer --- */
