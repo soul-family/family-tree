@@ -10,10 +10,12 @@
   <div class="layout-wrapper">
     <aside class="sidebar">
       <button class="sidebar-toggle" aria-label="Toggle menu" onclick="document.querySelector('.layout-wrapper').classList.toggle('sidebar-expanded')"></button>
-      <div class="sidebar-brand">
-        <a class="site-title" href="{{ '/' | relative_url }}">Soul Family Tree</a>
+      <div class="sidebar-content">
+        <div class="sidebar-brand">
+          <a class="site-title" href="{{ '/' | relative_url }}">Soul Family Tree</a>
+        </div>
+        {% include navigation.html %}
       </div>
-      {% include navigation.html %}
     </aside>
     <main class="main-content">
       <div class="container container-1185">
