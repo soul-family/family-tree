@@ -150,6 +150,13 @@ a:visited {
   content: '⋮';
 }
 
+.sidebar .sidebar-toggle {
+  position: relative;
+  top: auto;
+  right: auto;
+  margin-bottom: 0.5rem;
+}
+
 /* --- Navigation --- */
 .sidebar-nav {
   display: flex;

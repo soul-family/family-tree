@@ -9,13 +9,13 @@
 <body>
   <div class="layout-wrapper">
     <aside class="sidebar">
+      <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
       <div class="sidebar-content">
         {% include navigation.html %}
       </div>
     </aside>
     <main class="main-content">
       <div class="site-header">
-        <button class="sidebar-toggle" aria-label="Toggle menu" onclick="toggleSidebar()"></button>
         <a class="site-title" href="{{ '/' | relative_url }}">Soul Family Tree</a>
       </div>
       <div class="container container-1185">
