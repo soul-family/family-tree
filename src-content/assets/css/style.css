@@ -89,7 +89,9 @@ a:visited {
 .layout-wrapper:not(.sidebar-expanded) .sidebar-content {
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.2s ease 0s;
+  transition: opacity 0.2s ease 0s;    
+  min-width: 250px;
+  overflow: hidden;
 }
 
 .main-content {
