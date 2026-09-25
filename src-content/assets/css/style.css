@@ -92,15 +92,13 @@ a[href^="https://"]::after {
 
 .sidebar-content {
   opacity: 1;
-  transition: opacity 0.2s ease 0.15s;
+  transition: opacity 0.2s ease;
 }
 
 .layout-wrapper:not(.sidebar-expanded) .sidebar-content {
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.2s ease 0s;    
-  min-width: 250px;
-  overflow: hidden;
+  transition: opacity 0.2s ease;
 }
 
 .main-content {
@@ -157,7 +155,7 @@ a[href^="https://"]::after {
 .sidebar-nav {
   display: flex;
   flex-direction: column;
-  gap: 0.15rem;
+  gap: 0.1rem;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -169,7 +167,7 @@ a[href^="https://"]::after {
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.15rem;
+  gap: 0.1rem;
 }
 
 .sidebar-nav li {
@@ -179,7 +177,7 @@ a[href^="https://"]::after {
 
 .sidebar-nav a {
   display: block;
-  padding: 0.2rem 0.25rem;
+  padding: 0.15rem 0.2rem;
   text-decoration: none;
 }
 
