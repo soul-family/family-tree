@@ -46,6 +46,7 @@ python .dev-scripts/scripts/pre-commit/pre_commit_audit.py
 ```
 
 This verifies:
+
 - Todo integrity
 - AI transparency logs
 - Changelog format

@@ -4,10 +4,6 @@
 
 - **Family trees** - open `content/famtrees/` to browse the family tree index, then select an individual tree
 
-## Family Tree Credits
-
-Each family tree page includes a link to `credits.html` at the bottom. The credits page acknowledges the compilation effort by Brendan Soul and Peter Soul, along with contributions from family members and historical sources.
-
 ## Understanding Dates
 
 Each page includes a `Latest Updated on` annotation at the bottom. This shows when the content was last revised in the archive.

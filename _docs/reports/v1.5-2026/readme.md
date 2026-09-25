@@ -10,7 +10,7 @@ This report documents the first major update to the family tree archive since it
 
 - **One folder per family branch** - Each lineage now has its own section with a clear index page
 - **Central index** - A main page links to every public family branch
-- **Dedicated credits page** - All contributors, sources, and permissions in one place
+- **Dedicated about page** - All contributors, sources, and permissions in one place
 - **Shared resources** - Photographs and styles organised in common folders
 
 ### Privacy Improvements
@@ -57,6 +57,7 @@ The original website was built with tools that are no longer available (NetObjec
 ## For Family Members
 
 You don't need technical skills to use this archive:
+
 - Browse online at the family domain
 - Download a complete copy for offline reading
 - Submit corrections through the issue tracker
@@ -65,6 +66,7 @@ You don't need technical skills to use this archive:
 ## For Contributors
 
 If you're helping maintain the archive:
+
 - All content in plain text files
 - Standard folder structure
 - Clear contribution guidelines
