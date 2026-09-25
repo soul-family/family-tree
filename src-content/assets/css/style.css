@@ -56,6 +56,15 @@ a:visited {
   color: #0033cc;
 }
 
+/* --- External links --- */
+a[href^="http://"]::after,
+a[href^="https://"]::after {
+  content: " ↗";
+  font-size: 0.85em;
+  vertical-align: super;
+  margin-left: 0.2em;
+}
+
 /* --- Layout --- */
 .layout-wrapper {
   display: grid;
