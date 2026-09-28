@@ -29,24 +29,24 @@ This report documents the original Soul family tree archive created between 2002
 
 ## Technology: Then and Now
 
-| Aspect | Original Website (2002–2019) | This Archive (v1) |
-|--------|------------------------------|-------------------|
-| **Editing tool** | NetObjects Fusion 7 (visual editor) | Any text editor |
-| **Diagram tool** | GenoPro genealogy software | Preserved as-is (ASCII text) |
-| **File format** | Proprietary project + static HTML | Plain HTML5, UTF-8 encoding |
-| **Character encoding** | Windows-1252 / ISO-8859-1 | UTF-8 throughout |
-| **Version control** | None - files published as-is | Full Git history |
-| **Hosting** | Traditional web hosting | GitHub Pages (free, reliable) |
-| **Offline access** | Not supported | Works completely offline |
-| **Navigation** | Original links only | Main index + branch indexes |
-| **Privacy** | Public contact info | Emails obfuscated, living members protected |
-| **Dependencies** | External search, third-party scripts | Self-contained, no external calls |
+| Aspect                     | Original Website (2002–2019)         | This Archive (v1)                           |
+| -------------------------- | ------------------------------------ | ------------------------------------------- |
+| **Editing tool**       | NetObjects Fusion 7 (visual editor)  | Any text editor                             |
+| **Diagram tool**       | GenoPro genealogy software           | Preserved as-is (ASCII text)                |
+| **File format**        | Proprietary project + static HTML    | Plain HTML5, UTF-8 encoding                 |
+| **Character encoding** | Windows-1252 / ISO-8859-1            | UTF-8 throughout                            |
+| **Version control**    | None - files published as-is         | Full Git history                            |
+| **Hosting**            | Traditional web hosting              | GitHub Pages (free, reliable)               |
+| **Offline access**     | Not supported                        | Works completely offline                    |
+| **Navigation**         | Original links only                  | Main index + branch indexes                 |
+| **Privacy**            | Public contact info                  | Emails obfuscated, living members protected |
+| **Dependencies**       | External search, third-party scripts | Self-contained, no external calls           |
 
 ## What Changed from the Original
 
 - Reorganised into a clear folder structure (one folder per family branch)
 - Added a main index page linking to all branches
-- Added a credits page with attribution and source information
+- Added a about page with attribution and source information
 - Updated to modern web standards (HTML5)
 - Removed outdated features (search forms, empty pages)
 - All links updated to work both online and when downloaded for offline viewing

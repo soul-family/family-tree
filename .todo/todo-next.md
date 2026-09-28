@@ -1,7 +1,6 @@
 # Todo - Next
 
-List of active tasks.
-T-numbers are task numbers with prefix T-. Next T-number: 150. Gaps: 120, 124, 147.
+List of active tasks. T-numbers are task numbers with prefix T-. Next T-number: 150. Gaps: 120, 124, 147.
 
 > **Contribution rules**: All entries must follow _docs/contribution-guides/shared/adding-text.md file for rules.
 
@@ -19,6 +18,6 @@ T-numbers are task numbers with prefix T-. Next T-number: 150. Gaps: 120, 124, 1
 - T-76: Add search box and filtering results
 - T-49: Review and update archive content for accuracy and data protection compliance
 - T-51: Convert text-based layout into dynamic diagrams
-- T-136: Add multiple dynamic diagrams  variations
+- T-136: Add multiple dynamic diagrams variations
 - T-140: source references and citation guide
 - T-143: Implement Github Actions for generating static website on Github Pages

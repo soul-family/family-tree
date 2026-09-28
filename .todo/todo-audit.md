@@ -7,6 +7,7 @@ Audit tasks are manual checks. Run each applicable task and confirm the result b
 ## Purpose
 
 Audit tasks verify project health and prevent regressions across:
+
 - Todo integrity and numbering
 - AI transparency and logging
 - Changelog format and versioning

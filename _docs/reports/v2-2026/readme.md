@@ -7,7 +7,7 @@ This report documents the current 2026 state of the Soul family tree archive. It
 ## What You'll Find Here
 
 - **Family branches** - Each family line has its own section with an index page
-- **Credits & sources** - A dedicated page listing all contributors, sources, and permissions
+- **About & sources** - A dedicated page listing all contributors, sources, and permissions
 - **Photographs & documents** - Images and scanned materials in a shared gallery
 - **Works offline** - Download the entire archive and browse it on any device without internet
 
@@ -28,14 +28,14 @@ This report documents the current 2026 state of the Soul family tree archive. It
 
 ## How This Edition Differs from the Original
 
-| What | Original (2002–2019) | Current (2026) |
-|------|---------------------|----------------|
-| **Organisation** | Single website | Clear folders per family branch |
-| **Editing tool** | NetObjects Fusion 7 (visual editor) | Any text editor |
-| **Version control** | No built-in versioning | Git-based with full history |
-| **Navigation** | Original links only | Main index + branch indexes |
-| **Privacy** | Public contact info | Protected contact, living members excluded |
-| **Collaboration** | Single author | Multiple family members can contribute |
+| What                    | Original (2002–2019)                | Current (2026)                             |
+| ----------------------- | ----------------------------------- | ------------------------------------------ |
+| **Organisation**    | Single website                      | Clear folders per family branch            |
+| **Editing tool**    | NetObjects Fusion 7 (visual editor) | Any text editor                            |
+| **Version control** | No built-in versioning              | Git-based with full history                |
+| **Navigation**      | Original links only                 | Main index + branch indexes                |
+| **Privacy**         | Public contact info                 | Protected contact, living members excluded |
+| **Collaboration**   | Single author                       | Multiple family members can contribute     |
 
 ## Behind the Scenes (Recent Improvements)
 

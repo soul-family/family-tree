@@ -9,6 +9,7 @@ This guide explains how to submit additional information to the Soul family tree
 ### Check First
 
 Before submitting new information:
+
 - Browse the Archive to see if the information already exists
 - Check the family tree guide for family-related content
 - Review the browsing guide to understand the current structure
@@ -33,6 +34,7 @@ Before submitting new information:
 ### Step 1: Gather Your Information
 
 Prepare your submission with:
+
 - **What**: The specific information you want to add or correct
 - **Where**: Which page, post, or family tree branch it relates to
 - **Source**: Where you obtained this information (if applicable)
@@ -99,12 +101,15 @@ Family tree submissions require extra care:
 
 ```markdown
 ## What
+
 Add missing family member to the Smith branch
 
 ## Where
+
 Smith family tree, missing child of John Smith
 
 ## Information
+
 - Name: Mary Smith
 - Born: 1845
 - Married: 1868 to Thomas Brown
@@ -112,9 +117,11 @@ Smith family tree, missing child of John Smith
 - Died: 1912
 
 ## Source
+
 Family Bible records, verified by Smith family historian
 
 ## Additional Context
+
 Mary was omitted from the original tree. Her marriage certificate and census records confirm her existence.
 ```
 
@@ -163,6 +170,7 @@ Mary was omitted from the original tree. Her marriage certificate and census rec
 ## Privacy Considerations
 
 When submitting information:
+
 - Do not include private details about living people without permission
 - The Archive respects privacy of family members
 - Sensitive information may be redacted or omitted
@@ -170,6 +178,7 @@ When submitting information:
 ## Contact
 
 If you have questions about submitting information:
+
 - Check existing issues to see if your question has been answered
 - Use the repository's contact methods
 - The Archive maintainers are happy to help
