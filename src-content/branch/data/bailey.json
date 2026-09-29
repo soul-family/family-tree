@@ -1,0 +1,510 @@
+[
+  {
+    "id": "james_alexander_bailey",
+    "name": "James Alexander Bailey",
+    "birthday": "",
+    "birthplace": "London",
+    "gender": "M",
+    "occupation": "Clerk, Convict Department",
+    "death": "",
+    "deathplace": "",
+    "spouses": [
+      {
+        "id": "jane_manning",
+        "marriedYear": "1833",
+        "marriedDate": "26 Nov 1833",
+        "marriedPlace": "St Mary-le-bone, London"
+      }
+    ],
+    "children": [
+      "1834_elizabeth_amelia_bailey",
+      "1836_sarah_bailey",
+      "1837_william_lisson_bailey",
+      "1838_james_alexander_bailey",
+      "1840_henry_george_bailey",
+      "1842_walter_ambrose_lucas_bailey",
+      "1845_frank_evans_bailey",
+      "1847_alfred_manning_bailey"
+    ],
+    "parents": {
+      "father": "",
+      "mother": ""
+    },
+    "info": "Arrived Hobart 13 Oct 1834 per Mansfield from London with wife & child; 1835 Ass't clerk Convict Dept., 1837 Clerk of victualling accounts, 1840 Chief clerk Convict dept",
+    "sources": [],
+    "crossBranch": []
+  },
+  {
+    "id": "jane_manning",
+    "name": "Jane Manning",
+    "birthday": "",
+    "birthplace": "",
+    "gender": "F",
+    "occupation": "",
+    "death": "1876-07-20",
+    "deathplace": "Highgate Cemetery, London",
+    "spouses": [
+      {
+        "id": "james_alexander_bailey",
+        "marriedYear": "1833",
+        "marriedDate": "26 Nov 1833",
+        "marriedPlace": "St Mary-le-bone, London"
+      }
+    ],
+    "children": [
+      "1834_elizabeth_amelia_bailey",
+      "1836_sarah_bailey",
+      "1837_william_lisson_bailey",
+      "1838_james_alexander_bailey",
+      "1840_henry_george_bailey",
+      "1842_walter_ambrose_lucas_bailey",
+      "1845_frank_evans_bailey",
+      "1847_alfred_manning_bailey"
+    ],
+    "parents": {
+      "father": "",
+      "mother": ""
+    },
+    "info": "aged 73; buried 25 July Highgate Cemetery, London, gv 21479, sq 117, from 51 Russell Rd, Holloway",
+    "sources": [],
+    "crossBranch": []
+  },
+  {
+    "id": "1834_elizabeth_amelia_bailey",
+    "name": "Elizabeth Amelia Bailey",
+    "birthday": "1834-08-19",
+    "birthplace": "at sea on voyage from England to Hobart Town",
+    "gender": "F",
+    "occupation": "",
+    "death": "1906-11-11",
+    "deathplace": "33 Hillmarton Rd, Lower Holloway, London",
+    "spouses": [
+      {
+        "id": "1824_charles_john_coles",
+        "marriedYear": "1860",
+        "marriedDate": "31 July 1860",
+        "marriedPlace": "St Mark's Islington"
+      }
+    ],
+    "children": [
+      "1861_charles_alexander_coles",
+      "1864_william_henry_coles",
+      "1867_amy_jane_coles",
+      "1871_florence_emily_coles",
+      "1876_georgina_elizabeth_coles",
+      "1866_edwin_albert_coles",
+      "1869_frank_arthur_coles",
+      "1898_lilian_amy_coles",
+      "1900_walter_alexander_coles",
+      "1897_frank_ernest_coles",
+      "1893_ellen_florence_coles",
+      "1905_george_henry_coles",
+      "1894_william_medley_coles",
+      "1895_charles_john_edward_coles"
+    ],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "at sea; parish of Hobart Town, County of Buckingham (Tasmania); & Jane Manning Bailey; aged 72; Cemetery gv 36555 sq 117. Informant Hannah A. Hankin (step-daughter)",
+    "sources": [],
+    "crossBranch": [
+      {
+        "branch": "coles",
+        "id": "CharlesJohnColes",
+        "relationship": "married into"
+      }
+    ],
+    "baptism": "3 Dec 1834",
+    "burial": "Highgate"
+  },
+  {
+    "id": "1836_sarah_bailey",
+    "name": "Sarah Bailey",
+    "birthday": "1836-01-03",
+    "birthplace": "Hobart Town",
+    "gender": "F",
+    "occupation": "",
+    "death": "1907-11-13",
+    "deathplace": "Tasma, Anson Rd, Tufnell Park",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "St David's Hobart Town, , & Jane Bailey; Cemetery, 71, from 63 Anson Rd, Tufnell Park, gv 21479 sq 117",
+    "sources": [],
+    "crossBranch": [],
+    "baptism": "26 Jan 1836",
+    "burial": "Highgate"
+  },
+  {
+    "id": "1837_william_lisson_bailey",
+    "name": "William Lisson Bailey",
+    "birthday": "1837-06-15",
+    "birthplace": "Hobart Town",
+    "gender": "M",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "St David's Hobart Town, & Jane Manning Bailey",
+    "sources": [],
+    "crossBranch": [],
+    "baptism": "8 Aug 1837"
+  },
+  {
+    "id": "1838_james_alexander_bailey",
+    "name": "James Alexander Bailey",
+    "birthday": "1838",
+    "birthplace": "Hobart",
+    "gender": "M",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "1838",
+    "sources": [],
+    "crossBranch": []
+  },
+  {
+    "id": "1840_henry_george_bailey",
+    "name": "Henry George Bailey",
+    "birthday": "1840",
+    "birthplace": "Hobart",
+    "gender": "M",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "1840",
+    "sources": [],
+    "crossBranch": []
+  },
+  {
+    "id": "1842_walter_ambrose_lucas_bailey",
+    "name": "Walter Ambrose Lucas Bailey",
+    "birthday": "1842",
+    "birthplace": "Hobart",
+    "gender": "M",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "1842",
+    "sources": [],
+    "crossBranch": []
+  },
+  {
+    "id": "1845_frank_evans_bailey",
+    "name": "Frank Evans Bailey",
+    "birthday": "1845",
+    "birthplace": "Hobart",
+    "gender": "M",
+    "occupation": "Publishers' book binder",
+    "death": "1921-03-14",
+    "deathplace": "Tasma, Anson Rd, Tufnell Park",
+    "spouses": [
+      {
+        "id": "emily_deane",
+        "marriedYear": "1878",
+        "marriedDate": "15 May 1878",
+        "marriedPlace": "St George's Tufnell Park"
+      }
+    ],
+    "children": [
+      "1879_jane_selina_bailey",
+      "1883_frank_deane_bailey",
+      "1888_james_alexander_bailey"
+    ],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "1845; aged 75; Cemetery from 63 Anson Rd, Tufnell Park, gv 42090 sq 117; probate London 27 April to Frank Deane Bailey & James Alexander Bailey company directors, & William Henry Coles hotel proprietor, effects 12,302 18s 1d",
+    "sources": [],
+    "crossBranch": [],
+    "burial": "Highgate",
+    "census": [
+      {
+        "year": "1901",
+        "details": "Tasma, Anson Rd, Islington, publishers' book binder, employer, B Tasmania"
+      }
+    ]
+  },
+  {
+    "id": "emily_deane",
+    "name": "Emily Deane",
+    "birthday": "",
+    "birthplace": "Northfleet, Kent",
+    "gender": "F",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [
+      {
+        "id": "1845_frank_evans_bailey",
+        "marriedYear": "1878",
+        "marriedDate": "15 May 1878",
+        "marriedPlace": "St George's Tufnell Park"
+      }
+    ],
+    "children": [
+      "1879_jane_selina_bailey",
+      "1883_frank_deane_bailey",
+      "1888_james_alexander_bailey"
+    ],
+    "parents": {
+      "father": "",
+      "mother": ""
+    },
+    "info": "",
+    "sources": [],
+    "crossBranch": [],
+    "census": [
+      {
+        "year": "1901",
+        "details": "Tasma, Anson Rd, Islington, 47, B Northfleet, Kent. d of Thomas Deane butcher."
+      }
+    ]
+  },
+  {
+    "id": "1879_jane_selina_bailey",
+    "name": "Jane Selina Bailey",
+    "birthday": "1879-03-18",
+    "birthplace": "Tufnell Park",
+    "gender": "F",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [
+      {
+        "id": "thomas_charles_hankin",
+        "marriedYear": "1915",
+        "marriedDate": "8 Apr 1915",
+        "marriedPlace": "St George's Tufnell Park"
+      }
+    ],
+    "children": [
+      "1918_charles_alexander_hankin",
+      "1947_peter_alexander_hankin",
+      "1949_diana_mary_hankin",
+      "1950_john_charles_hankin",
+      "1984_emily_jane_hankin",
+      "1988_alice_kate_hankin"
+    ],
+    "parents": {
+      "father": "1845_frank_evans_bailey",
+      "mother": "emily_deane"
+    },
+    "info": "St George's Tufnell Park, ' book-binder, & Emily Bailey, of 51 Russell Rd",
+    "sources": [],
+    "crossBranch": [
+      {
+        "branch": "hankin",
+        "id": "ThomasCharlesHankin",
+        "relationship": "married into"
+      }
+    ],
+    "baptism": "25 May 1879",
+    "census": [
+      {
+        "year": "1901",
+        "details": "Tasma, Anson Rd, Islington, 22. M 8 Apr 1915 St George's Tufnell Park, 36, spinster, of 'Tasma', Anson Rd, Tufnell Park, d of Frank Evans Bailey publishers' book-binder, & 39, bachelor, engineer, of 'Glenroy', Southampton Rd, Alresford, s of Thomas Hankin (decd) licensed victualler."
+      }
+    ]
+  },
+  {
+    "id": "1883_frank_deane_bailey",
+    "name": "Frank Deane Bailey",
+    "birthday": "1883",
+    "birthplace": "Tufnell Park",
+    "gender": "M",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "1845_frank_evans_bailey",
+      "mother": "emily_deane"
+    },
+    "info": "",
+    "sources": [],
+    "crossBranch": [],
+    "census": [
+      {
+        "year": "1901",
+        "details": "Tasma, Anson Rd, Islington, 18, book binder apprentice, B London Holloway."
+      }
+    ]
+  },
+  {
+    "id": "1888_james_alexander_bailey",
+    "name": "James Alexander Bailey",
+    "birthday": "1888",
+    "birthplace": "London Holloway",
+    "gender": "M",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "1845_frank_evans_bailey",
+      "mother": "emily_deane"
+    },
+    "info": "",
+    "sources": [],
+    "crossBranch": [],
+    "census": [
+      {
+        "year": "1901",
+        "details": "Tasma, Anson Rd, 13, B London Holloway."
+      }
+    ]
+  },
+  {
+    "id": "1847_alfred_manning_bailey",
+    "name": "Alfred Manning Bailey",
+    "birthday": "1847",
+    "birthplace": "Hobart",
+    "gender": "M",
+    "occupation": "Bookseller; toy & fancy goods dealer",
+    "death": "",
+    "deathplace": "",
+    "spouses": [
+      {
+        "id": "frances_marie_waters",
+        "marriedYear": "1879",
+        "marriedDate": "2 Aug 1879",
+        "marriedPlace": "St George's Tufnell Park"
+      }
+    ],
+    "children": [
+      "1880_leonard_waters_bailey",
+      "1886_helen_frances_bailey"
+    ],
+    "parents": {
+      "father": "james_alexander_bailey",
+      "mother": "jane_manning"
+    },
+    "info": "1847",
+    "sources": [],
+    "crossBranch": [],
+    "census": [
+      {
+        "year": "1901",
+        "details": "58 High St, Tunbridge Wells, Kent, 53, toy & fancy goods dealer, B Tasmania Hobart."
+      }
+    ]
+  },
+  {
+    "id": "frances_marie_waters",
+    "name": "Frances Marie Waters",
+    "birthday": "",
+    "birthplace": "London Holloway",
+    "gender": "F",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [
+      {
+        "id": "1847_alfred_manning_bailey",
+        "marriedYear": "1879",
+        "marriedDate": "2 Aug 1879",
+        "marriedPlace": "St George's Tufnell Park"
+      }
+    ],
+    "children": [
+      "1880_leonard_waters_bailey",
+      "1886_helen_frances_bailey"
+    ],
+    "parents": {
+      "father": "",
+      "mother": ""
+    },
+    "info": "",
+    "sources": [],
+    "crossBranch": [],
+    "census": [
+      {
+        "year": "1901",
+        "details": "58 High St, Tunbridge Wells, 49, B London Holloway. d of Thomas George Waters solicitor's clerk."
+      }
+    ]
+  },
+  {
+    "id": "1880_leonard_waters_bailey",
+    "name": "Leonard Waters Bailey",
+    "birthday": "1880-12-09",
+    "birthplace": "Tufnell Park",
+    "gender": "M",
+    "occupation": "Auctioneer clerk",
+    "death": "1917-05-03",
+    "deathplace": "France",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "1847_alfred_manning_bailey",
+      "mother": "frances_marie_waters"
+    },
+    "info": "St George's Tufnell Park, & Fanny Bailey, of 20 Marquis Rd; death presumed 3 May 1917, France, 36, private, 9846, 2nd Battalion Honourable Artillery Company; named on Arras Memorial, Pas de Calais, France, Bay 1",
+    "sources": [],
+    "crossBranch": [],
+    "baptism": "27 Mar 1881",
+    "census": [
+      {
+        "year": "1901",
+        "details": "108 Lady Margaret Rd, 20, auctioneer clerk"
+      }
+    ]
+  },
+  {
+    "id": "1886_helen_frances_bailey",
+    "name": "Helen Frances Bailey",
+    "birthday": "1886-10-24",
+    "birthplace": "Tufnell Park",
+    "gender": "F",
+    "occupation": "",
+    "death": "",
+    "deathplace": "",
+    "spouses": [],
+    "children": [],
+    "parents": {
+      "father": "1847_alfred_manning_bailey",
+      "mother": "frances_marie_waters"
+    },
+    "info": "St George's Tufnell Park, & Frances Bailey, of 61 Seven Sisters Rd",
+    "sources": [],
+    "crossBranch": [],
+    "baptism": "19 Dec 1886",
+    "census": [
+      {
+        "year": "1901",
+        "details": "Tasma, Anson Rd, 14."
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 {
-  "name": "peter-soul-newsletter",
-  "version": "1.0.0",
+  "name": "soul-familytree",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "format": "prettier --write \"**/*.{html,md,json}\" && node .dev-scripts/scripts/fix-md-emphasis.js",

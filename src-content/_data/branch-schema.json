@@ -1,0 +1,140 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Family Branch Person",
+  "description": "Schema for a single person in a family branch JSON file",
+  "type": "object",
+  "required": ["id", "name", "birthday"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique person ID in the form YYYYMMDD_name_initials or YYYY_name_initials if exact date unknown",
+      "examples": ["1800_grandfather_gf", "1852_mother_m1"]
+    },
+    "name": {
+      "type": "string",
+      "description": "Full display name",
+      "examples": ["John Smith", "Mary Jones"]
+    },
+    "initials": {
+      "type": "string",
+      "description": "Name initials for disambiguation, e.g. GF for grandfather, M1 for mother1",
+      "examples": ["gf", "m1"]
+    },
+    "birthday": {
+      "type": "string",
+      "description": "Birth date in ISO format YYYY-MM-DD or YYYY if exact date unknown",
+      "examples": ["1800-01-15", "1852"]
+    },
+    "birthplace": {
+      "type": "string",
+      "description": "Birth place",
+      "examples": ["London, England"]
+    },
+    "gender": {
+      "type": "string",
+      "enum": ["M", "F", "U"],
+      "description": "M=male, F=female, U=unknown"
+    },
+    "death": {
+      "type": "string",
+      "description": "Death date in ISO format",
+      "examples": ["1875-03-10"]
+    },
+    "deathplace": {
+      "type": "string",
+      "description": "Death place",
+      "examples": ["London, England"]
+    },
+    "occupation": {
+      "type": "string",
+      "description": "Occupation or profession",
+      "examples": ["Farmer", "Merchant"]
+    },
+    "spouses": {
+      "type": "array",
+      "description": "Spouses in marriage order",
+      "items": {
+        "type": "object",
+        "required": ["id"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Reference to spouse person ID"
+          },
+          "marriedYear": {
+            "type": "string",
+            "description": "Year of marriage",
+            "examples": ["1825"]
+          },
+          "marriedDate": {
+            "type": "string",
+            "description": "Exact marriage date in ISO format",
+            "examples": ["1825-06-12"]
+          },
+          "marriedPlace": {
+            "type": "string",
+            "description": "Place of marriage",
+            "examples": ["London, England"]
+          }
+        }
+      }
+    },
+    "children": {
+      "type": "array",
+      "description": "Biological children",
+      "items": {
+        "type": "string",
+        "description": "Reference to child person ID"
+      }
+    },
+    "parents": {
+      "type": "object",
+      "description": "Biological parents",
+      "properties": {
+        "father": {
+          "type": "string",
+          "description": "Reference to father person ID"
+        },
+        "mother": {
+          "type": "string",
+          "description": "Reference to mother person ID"
+        }
+      }
+    },
+    "info": {
+      "type": "string",
+      "description": "Any additional structured notes or biographical info"
+    },
+    "sources": {
+      "type": "array",
+      "description": "Source references",
+      "items": {
+        "type": "string",
+        "examples": ["(WHS)", "(MEHS)", "census 1841"]
+      }
+    },
+    "crossBranch": {
+      "type": "array",
+      "description": "Links to persons in other branch files",
+      "items": {
+        "type": "object",
+        "properties": {
+          "branch": {
+            "type": "string",
+            "description": "Branch file name without extension",
+            "examples": ["soul", "wilson", "coles"]
+          },
+          "id": {
+            "type": "string",
+            "description": "Person ID in that branch"
+          },
+          "relationship": {
+            "type": "string",
+            "description": "Relationship description",
+            "examples": ["married into", "descendant of"]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,385 @@
+[
+  {
+    "id": "1786_thomas_fletcher",
+    "name": "Thomas Fletcher",
+    "birthday": "1786",
+    "death": "1846-03-08",
+    "deathplace": "Malta",
+    "occupation": "Lieut-Colonel, Ceylon Rifles",
+    "info": "Memorial stone in the church of Kandy, Sri Lanka. Served in the Peninsula and Walcheren in the 6th Foot; present at Roleia, Vimera and Corruna. Appointed to the Ceylon Regiment in 1810. After 35 years of Civil and Military duties in Ceylon, retired and died at Malta on 8 Mar 1846 aged 60"
+  },
+  {
+    "id": "1796_william_fletcher",
+    "name": "William Fletcher",
+    "birthday": "1796",
+    "birthplace": "",
+    "death": "1872-09-14",
+    "deathplace": "Stowellville, New Town, Tasmania",
+    "occupation": "Deputy Commissary-General",
+    "spouses": [
+      {
+        "id": "1800_hannah_hone",
+        "marriedYear": "1824",
+        "marriedPlace": "Hobart Town, Van Diemens Land"
+      }
+    ],
+    "children": [
+      "1827_hannah_mary_anne_fletcher",
+      "1832_george_william_fletcher",
+      "1837_william_hone_fletcher",
+      "1839_joseph_walter_fletcher",
+      "1841_sidney_gerald_fletcher",
+      "1843_charles_augustus_fletcher",
+      "1845_henry_wellesly_fletcher",
+      "1848_sarah_augusta_fletcher",
+      "1851_emma_sophia_fletcher",
+      "1855_margaret_elizabeth_fletcher"
+    ],
+    "info": "In September 1812 went to Lisbon as Clerk in the Commissariat Department of the Duke of Wellington's Army. Arrived in Hobart Town in 1824. In 1842 placed on the Commission of the Peace and remained a magistrate until his death, a period of 30 years. Received a large grant of land as a military officer but never settled on it. Built a residence at New Town where he died. Married the , barrister and Chairman of Quarter Sessions. 21 Oct 1872 Supreme Court of Tasmania, will of William Fletcher proved, administration to George William Fletcher son and sole executor",
+    "parents": {
+      "mother": "Joseph Hone"
+    }
+  },
+  {
+    "id": "1800_hannah_hone",
+    "name": "Hannah Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1879-10-14",
+    "deathplace": "Stowellville, New Town, Tasmania",
+    "spouses": [
+      {
+        "id": "1796_william_fletcher",
+        "marriedYear": "1824",
+        "marriedPlace": "Hobart Town, Van Diemens Land"
+      }
+    ],
+    "children": [
+      "1827_hannah_mary_anne_fletcher",
+      "1832_george_william_fletcher",
+      "1837_william_hone_fletcher",
+      "1839_joseph_walter_fletcher",
+      "1841_sidney_gerald_fletcher",
+      "1843_charles_augustus_fletcher",
+      "1845_henry_wellesly_fletcher",
+      "1848_sarah_augusta_fletcher",
+      "1851_emma_sophia_fletcher",
+      "1855_margaret_elizabeth_fletcher"
+    ],
+    "info": "25 Oct 1879 Supreme Court of Tasmania, will of Hannah Fletcher late of Stowellville, New Town, Tasmania, proved, administration to George William Fletcher son and sole executor"
+  },
+  {
+    "id": "1827_hannah_mary_anne_fletcher",
+    "name": "Hannah Mary Anne Fletcher",
+    "birthday": "1827-12-29",
+    "birthplace": "New Town, Van Diemens Land",
+    "death": "1885-07-02",
+    "deathplace": "Sandy Bay, Hobart",
+    "spouses": [
+      {
+        "id": "william_knight",
+        "marriedYear": "1846",
+        "marriedDate": "1846-06-13",
+        "marriedPlace": "St John's, New Town, VDL"
+      }
+    ],
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "william_knight",
+    "name": "William Knight",
+    "birthday": "",
+    "birthplace": "",
+    "spouses": [
+      {
+        "id": "1827_hannah_mary_anne_fletcher",
+        "marriedYear": "1846",
+        "marriedDate": "1846-06-13",
+        "marriedPlace": "St John's, New Town, VDL"
+      }
+    ]
+  },
+  {
+    "id": "1832_george_william_fletcher",
+    "name": "George William Fletcher",
+    "birthday": "1832-12-06",
+    "birthplace": "New Town, Van Diemens Land",
+    "death": "1905-06-08",
+    "deathplace": "Moonah, Tasmania",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "1837_william_hone_fletcher",
+    "name": "William Hone Fletcher",
+    "birthday": "1837-01-19",
+    "birthplace": "New Town, Van Diemens Land",
+    "death": "1914-12-20",
+    "deathplace": "White Swamp, NSW",
+    "spouses": [
+      {
+        "id": "margaret_smith",
+        "marriedYear": "1863",
+        "marriedDate": "1863-06-01",
+        "marriedPlace": "St Mark's, Warwick, Queensland"
+      }
+    ],
+    "children": [
+      "1864_jessie_cowan_fletcher",
+      "1866_william_joseph_hone_fletcher",
+      "1867_george_smith_fletcher",
+      "1871_hannah_mary_anne_hone_fletcher",
+      "1869_walter_john_watson_fletcher",
+      "1872_sarah_margaret_fletcher",
+      "1874_sidney_swettenham_fletcher",
+      "1876_thomas_charles_fletcher",
+      "1879_florence_fletcher",
+      "1881_euphemia_agnes_fletcher"
+    ],
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    },
+    "info": "New Town, VDL; White Swamp, NSW"
+  },
+  {
+    "id": "margaret_smith",
+    "name": "Margaret Smith",
+    "birthday": "c1839",
+    "birthplace": "Dunbar, Haddington, Scotland",
+    "death": "1909-08-23",
+    "deathplace": "White Swamp, New South Wales",
+    "spouses": [
+      {
+        "id": "1837_william_hone_fletcher",
+        "marriedYear": "1863",
+        "marriedDate": "1863-06-01",
+        "marriedPlace": "St Mark's, Warwick, Queensland"
+      }
+    ],
+    "children": [
+      "1864_jessie_cowan_fletcher",
+      "1866_william_joseph_hone_fletcher",
+      "1867_george_smith_fletcher",
+      "1871_hannah_mary_anne_hone_fletcher",
+      "1869_walter_john_watson_fletcher",
+      "1872_sarah_margaret_fletcher",
+      "1874_sidney_swettenham_fletcher",
+      "1876_thomas_charles_fletcher",
+      "1879_florence_fletcher",
+      "1881_euphemia_agnes_fletcher"
+    ],
+    "info": "Cocksburnpath, Berwick, Scotland, & Jane (Cowan)",
+    "baptism": "17 Mar 1838",
+    "parents": {
+      "mother": "George Smith"
+    }
+  },
+  {
+    "id": "1864_jessie_cowan_fletcher",
+    "name": "Jessie Cowan Fletcher",
+    "birthday": "1864-03-18",
+    "birthplace": "Warwick Reserve, Queensland",
+    "death": "1940-01-01",
+    "deathplace": "Brisbane, Queensland",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1866_william_joseph_hone_fletcher",
+    "name": "William Joseph Hone Fletcher",
+    "birthday": "1866-02-02",
+    "birthplace": "Warwick Reserve, Queensland",
+    "death": "c1960",
+    "deathplace": "West Burleigh, Queensland",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1867_george_smith_fletcher",
+    "name": "George Smith Fletcher",
+    "birthday": "1867-09-15",
+    "birthplace": "Warwick Reserve, Queensland",
+    "death": "1940-11-11",
+    "deathplace": "Boonah, Queensland",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1871_hannah_mary_anne_hone_fletcher",
+    "name": "Hannah Mary Anne Hone Fletcher",
+    "birthday": "1871-07-08",
+    "birthplace": "Warwick Reserve, Queensland",
+    "death": "1953-04-08",
+    "deathplace": "Warwick, Queensland",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1869_walter_john_watson_fletcher",
+    "name": "Walter John Watson Fletcher",
+    "birthday": "1869-11-26",
+    "birthplace": "Warwick Reserve, Queensland",
+    "death": "1885",
+    "deathplace": "White Swamp, NSW",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1872_sarah_margaret_fletcher",
+    "name": "Sarah Margaret Fletcher",
+    "birthday": "c1872",
+    "birthplace": "White Swamp, NSW",
+    "death": "c1960",
+    "deathplace": "Brisbane, Queensland",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1874_sidney_swettenham_fletcher",
+    "name": "Sidney Swettenham Fletcher",
+    "birthday": "1874",
+    "birthplace": "White Swamp, NSW",
+    "death": "1914-01-28",
+    "deathplace": "Old Koreelah, NSW",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1876_thomas_charles_fletcher",
+    "name": "Thomas Charles Fletcher",
+    "birthday": "1876-09-26",
+    "birthplace": "Koreelah Creek, NSW",
+    "death": "1970-09-18",
+    "deathplace": "Killarney, Queensland",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1879_florence_fletcher",
+    "name": "Florence Fletcher",
+    "birthday": "1879",
+    "birthplace": "White Swamp, NSW",
+    "death": "1879",
+    "deathplace": "White Swamp, NSW",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1881_euphemia_agnes_fletcher",
+    "name": "Euphemia Agnes Fletcher",
+    "birthday": "1881",
+    "birthplace": "White Swamp, NSW",
+    "death": "c1960",
+    "deathplace": "Tweed Heads, NSW",
+    "parents": {
+      "father": "1837_william_hone_fletcher",
+      "mother": "margaret_smith"
+    }
+  },
+  {
+    "id": "1839_joseph_walter_fletcher",
+    "name": "Joseph Walter Fletcher",
+    "birthday": "1839-02-04",
+    "birthplace": "New Town, VDL",
+    "death": "1915-09-05",
+    "deathplace": "Sydney, NSW",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "1841_sidney_gerald_fletcher",
+    "name": "Sidney Gerald Fletcher",
+    "birthday": "1841-06-15",
+    "birthplace": "New Town, VDL",
+    "death": "1874-10-19",
+    "deathplace": "Ipswich, Queensland",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "1843_charles_augustus_fletcher",
+    "name": "Charles Augustus Fletcher",
+    "birthday": "1843-09-10",
+    "birthplace": "New Town, VDL",
+    "death": "1913-09-19",
+    "deathplace": "Hobart, Tasmania",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "1845_henry_wellesly_fletcher",
+    "name": "Henry Wellesly Fletcher",
+    "birthday": "1845-11-24",
+    "birthplace": "New Town, VDL",
+    "death": "1853-09-18",
+    "deathplace": "New Town, VDL",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "1848_sarah_augusta_fletcher",
+    "name": "Sarah Augusta Fletcher",
+    "birthday": "1848-02-17",
+    "birthplace": "New Town, VDL",
+    "death": "1990-01-09",
+    "deathplace": "New Town, Tasmania",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "1851_emma_sophia_fletcher",
+    "name": "Emma Sophia Fletcher",
+    "birthday": "1851-01-17",
+    "birthplace": "New Town, VDL",
+    "death": "1876-02-08",
+    "deathplace": "New Town, Tasmania",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  },
+  {
+    "id": "1855_margaret_elizabeth_fletcher",
+    "name": "Margaret Elizabeth Fletcher",
+    "birthday": "1855-01-25",
+    "birthplace": "New Town, VDL",
+    "parents": {
+      "father": "1796_william_fletcher",
+      "mother": "1800_hannah_hone"
+    }
+  }
+]

@@ -4,6 +4,31 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 
 > **Contribution rules**: All entries must follow `_docs/contribution-guides/shared/adding-text.md` file for rules.
 
+## [Unreleased]
+
+### Added
+
+- Branch JSON schema for all 16 family branches
+- Per-branch Mermaid diagrams with inline node syntax
+- Combined branch JSON merging all persons by ID
+- Combined family tree diagram connecting all subtrees
+- Scripts for cleaning, extracting, shortening IDs, and generating diagrams
+
+### Changed
+
+- Person IDs shortened to `birthday_firstname_famname`
+- Mermaid node syntax standardized to `id(label)` with `+` only in labels
+- Edge syntax standardized to `===`
+- Parent extraction uses `s of`/`d of` patterns from info text
+- Info text cleaned of redundant date/place/baptism/burial/census patterns
+
+### Fixed
+
+- Hannah Clark parentage updated to match marriage record (`samuel_clark_tailor` as father)
+- Removed `1829_hannah_clark` from `james_clarke` and `sarah_clarke` children
+- Combined tree now properly connects subtrees through common persons
+- Parent fields now reference person IDs instead of empty strings or names
+
 ## [v1.8.0]
 
 ### Added

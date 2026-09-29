@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1813_samuel_roberts",
+    "name": "Samuel Roberts",
+    "birthday": "1813",
+    "birthplace": "Birmingham",
+    "occupation": "Blacksmith",
+    "death": "1871-04-19",
+    "deathplace": "3 Nags Head Lane, Southcoates, Kingston upon Hull",
+    "spouses": [
+      {
+        "id": "1813_martha_chiven",
+        "marriedYear": "1838",
+        "marriedPlace": "Hull"
+      }
+    ],
+    "children": [
+      "1839_eliza_roberts",
+      "1842_ann_maria_roberts",
+      "1847_martha_roberts",
+      "1847_samuel_roberts_jr"
+    ],
+    "info": "1846 General Directory of Kingston-upon-Hull, Roberts Samuel, blacksmith, Holderness Rd; at 3 Nags Head Lane, Southcoates, blacksmith, aged 57, disease of the brain 3 years, informant Samuel Roberts of 3 Nags Head Lane; 9 Aug 1871, letters of admin to Martha Roberts widow",
+    "sources": [],
+    "census": [
+      {
+        "year": "1871",
+        "details": "2 Nags Head Lane, Southcoates, Kingston upon Hull, 58, retired smith, B Birmingham, 3 years blind through disease of brain"
+      }
+    ]
+  },
+  {
+    "id": "1813_martha_chiven",
+    "name": "Martha Chiven",
+    "birthday": "1813",
+    "birthplace": "Hull",
+    "spouses": [
+      {
+        "id": "1813_samuel_roberts",
+        "marriedYear": "1838",
+        "marriedPlace": "Hull"
+      }
+    ],
+    "children": [
+      "1839_eliza_roberts",
+      "1842_ann_maria_roberts",
+      "1847_martha_roberts",
+      "1847_samuel_roberts_jr"
+    ],
+    "info": "",
+    "census": [
+      {
+        "year": "1861",
+        "details": "Nags Head Lane, Southcoates, Kingston-upon-Hull, 48, engine smith wife, B Hull"
+      },
+      {
+        "year": "1871",
+        "details": "2 Nags Head Lane, 58."
+      }
+    ]
+  },
+  {
+    "id": "1839_eliza_roberts",
+    "name": "Eliza Roberts",
+    "birthday": "1839-09-25",
+    "birthplace": "4 Aldbro St, Sculcoates, Yorkshire",
+    "parents": {
+      "father": "1813_samuel_roberts",
+      "mother": "1813_martha_chiven"
+    },
+    "info": "",
+    "census": [
+      {
+        "year": "1861",
+        "details": "Nags Head Lane, 21, governess, B Hull"
+      },
+      {
+        "year": "1871",
+        "details": "2 Nags Head Lane, 31, certificate teacher, B Hull."
+      }
+    ]
+  },
+  {
+    "id": "1842_ann_maria_roberts",
+    "name": "Ann Maria Roberts",
+    "birthday": "1842-08-01",
+    "birthplace": "Aldbro St, Sculcoates",
+    "spouses": [
+      {
+        "id": "john_cockin",
+        "marriedYear": "1867",
+        "marriedDate": "1867-04-23",
+        "marriedPlace": "St Mary's Hull"
+      }
+    ],
+    "parents": {
+      "father": "1813_samuel_roberts",
+      "mother": "1813_martha_chiven"
+    },
+    "info": "Mary's Hull, 24, spinster, of St Mary's, , & 21, bachelor, school master, of Skipton, , in pres of Samuel Roberts, Samuel Roberts junr, Eliza Roberts, & Ann Elizabeth Roberts",
+    "crossBranch": [
+      {
+        "branch": "cockin",
+        "id": "JohnCockin",
+        "relationship": "married into"
+      }
+    ],
+    "census": [
+      {
+        "year": "1861",
+        "details": "Nags Head Lane, 18, pupil teacher, B Hull"
+      }
+    ]
+  },
+  {
+    "id": "1847_martha_roberts",
+    "name": "Martha Roberts",
+    "birthday": "1847-Q4",
+    "birthplace": "Sculcoates",
+    "parents": {
+      "father": "1813_samuel_roberts",
+      "mother": "1813_martha_chiven"
+    },
+    "info": "",
+    "census": [
+      {
+        "year": "1861",
+        "details": "Nags Head Lane, 13, scholar, B Hull."
+      }
+    ]
+  },
+  {
+    "id": "1847_samuel_roberts_jr",
+    "name": "Samuel Roberts",
+    "birthday": "1847-Q4",
+    "birthplace": "Sculcoates",
+    "occupation": "Master smith",
+    "parents": {
+      "father": "1813_samuel_roberts",
+      "mother": "1813_martha_chiven"
+    },
+    "info": "",
+    "census": [
+      {
+        "year": "1861",
+        "details": "Nags Head Lane, 13, scholar, B Hull"
+      },
+      {
+        "year": "1871",
+        "details": "3 Nags Head Lane, Southcoates, Kingston upon Hull, master smith, B Hull."
+      }
+    ]
+  }
+]

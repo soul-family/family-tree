@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1838_moritz_jacobsohn",
+    "name": "Moritz Jacobsohn",
+    "birthday": "1838",
+    "birthplace": "Kassel, Germany",
+    "death": "1913-12-26",
+    "deathplace": "Christchurch, Hants",
+    "gender": "M",
+    "occupation": "Merchant",
+    "spouses": [
+      {
+        "id": "1839_juliet_solomon",
+        "marriedYear": "",
+        "marriedDate": "",
+        "marriedPlace": ""
+      }
+    ],
+    "children": [
+      "1865_rosa_lea_jacobsohn",
+      "1866_oscar_jacobsohn",
+      "joseph_henry_jacobsohn",
+      "1869_sydney_samuel_jacobsohn",
+      "philip_charles_jacobsohn",
+      "florence_annie_jacobsohn",
+      "lilian_esther_margarethe_jacobsohn",
+      "lewis_bertie_jacobsohn"
+    ],
+    "info": "Kassel, Germany; on holiday in Christchurch, Hants"
+  },
+  {
+    "id": "1839_juliet_solomon",
+    "name": "Juliet Solomon",
+    "birthday": "1839",
+    "birthplace": "Sydney, NSW",
+    "death": "1917-04",
+    "deathplace": "St Johns Wood, London",
+    "gender": "F",
+    "spouses": [
+      {
+        "id": "1838_moritz_jacobsohn",
+        "marriedYear": "",
+        "marriedDate": "",
+        "marriedPlace": ""
+      }
+    ],
+    "children": [
+      "1865_rosa_lea_jacobsohn",
+      "1866_oscar_jacobsohn",
+      "joseph_henry_jacobsohn",
+      "1869_sydney_samuel_jacobsohn",
+      "philip_charles_jacobsohn",
+      "florence_annie_jacobsohn",
+      "lilian_esther_margarethe_jacobsohn",
+      "lewis_bertie_jacobsohn"
+    ],
+    "info": "Sydney, NSW, & Sarah Solomon nee Phillips; D Apr 1917 St Johns Wood, London",
+    "parents": {
+      "mother": "Philip Solomon"
+    }
+  },
+  {
+    "id": "1865_rosa_lea_jacobsohn",
+    "name": "Rosa Leah Jacobsohn",
+    "birthday": "1865-05-04",
+    "gender": "F",
+    "spouses": [
+      {
+        "id": "1855_walter_joseph_hone_soul",
+        "marriedYear": "1886",
+        "marriedDate": "1886-08-04",
+        "marriedPlace": "South Africa"
+      }
+    ],
+    "children": [
+      "1886_harold_moritz_joseph_soul",
+      "1888_eric_walter_soul",
+      "1891_alan_william_hone_soul"
+    ],
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    },
+    "info": ""
+  },
+  {
+    "id": "1866_oscar_jacobsohn",
+    "name": "Oscar Jacobsohn",
+    "birthday": "1866",
+    "death": "1868",
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    }
+  },
+  {
+    "id": "joseph_henry_jacobsohn",
+    "name": "Joseph Henry Jacobsohn",
+    "birthday": "",
+    "birthplace": "",
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    }
+  },
+  {
+    "id": "1869_sydney_samuel_jacobsohn",
+    "name": "Sydney Samuel Jacobsohn",
+    "birthday": "1869",
+    "death": "1912-04-14",
+    "deathplace": "Titanic passenger",
+    "gender": "M",
+    "occupation": "Solicitor & notary public",
+    "spouses": [
+      {
+        "id": "amy_frances_cohen",
+        "marriedYear": "1910",
+        "marriedDate": "1910-09-06",
+        "marriedPlace": "St George's Hanover Square"
+      }
+    ],
+    "children": [
+      "margaret_jacobsohn"
+    ],
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    },
+    "info": "D 14/15 Apr 1912 passenger on Titanic. 22 July 1912, High Court London, grant of probate of the contents of the lost will (lost on the Titanic) as contained in Mrs Jacobsohn's affidavit; estate value £12,000"
+  },
+  {
+    "id": "amy_frances_cohen",
+    "name": "Amy Frances Cohen",
+    "birthday": "",
+    "birthplace": "",
+    "gender": "F",
+    "spouses": [
+      {
+        "id": "1869_sydney_samuel_jacobsohn",
+        "marriedYear": "1910",
+        "marriedDate": "1910-09-06",
+        "marriedPlace": "St George's Hanover Square"
+      }
+    ],
+    "children": [
+      "margaret_jacobsohn"
+    ],
+    "info": "1912 Titanic survivor. M 6 Sept 1910, St George's Hanover Square, bachelor, 40, solicitor & notary public ret'd, of 10 Culross St, 'd; & spinster, 22, of Langham Hotel, 'd merchant; in pres of S.T. Solomon, Frederick Roth, & M.J.Cohen",
+    "parents": {
+      "father": "Moritz Jacobsohn merchant ret",
+      "mother": "Moreno Cohen dec"
+    }
+  },
+  {
+    "id": "margaret_jacobsohn",
+    "name": "Margaret Jacobsohn",
+    "birthday": "1911-Q4",
+    "birthplace": "and",
+    "death": "1911-Q4",
+    "deathplace": "",
+    "parents": {
+      "father": "1869_sydney_samuel_jacobsohn",
+      "mother": "amy_frances_cohen"
+    },
+    "info": "D last quarter 1911"
+  },
+  {
+    "id": "philip_charles_jacobsohn",
+    "name": "Philip Charles Jacobsohn",
+    "birthday": "",
+    "birthplace": "",
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    }
+  },
+  {
+    "id": "florence_annie_jacobsohn",
+    "name": "Florence Annie Jacobsohn",
+    "birthday": "",
+    "birthplace": "",
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    }
+  },
+  {
+    "id": "lilian_esther_margarethe_jacobsohn",
+    "name": "Lilian Esther Margarethe Jacobsohn",
+    "birthday": "",
+    "birthplace": "",
+    "gender": "F",
+    "spouses": [
+      {
+        "id": "arthur_robertson",
+        "marriedYear": "",
+        "marriedDate": "",
+        "marriedPlace": ""
+      },
+      {
+        "id": "sydney_weston",
+        "marriedYear": "",
+        "marriedDate": "",
+        "marriedPlace": ""
+      }
+    ],
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    }
+  },
+  {
+    "id": "arthur_robertson",
+    "name": "Arthur Robertson",
+    "birthday": "",
+    "birthplace": "",
+    "gender": "M",
+    "spouses": [
+      {
+        "id": "lilian_esther_margarethe_jacobsohn",
+        "marriedYear": "",
+        "marriedDate": "",
+        "marriedPlace": ""
+      }
+    ]
+  },
+  {
+    "id": "sydney_weston",
+    "name": "Sydney Weston",
+    "birthday": "",
+    "birthplace": "",
+    "gender": "M",
+    "spouses": [
+      {
+        "id": "lilian_esther_margarethe_jacobsohn",
+        "marriedYear": "",
+        "marriedDate": "",
+        "marriedPlace": ""
+      }
+    ]
+  },
+  {
+    "id": "lewis_bertie_jacobsohn",
+    "name": "Lewis Bertie Jacobsohn",
+    "birthday": "",
+    "birthplace": "",
+    "parents": {
+      "father": "1838_moritz_jacobsohn",
+      "mother": "1839_juliet_solomon"
+    }
+  }
+]

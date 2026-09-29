@@ -46,67 +46,68 @@ flowchart TD
 ```mermaid
 flowchart TD
 
-    great-grandfather("`
-                great-grandfather
-                b.1800
-                `")
-        === great-grandmother("`
+    great-grandfather(
+        great-grandfather
+        b.1800
+        )
+        === great-grandmother(
                 +great-grandmother
                 b.1805
-                `")
+                )
+
     great-grandmother 
-        === grandfather1("`
+        === grandfather1(
             grandfather1<br/>b.1825
-            `")
+            )
     great-grandmother 
-        === grandmother2("`
+        === grandmother2(
             grandmother2<br/>b.1830
-            `")
+            )
     
     grandfather1 
-        === grandmother1("`
+        === grandmother1(
             +grandmother1<br/>b.1838
-            `")
-    grandmother2("`
+            )
+    grandmother2(
             grandmother2<br/>b.1832
-            `") 
-        === grandfather2("`
+            ) 
+        === grandfather2(
     +grandfather2<br/>b.1828
-    `")
+    )
 
     grandfather2 
-        === mother2("`
+        === mother2(
             mother2<br/>b.1852
-            `")
+            )
     grandmother1 
-        === father1("`
+        === father1(
             father1<br/>b.1828
-            `")
+            )
     
     father1 
-        === mother1("`
+        === mother1(
             +mother1
-            `")
+            )
 
     mother1 
         === child1
 
     mother1 
-        === child2("`
+        === child2(
             child2<br/>b.1883
-            `")
+            )
     
     mother2 
-        === father2("`
+        === father2(
             +father2
-            `")
-    father
+            )
+    father2
         ===
-     child3("`
+     child3(
             child3<br/>b.1885
-            `")
+            )
 
-    linkStyle default stroke-width:4px
+    linkStyle default stroke:#555,stroke-width:2px
 ```
 
 ### Syntax logic
@@ -115,10 +116,19 @@ flowchart TD
 - Parent 1 connects to parent 2 with exactly one direct link.
 - Parent 2 produces the next generation: children or further subtrees.
 - Every child receives links from both parents.
+- Node IDs are person IDs from branch JSON files, e.g. `1845_thomas_dickerson_smith_tds`.
+- Nodes use plain parenthesis () with markdown label text displaying name and birthday on a new line using `<br/>`.
+- Edges use `===` and `linkStyle default stroke:#555`.
 
-Examples from this diagram:
-- great-grandfather → great-grandmother[+], and great-grandmother → grandfather1 + grandmother2
-- grandfather1 → grandmother1[+], and grandmother1 → father1
-- grandmother2 → grandfather2[+], and grandfather2 → mother2
-- father1 → mother1[+], and mother1 → child1 + child2
-- mother2 → father2[+], and father2 → child3
+#### Example with real branch IDs
+
+Using `smith.json` as an example:
+
+| Person | ID | Role |
+|--------|----|------|
+| Thomas Dickerson Smith | `1845_thomas_dickerson_smith_tds` | parent 1 to Elizabeth Simmonds Soul |
+| Elizabeth Simmonds Soul | `+1841_elizabeth_simmonds_soul_ess` | parent 2, carries subtree |
+| Joseph Soul Smith | `1875_joseph_soul_smith_jss` | child of both parents |
+| Leslie Joseph Soul Smith | `1905_leslie_joseph_soul_smith_ljss` | child, later parent 1 to Hilda Harmer |
+| Hilda Elizabeth Harmer | `+1904_hilda_elizabeth_harmer_heh` | parent 2, carries subtree to Ethel |
+| Ethel Margaret Smith | `1908_ethel_margaret_smith_ems` | child of both parents |

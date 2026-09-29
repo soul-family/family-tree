@@ -1,0 +1,1960 @@
+[
+  {
+    "id": "1755_william_hone",
+    "name": "William Hone",
+    "birthday": "1755-03-31",
+    "birthplace": "",
+    "death": "1831",
+    "deathplace": "Bunhill Fields, London",
+    "gender": "M",
+    "info": "Fields, London, 12 Feb, aged 76, from Percival Street",
+    "burial": "Bunhill"
+  },
+  {
+    "id": "unknown_frances_maria_stawell",
+    "name": "Frances Maria (Stawell)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1833",
+    "deathplace": "Bunhill Fields",
+    "gender": "F",
+    "info": "Fields 22 Apr, aged 76, from Percival Street",
+    "burial": "Bunhill"
+  },
+  {
+    "id": "1780_william_hone",
+    "name": "William Hone",
+    "birthday": "1780-06-03",
+    "birthplace": "Bath",
+    "death": "1842-11-06",
+    "deathplace": "Abney Park Cemetery, Stoke Newington, N London",
+    "gender": "M",
+    "info": "Bath 3 June 1780; , Park Cemetery, Stoke Newington, N London, gv 316 sq 76, aged 62, from Grove Place, Tottenham",
+    "burial": "Abney"
+  },
+  {
+    "id": "1781_sarah_johnson",
+    "name": "Sarah (Johnson)",
+    "birthday": "1781-11-30",
+    "birthplace": "Southwark",
+    "death": "1864-09-26",
+    "deathplace": "Abney Park",
+    "gender": "F",
+    "info": "Southwark 30 Nov 1781; , Park gv 316 sq 76, aged 83, from Somerford Grove",
+    "burial": "Abney"
+  },
+  {
+    "id": "1801_sarah_hone",
+    "name": "Sarah (Hone)",
+    "birthday": "1801",
+    "birthplace": "",
+    "death": "1883-08-03",
+    "deathplace": "Melbourne, Vic",
+    "gender": "F",
+    "info": "St Mary's Lambeth; emigrated to Australia, Melbourne; Melbourne, Vic",
+    "baptism": "25 Oct 1801"
+  },
+  {
+    "id": "unknown_jacob_henry_burn",
+    "name": "Jacob Henry Burn",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "M 13 July 1822, St Martin-in-the-Fields, each of the parish, in the pres of W Hone, Fanny Hone, & Matilda Hone"
+  },
+  {
+    "id": "1825_robert_burn",
+    "name": "Robert Burn",
+    "birthday": "1825-03-14",
+    "birthplace": "London",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "London"
+  },
+  {
+    "id": "1827_henry_burn",
+    "name": "Henry Burn",
+    "birthday": "1827-01-19",
+    "birthplace": "London",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "London"
+  },
+  {
+    "id": "1828_allan_burn",
+    "name": "Allan Burn",
+    "birthday": "1828-10-27",
+    "birthplace": "London",
+    "death": "1883",
+    "deathplace": "Bairnsdale, Victoria, Australia",
+    "gender": "M",
+    "info": "London, Bairnsdale, Victoria, Australia"
+  },
+  {
+    "id": "1858_robert_henry_burn",
+    "name": "Robert Henry Burn",
+    "birthday": "1858",
+    "birthplace": "Victoria",
+    "death": "",
+    "deathplace": "in infancy",
+    "gender": "M",
+    "info": "Victoria, D in infancy"
+  },
+  {
+    "id": "1869_mary_rose_burn",
+    "name": "Mary Rose Burn",
+    "birthday": "1869",
+    "birthplace": "Victoria, Australia",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Victoria, Australia"
+  },
+  {
+    "id": "1911_alice_m._granberg",
+    "name": "Alice M. Granberg",
+    "birthday": "1911",
+    "birthplace": "W Australia",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "W Australia"
+  },
+  {
+    "id": "unknown_doreen_barrett",
+    "name": "Doreen Barrett",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_wesley_barrett",
+    "name": "Wesley Barrett",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "1913_lillian_constance_granberg",
+    "name": "Lillian Constance (Granberg)",
+    "birthday": "1913",
+    "birthplace": "W Australia",
+    "death": "1998",
+    "deathplace": "W Australia",
+    "gender": "F",
+    "info": "W Australia; W Australia"
+  },
+  {
+    "id": "unknown_mervyn_barrett",
+    "name": "Mervyn Barrett",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "unknown_michelle_otway-melvin",
+    "name": "Michelle (Otway-Melvin)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_cheryl_grant",
+    "name": "Cheryl (Grant)",
+    "birthday": "23 July 1905",
+    "birthplace": "",
+    "death": "1 Apr 1986",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Glasgow, W Australia, & Freda E. (Scot) B 1909 W Australia, W Australia",
+    "parents": {
+      "mother": "Hector Grant"
+    }
+  },
+  {
+    "id": "unknown_matthew_barrett",
+    "name": "Matthew Barrett",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "unknown_melissa_barrett",
+    "name": "Melissa (Barrett)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_wayne_barrett",
+    "name": "Wayne Barrett",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "unknown_lauren_fernandez",
+    "name": "Lauren Fernandez",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_lachlan_simson",
+    "name": "Lachlan Simson",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "1862_alice_charlotte_burn",
+    "name": "Alice Charlotte (Burn)",
+    "birthday": "1862-06-03",
+    "birthplace": "Victoria",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Victoria"
+  },
+  {
+    "id": "1884_may_constance_williams",
+    "name": "May Constance (Williams)",
+    "birthday": "1884",
+    "birthplace": "Victoria",
+    "death": "1964-03-09",
+    "deathplace": "W Australia",
+    "gender": "F",
+    "info": "Victoria; W Australia"
+  },
+  {
+    "id": "1864_david_evan_williams",
+    "name": "David Evan Williams",
+    "birthday": "1864-07-01",
+    "birthplace": "Belvoir, Victoria",
+    "death": "2 Jan 1917",
+    "deathplace": "Katanning",
+    "gender": "M",
+    "info": "Belvoir, Victoria, (Jenkins), Katanning, W Australia",
+    "parents": {
+      "father": "Evan Williams and Besty"
+    }
+  },
+  {
+    "id": "1880_frans_edward_granberg",
+    "name": "Frans Edward Granberg",
+    "birthday": "1880",
+    "birthplace": "W Australia",
+    "death": "1940",
+    "deathplace": "W Australia",
+    "gender": "M",
+    "info": "& Maria (Erickasen), W Australia",
+    "parents": {
+      "father": "Frans Granberg"
+    }
+  },
+  {
+    "id": "unknown_maria_erickasen",
+    "name": "Maria (Erickasen)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1940",
+    "deathplace": "W Australia",
+    "gender": "F",
+    "info": "W Australia"
+  },
+  {
+    "id": "1912_richard_john_barrett",
+    "name": "Richard John Barrett",
+    "birthday": "1912-10-24",
+    "birthplace": "Lancashire, England",
+    "death": "1974-12-06",
+    "deathplace": "W Australia",
+    "gender": "M",
+    "info": "Lancashire, England; W Australia"
+  },
+  {
+    "id": "1909_freda_e._scot",
+    "name": "Freda E. (Scot)",
+    "birthday": "1909",
+    "birthplace": "W Australia",
+    "death": "2003-03-05",
+    "deathplace": "W Australia",
+    "gender": "F",
+    "info": "W Australia, W Australia"
+  },
+  {
+    "id": "1833_joice_morgan",
+    "name": "Joice (Morgan)",
+    "birthday": "1833-06-17",
+    "birthplace": "Tredegar, Wales",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Tredegar, Wales, & Elizabeth (Edwards); M Feb 1856 Taraville, South Gippsland, Victoria Australia",
+    "parents": {
+      "mother": "John Morgan"
+    }
+  },
+  {
+    "id": "unknown_john_morgan",
+    "name": "John Morgan",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "& Elizabeth (Edwards)",
+    "parents": {
+      "mother": "John Morgan"
+    }
+  },
+  {
+    "id": "unknown_elizabeth_edwards",
+    "name": "Elizabeth (Edwards)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "& Elizabeth (Edwards)",
+    "parents": {
+      "mother": "John Morgan"
+    }
+  },
+  {
+    "id": "1916_david_edward_kitchener_granberg",
+    "name": "David Edward Kitchener Granberg",
+    "birthday": "1916-10-01",
+    "birthplace": "W Australia",
+    "death": "1968",
+    "deathplace": "W Australia",
+    "gender": "M",
+    "info": "W Australia, W Australia"
+  },
+  {
+    "id": "1885_arthur_allan_g._williams",
+    "name": "Arthur Allan G. Williams",
+    "birthday": "1885",
+    "birthplace": "Victoria",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Victoria"
+  },
+  {
+    "id": "1887_evan_jenkins_williams",
+    "name": "Evan Jenkins Williams",
+    "birthday": "1887",
+    "birthplace": "Victoria",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Victoria"
+  },
+  {
+    "id": "unknown_hannah_thomas",
+    "name": "Hannah (Thomas)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "M 1911 W Australia"
+  },
+  {
+    "id": "1803_fanny_hone",
+    "name": "Fanny (Hone)",
+    "birthday": "1803-04-05",
+    "birthplace": "City of London",
+    "death": "1883-03-10",
+    "deathplace": "Margaretting, Essex",
+    "gender": "F",
+    "info": "at residence of her son Thomas at Margaretting, Essex, Park, Stoke Newington, 15 Mar, aged 79",
+    "burial": "Abney",
+    "census": [
+      {
+        "year": "1881",
+        "details": "3 Nightingale Rd, household of Joseph Simmonds Soul, widow, 77, B City of London"
+      }
+    ]
+  },
+  {
+    "id": "1798_thomas_hemsley",
+    "name": "Thomas Hemsley",
+    "birthday": "1798-06-11",
+    "birthplace": "Newington Butts, Surrey",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Newington Butts, Surrey, bpt King's Weigh House Chapel, 30 Dec 1834, & Elizabeth (Seaton)",
+    "parents": {
+      "father": "Thomas Hemsley optician"
+    }
+  },
+  {
+    "id": "unknown_elizabeth_seaton",
+    "name": "Elizabeth (Seaton)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "& Elizabeth (Seaton)",
+    "parents": {
+      "father": "Thomas Hemsley optician"
+    }
+  },
+  {
+    "id": "1827_thomas_hemsley",
+    "name": "Thomas Hemsley",
+    "birthday": "1827-08-16",
+    "birthplace": "King St, Tower Hill, parish of St Botolph Aldgate",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "King St, Tower Hill, parish of St Botolph Aldgate, King's Weigh House Chapel by Thomas Binney, & Fanny (Hone)",
+    "baptism": "30 Dec 1834",
+    "parents": {
+      "father": "Thomas Hemsley optician"
+    }
+  },
+  {
+    "id": "1825_jessie_franklyn",
+    "name": "Jessie (Franklyn)",
+    "birthday": "1825-11-30",
+    "birthplace": "",
+    "death": "1869-11-29",
+    "deathplace": "Abney Park, Stoke Newington",
+    "gender": "F",
+    "info": "bd 4 Dec, Abney Park, Stoke Newington, with Franklyn Charles"
+  },
+  {
+    "id": "1851_thomas_franklyn_hemsley",
+    "name": "Thomas Franklyn Hemsley",
+    "birthday": "1851-12-09",
+    "birthplace": "America",
+    "death": "1916-01-03",
+    "deathplace": "",
+    "gender": "M",
+    "info": "",
+    "census": [
+      {
+        "year": "1901",
+        "details": "15 Capel Rd, East Ham, widower, 49, printer's book reader, B America, New York"
+      }
+    ]
+  },
+  {
+    "id": "unknown_clara_willmott_thomas",
+    "name": "Clara Willmott (Thomas)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1891-01",
+    "deathplace": "Romford",
+    "gender": "F",
+    "info": "D 1891 Q1, aged 37, Romford"
+  },
+  {
+    "id": "1877_ethel_clara_hemsley",
+    "name": "Ethel Clara Hemsley",
+    "birthday": "1877-04-03",
+    "birthplace": "Edmonton",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Edmonton (MEHS)"
+  },
+  {
+    "id": "1878_violet_mary_hemsley",
+    "name": "Violet Mary Hemsley",
+    "birthday": "1878-04-02",
+    "birthplace": "Middx Tottenham",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1901",
+        "details": "15 Capel Rd, East Ham, single, 22, B Middx Tottenham."
+      }
+    ]
+  },
+  {
+    "id": "1879_winifred_sarah_hemsley",
+    "name": "Winifred Sarah Hemsley",
+    "birthday": "1879-10-15",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "1881_jessie_maud_hemsley",
+    "name": "Jessie Maud Hemsley",
+    "birthday": "1881-05-03",
+    "birthplace": "Edmonton",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Edmonton, (MEHS)",
+    "census": [
+      {
+        "year": "1901",
+        "details": "3 Nightingale Rd, Hackney, niece of Joseph Simmonds Soul, single, 19, art needleworker, B Tottenham."
+      }
+    ]
+  },
+  {
+    "id": "1882_gladys_margaret_hemsley",
+    "name": "Gladys Margaret Hemsley",
+    "birthday": "1882-11-26",
+    "birthplace": "",
+    "death": "1883-08-17",
+    "deathplace": "Abney Park",
+    "gender": "F",
+    "info": "Park 22 Aug, aged 8 months, Sq D06",
+    "burial": "Abney"
+  },
+  {
+    "id": "1884_thomas_alexis_franklyn_hemsley",
+    "name": "Thomas Alexis Franklyn Hemsley",
+    "birthday": "1884-11-12",
+    "birthplace": "Middx Tottenham",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "(MEHS)",
+    "census": [
+      {
+        "year": "1901",
+        "details": "15 Capel Rd, West Ham, 16, mercantile clerk, B Middx Tottenham."
+      }
+    ]
+  },
+  {
+    "id": "1886_robert_harry_hemsley",
+    "name": "Robert Harry Hemsley",
+    "birthday": "1886-05-09",
+    "birthplace": "Romford",
+    "death": "1917-10-12",
+    "deathplace": "Lijssenthoek Military Cemetery",
+    "gender": "M",
+    "info": "Romford (MEHS); emigrated to Australia, Australian I.F., wounded at Ypres 10 October 1917, , aged 31, private, 17th Bn Australian Infantry, A.I.F, grave XXI.A.20A Lijssenthoek Military Cemetery",
+    "census": [
+      {
+        "year": "1901",
+        "details": "15 Capel Rd, West Ham, 14, mercantile clerk, B Essex Upminster"
+      }
+    ]
+  },
+  {
+    "id": "1888_doris_evelyn_hemsley",
+    "name": "Doris Evelyn Hemsley",
+    "birthday": "1888-02-06",
+    "birthplace": "Romford",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Romford (MEHS)",
+    "census": [
+      {
+        "year": "1901",
+        "details": "15 Capel Rd, West Ham, 13, B Essex Upminster."
+      }
+    ]
+  },
+  {
+    "id": "1891_daisy_rosalie_hemsley",
+    "name": "Daisy Rosalie Hemsley",
+    "birthday": "1891-02-25",
+    "birthplace": "Romford",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Romford",
+    "census": [
+      {
+        "year": "1901",
+        "details": "15 Cleveland Rd, Wanstead, Essex, gd-daughter in household of Thomas Hemsley, 10, B Upminster, Essex."
+      }
+    ]
+  },
+  {
+    "id": "1859_mary_hemsley",
+    "name": "Mary Hemsley",
+    "birthday": "1859-03-08",
+    "birthplace": "City of London",
+    "death": "1946-03-08",
+    "deathplace": "Beaufort, Monmouthshire",
+    "gender": "F",
+    "info": "Beaufort, Monmouthshire",
+    "census": [
+      {
+        "year": "1881",
+        "details": "Ivy Cottage, Margaretting, Essex, 22, B City of London"
+      }
+    ]
+  },
+  {
+    "id": "unknown_henry_elisha_wilkinson",
+    "name": "Henry Elisha Wilkinson",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "M 4 Sept 1894, Oxsted, Surrey"
+  },
+  {
+    "id": "1861_george_franklyn_hemsley",
+    "name": "George Franklyn Hemsley",
+    "birthday": "1861-Q1",
+    "birthplace": "Whitechapel",
+    "death": "1862",
+    "deathplace": "Abney Park, Stoke Newington",
+    "gender": "M",
+    "info": "B 1861 Q1, Whitechapel; , bd 5 May, Abney Park, Stoke Newington, aged 14 months"
+  },
+  {
+    "id": "unknown_arthur_franklyn_hemsley",
+    "name": "Arthur Franklyn Hemsley",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1865",
+    "deathplace": "Abney Park, Stoke Newington",
+    "gender": "M",
+    "info": "bd 28 Jan, Abney Park, Stoke Newington, gv 316 sq 76, grave of his gt gd-parents William & Sarah Hone, aged 22 months, from King St, Tower Hill"
+  },
+  {
+    "id": "unknown_margaret_hemsley",
+    "name": "Margaret (Hemsley)",
+    "birthday": "",
+    "birthplace": "City of London",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "Ivy Cottage, Margaretting, Essex, 18, b City of London."
+      }
+    ]
+  },
+  {
+    "id": "1862_walter_huckett",
+    "name": "Walter Huckett",
+    "birthday": "1862-01-31",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "1898_hugh_cecil_huckett",
+    "name": "Hugh Cecil Huckett",
+    "birthday": "1898-07-13",
+    "birthplace": "Antananarivo, Madagascar",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Antananarivo, Madagascar"
+  },
+  {
+    "id": "1892_arnold_walter_huckett",
+    "name": "Arnold Walter Huckett",
+    "birthday": "1892-02-27",
+    "birthplace": "Antananarivo, Madagascar",
+    "death": "1915-08-10",
+    "deathplace": "Gallipoli",
+    "gender": "M",
+    "info": "Antananarivo, Madagascar; , Gallipoli, lieutenant, 5th Bn, Wiltshire Regt, named on Helles Memorial"
+  },
+  {
+    "id": "1894_margaret_christina_huckett",
+    "name": "Margaret Christina Huckett",
+    "birthday": "1894-07-07",
+    "birthplace": "Antananarivo, Madagascar",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Antananarivo. Madagascar"
+  },
+  {
+    "id": "1899_oliver_sharman_huckett",
+    "name": "Oliver Sharman Huckett",
+    "birthday": "1899-07-12",
+    "birthplace": "Samoa",
+    "death": "1918-04-27",
+    "deathplace": "France",
+    "gender": "M",
+    "info": "Samoa; , France, aged 18, rifleman, 1st/8th Bn London Regt (Post Office Rifles), Rifle Brigade, named on Pozieres Memorial"
+  },
+  {
+    "id": "1865_kate_hemsley",
+    "name": "Kate Hemsley",
+    "birthday": "1865-01-17",
+    "birthplace": "City of London",
+    "death": "1930-08-04",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "Ivy Cottage, Margaretting, Essex, 16, scholar, B City of London"
+      }
+    ]
+  },
+  {
+    "id": "1867_edith_florence_hemsley",
+    "name": "Edith Florence Hemsley",
+    "birthday": "1867-07-09",
+    "birthplace": "City of London",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "Ivy Cottage, Margaretting, Essex, 13, scholar, B City of London."
+      }
+    ]
+  },
+  {
+    "id": "1869_franklyn_charles_hemsley",
+    "name": "Franklyn Charles Hemsley",
+    "birthday": "1869-Q4",
+    "birthplace": "",
+    "death": "1869-Q4",
+    "deathplace": "Abney Park",
+    "gender": "M",
+    "info": "B & D 1869 Q4, bd 4 Dec, Abney Park"
+  },
+  {
+    "id": "1829_william_hemsley",
+    "name": "William Hemsley",
+    "birthday": "1829-05-27",
+    "birthplace": "King St, Tower Hill",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "King St, Tower Hill, King's Weigh House Chapel, & Fanny (Hone)",
+    "baptism": "30 Dec 1834",
+    "parents": {
+      "father": "Thomas Hemsley optician"
+    }
+  },
+  {
+    "id": "1831_fanny_hemsley",
+    "name": "Fanny Hemsley",
+    "birthday": "1831-02-20",
+    "birthplace": "King St, Tower Hill",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "King St, Tower Hill, King's Weigh House Chapel, & Fanny (Hone)",
+    "baptism": "30 Dec 1834",
+    "parents": {
+      "mother": "Thomas Hemsley optician"
+    }
+  },
+  {
+    "id": "1837_emma_hemsley",
+    "name": "Emma (Hemsley)",
+    "birthday": "1837-03-14",
+    "birthplace": "",
+    "death": "1899-11-21",
+    "deathplace": "",
+    "gender": "F",
+    "info": "(MEHS)"
+  },
+  {
+    "id": "unknown_john_walker",
+    "name": "John Walker",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "M 9 Oct 1877, Islington Parish Church, spinster, of full age, of 4 Milner Sq, ; & bachelor, of full age, surveyor, of Godstone, Surrey",
+    "parents": {
+      "father": "John Walker farmer",
+      "mother": "Thomas Hemsley optician"
+    }
+  },
+  {
+    "id": "1844_alfred_frederick_hemsley",
+    "name": "Alfred Frederick Hemsley",
+    "birthday": "1844-04-20",
+    "birthplace": "Whitechapel",
+    "death": "1922-03-14",
+    "deathplace": "",
+    "gender": "M",
+    "info": "(MEHS), Whitechapel"
+  },
+  {
+    "id": "unknown_emma_ginder",
+    "name": "Emma (Ginder)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "M 1867 Islington"
+  },
+  {
+    "id": "1805_matilda_hone",
+    "name": "Matilda Hone",
+    "birthday": "1805-07-26",
+    "birthplace": "Surrey",
+    "death": "1884-09-10",
+    "deathplace": "Abney Park",
+    "gender": "F",
+    "info": "in early days was in business as printseller in Little Bell Alley, published 'Old Humphrey' for her father; 1834 Directory, Grasshopper Coffee House & Hotel, Matilda Hone, 13 Gracechurch St London; 1844 Directory, City Rd, Orphan Working School, Joseph Soul secretary, Matilda Hone mistress; , Park, gv 316 sq 76",
+    "burial": "Abney",
+    "census": [
+      {
+        "year": "1871",
+        "details": "4 Milner Sq, Islington, 65, school mistress, B Surrey, Lambeth"
+      },
+      {
+        "year": "1881",
+        "details": "3 Nightingale Rd, household of brother-in-law Joseph Simmonds Soul, 75, B Lambeth, Surrey"
+      }
+    ]
+  },
+  {
+    "id": "1807_william_hone",
+    "name": "William Hone",
+    "birthday": "1807-07-24",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "died at sea",
+    "gender": "M",
+    "info": "St Mary's Lambeth, & Sarah Hone; died at sea (MEHS)",
+    "baptism": "9 June 1811",
+    "parents": {
+      "father": "William"
+    }
+  },
+  {
+    "id": "1810_alfred_hone",
+    "name": "Alfred Hone",
+    "birthday": "1810-01-02",
+    "birthplace": "",
+    "death": "1883",
+    "deathplace": "",
+    "gender": "M",
+    "info": "St Mary's Lambeth & Sarah Hone; exhibited portrait busts at the Royal Academy 1836-41 1843-4 1852; worked for Mr Foley on the 'Asia' group of the Albert Memorial; (MEHS)",
+    "baptism": "9 June 1811",
+    "parents": {
+      "father": "William"
+    }
+  },
+  {
+    "id": "unknown_elizabeth_preece",
+    "name": "Elizabeth (Preece)",
+    "birthday": "",
+    "birthplace": "Kingstone, Herefordshire",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1851",
+        "details": "12 London St, 40, B Kingstone, Herefordshire"
+      },
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, Hornsey, 70, B Hereford."
+      }
+    ]
+  },
+  {
+    "id": "1836_alfred_hone",
+    "name": "Alfred Hone",
+    "birthday": "1836",
+    "birthplace": "Middx",
+    "death": "1885",
+    "deathplace": "Calcutta",
+    "gender": "M",
+    "info": "(MEHS); 1856 exhibited medallion portrait Royal Academy; executed bronze equestrian memorial to Prince Imperial erected in S Africa; in Calcutta while executing sculptural work (MEHS)",
+    "census": [
+      {
+        "year": "1841",
+        "details": "William St, Hampstead Rd. 4"
+      },
+      {
+        "year": "1851",
+        "details": "12 London St, 14, scholar, B Middx, St Pancras"
+      },
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, Hornsey, 45, designer (artizan), B St Pancras"
+      }
+    ]
+  },
+  {
+    "id": "unknown_annie_",
+    "name": "Annie ()",
+    "birthday": "",
+    "birthplace": "Stepney",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, Hornsey, 39, B Stepney."
+      }
+    ]
+  },
+  {
+    "id": "unknown_edward_hone",
+    "name": "Edward Hone",
+    "birthday": "",
+    "birthplace": "St Pancras",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "emigrated to Lima, Peru",
+    "census": [
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, 14, scholar, B St Pancras"
+      },
+      {
+        "year": "1901",
+        "details": "59 Cobbold Rd, Willesden, 34, stone & marble mason, employer, working at home, B London, Kentish Town"
+      }
+    ]
+  },
+  {
+    "id": "unknown_sarah_thompson",
+    "name": "Sarah (Thompson)",
+    "birthday": "",
+    "birthplace": "London, Bow",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "emig to Lima, Peru",
+    "census": [
+      {
+        "year": "1901",
+        "details": "59 Cobbold Rd, Willesden, 33, laundress, employer, working at home, B London, Bow"
+      }
+    ]
+  },
+  {
+    "id": "1901_bertie_hone",
+    "name": "Bertie Hone",
+    "birthday": "1901-Q2",
+    "birthplace": "Hendon",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "B 1901 Q2. Hendon; emig to Lima, Peru",
+    "census": [
+      {
+        "year": "1901",
+        "details": "59 Cobbold Rd, 'Bert', 1 mnth, B Willesden"
+      }
+    ]
+  },
+  {
+    "id": "1896_charles_walter_hone",
+    "name": "Charles Walter Hone",
+    "birthday": "1896-Q2",
+    "birthplace": "Edmonton",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "B 1896 Q2, Edmonton; emig to Lima, Peru",
+    "census": [
+      {
+        "year": "1901",
+        "details": "59 Cobbold Rd, 5, B Edmonton"
+      }
+    ]
+  },
+  {
+    "id": "1899_george_hone",
+    "name": "George Hone",
+    "birthday": "1899-Q3",
+    "birthplace": "Hendon",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "B 1899 Q3, Hendon; emig to Lima, Peru",
+    "census": [
+      {
+        "year": "1901",
+        "details": "59 Cobbold Rd, 2, B Willesden"
+      }
+    ]
+  },
+  {
+    "id": "unknown_yolanda_chalier",
+    "name": "Yolanda (Chalier)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_arthur_hone",
+    "name": "Arthur Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "unknown_jacqueline_hone",
+    "name": "Jacqueline Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_doris_hone",
+    "name": "Doris Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_edith_annie_hone",
+    "name": "Edith Annie (Hone)",
+    "birthday": "",
+    "birthplace": "St Pancras",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, 10, scholar, B St Pancras."
+      }
+    ]
+  },
+  {
+    "id": "unknown_james_ellis",
+    "name": "James Ellis",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "printer's machine minder, & Edith Annie Ellis formerly Hone"
+  },
+  {
+    "id": "unknown_edgar_hone",
+    "name": "Edgar Hone",
+    "birthday": "",
+    "birthplace": "Brixton, Surrey",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, 9, scholar, B Brixton, Surrey."
+      }
+    ]
+  },
+  {
+    "id": "unknown_lena_hone",
+    "name": "Lena Hone",
+    "birthday": "",
+    "birthplace": "Wandsworth",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, 7, scholar, B Wandsworth."
+      }
+    ]
+  },
+  {
+    "id": "unknown_bertie_hone",
+    "name": "Bertie Hone",
+    "birthday": "",
+    "birthplace": "Wandsworth",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, 3, B Wandsworth."
+      }
+    ]
+  },
+  {
+    "id": "unknown_daisy_v_hone",
+    "name": "Daisy V Hone",
+    "birthday": "",
+    "birthplace": "Stoke Newington, London",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "",
+    "census": [
+      {
+        "year": "1901",
+        "details": "59 Cobbold Rd, Willesden, sister of Edward Hone head of household, single, 18, laundress, working at home, B Stoke Newington, London."
+      }
+    ]
+  },
+  {
+    "id": "unknown_william_hone",
+    "name": "William Hone",
+    "birthday": "",
+    "birthplace": "St Pancras",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "",
+    "census": [
+      {
+        "year": "1841",
+        "details": "William St, Hampstead Rd, 3"
+      },
+      {
+        "year": "1851",
+        "details": "12 London St, 12, scholar, B St Pancras."
+      }
+    ]
+  },
+  {
+    "id": "1842_frances_elizabeth_hone",
+    "name": "Frances Elizabeth (Hone)",
+    "birthday": "1842-Q1",
+    "birthplace": "St Pancras",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "B Q1 1842, St Pancras",
+    "census": [
+      {
+        "year": "1851",
+        "details": "12 London St, 9, B St Pancras, scholar."
+      }
+    ]
+  },
+  {
+    "id": "unknown_samuel_beadell",
+    "name": "Samuel Beadell",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "M Q2 1860 Marylebone"
+  },
+  {
+    "id": "unknown_nathaniel_beadell",
+    "name": "Nathaniel Beadell",
+    "birthday": "",
+    "birthplace": "St Pancras",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "",
+    "census": [
+      {
+        "year": "1881",
+        "details": "17 Victoria Rd, Hornsey, 16, B St Pancras, compositor."
+      }
+    ]
+  },
+  {
+    "id": "1844_nathaniel_johnson_hone",
+    "name": "Nathaniel Johnson Hone",
+    "birthday": "1844",
+    "birthplace": "St Pancras",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "1859 emig Adelaide, S Australia (DP 26/2/1997)",
+    "census": [
+      {
+        "year": "1851",
+        "details": "12 London St, 6, B St Pancras, scholar"
+      }
+    ]
+  },
+  {
+    "id": "unknown_frank_sandland_hone",
+    "name": "Frank Sandland Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "(DP 26/2/1997)"
+  },
+  {
+    "id": "unknown_brian_william_hone",
+    "name": "Brian William Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "headmaster of Melbourne Church of England Grammar School (DP 26/2/1979)"
+  },
+  {
+    "id": "unknown_john_hone",
+    "name": "John Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "drowned at sea (MEHS)"
+  },
+  {
+    "id": "1814_emma_hone",
+    "name": "Emma (Hone)",
+    "birthday": "1814-03-14",
+    "birthplace": "parish of Christchurch, Surrey",
+    "death": "1880",
+    "deathplace": "",
+    "gender": "F",
+    "info": "parish of Christchurch, Surrey; King's Weigh House Chapel by Thomas Binney, & publisher, & Sarah (Johnson); went to Cape Town with Dr Robert Moffatt, London Missionary Soc, to become a teacher in a missionary training college",
+    "baptism": "30 Dec 1834",
+    "parents": {
+      "mother": "William Hone bookseller"
+    }
+  },
+  {
+    "id": "1818_carl_hugo_hahn",
+    "name": "Carl Hugo Hahn",
+    "birthday": "1818-10-18",
+    "birthplace": "nr Riga, Russian Province of Livonia",
+    "death": "1895-11-24",
+    "deathplace": "Cape Town",
+    "gender": "M",
+    "info": "( 1774-1863), nr Riga in the Russian Province of Livonia; Rhenish Missionary Soc missionary in Damaraland 1842-1870; afterwards pastor of St Martin's Lutheran Church Cape Town; , Cape Town",
+    "parents": {
+      "father": "Carl Peter Hahn"
+    }
+  },
+  {
+    "id": "unknown_annie_judith_julie_auguste_von_linsingen",
+    "name": "Annie Judith Julie Auguste (von Linsingen)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "M 25 Jan 1881"
+  },
+  {
+    "id": "1844_josaphat_hahn",
+    "name": "Josaphat Hahn",
+    "birthday": "1844-08-07",
+    "birthplace": "Windhoek, S Africa",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Windhoek, S Africa"
+  },
+  {
+    "id": "1846_carl_hugo_hahn",
+    "name": "Carl Hugo Hahn",
+    "birthday": "1846",
+    "birthplace": "Otjikango, S Africa",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Otjikango, S Africa; pastor at Paarl, Cape Province (MEHS)"
+  },
+  {
+    "id": "1848_elieser_traugott_hahn",
+    "name": "Elieser Traugott Hahn",
+    "birthday": "1848-08-15",
+    "birthplace": "Otjikango, S Africa",
+    "death": "1939-03-19",
+    "deathplace": "Burgdorf, Hanover, Germany",
+    "gender": "M",
+    "info": "Otjikango, S Africa; Burgdorf, Hanover, Germany"
+  },
+  {
+    "id": "1850_rosalie_sophie_paling",
+    "name": "Rosalie Sophie (Paling)",
+    "birthday": "1850-10-23",
+    "birthplace": "Jaama",
+    "death": "1905-01-05",
+    "deathplace": "Tallinn",
+    "gender": "F",
+    "info": "Jaama; Tallinn"
+  },
+  {
+    "id": "1874_gotthilft_traugott_hahn",
+    "name": "Gotthilft Traugott Hahn",
+    "birthday": "1874-02-13",
+    "birthplace": "Kuressaare",
+    "death": "1874-03-28",
+    "deathplace": "Valjala",
+    "gender": "M",
+    "info": "Kuressaare; Valjala"
+  },
+  {
+    "id": "1875_gotthilft_traugott_hahn",
+    "name": "Gotthilft Traugott Hahn",
+    "birthday": "1875-02-01",
+    "birthplace": "R'uge",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "B 1/13 Feb 1875 R'uge"
+  },
+  {
+    "id": "1878_gerta_ernestine_anna_von_zur_mhlen",
+    "name": "Gerta Ernestine Anna (von zur M'hlen)",
+    "birthday": "1878-08-28",
+    "birthplace": "Tallinn",
+    "death": "1974-01-13",
+    "deathplace": "Heidelberg",
+    "gender": "F",
+    "info": "Tallinn; Heidelberg"
+  },
+  {
+    "id": "1876_wilhelm_hugo_hahn",
+    "name": "Wilhelm Hugo Hahn",
+    "birthday": "1876-08-30",
+    "birthplace": "R'uge",
+    "death": "1894-11-08",
+    "deathplace": "Tallinn",
+    "gender": "M",
+    "info": "R'uge: Tallinn"
+  },
+  {
+    "id": "1878_emma_julie_hahn",
+    "name": "Emma Julie (Hahn)",
+    "birthday": "1878-08-03",
+    "birthplace": "R'uge",
+    "death": "1955-05-15",
+    "deathplace": "Wetmar, Hanover",
+    "gender": "F",
+    "info": "R'uge; Wetmar, Hanover"
+  },
+  {
+    "id": "1875_woldemar_paul_sielmann",
+    "name": "Woldemar Paul Sielmann",
+    "birthday": "1875-03-23",
+    "birthplace": "T'stamaa",
+    "death": "1942-08-03",
+    "deathplace": "Burgdorf",
+    "gender": "M",
+    "info": "T'stamaa; Burgdorf"
+  },
+  {
+    "id": "1904_burchard_traugott_sielmann",
+    "name": "Burchard Traugott Sielmann",
+    "birthday": "1904-07-21",
+    "birthplace": "",
+    "death": "1954-11-09",
+    "deathplace": "Hanau",
+    "gender": "M",
+    "info": "B 21 July/3 Aug 1904; phil dr: Hanau"
+  },
+  {
+    "id": "1908_marianne_von_grgens",
+    "name": "Marianne (von G'rgens)",
+    "birthday": "1908-04-20",
+    "birthplace": "P'lgaste",
+    "death": "1965-10-08",
+    "deathplace": "Hanau",
+    "gender": "F",
+    "info": "P'lgaste; Hanau"
+  },
+  {
+    "id": "1907_heinrich_wolfgang_traugott_sielmann",
+    "name": "Heinrich Wolfgang Traugott Sielmann",
+    "birthday": "1907-02-06",
+    "birthplace": "",
+    "death": "1945-03-27",
+    "deathplace": "Frankfurt/M",
+    "gender": "M",
+    "info": "jur dr; Frankfurt/M"
+  },
+  {
+    "id": "1910_martha_dietrich",
+    "name": "Martha (Dietrich)",
+    "birthday": "1910-04-15",
+    "birthplace": "Frankfurt/M",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Frankfurt/M"
+  },
+  {
+    "id": "1910_hildegard_sielmann",
+    "name": "Hildegard (Sielmann)",
+    "birthday": "1910-06-01",
+    "birthplace": "",
+    "death": "1964-11-02",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "1912_werner_hesseken",
+    "name": "Werner Hesseken",
+    "birthday": "1912-02-02",
+    "birthplace": "Rostock",
+    "death": "1964-11-05",
+    "deathplace": "Wettmar",
+    "gender": "M",
+    "info": "Rostock; med dr; Wettmar"
+  },
+  {
+    "id": "1913_marie_sielmann",
+    "name": "Marie (Sielmann)",
+    "birthday": "1913-12-13",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "1910_harald_donath",
+    "name": "Harald Donath",
+    "birthday": "1910-12-20",
+    "birthplace": "Riia",
+    "death": "1944-04-14",
+    "deathplace": "Agram",
+    "gender": "M",
+    "info": "Riia; jur dr; Agram"
+  },
+  {
+    "id": "1879_august_daniel_theodor_johannes_hahn",
+    "name": "August Daniel Theodor Johannes Hahn",
+    "birthday": "1879-08-25",
+    "birthplace": "Tartu",
+    "death": "1924-05-09",
+    "deathplace": "Frankfurt",
+    "gender": "M",
+    "info": "Tartu: Frankfurt"
+  },
+  {
+    "id": "1878_alma_gabriele_charlotte_von_brggen",
+    "name": "Alma Gabriele Charlotte (von Br'ggen)",
+    "birthday": "1878-07-30",
+    "birthplace": "",
+    "death": "1951-03-22",
+    "deathplace": "Bethel",
+    "gender": "F",
+    "info": "Bethel"
+  },
+  {
+    "id": "1881_georg_bruno_martin_hahn",
+    "name": "Georg Bruno Martin Hahn",
+    "birthday": "1881-08-24",
+    "birthplace": "R'uge",
+    "death": "1959-04-25",
+    "deathplace": "Z'rich",
+    "gender": "M",
+    "info": "R'uge; Z'rich"
+  },
+  {
+    "id": "1886_elisabeth_lina_silverberg",
+    "name": "Elisabeth Lina (Silverberg)",
+    "birthday": "1886-03-22",
+    "birthplace": "Bedburg",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Bedburg"
+  },
+  {
+    "id": "1883_magdalene_elisabeth_seni_hahn",
+    "name": "Magdalene Elisabeth Seni (Hahn)",
+    "birthday": "1883-08-22",
+    "birthplace": "R'uge",
+    "death": "1943-11-15",
+    "deathplace": "Giesen",
+    "gender": "F",
+    "info": "R'uge; Giesen"
+  },
+  {
+    "id": "1886_carl_hugo_hahn",
+    "name": "Carl Hugo Hahn",
+    "birthday": "1886-09-22",
+    "birthplace": "Tallinn",
+    "death": "1957-11-05",
+    "deathplace": "Dresden",
+    "gender": "M",
+    "info": "B 22 Sept/4 Oct (Russian/Western calendars) 1886 Tallinn; Dresden"
+  },
+  {
+    "id": "1886_alexandrine_pauline_erika_von_baggehufvu",
+    "name": "Alexandrine Pauline Erika (von Baggehufvudt)",
+    "birthday": "1886-11-22",
+    "birthplace": "Haapsalu",
+    "death": "1942-02-05",
+    "deathplace": "Stuttgart",
+    "gender": "F",
+    "info": "Haapsalu; Stuttgart"
+  },
+  {
+    "id": "1888_natalie_friederike_sophie_hahn",
+    "name": "Natalie Friederike Sophie Hahn",
+    "birthday": "1888-02-08",
+    "birthplace": "Tallinn",
+    "death": "1952-06-15",
+    "deathplace": "Radebeul/Dresden",
+    "gender": "F",
+    "info": "Tallinn; D 15.06.1952 Radebeul/Dresden"
+  },
+  {
+    "id": "1889_maria_hahn",
+    "name": "Maria Hahn",
+    "birthday": "1889-04-30",
+    "birthplace": "Tallinn",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "Tallinn"
+  },
+  {
+    "id": "1892_maria_elisabeth_margarete_hahn",
+    "name": "Maria Elisabeth Margarete (Hahn)",
+    "birthday": "1892-06-24",
+    "birthplace": "Tallinn",
+    "death": "1953-06-04",
+    "deathplace": "Abo, Soome",
+    "gender": "F",
+    "info": "B 24.06.1892 Tallinn; Abo, Soome"
+  },
+  {
+    "id": "1887_franz_edward_hannula",
+    "name": "Franz Edward Hannula",
+    "birthday": "1887-08-14",
+    "birthplace": "Olukonda, Edela Aafrica",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Olukonda, Edela Aafrica"
+  },
+  {
+    "id": "1850_emma_marguerite_hahn",
+    "name": "Emma Marguerite (Hahn)",
+    "birthday": "1850-07-06",
+    "birthplace": "Rehobeth, Namaland, S Africa",
+    "death": "1906-11-06",
+    "deathplace": "Bronx, New York",
+    "gender": "F",
+    "info": "Rehobeth, Namaland, S Africa; emigrated to USA 1880s; Bronx, New York"
+  },
+  {
+    "id": "1845_heinrich_beiderbecke",
+    "name": "Heinrich Beiderbecke",
+    "birthday": "1845",
+    "birthplace": "",
+    "death": "1936-05-10",
+    "deathplace": "Glen Rock, New Jersey",
+    "gender": "M",
+    "info": "emigrated to USA 1880s; pastor in New York (MEHS); Glen Rock, New Jersey"
+  },
+  {
+    "id": "unknown_charlotte_hone",
+    "name": "Charlotte Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "died in infancy",
+    "gender": "F",
+    "info": "died in infancy"
+  },
+  {
+    "id": "1876_frederick_christian_beiderbecke",
+    "name": "Frederick Christian Beiderbecke",
+    "birthday": "1876",
+    "birthplace": "SW Africa",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "SW Africa"
+  },
+  {
+    "id": "unknown_catherine_thum",
+    "name": "Catherine (Thum)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "1911_joseph_thum_beidebecker",
+    "name": "Joseph Thum Beidebecker",
+    "birthday": "1911",
+    "birthplace": "",
+    "death": "1995",
+    "deathplace": "",
+    "gender": "M",
+    "info": ""
+  },
+  {
+    "id": "1818_rose_hone",
+    "name": "Rose Hone",
+    "birthday": "1818-08-27",
+    "birthplace": "parish of St Bride's Fleet St",
+    "death": "1898-08-13",
+    "deathplace": "Abney Park",
+    "gender": "F",
+    "info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); , Park gv 76795 sq 76 beside gv of Willian & Sarah Hone",
+    "baptism": "30 Dec 1834",
+    "burial": "Abney",
+    "census": [
+      {
+        "year": "1871",
+        "details": "4 Milner Sq, Islington, household of sister Matilda Hone, 52, schoolmistress"
+      },
+      {
+        "year": "1881",
+        "details": "3 Nightingale Rd, household of brother-in-law Joseph Simmonds Soul, 62"
+      }
+    ],
+    "parents": {
+      "mother": "William Hone bookseller"
+    }
+  },
+  {
+    "id": "1820_samuel_parr_hone",
+    "name": "Samuel Parr Hone",
+    "birthday": "1820-05-09",
+    "birthplace": "",
+    "death": "1870-Q2",
+    "deathplace": "Islington",
+    "gender": "M",
+    "info": "St Mary's Islington; 3 Apr 1829 presentation to Christ's Hospital, ' & Spectaclemaker', by Thomas Piper of 42 Eastcheap, admitted from St Mary Islington Middlesex, 'cloathed' 9 Oct 1829; 12 June 1835 discharged from Christ's Hospital 'by his engaged in The Times Printing Office; D 1870 Q2, aged 49, Islington",
+    "baptism": "15 Mar 1829",
+    "parents": {
+      "father": "residing at Peckham Rye Common who will provide him a Master'"
+    }
+  },
+  {
+    "id": "1822_ellen_hone",
+    "name": "Ellen (Hone)",
+    "birthday": "1822-03-31",
+    "birthplace": "parish of St Bride's Fleet St",
+    "death": "1910-11-24",
+    "deathplace": "Abney Park",
+    "gender": "F",
+    "info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); became a teacher in one of the earliest established infant schools; , Park gv 70572 sq 49, from 3 Nightingale Rd, Lower Clapton",
+    "baptism": "30 Dec 1834",
+    "burial": "Abney",
+    "parents": {
+      "mother": "William Hone bookseller"
+    }
+  },
+  {
+    "id": "unknown_joseph_simmonds_soul",
+    "name": "Joseph Simmonds Soul",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "See soul.md for details"
+  },
+  {
+    "id": "1825_alice_hone",
+    "name": "Alice (Hone)",
+    "birthday": "1825-12-08",
+    "birthplace": "parish of St Bride's Fleet St",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); later Lovati (Italian), lived in Paris, afterwards Fourdinois (French), lived in Paris, then Bizerte, Tunisia, N Africa, in London Sep 1869 to Sep 1870 during siege of Paris, Franco-Prussian War",
+    "baptism": "30 Dec 1834",
+    "parents": {
+      "mother": "William Hone bookseller"
+    }
+  },
+  {
+    "id": "unknown_jean-baptiste_lovati",
+    "name": "Jean-Baptiste Lovati",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "1= Jean-Baptiste Lovati"
+  },
+  {
+    "id": "1847_alice_romola_lovati",
+    "name": "Alice Romola Lovati",
+    "birthday": "1847-Q4",
+    "birthplace": "St George's Hanover Sq district",
+    "death": "1851",
+    "deathplace": "Abney Park",
+    "gender": "F",
+    "info": "B 1847 Q4, St George's Hanover Sq district; aged 3 yrs 8 mnths, Park, gv 316 sq 76, 3 July 1851, from 19 Cumming St, Pentonville",
+    "burial": "Abney"
+  },
+  {
+    "id": "unknown_agnes_lovati",
+    "name": "Agnes Lovati",
+    "birthday": "",
+    "birthplace": "London",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "later Salme (MEHS)",
+    "census": [
+      {
+        "year": "1871",
+        "details": "4 Milner Sq, Islington, unmarried, 20, visitor, B London"
+      }
+    ]
+  },
+  {
+    "id": "unknown_henri-auguste_fourdinois",
+    "name": "Henri-Auguste Fourdinois",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "2= Henri-Auguste Fourdinois"
+  },
+  {
+    "id": "unknown_emma_fourdinois",
+    "name": "Emma Fourdinois",
+    "birthday": "",
+    "birthplace": "Paris",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "later Roulez (MEHS)",
+    "census": [
+      {
+        "year": "1871",
+        "details": "4 Milner Sq, Islington, 12, visitor, B Paris"
+      }
+    ]
+  },
+  {
+    "id": "1869_angeline_fourdinois",
+    "name": "Angeline Fourdinois",
+    "birthday": "1869-06-29",
+    "birthplace": "Champagne",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "(MEHS); later Sanze (MEHS)",
+    "census": [
+      {
+        "year": "1871",
+        "details": "4 Milner Sq, Islington, 1, visitor, B Champagne"
+      }
+    ]
+  },
+  {
+    "id": "1783_joseph_hone",
+    "name": "Joseph Hone",
+    "birthday": "1783-12-30",
+    "birthplace": "",
+    "death": "1861-09-22",
+    "deathplace": "Macquarie St, Hobart Town",
+    "gender": "M",
+    "info": "Lawyer and civil servant, barrister of Gray's Inn; appointed Master of the Tasmanian Supreme Court; arrived in Hobart Town in July 1824"
+  },
+  {
+    "id": "unknown_ann_lamport",
+    "name": "Ann (Lamport)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1839-01-15",
+    "deathplace": "St David's Park, Hobart",
+    "gender": "F",
+    "info": "1824 emig Hobart Town; aged 61 yrs, David's Park, Hobart, 'wife of Joseph Hone barrister at law of Gray's Inn'",
+    "burial": "St"
+  },
+  {
+    "id": "unknown_hannah_hone",
+    "name": "Hannah (Hone)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "= [William Fletcher](./fletcher.md#WilliamFletcher); M 26 Dec 1826, parish of Hobart Town"
+  },
+  {
+    "id": "unknown_william_fletcher",
+    "name": "William Fletcher",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "M 26 Dec 1826, parish of Hobart Town"
+  },
+  {
+    "id": "unknown_mary_ann_hone",
+    "name": "Mary Ann (Hone)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1850-09-02",
+    "deathplace": "",
+    "gender": "F",
+    "info": ""
+  },
+  {
+    "id": "unknown_james_hobbs",
+    "name": "James Hobbs",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "M 27 July 1825"
+  },
+  {
+    "id": "unknown_martha_ann_hone",
+    "name": "Martha Ann Hone",
+    "birthday": "",
+    "birthplace": "",
+    "death": "1839-09-07",
+    "deathplace": "St David's Park, Hobart",
+    "gender": "F",
+    "info": "aged 28, David's Park, Hobart, ''s Inn'",
+    "burial": "St",
+    "parents": {
+      "mother": "Joseph Hone barrister at law of Gray"
+    }
+  },
+  {
+    "id": "unknown_elizabeth_augusta_rowe",
+    "name": "Elizabeth Augusta (Rowe)",
+    "birthday": "",
+    "birthplace": "",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "M 21 May 1840, Hobart Town"
+  },
+  {
+    "id": "1842_joseph_hone",
+    "name": "Joseph Hone",
+    "birthday": "1842-05-01",
+    "birthplace": "Hobart Town",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "B 1-3 May 1842, Hobart Town"
+  },
+  {
+    "id": "1848_joseph_william_james_hone",
+    "name": "Joseph William James Hone",
+    "birthday": "1848-06-04",
+    "birthplace": "Hobart Town",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "Hobart Town"
+  },
+  {
+    "id": "1789_judah_hone",
+    "name": "Judah Hone",
+    "birthday": "1789-06-04",
+    "birthplace": "13 Hand Court, Holbourn",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "at 13 Hand Court, Holbourn; bpt Providence Chapel, Gray's Inn, 24 Aug 1789, & Frances Mariah his wife",
+    "parents": {
+      "father": "William Hone"
+    }
+  },
+  {
+    "id": "1796_sarah_hone",
+    "name": "Sarah Hone",
+    "birthday": "1796-06-23",
+    "birthplace": "16 Albemarle St, Clerkenwell",
+    "death": "",
+    "deathplace": "",
+    "gender": "F",
+    "info": "at 16 Albemarle St, Clerkenwell, in the united parishes of St James's and St John's Clerkenwell, bpt Providence Chapel, Gray's Inn, 1 Aug 1796, & Frances Maria his wife",
+    "parents": {
+      "mother": "William Hone"
+    }
+  },
+  {
+    "id": "1798_samuel_hone",
+    "name": "Samuel Hone",
+    "birthday": "1798-09-07",
+    "birthplace": "parish of St John Clerkenwell",
+    "death": "",
+    "deathplace": "",
+    "gender": "M",
+    "info": "in the parish of St John Clerkenwell, bpt Providence Chapel 12 Nov 1798, & Frances Maria his wife",
+    "parents": {
+      "father": "William Hone"
+    }
+  }
+]

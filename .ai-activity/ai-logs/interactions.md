@@ -13,19 +13,6 @@
 
 **Result:** Family tree content separated with updated navigation.
 
-## Interaction: Project review and inconsistency audit
-
-**Time:** 2026-08-04
-
-**Task:** Review project state, update AI transparency logs, and identify inconsistencies across todo files, guides, skills, and documentation.
-
-**Actions:**
-
-1. Read all todo files, guides, docs, skills, and instructions.
-2. Ran pre-commit audit and identified inconsistencies.
-
-**Result:** All inconsistencies documented and scheduled for correction.
-
 ## Interaction: Email removal and obfuscation
 
 **Time:** 2026-08-04
@@ -104,19 +91,6 @@
 
 **Result:** All AI skills preserved as reusable documentation.
 
-## Interaction: Dev-scripts cleanup
-
-**Time:** 2026-08-28
-
-**Task:** Remove v1 preparation scripts no longer needed after migration, retaining task management, changelog generation, and pre-commit audit tools.
-
-**Actions:**
-
-1. Removed v1 preparation scripts and associated utility modules.
-2. Updated pre-commit audit to remove v1 prep checks.
-
-**Result:** Development scripts streamlined to essential tools. Pre-commit audit passes.
-
 ## Interaction: Changelog and documentation updates
 
 **Time:** 2026-08-28
@@ -170,84 +144,18 @@
 
 **Result:** All documentation, skills, and logs optimized for post-v1.5 project state.
 
-## Interaction: Dev guide reorganization and session backup
+## Interaction: Project focus and repository separation
 
 **Time:** 2026-08-31
 
-**Task:** Reorganize development guides, update AI activity logs, and back up AI session data.
+**Task:** Review project files for current archive focus, update changelog-management guide, consolidate todo lists, and add tasks for family tree repository separation.
 
 **Actions:**
 
-1. Consolidated dev guides, removed obsolete files, and renamed uppercase filenames in ai-logs to lowercase.
-2. Wrote readme content for .ai-activity subdirectories and backed up website and famtree sessions.
+1. Updated changelog-management guide, consolidated todo lists, and updated about-archive guide.
+2. Updated statistics report and reconstructed changelog with version sections.
 
-**Result:** All dev guides consolidated. Session databases created with anonymized paths.
-
-## Interaction: Folder restructure and skills documentation
-
-**Time:** 2026-08-31
-
-**Task:** Restructure documentation folders, update session backup script to use JSON config, create skills guide, and fix cross-references.
-
-**Actions:**
-
-1. Restructured docs into underscore-prefixed folders with ai-dev-guides subfolder.
-2. Updated session backup script to load configuration from JSON files.
-3. Created session backup skill and skills guide.
-
-**Result:** Documentation fully reorganized and path-consistent. Session backup configurable via JSON.
-
-## Interaction: Changelog and interaction log updates
-
-**Time:** 2026-08-31
-
-**Task:** Update changelog with released work entries and add interaction log entry for changelog/logging maintenance.
-
-**Actions:**
-
-1. Added changelog entries for new skills, documentation reorganization, and script relocation.
-2. Ran changelog generator and added interaction entry for documentation maintenance.
-
-**Result:** Changelog reflects all completed work. Interaction log includes new entry.
-
-## Interaction: Co-developer support and session backup enhancement
-
-**Time:** 2026-08-31
-
-**Task:** Add co-developer support to session backup script, auto-discover current session ID, update path replacement JSON, and consolidate databases.
-
-**Actions:**
-
-1. Updated path replacement JSON to bare root paths and enhanced path variation generation.
-2. Added co-developer selection, current-session auto-discovery, and updated documentation.
-
-**Result:** Session backup supports co-developers and current session auto-discovery. Path config is human-friendly.
-
-## Interaction: Database relocation and stats generation
-
-**Time:** 2026-08-31
-
-**Task:** Move session databases to shared co-developer directory and generate session stats JSON files.
-
-**Actions:**
-
-1. Moved session databases to shared co-developer directory and generated per-session stats.
-2. Added stats JSON files alongside databases and updated script default output directory.
-
-**Result:** Databases relocated with stats files. Script defaults to shared co-developer directory.
-
-## Interaction: Co-developers and documentation consolidation
-
-**Time:** 2026-08-31
-
-**Task:** Consolidate co-developer support documentation and remove redundant pre-commit audit log entries.
-
-**Actions:**
-
-1. Added co-developers to tools log and updated documentation with co-developer directory table.
-2. Removed pre-commit audit verification entries from interactions and sessions logs.
-
-**Result:** All documentation consistent with co-developer support. Logs streamlined to task-focused entries.
+**Result:** Project files focus on current newsletter archive. Family tree content referenced via single cross-reference.
 
 ## Interaction: Statistics units and reporting
 
@@ -263,32 +171,6 @@
 
 **Result:** Stats JSONs use tiered estimates with word count distribution. Two-tier reporting created.
 
-## Interaction: Project focus and repository separation
-
-**Time:** 2026-08-31
-
-**Task:** Review project files for current archive focus, update changelog-management guide, consolidate todo lists, and add tasks for family tree repository separation.
-
-**Actions:**
-
-1. Updated changelog-management guide, consolidated todo lists, and updated about-archive guide.
-2. Updated statistics report and reconstructed changelog with version sections.
-
-**Result:** Project files focus on current newsletter archive. Family tree content referenced via single cross-reference.
-
-## Interaction: Changelog generator and content dedup
-
-**Time:** 2026-08-31
-
-**Task:** Fix the changelog generator to promote unreleased to a new version, run it from pre-commit, and audit for duplicated/inconsistent content.
-
-**Actions:**
-
-1. Rewrote changelog generator to increment patch and promote unreleased entries.
-2. Wired generator into pre-commit audit and fixed broken references and duplicate content.
-
-**Result:** Generator idempotent - pre-commit only adds new versions. Changelog is single source of truth.
-
 ## Interaction: Repository optimization and tooling improvements
 
 **Time:** 2026-09-05
@@ -301,19 +183,6 @@
 2. Created session archive manager, orphaned session cleanup, unified stats aggregator, retention policy, and cache cleanup.
 
 **Result:** Database optimized from 92 MB to 86 MB. All verification tools operational.
-
-## Interaction: Todo, documentation, and log review
-
-**Time:** 2026-09-06
-
-**Task:** Review and correct inconsistencies across task records, documentation, changelog state, and activity logs.
-
-**Actions:**
-
-1. Audited task lifecycle state, documentation links, changelog readiness, and transparency records.
-2. Corrected navigation references, removed retired tasks, reworded historical entries, and promoted completed changelog entries.
-
-**Result:** Todo, transparency, guide, documentation-link, session-statistics, and changelog checks pass.
 
 ## Interaction: HTML simplification and documentation updates
 
@@ -341,17 +210,3 @@
 1. Merged contact.html and license.html content into about.html with Contact and License sections
 
 **Result:** About page now contains all site information. Contact and sitemap pages removed.
-
-## Interaction: Newsletter session data loss investigation
-
-**Time:** 2026-09-15
-
-**Task:** Investigate why 7 newsletter sessions were empty in the backup database and determine if data was lost.
-
-**Actions:**
-
-1. Searched all accessible databases: Kilo runtime DB, old project backup, git history backups, and local copies
-2. Found the 7 newsletter sessions existed as empty placeholders (0 messages, 0 parts) in the backup DB at commit edde43b and later
-3. Confirmed these sessions never contained any message data in any accessible source
-
-**Result:** 7 newsletter sessions permanently lost. Sessions removed from backup database and session IDs config. Backup now contains only 5 sessions with verified data (2,216 messages, 8,789 parts).
