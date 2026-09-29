@@ -1,10 +1,14 @@
 [
   {
     "id": "1784_thomas_handley",
+    "full-name": "Thomas Handley",
     "name": "Thomas Handley",
     "birthday": "1784",
-    "death": "1859-10-16",
-    "deathplace": "31 Baring St, Hoxton Old Town",
+    "died": {
+      "date": "1859-10-16",
+      "place": "31 Baring St, Hoxton Old Town",
+      "burial": "Abney"
+    },
     "occupation": "Agricultural labourer",
     "spouses": [
       {
@@ -15,20 +19,29 @@
       }
     ],
     "children": [
-      "1817_eliza_sarah_handley",
-      "1821_mary_anne_handley",
+      "1817_eliza_handley",
+      "1821_mary_handley",
       "1823_thomas_handley"
     ],
+    "original_info": "at 31 Baring St, Hoxton Old Town, 75, a messenger in the bankruptcy court, informant Caleb Soul of 37 Cleveland Rd, Islington; Park gv 19146 sq 27",
     "info": "at 31 Baring St, Hoxton Old Town, 75, a messenger in the bankruptcy court, informant Caleb Soul of 37 Cleveland Rd, Islington; Park gv 19146 sq 27",
-    "burial": "Abney"
+    "sources": [],
+    "name-parts": {
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Handley"
+    }
   },
   {
     "id": "elizabeth_jebb",
+    "full-name": "Elizabeth Jebb",
     "name": "Elizabeth Jebb",
     "birthday": "",
     "birthplace": "Shrewsbury",
-    "death": "1863-08-23",
-    "deathplace": "Almeley, Weobley, County of Hereford",
+    "died": {
+      "date": "1863-08-23",
+      "place": "Almeley, Weobley, County of Hereford"
+    },
     "spouses": [
       {
         "id": "1784_thomas_handley",
@@ -38,25 +51,30 @@
       }
     ],
     "children": [
-      "1817_eliza_sarah_handley",
-      "1821_mary_anne_handley",
+      "1817_eliza_handley",
+      "1821_mary_handley",
       "1823_thomas_handley"
     ],
     "info": "",
-    "census": [
-      {
-        "year": "1861",
-        "details": "widow, 79, b Shrewsbury, living with son-in-law & daughter Caleb & Mary Ann Soul, 37 Cleveland Rd, Islington."
-      }
-    ]
+    "sources": [
+      "census 1861 widow, 79, b Shrewsbury, living with son-in-law & daughter Caleb & Mary Ann Soul, 37 Cleveland Rd, Islington."
+    ],
+    "name-parts": {
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Jebb"
+    }
   },
   {
-    "id": "1817_eliza_sarah_handley",
+    "id": "1817_eliza_handley",
+    "full-name": "Eliza Sarah Handley",
     "name": "Eliza Sarah Handley",
     "birthday": "1817",
-    "death": "1879-03-01",
-    "deathplace": "Sandgate, Queensland",
     "gender": "F",
+    "died": {
+      "date": "1879-03-01",
+      "place": "Sandgate, Queensland"
+    },
     "spouses": [
       {
         "id": "frederick_harraden",
@@ -69,31 +87,50 @@
       "father": "1784_thomas_handley",
       "mother": "elizabeth_jebb"
     },
-    "info": "aged 59, Sandgate, Queensland, inscrip Abney Park gv 19146 sq 27, Eliza Sarah Rhodes"
+    "original_info": "aged 59, Sandgate, Queensland, inscrip Abney Park gv 19146 sq 27, Eliza Sarah Rhodes",
+    "info": "aged 59, Sandgate, Queensland, inscrip Abney Park gv 19146 sq 27, Eliza Sarah Rhodes",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Eliza",
+      "middle-name": "Sarah",
+      "surname": "Handley"
+    }
   },
   {
     "id": "frederick_harraden",
+    "full-name": "Frederick Harraden",
     "name": "Frederick Harraden",
     "birthday": "",
     "birthplace": "",
     "gender": "M",
     "spouses": [
       {
-        "id": "1817_eliza_sarah_handley",
+        "id": "1817_eliza_handley",
         "marriedYear": "1836",
         "marriedDate": "1836-06-06",
         "marriedPlace": "St Leonard's Shoreditch"
       }
-    ]
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Frederick",
+      "middle-name": "",
+      "surname": "Harraden"
+    }
   },
   {
-    "id": "1821_mary_anne_handley",
+    "id": "1821_mary_handley",
+    "full-name": "Mary Anne Handley",
     "name": "Mary Anne Handley",
     "birthday": "1821-03-17",
     "birthplace": "Pembridge Mills, Weobley, Herefordshire",
-    "death": "1897-11-22",
-    "deathplace": "Ardleigh Villa, Point Piper Rd, Woolahra, Sydney, NSW",
     "gender": "F",
+    "died": {
+      "date": "1897-11-22",
+      "place": "Ardleigh Villa, Point Piper Rd, Woolahra, Sydney, NSW",
+      "burial": "South"
+    },
     "spouses": [
       {
         "id": "caleb_soul",
@@ -106,35 +143,45 @@
       "father": "1784_thomas_handley",
       "mother": "elizabeth_jebb"
     },
+    "original_info": "Pembridge Mills, Weobley, Herefordshire, ; , Ardleigh Villa, Point Piper Rd, Woolahra, Sydney, NSW, Head Cemetery",
     "info": "Pembridge Mills, Weobley, Herefordshire, ; , Ardleigh Villa, Point Piper Rd, Woolahra, Sydney, NSW, Head Cemetery",
-    "burial": "South"
+    "sources": [],
+    "name-parts": {
+      "firstname": "Mary",
+      "middle-name": "Anne",
+      "surname": "Handley"
+    }
   },
   {
     "id": "1787_caleb_soul",
+    "full-name": "Caleb Soul",
     "name": "Caleb Soul",
     "birthday": "1817-01-13",
     "birthplace": "",
-    "death": "1894-08-31",
-    "deathplace": "Ardleigh Villa, Point Piper Rd, Woollahra, NSW",
+    "died": {
+      "date": "1894-08-31",
+      "place": "Ardleigh Villa, Point Piper Rd, Woollahra, NSW",
+      "burial": "South"
+    },
     "occupation": "Grocer; provision merchant",
     "spouses": [
       {
-        "id": "jane_elizabeth_peters",
+        "id": "1819_jane_peters",
         "marriedYear": "1840",
         "marriedDate": "1840-03-15",
         "marriedPlace": "St Mary's Haggerston"
       },
       {
-        "id": "1821_mary_anne_handley",
+        "id": "1821_mary_handley",
         "marriedYear": "1844",
         "marriedDate": "1844-08-13",
         "marriedPlace": "Islington Register Office"
       }
     ],
     "children": [
-      "1841_emma_jane_soul",
-      "1845_washington_handley_soul",
-      "1847_arabella_handley_soul",
+      "1841_emma_soul",
+      "1845_washington_soul",
+      "1847_arabella_soul",
       "1849_laura_eliza_soul",
       "1852_jessie_emma_soul",
       "1855_margaret_elizabeth_soul",
@@ -144,22 +191,28 @@
       "father": "eli_soul",
       "mother": ""
     },
+    "original_info": "Moorfields Tabernacle, , & Elizabeth Soul of the parish of St Leonard's Shoreditch; 1842 Directory 120 Long Alley, grocer & cheesemonger; 1844 The Times 16 Nov Caleb Soul, Long Alley, grocer, 24 Dec bankrupts court; 1856 Directory, Robson & Soul (Caleb Soul), 32 Lawrence Lane, Cheapside EC; 1862 The Times 29 Jan, Caleb Soul, Queen St, manufacturing perfumer, 11 Feb Bankrupt's Court; 1863 emigrated to Australia; at Ardleigh Villa, Point Piper Rd, Woollahra, NSW, senior partner of the firm of Washington H Soul & Co., Sydney; Head Cemetery",
     "info": "Moorfields Tabernacle, , & Elizabeth Soul of the parish of St Leonard's Shoreditch; 1842 Directory 120 Long Alley, grocer & cheesemonger; 1844 The Times 16 Nov Caleb Soul, Long Alley, grocer, 24 Dec bankrupts court; 1856 Directory, Robson & Soul (Caleb Soul), 32 Lawrence Lane, Cheapside EC; 1862 The Times 29 Jan, Caleb Soul, Queen St, manufacturing perfumer, 11 Feb Bankrupt's Court; 1863 emigrated to Australia; at Ardleigh Villa, Point Piper Rd, Woollahra, NSW, senior partner of the firm of Washington H Soul & Co., Sydney; Head Cemetery",
-    "baptism": "4 Mar 1817",
-    "burial": "South",
-    "census": [
-      {
-        "year": "1861",
-        "details": "37 Cleveland Rd, Islington, 44, fancy soap maker employing 6 men 1 boy 1 girl"
-      }
-    ]
+    "sources": [
+      "baptism 4 Mar 1817",
+      "census 1861 37 Cleveland Rd, Islington, 44, fancy soap maker employing 6 men 1 boy 1 girl"
+    ],
+    "name-parts": {
+      "firstname": "Caleb",
+      "middle-name": "",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "jane_elizabeth_peters",
+    "id": "1819_jane_peters",
+    "full-name": "Jane Elizabeth Peters",
     "name": "Jane Elizabeth Peters",
     "birthday": "1819-01-24",
-    "death": "1843-06-20",
-    "deathplace": "120 Long Alley",
+    "died": {
+      "date": "1843-06-20",
+      "place": "120 Long Alley",
+      "burial": "Abney"
+    },
     "spouses": [
       {
         "id": "1787_caleb_soul",
@@ -169,36 +222,56 @@
       }
     ],
     "children": [
-      "1841_emma_jane_soul"
+      "1841_emma_soul"
     ],
+    "original_info": "at 120 Long Alley, 24, wife of Caleb Soul a grocer, phthisis 3 years; Park cg, inscrip gv 19146",
     "info": "at 120 Long Alley, 24, wife of Caleb Soul a grocer, phthisis 3 years; Park cg, inscrip gv 19146",
-    "burial": "Abney"
+    "sources": [],
+    "name-parts": {
+      "firstname": "Jane",
+      "middle-name": "Elizabeth",
+      "surname": "Peters"
+    }
   },
   {
-    "id": "1841_emma_jane_soul",
+    "id": "1841_emma_soul",
+    "full-name": "Emma Jane Soul",
     "name": "Emma Jane Soul",
     "birthday": "1841-02-16",
     "birthplace": "120 Long Alley",
-    "death": "1843-12-16",
-    "deathplace": "120 Long Alley",
+    "died": {
+      "date": "1843-12-16",
+      "place": "120 Long Alley",
+      "burial": "Abney"
+    },
     "parents": {
       "father": "1787_caleb_soul",
-      "mother": "jane_elizabeth_peters"
+      "mother": "1819_jane_peters"
     },
+    "original_info": "at 120 Long Alley, , & Jane Elizabeth Soul formerly Peters; at 120 Long Alley, scarlet fever 5 days, Park cg, inscrip gv 19146",
     "info": "at 120 Long Alley, , & Jane Elizabeth Soul formerly Peters; at 120 Long Alley, scarlet fever 5 days, Park cg, inscrip gv 19146",
-    "burial": "Abney"
+    "sources": [],
+    "name-parts": {
+      "firstname": "Emma",
+      "middle-name": "Jane",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "1845_washington_handley_soul",
+    "id": "1845_washington_soul",
+    "full-name": "Washington Handley Soul",
     "name": "Washington Handley Soul",
     "birthday": "1845-11-06",
     "birthplace": "120 Long Alley",
-    "death": "1927-12-13",
-    "deathplace": "Agincourt, Albert Rd, Strathfield",
     "gender": "M",
+    "died": {
+      "date": "1927-12-13",
+      "place": "Agincourt, Albert Rd, Strathfield",
+      "burial": "South"
+    },
     "spouses": [
       {
-        "id": "charlotte_louisa_bird",
+        "id": "1849_charlotte_bird",
         "marriedYear": "1874",
         "marriedDate": "1874-12-31",
         "marriedPlace": "St Barnabas' Sydney"
@@ -206,167 +279,267 @@
     ],
     "parents": {
       "father": "1787_caleb_soul",
-      "mother": "1821_mary_anne_handley"
+      "mother": "1821_mary_handley"
     },
+    "original_info": "at 120 Long Alley, , & Mary Ann(e) Soul formerly Handley; 1882 directory, Soul Washington H, patent medicine depot, 177 Pitt St, Sydney; at 'Agincourt', Albert Rd, Strathfield, 82; Head Cemetery",
     "info": "at 120 Long Alley, , & Mary Ann(e) Soul formerly Handley; 1882 directory, Soul Washington H, patent medicine depot, 177 Pitt St, Sydney; at 'Agincourt', Albert Rd, Strathfield, 82; Head Cemetery",
-    "burial": "South",
-    "census": [
-      {
-        "year": "1861",
-        "details": "37 Cleveland Rd, Islington, London, 15, employee with father, B Finsbury"
-      }
-    ]
+    "sources": [
+      "census 1861 37 Cleveland Rd, Islington, London, 15, employee with father, B Finsbury"
+    ],
+    "name-parts": {
+      "firstname": "Washington",
+      "middle-name": "Handley",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "charlotte_louisa_bird",
+    "id": "1849_charlotte_bird",
+    "full-name": "Charlotte Louisa Bird",
     "name": "Charlotte Louisa Bird",
     "birthday": "1849-10-10",
-    "death": "1923-12-10",
+    "died": {
+      "date": "1923-12-10"
+    },
     "spouses": [
       {
-        "id": "1845_washington_handley_soul",
+        "id": "1845_washington_soul",
         "marriedYear": "1874",
         "marriedDate": "1874-12-31",
         "marriedPlace": "St Barnabas' Sydney"
       }
     ],
     "children": [
-      "1876_william_henry_soul",
-      "1877_gertrude_arabella_soul",
-      "1879_laura_eliza_soul",
-      "1882_jessie_emma_soul"
+      "1869_william_soul",
+      "1877_gertrude_soul",
+      "1879_laura_soul",
+      "1882_jessie_soul"
     ],
-    "info": "eldest , Morpeth, Hunter River",
     "parents": {
       "mother": "James Bird of Phoenix Park Estate"
+    },
+    "original_info": "eldest , Morpeth, Hunter River",
+    "info": "eldest , Morpeth, Hunter River",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Charlotte",
+      "middle-name": "Louisa",
+      "surname": "Bird"
     }
   },
   {
-    "id": "1876_william_henry_soul",
+    "id": "1869_william_soul",
+    "full-name": "William Henry Soul",
     "name": "William Henry Soul",
     "birthday": "1869-12-21",
     "birthplace": "Belgrave Sq e, Rathmines, Dublin",
-    "death": "1872-09-12",
-    "deathplace": "Dublin",
-    "parents": {
-      "father": "1845_washington_handley_soul",
-      "mother": "charlotte_louisa_bird"
+    "died": {
+      "date": "1872-09-12",
+      "place": "Dublin",
+      "burial": "Mt"
     },
+    "parents": {
+      "father": "1845_washington_soul",
+      "mother": "1849_charlotte_bird"
+    },
+    "original_info": "The Times 23 Dec 'at Belgrave Sq e, Rathmines, Dublin, the wife of Mr George Simmonds Soul, of a son'; , Jerome, Dublin, inscrip Highgate Cemetery gv 33590",
     "info": "The Times 23 Dec 'at Belgrave Sq e, Rathmines, Dublin, the wife of Mr George Simmonds Soul, of a son'; , Jerome, Dublin, inscrip Highgate Cemetery gv 33590",
-    "burial": "Mt"
+    "sources": [],
+    "name-parts": {
+      "firstname": "William",
+      "middle-name": "Henry",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "1877_gertrude_arabella_soul",
+    "id": "1877_gertrude_soul",
+    "full-name": "Gertrude Arabella Soul",
     "name": "Gertrude Arabella Soul",
     "birthday": "1877-06-30",
-    "death": "1947-06-11",
-    "parents": {
-      "father": "1845_washington_handley_soul",
-      "mother": "charlotte_louisa_bird"
+    "died": {
+      "date": "1947-06-11"
     },
     "spouses": [
       {
-        "id": "arif_amin_nassoor",
+        "id": "1876_arif_nassoor",
         "marriedYear": "1912",
         "marriedDate": "1912-06-05",
         "marriedPlace": ""
       }
-    ]
+    ],
+    "parents": {
+      "father": "1845_washington_soul",
+      "mother": "1849_charlotte_bird"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Gertrude",
+      "middle-name": "Arabella",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "arif_amin_nassoor",
+    "id": "1876_arif_nassoor",
+    "full-name": "Arif Amin Nassoor",
     "name": "Arif Amin Nassoor",
     "birthday": "1876-10-02",
-    "death": "1932-09-12",
+    "died": {
+      "date": "1932-09-12"
+    },
     "spouses": [
       {
-        "id": "1877_gertrude_arabella_soul",
+        "id": "1877_gertrude_soul",
         "marriedYear": "1912",
         "marriedDate": "1912-06-05",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "1913_washington_arif_amin_nassoor",
-      "1915_gwendolyn_gertrude_soul_nassoor",
-      "1918_lloyd_edward_soul_nassoor"
-    ]
+      "1913_washington_nassoor",
+      "1915_gwendolyn_nassoor",
+      "1918_lloyd_nassoor"
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Arif",
+      "middle-name": "Amin",
+      "surname": "Nassoor"
+    }
   },
   {
-    "id": "1913_washington_arif_amin_nassoor",
+    "id": "1913_washington_nassoor",
+    "full-name": "Washington Arif Amin Nassoor",
     "name": "Washington Arif Amin Nassoor",
     "birthday": "1913-06-16",
     "parents": {
-      "father": "arif_amin_nassoor",
-      "mother": "1877_gertrude_arabella_soul"
+      "father": "1876_arif_nassoor",
+      "mother": "1877_gertrude_soul"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Washington",
+      "middle-name": "Arif Amin",
+      "surname": "Nassoor"
     }
   },
   {
-    "id": "1915_gwendolyn_gertrude_soul_nassoor",
+    "id": "1915_gwendolyn_nassoor",
+    "full-name": "Gwendolyn Gertrude Soul Nassoor",
     "name": "Gwendolyn Gertrude Soul Nassoor",
     "birthday": "1915-01-05",
     "parents": {
-      "father": "arif_amin_nassoor",
-      "mother": "1877_gertrude_arabella_soul"
+      "father": "1876_arif_nassoor",
+      "mother": "1877_gertrude_soul"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Gwendolyn",
+      "middle-name": "Gertrude Soul",
+      "surname": "Nassoor"
     }
   },
   {
-    "id": "1918_lloyd_edward_soul_nassoor",
+    "id": "1918_lloyd_nassoor",
+    "full-name": "Lloyd Edward Soul Nassoor",
     "name": "Lloyd Edward Soul Nassoor",
     "birthday": "1918-06-29",
     "parents": {
-      "father": "arif_amin_nassoor",
-      "mother": "1877_gertrude_arabella_soul"
+      "father": "1876_arif_nassoor",
+      "mother": "1877_gertrude_soul"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Lloyd",
+      "middle-name": "Edward Soul",
+      "surname": "Nassoor"
     }
   },
   {
-    "id": "1879_laura_eliza_soul",
+    "id": "1879_laura_soul",
+    "full-name": "Laura Eliza Soul",
     "name": "Laura Eliza Soul",
     "birthday": "1879-03-17",
-    "death": "1923-12-12",
+    "died": {
+      "date": "1923-12-12"
+    },
     "parents": {
-      "father": "1845_washington_handley_soul",
-      "mother": "charlotte_louisa_bird"
+      "father": "1845_washington_soul",
+      "mother": "1849_charlotte_bird"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Laura",
+      "middle-name": "Eliza",
+      "surname": "Soul"
     }
   },
   {
-    "id": "1882_jessie_emma_soul",
+    "id": "1882_jessie_soul",
+    "full-name": "Jessie Emma Soul",
     "name": "Jessie Emma Soul",
     "birthday": "1882-03-12",
-    "death": "1944-03-18",
+    "died": {
+      "date": "1944-03-18"
+    },
     "parents": {
-      "father": "1845_washington_handley_soul",
-      "mother": "charlotte_louisa_bird"
+      "father": "1845_washington_soul",
+      "mother": "1849_charlotte_bird"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Jessie",
+      "middle-name": "Emma",
+      "surname": "Soul"
     }
   },
   {
-    "id": "1847_arabella_handley_soul",
+    "id": "1847_arabella_soul",
+    "full-name": "Arabella Handley Soul",
     "name": "Arabella Handley Soul",
     "birthday": "1847-10-03",
     "birthplace": "7 York Place Barnsbury Park, Islington",
     "parents": {
       "father": "1787_caleb_soul",
-      "mother": "1821_mary_anne_handley"
+      "mother": "1821_mary_handley"
     },
+    "original_info": "7 York Place Barnsbury Park, Islington, , & Mary Ann(e) Soul formerly Handley",
     "info": "7 York Place Barnsbury Park, Islington, , & Mary Ann(e) Soul formerly Handley",
-    "census": [
-      {
-        "year": "1861",
-        "details": "37 Cleveland Rd, Islington, London, 13, scholar, B Islington."
-      }
-    ]
+    "sources": [
+      "census 1861 37 Cleveland Rd, Islington, London, 13, scholar, B Islington."
+    ],
+    "name-parts": {
+      "firstname": "Arabella",
+      "middle-name": "Handley",
+      "surname": "Soul"
+    }
   },
   {
     "id": "1823_thomas_handley",
+    "full-name": "Thomas Handley",
     "name": "Thomas Handley",
     "birthday": "1823",
-    "death": "1873-02-08",
-    "deathplace": "Bradford, Ontario, Canada West",
     "gender": "M",
+    "died": {
+      "date": "1873-02-08",
+      "place": "Bradford, Ontario, Canada West"
+    },
     "parents": {
       "father": "1784_thomas_handley",
       "mother": "elizabeth_jebb"
     },
-    "info": "Bradford, Ontario, Canada West, aged 50, inscrip Abney Park gv 19146 sq 27"
+    "original_info": "Bradford, Ontario, Canada West, aged 50, inscrip Abney Park gv 19146 sq 27",
+    "info": "Bradford, Ontario, Canada West, aged 50, inscrip Abney Park gv 19146 sq 27",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Handley"
+    }
   }
 ]

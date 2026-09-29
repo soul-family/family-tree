@@ -1,12 +1,15 @@
 [
   {
     "id": "1813_samuel_roberts",
+    "full-name": "Samuel Roberts",
     "name": "Samuel Roberts",
     "birthday": "1813",
     "birthplace": "Birmingham",
+    "died": {
+      "date": "1871-04-19",
+      "place": "3 Nags Head Lane, Southcoates, Kingston upon Hull"
+    },
     "occupation": "Blacksmith",
-    "death": "1871-04-19",
-    "deathplace": "3 Nags Head Lane, Southcoates, Kingston upon Hull",
     "spouses": [
       {
         "id": "1813_martha_chiven",
@@ -16,21 +19,24 @@
     ],
     "children": [
       "1839_eliza_roberts",
-      "1842_ann_maria_roberts",
+      "1842_ann_roberts",
       "1847_martha_roberts",
-      "1847_samuel_roberts_jr"
+      "1847_samuel_roberts"
     ],
+    "original_info": "1846 General Directory of Kingston-upon-Hull, Roberts Samuel, blacksmith, Holderness Rd; at 3 Nags Head Lane, Southcoates, blacksmith, aged 57, disease of the brain 3 years, informant Samuel Roberts of 3 Nags Head Lane; 9 Aug 1871, letters of admin to Martha Roberts widow",
     "info": "1846 General Directory of Kingston-upon-Hull, Roberts Samuel, blacksmith, Holderness Rd; at 3 Nags Head Lane, Southcoates, blacksmith, aged 57, disease of the brain 3 years, informant Samuel Roberts of 3 Nags Head Lane; 9 Aug 1871, letters of admin to Martha Roberts widow",
-    "sources": [],
-    "census": [
-      {
-        "year": "1871",
-        "details": "2 Nags Head Lane, Southcoates, Kingston upon Hull, 58, retired smith, B Birmingham, 3 years blind through disease of brain"
-      }
-    ]
+    "sources": [
+      "census 1871 2 Nags Head Lane, Southcoates, Kingston upon Hull, 58, retired smith, B Birmingham, 3 years blind through disease of brain"
+    ],
+    "name-parts": {
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Roberts"
+    }
   },
   {
     "id": "1813_martha_chiven",
+    "full-name": "Martha Chiven",
     "name": "Martha Chiven",
     "birthday": "1813",
     "birthplace": "Hull",
@@ -43,24 +49,24 @@
     ],
     "children": [
       "1839_eliza_roberts",
-      "1842_ann_maria_roberts",
+      "1842_ann_roberts",
       "1847_martha_roberts",
-      "1847_samuel_roberts_jr"
+      "1847_samuel_roberts"
     ],
     "info": "",
-    "census": [
-      {
-        "year": "1861",
-        "details": "Nags Head Lane, Southcoates, Kingston-upon-Hull, 48, engine smith wife, B Hull"
-      },
-      {
-        "year": "1871",
-        "details": "2 Nags Head Lane, 58."
-      }
-    ]
+    "sources": [
+      "census 1861 Nags Head Lane, Southcoates, Kingston-upon-Hull, 48, engine smith wife, B Hull",
+      "census 1871 2 Nags Head Lane, 58."
+    ],
+    "name-parts": {
+      "firstname": "Martha",
+      "middle-name": "",
+      "surname": "Chiven"
+    }
   },
   {
     "id": "1839_eliza_roberts",
+    "full-name": "Eliza Roberts",
     "name": "Eliza Roberts",
     "birthday": "1839-09-25",
     "birthplace": "4 Aldbro St, Sculcoates, Yorkshire",
@@ -69,19 +75,19 @@
       "mother": "1813_martha_chiven"
     },
     "info": "",
-    "census": [
-      {
-        "year": "1861",
-        "details": "Nags Head Lane, 21, governess, B Hull"
-      },
-      {
-        "year": "1871",
-        "details": "2 Nags Head Lane, 31, certificate teacher, B Hull."
-      }
-    ]
+    "sources": [
+      "census 1861 Nags Head Lane, 21, governess, B Hull",
+      "census 1871 2 Nags Head Lane, 31, certificate teacher, B Hull."
+    ],
+    "name-parts": {
+      "firstname": "Eliza",
+      "middle-name": "",
+      "surname": "Roberts"
+    }
   },
   {
-    "id": "1842_ann_maria_roberts",
+    "id": "1842_ann_roberts",
+    "full-name": "Ann Maria Roberts",
     "name": "Ann Maria Roberts",
     "birthday": "1842-08-01",
     "birthplace": "Aldbro St, Sculcoates",
@@ -97,7 +103,11 @@
       "father": "1813_samuel_roberts",
       "mother": "1813_martha_chiven"
     },
+    "original_info": "Mary's Hull, 24, spinster, of St Mary's, , & 21, bachelor, school master, of Skipton, , in pres of Samuel Roberts, Samuel Roberts junr, Eliza Roberts, & Ann Elizabeth Roberts",
     "info": "Mary's Hull, 24, spinster, of St Mary's, , & 21, bachelor, school master, of Skipton, , in pres of Samuel Roberts, Samuel Roberts junr, Eliza Roberts, & Ann Elizabeth Roberts",
+    "sources": [
+      "census 1861 Nags Head Lane, 18, pupil teacher, B Hull"
+    ],
     "crossBranch": [
       {
         "branch": "cockin",
@@ -105,15 +115,15 @@
         "relationship": "married into"
       }
     ],
-    "census": [
-      {
-        "year": "1861",
-        "details": "Nags Head Lane, 18, pupil teacher, B Hull"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Ann",
+      "middle-name": "Maria",
+      "surname": "Roberts"
+    }
   },
   {
     "id": "1847_martha_roberts",
+    "full-name": "Martha Roberts",
     "name": "Martha Roberts",
     "birthday": "1847-Q4",
     "birthplace": "Sculcoates",
@@ -122,15 +132,18 @@
       "mother": "1813_martha_chiven"
     },
     "info": "",
-    "census": [
-      {
-        "year": "1861",
-        "details": "Nags Head Lane, 13, scholar, B Hull."
-      }
-    ]
+    "sources": [
+      "census 1861 Nags Head Lane, 13, scholar, B Hull."
+    ],
+    "name-parts": {
+      "firstname": "Martha",
+      "middle-name": "",
+      "surname": "Roberts"
+    }
   },
   {
-    "id": "1847_samuel_roberts_jr",
+    "id": "1847_samuel_roberts",
+    "full-name": "Samuel Roberts",
     "name": "Samuel Roberts",
     "birthday": "1847-Q4",
     "birthplace": "Sculcoates",
@@ -140,15 +153,14 @@
       "mother": "1813_martha_chiven"
     },
     "info": "",
-    "census": [
-      {
-        "year": "1861",
-        "details": "Nags Head Lane, 13, scholar, B Hull"
-      },
-      {
-        "year": "1871",
-        "details": "3 Nags Head Lane, Southcoates, Kingston upon Hull, master smith, B Hull."
-      }
-    ]
+    "sources": [
+      "census 1861 Nags Head Lane, 13, scholar, B Hull",
+      "census 1871 3 Nags Head Lane, Southcoates, Kingston upon Hull, master smith, B Hull."
+    ],
+    "name-parts": {
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Roberts"
+    }
   }
 ]

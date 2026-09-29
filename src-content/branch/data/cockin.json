@@ -1,13 +1,16 @@
 [
   {
     "id": "george_cockin",
+    "full-name": "George Cockin",
     "name": "George Cockin",
     "birthday": "",
     "birthplace": "Ireland, Dublin",
     "gender": "M",
+    "died": {
+      "date": "1905-09-28",
+      "place": "257 Holderness-road Kingston-upon-Hull"
+    },
     "occupation": "Independent; gentleman",
-    "death": "1905-09-28",
-    "deathplace": "257 Holderness-road Kingston-upon-Hull",
     "spouses": [
       {
         "id": "jane_andrews",
@@ -26,29 +29,31 @@
       "father": "",
       "mother": ""
     },
+    "original_info": "1888 Hull & District Directory, 5 Albion parade; of 257 Holderness-road Kingston-upon-Hull gentleman, probate York 30 Oct to Jane Cockin widow, Edwin Owen gentleman, and William Henry Tayloe house agent, effects 5,276 3s 3d",
     "info": "1888 Hull & District Directory, 5 Albion parade; of 257 Holderness-road Kingston-upon-Hull gentleman, probate York 30 Oct to Jane Cockin widow, Edwin Owen gentleman, and William Henry Tayloe house agent, effects 5,276 3s 3d",
-    "sources": [],
+    "sources": [
+      "census 1881 5 Albion Parade, Holderness Rd, Southcoates, Kingston upon Hull, 56, independent, B Ireland, Dublin",
+      "census 1891 5 Albion Parade"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "5 Albion Parade, Holderness Rd, Southcoates, Kingston upon Hull, 56, independent, B Ireland, Dublin"
-      },
-      {
-        "year": "1891",
-        "details": "5 Albion Parade"
-      }
-    ]
+    "name-parts": {
+      "firstname": "George",
+      "middle-name": "",
+      "surname": "Cockin"
+    }
   },
   {
     "id": "jane_andrews",
+    "full-name": "Jane Andrews",
     "name": "Jane Andrews",
     "birthday": "",
     "birthplace": "Ireland, Dublin",
     "gender": "F",
+    "died": {
+      "date": "1909-03-27",
+      "place": "275 Holderness-road Kingston-upon-Hull"
+    },
     "occupation": "",
-    "death": "1909-03-27",
-    "deathplace": "275 Holderness-road Kingston-upon-Hull",
     "spouses": [
       {
         "id": "george_cockin",
@@ -67,73 +72,84 @@
       "father": "",
       "mother": ""
     },
+    "original_info": "of 275 Holderness-road Kingston-upon-Hull; 19 Apr probate York to Rachel Rowbotham wife of Robert Nutall Rowbotham, effects 246 0s 6d",
     "info": "of 275 Holderness-road Kingston-upon-Hull; 19 Apr probate York to Rachel Rowbotham wife of Robert Nutall Rowbotham, effects 246 0s 6d",
-    "sources": [],
+    "sources": [
+      "census 1881 5 Albion Parade, Southcoates, Kingston upon Hull, 51, B Ireland, Dublin",
+      "census 1891 5 Albion Parade"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "5 Albion Parade, Southcoates, Kingston upon Hull, 51, B Ireland, Dublin"
-      },
-      {
-        "year": "1891",
-        "details": "5 Albion Parade"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Jane",
+      "middle-name": "",
+      "surname": "Andrews"
+    }
   },
   {
     "id": "george_anthony_cockin",
+    "full-name": "George Anthony Cockin",
     "name": "George Anthony Cockin",
     "birthday": "",
     "birthplace": "",
     "gender": "M",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [],
     "children": [],
     "parents": {
       "father": "george_cockin",
       "mother": "jane_andrews"
     },
+    "original_info": "Mentioned in will dated 13 July 1903 of George Cockin: 'I bequeath my gold watch and chain to my son George Anthony Cockin'",
     "info": "Mentioned in will dated 13 July 1903 of George Cockin: 'I bequeath my gold watch and chain to my son George Anthony Cockin'",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "George",
+      "middle-name": "Anthony",
+      "surname": "Cockin"
+    }
   },
   {
     "id": "1845_john_cockin",
+    "full-name": "John Cockin",
     "name": "John Cockin",
     "birthday": "1845-08-24",
     "birthplace": "Back Bolton St, Bury, Lancashire",
     "gender": "M",
+    "died": {
+      "date": "1900-09-20",
+      "place": "Whinnyroyd Pearson Park, Hull"
+    },
     "occupation": "School master; rent & estate agent",
-    "death": "1900-09-20",
-    "deathplace": "Whinnyroyd Pearson Park, Hull",
     "spouses": [
       {
-        "id": "1842_ann_maria_roberts",
+        "id": "1842_ann_roberts",
         "marriedYear": "1867",
         "marriedDate": "23 Apr 1867",
         "marriedPlace": "St Mary's Hull"
       }
     ],
     "children": [
-      "1868_martha_alicia_cockin",
-      "1870_florence_jane_cockin",
-      "1872_lilias_roberts_cockin",
-      "1874_charles_herbert_cockin",
-      "1876_george_samuel_cockin",
-      "1879_reginald_percy_cockin",
-      "1881_maurice_stanley_cockin",
-      "1885_gertrude_annie_cockin",
-      "1886_edith_eliza_cockin"
+      "1868_martha_cockin",
+      "1870_florence_cockin",
+      "1872_lilias_cockin",
+      "1874_charles_cockin",
+      "1876_george_cockin",
+      "1879_reginald_cockin",
+      "1881_maurice_cockin",
+      "gertrude_cockin",
+      "1886_edith_cockin"
     ],
     "parents": {
       "father": "george_cockin",
       "mother": "jane_andrews"
     },
+    "original_info": "Back Bolton St, Bury, Lancashire, , and Jane Cockin formerly Andrews; at his residence Whinnyroyd Pearson Park Hull, house and estate agent, aged 55; probate York 18 Dec to Ann Maria Cockin widow, John Brown bookseller, and Thomas Moorby accountant and estate agent, effects 42,690 13s 4d, resworn Dec 1902 44,243 13s -d",
     "info": "Back Bolton St, Bury, Lancashire, , and Jane Cockin formerly Andrews; at his residence Whinnyroyd Pearson Park Hull, house and estate agent, aged 55; probate York 18 Dec to Ann Maria Cockin widow, John Brown bookseller, and Thomas Moorby accountant and estate agent, effects 42,690 13s 4d, resworn Dec 1902 44,243 13s -d",
-    "sources": [],
+    "sources": [
+      "census 1871 school house Northowram Queensbury Yorkshire, 25, school master, B Lancashire Bury",
+      "census 1881 45 Mason St East Sculcoates Kingston upon Hull, 35, rent & estate agent, B Lancashire Bury"
+    ],
     "crossBranch": [
       {
         "branch": "roberts",
@@ -141,26 +157,23 @@
         "relationship": "married into"
       }
     ],
-    "census": [
-      {
-        "year": "1871",
-        "details": "school house Northowram Queensbury Yorkshire, 25, school master, B Lancashire Bury"
-      },
-      {
-        "year": "1881",
-        "details": "45 Mason St East Sculcoates Kingston upon Hull, 35, rent & estate agent, B Lancashire Bury"
-      }
-    ]
+    "name-parts": {
+      "firstname": "John",
+      "middle-name": "",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1842_ann_maria_roberts",
+    "id": "ann_roberts",
+    "full-name": "Ann Maria Roberts",
     "name": "Ann Maria Roberts",
     "birthday": "",
     "birthplace": "Yorkshire, Hull",
     "gender": "F",
+    "died": {
+      "date": "1918-09-18"
+    },
     "occupation": "",
-    "death": "1918-09-18",
-    "deathplace": "",
     "spouses": [
       {
         "id": "1845_john_cockin",
@@ -170,106 +183,124 @@
       }
     ],
     "children": [
-      "1868_martha_alicia_cockin",
-      "1870_florence_jane_cockin",
-      "1872_lilias_roberts_cockin",
-      "1874_charles_herbert_cockin",
-      "1876_george_samuel_cockin",
-      "1879_reginald_percy_cockin",
-      "1881_maurice_stanley_cockin",
-      "1885_gertrude_annie_cockin",
-      "1886_edith_eliza_cockin"
+      "1868_martha_cockin",
+      "1870_florence_cockin",
+      "1872_lilias_cockin",
+      "1874_charles_cockin",
+      "1876_george_cockin",
+      "1879_reginald_cockin",
+      "1881_maurice_cockin",
+      "gertrude_cockin",
+      "1886_edith_cockin"
     ],
     "parents": {
       "father": "",
       "mother": ""
     },
     "info": "",
-    "sources": [],
+    "sources": [
+      "census 1871 school house Northowram Queensbury Yorkshire, 28, B Yorkshire Hull",
+      "census 1881 45 Mason St Kingston upon Hull, 38"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1871",
-        "details": "school house Northowram Queensbury Yorkshire, 28, B Yorkshire Hull"
-      },
-      {
-        "year": "1881",
-        "details": "45 Mason St Kingston upon Hull, 38"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Ann",
+      "middle-name": "Maria",
+      "surname": "Roberts"
+    }
   },
   {
-    "id": "1868_martha_alicia_cockin",
+    "id": "1868_martha_cockin",
+    "full-name": "Martha Alicia Cockin",
     "name": "Martha Alicia Cockin",
     "birthday": "1868-Q3",
     "birthplace": "Sculcoates",
     "gender": "F",
+    "died": {
+      "date": "1869-03-02",
+      "place": "Sculcoates"
+    },
     "occupation": "",
-    "death": "1869-03-02",
-    "deathplace": "Sculcoates",
     "spouses": [],
     "children": [],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "B 1868 Q3 Sculcoates; , Sculcoates",
     "info": "B 1868 Q3 Sculcoates; , Sculcoates",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Martha",
+      "middle-name": "Alicia",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1870_florence_jane_cockin",
+    "id": "1870_florence_cockin",
+    "full-name": "Florence Jane Cockin",
     "name": "Florence Jane Cockin",
     "birthday": "1870-Q3",
     "birthplace": "Helmsley",
     "gender": "F",
+    "died": {
+      "date": "1879-01-09",
+      "place": "aged"
+    },
     "occupation": "",
-    "death": "1879-01-09",
-    "deathplace": "aged",
     "spouses": [],
     "children": [],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "B 1870 Q3 Helmsley; aged 8",
     "info": "B 1870 Q3 Helmsley; aged 8",
-    "sources": [],
+    "sources": [
+      "census 1871 school house Northowram, 9 months, B Yorkshire Helmsley"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1871",
-        "details": "school house Northowram, 9 months, B Yorkshire Helmsley"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Florence",
+      "middle-name": "Jane",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1872_lilias_roberts_cockin",
+    "id": "1872_lilias_cockin",
+    "full-name": "Lilias Roberts Cockin",
     "name": "Lilias Roberts Cockin",
     "birthday": "1872-07-14",
     "birthplace": "Swamp, Northowram, Halifax",
     "gender": "F",
+    "died": {
+      "date": "1950-05-23",
+      "place": "Bidborough"
+    },
     "occupation": "",
-    "death": "1950-05-23",
-    "deathplace": "Bidborough",
     "spouses": [
       {
-        "id": "1872_david_taylor_wilson",
+        "id": "1872_david_wilson",
         "marriedYear": "1901",
         "marriedDate": "12 Feb 1901",
         "marriedPlace": "Christ Church Hull"
       }
     ],
     "children": [
-      "1901_edith_mary_taylor_wilson",
-      "1906_lilias_ann_taylor_wilson",
-      "1908_dorothea_florence_taylor_wilson"
+      "1901_edith_wilson",
+      "1906_lilias_wilson",
+      "1908_dorothea_wilson"
     ],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "at Swamp Northowram Halifax, , & Ann Maria Cockin formerly Roberts; 15 Sept 1872 baptised Queensbury parish church",
     "info": "at Swamp Northowram Halifax, , & Ann Maria Cockin formerly Roberts; 15 Sept 1872 baptised Queensbury parish church",
-    "sources": [],
+    "sources": [
+      "census 1881 45 Mason St Kingston upon Hull, 8, scholar, B Halifax."
+    ],
     "crossBranch": [
       {
         "branch": "wilson",
@@ -277,93 +308,100 @@
         "relationship": "married into"
       }
     ],
-    "census": [
-      {
-        "year": "1881",
-        "details": "45 Mason St Kingston upon Hull, 8, scholar, B Halifax."
-      }
-    ]
+    "name-parts": {
+      "firstname": "Lilias",
+      "middle-name": "Roberts",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1874_charles_herbert_cockin",
+    "id": "1874_charles_cockin",
+    "full-name": "Charles Herbert Cockin",
     "name": "Charles Herbert Cockin",
     "birthday": "1874-09-06",
     "birthplace": "Halifax",
     "gender": "M",
+    "died": {
+      "date": "1882-02-13"
+    },
     "occupation": "",
-    "death": "1882-02-13",
-    "deathplace": "",
     "spouses": [],
     "children": [],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "baptised Queensbury parish church",
     "info": "baptised Queensbury parish church",
-    "sources": [],
+    "sources": [
+      "census 1881 45 Mason St Kingston upon Hull, 6, scholar, B Halifax"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "45 Mason St Kingston upon Hull, 6, scholar, B Halifax"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "Herbert",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1876_george_samuel_cockin",
+    "id": "1876_george_cockin",
+    "full-name": "George Samuel Cockin",
     "name": "George Samuel Cockin",
     "birthday": "1876-12-07",
     "birthplace": "Norton near Malton",
     "gender": "M",
+    "died": {
+      "date": "1942-11-12",
+      "place": "Postwick"
+    },
     "occupation": "Rector; author",
-    "death": "1942-11-12",
-    "deathplace": "Postwick",
     "spouses": [
       {
-        "id": "lilian_strapps_brown",
+        "id": "lilian_brown",
         "marriedYear": "1905",
         "marriedDate": "4 Jan 1905",
         "marriedPlace": "Holy Trinity, Hull"
       }
     ],
     "children": [
-      "1906_enid_adele_noreen_cockin",
-      "john_vivian_cockin"
+      "1906_enid_cockin",
+      "john_cockin"
     ],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "Norton near Malton; Oct 1895 Corpus Christi College Cambridge -master of Hull; BA 1898; 1899 ordained deacon; 1899 ordained priest (Manchester); MA 1902; 1903 author of 'The Form of Solemnization of Matrimony with notes and commentary'; 1904 author of 'Some Difficulties in The Life of Our Lord'; 1910-17 Rector of St Catharine's Manchester; 1917-19 Organising Secretary for the South American Missionary Society; 1920-23 Vicar of Thornton-Curtis, Lincs; 1923-36 Rector of Rockland St Mary with Hellington Norfold; 1936 Rector of Postwick, Norfolk; , Postwick",
     "info": "Norton near Malton; Oct 1895 Corpus Christi College Cambridge -master of Hull; BA 1898; 1899 ordained deacon; 1899 ordained priest (Manchester); MA 1902; 1903 author of 'The Form of Solemnization of Matrimony with notes and commentary'; 1904 author of 'Some Difficulties in The Life of Our Lord'; 1910-17 Rector of St Catharine's Manchester; 1917-19 Organising Secretary for the South American Missionary Society; 1920-23 Vicar of Thornton-Curtis, Lincs; 1923-36 Rector of Rockland St Mary with Hellington Norfold; 1936 Rector of Postwick, Norfolk; , Postwick",
-    "sources": [],
+    "sources": [
+      "census 1881 45 Mason St Kingston upon Hull, 4, B Yorkshire Norton Malton"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "45 Mason St Kingston upon Hull, 4, B Yorkshire Norton Malton"
-      }
-    ]
+    "name-parts": {
+      "firstname": "George",
+      "middle-name": "Samuel",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "lilian_strapps_brown",
+    "id": "lilian_brown",
+    "full-name": "Lilian Strapps Brown",
     "name": "Lilian Strapps Brown",
     "birthday": "",
     "birthplace": "",
     "gender": "F",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [
       {
-        "id": "1876_george_samuel_cockin",
+        "id": "1876_george_cockin",
         "marriedYear": "1905",
         "marriedDate": "4 Jan 1905",
         "marriedPlace": "Holy Trinity, Hull"
       }
     ],
     "children": [
-      "1906_enid_adele_noreen_cockin",
-      "john_vivian_cockin"
+      "1906_enid_cockin",
+      "john_cockin"
     ],
     "parents": {
       "father": "",
@@ -371,79 +409,103 @@
     },
     "info": "",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Lilian",
+      "middle-name": "Strapps",
+      "surname": "Brown"
+    }
   },
   {
-    "id": "1906_enid_adele_noreen_cockin",
+    "id": "1906_enid_cockin",
+    "full-name": "Enid Adele Noreen Cockin",
     "name": "Enid Adele Noreen Cockin",
     "birthday": "1906",
     "birthplace": "Sculcoates",
     "gender": "F",
+    "died": {
+      "place": "Boston, Mass., USA"
+    },
     "occupation": "",
-    "death": "",
-    "deathplace": "Boston, Mass., USA",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "1876_george_samuel_cockin",
-      "mother": "lilian_strapps_brown"
+      "father": "1876_george_cockin",
+      "mother": "lilian_brown"
     },
+    "original_info": "Sculcoates; D Boston, Mass., USA",
     "info": "Sculcoates; D Boston, Mass., USA",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Enid",
+      "middle-name": "Adele Noreen",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "john_vivian_cockin",
+    "id": "john_cockin",
+    "full-name": "John Vivian Cockin",
     "name": "John Vivian Cockin",
     "birthday": "",
     "birthplace": "",
     "gender": "M",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [],
     "children": [
-      "1947_john_charles_cockin"
+      "1947_john_cockin"
     ],
     "parents": {
-      "father": "1876_george_samuel_cockin",
-      "mother": "lilian_strapps_brown"
+      "father": "1876_george_cockin",
+      "mother": "lilian_brown"
     },
     "info": "",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "John",
+      "middle-name": "Vivian",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1947_john_charles_cockin",
+    "id": "1947_john_cockin",
+    "full-name": "John Charles Cockin",
     "name": "John Charles Cockin",
     "birthday": "1947-01-08",
     "birthplace": "",
     "gender": "M",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "john_vivian_cockin",
+      "father": "john_cockin",
       "mother": ""
     },
     "info": "",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "John",
+      "middle-name": "Charles",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1879_reginald_percy_cockin",
+    "id": "1879_reginald_cockin",
+    "full-name": "Reginald Percy Cockin",
     "name": "Reginald Percy Cockin",
     "birthday": "1879-05-18",
     "birthplace": "Hull",
     "gender": "M",
+    "died": {
+      "date": "1918-12-10",
+      "place": "5 Chaucer Mansions, West Kensington"
+    },
     "occupation": "Medical doctor",
-    "death": "1918-12-10",
-    "deathplace": "5 Chaucer Mansions, West Kensington",
     "spouses": [
       {
-        "id": "beatrice_evelyne_fawcett",
+        "id": "beatrice_fawcett",
         "marriedYear": "1911",
         "marriedDate": "30 May 1911",
         "marriedPlace": "St Augustine's Hull"
@@ -452,30 +514,31 @@
     "children": [],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "Hull; Hymers College Hull; 1 Oct 1898 Gonville & Caius College Cambridge; 1901 BA; 1906 MB BC & MA; 1908 entered Colonial Medical Service; 1908-9 with Cross Niger Expedition; 1910 in Government Service in Cyprus; 1913 Grenada; 1913 MD; London School of Tropical Medicine; WW1 lieut Royal Army Medical Corps; 10 Dec 1918 aged 39 at 5 Chaucer Mansions West Kensington; obit The Times 12 Dec",
     "info": "Hull; Hymers College Hull; 1 Oct 1898 Gonville & Caius College Cambridge; 1901 BA; 1906 MB BC & MA; 1908 entered Colonial Medical Service; 1908-9 with Cross Niger Expedition; 1910 in Government Service in Cyprus; 1913 Grenada; 1913 MD; London School of Tropical Medicine; WW1 lieut Royal Army Medical Corps; 10 Dec 1918 aged 39 at 5 Chaucer Mansions West Kensington; obit The Times 12 Dec",
-    "sources": [],
+    "sources": [
+      "census 1881 45 Mason St Kingston upon Hull, 1, B Hull"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "45 Mason St Kingston upon Hull, 1, B Hull"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Reginald",
+      "middle-name": "Percy",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "beatrice_evelyne_fawcett",
+    "id": "beatrice_fawcett",
+    "full-name": "Beatrice Evelyne Fawcett",
     "name": "Beatrice Evelyne Fawcett",
     "birthday": "",
     "birthplace": "",
     "gender": "F",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [
       {
-        "id": "1879_reginald_percy_cockin",
+        "id": "1879_reginald_cockin",
         "marriedYear": "1911",
         "marriedDate": "30 May 1911",
         "marriedPlace": "St Augustine's Hull"
@@ -488,111 +551,142 @@
     },
     "info": "",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Beatrice",
+      "middle-name": "Evelyne",
+      "surname": "Fawcett"
+    }
   },
   {
-    "id": "1881_maurice_stanley_cockin",
+    "id": "1881_maurice_cockin",
+    "full-name": "Maurice Stanley Cockin",
     "name": "Maurice Stanley Cockin",
     "birthday": "1881-12-23",
     "birthplace": "Hull",
     "gender": "M",
     "occupation": "Assistant district commissioner W Africa; capt East Yorks Regt.",
-    "death": "",
-    "deathplace": "",
     "spouses": [
       {
-        "id": "alice_grace_gear",
+        "id": "alice_gear",
         "marriedYear": "1914",
         "marriedDate": "12 Oct 1914",
         "marriedPlace": "St Mary Abbots"
       }
     ],
     "children": [
-      "1915_maurice_herbert_battle_cockin"
+      "1915_maurice_cockin"
     ],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "Hull; Hymers College Hull; Oct 1900 Gonville & Caius College Cambridge ; 1904 BA; assistant district commissioner W Africa; WW1 capt East Yorks Regt. wounded, mentioned in despatches",
     "info": "Hull; Hymers College Hull; Oct 1900 Gonville & Caius College Cambridge ; 1904 BA; assistant district commissioner W Africa; WW1 capt East Yorks Regt. wounded, mentioned in despatches",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Maurice",
+      "middle-name": "Stanley",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "alice_grace_gear",
+    "id": "alice_gear",
+    "full-name": "Alice Grace Gear",
     "name": "Alice Grace Gear",
     "birthday": "",
     "birthplace": "",
     "gender": "F",
+    "died": {
+      "date": "1952-10-23",
+      "place": "Leyden House, Mortlake"
+    },
     "occupation": "",
-    "death": "1952-10-23",
-    "deathplace": "Leyden House, Mortlake",
     "spouses": [
       {
-        "id": "1881_maurice_stanley_cockin",
+        "id": "1881_maurice_cockin",
         "marriedYear": "1914",
         "marriedDate": "12 Oct 1914",
         "marriedPlace": "St Mary Abbots"
       }
     ],
     "children": [
-      "1915_maurice_herbert_battle_cockin"
+      "1915_maurice_cockin"
     ],
     "parents": {
       "father": "",
       "mother": ""
     },
+    "original_info": "Leyden House, Mortlake",
     "info": "Leyden House, Mortlake",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Alice",
+      "middle-name": "Grace",
+      "surname": "Gear"
+    }
   },
   {
-    "id": "1915_maurice_herbert_battle_cockin",
+    "id": "1915_maurice_cockin",
+    "full-name": "Maurice Herbert Battle Cockin",
     "name": "Maurice Herbert Battle Cockin",
     "birthday": "1915-11-17",
     "birthplace": "",
     "gender": "M",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "1881_maurice_stanley_cockin",
-      "mother": "alice_grace_gear"
+      "father": "1881_maurice_cockin",
+      "mother": "alice_gear"
     },
     "info": "",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Maurice",
+      "middle-name": "Herbert Battle",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1885_gertrude_annie_cockin",
+    "id": "gertrude_cockin",
+    "full-name": "Gertrude Annie Cockin",
     "name": "Gertrude Annie Cockin",
     "birthday": "",
     "birthplace": "",
     "gender": "F",
+    "died": {
+      "date": "1885-11-05",
+      "place": "aged"
+    },
     "occupation": "",
-    "death": "1885-11-05",
-    "deathplace": "aged",
     "spouses": [],
     "children": [],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
+    "original_info": "aged 1",
     "info": "aged 1",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Gertrude",
+      "middle-name": "Annie",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "1886_edith_eliza_cockin",
+    "id": "1886_edith_cockin",
+    "full-name": "Edith Eliza Cockin",
     "name": "Edith Eliza Cockin",
     "birthday": "1886-09-28",
     "birthplace": "",
     "gender": "F",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [
       {
         "id": "leonard_burbidge",
@@ -604,24 +698,28 @@
     "children": [],
     "parents": {
       "father": "1845_john_cockin",
-      "mother": "1842_ann_maria_roberts"
+      "mother": "1842_ann_roberts"
     },
     "info": "",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Edith",
+      "middle-name": "Eliza",
+      "surname": "Cockin"
+    }
   },
   {
     "id": "leonard_burbidge",
+    "full-name": "Leonard Burbidge",
     "name": "Leonard Burbidge",
     "birthday": "",
     "birthplace": "",
     "gender": "M",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [
       {
-        "id": "1886_edith_eliza_cockin",
+        "id": "1886_edith_cockin",
         "marriedYear": "1914",
         "marriedDate": "24 Feb 1914",
         "marriedPlace": "Holy Trinity, Hull"
@@ -634,17 +732,21 @@
     },
     "info": "",
     "sources": [],
-    "crossBranch": []
+    "crossBranch": [],
+    "name-parts": {
+      "firstname": "Leonard",
+      "middle-name": "",
+      "surname": "Burbidge"
+    }
   },
   {
     "id": "joseph_cockin",
+    "full-name": "Joseph Cockin",
     "name": "Joseph Cockin",
     "birthday": "",
     "birthplace": "Lancashire Bury",
     "gender": "M",
     "occupation": "Brass moulder",
-    "death": "",
-    "deathplace": "",
     "spouses": [],
     "children": [],
     "parents": {
@@ -652,27 +754,27 @@
       "mother": "jane_andrews"
     },
     "info": "",
-    "sources": [],
+    "sources": [
+      "census 1881 5 Albion Parade Holderness Rd Southcoates Kingston upon Hull, 33, brass moulder, B Lancashire Bury."
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "5 Albion Parade Holderness Rd Southcoates Kingston upon Hull, 33, brass moulder, B Lancashire Bury."
-      }
-    ]
+    "name-parts": {
+      "firstname": "Joseph",
+      "middle-name": "",
+      "surname": "Cockin"
+    }
   },
   {
     "id": "rachel_cockin",
+    "full-name": "Rachel Cockin",
     "name": "Rachel Cockin",
     "birthday": "",
     "birthplace": "Hull",
     "gender": "F",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [
       {
-        "id": "robert_nutall_rowbotham",
+        "id": "robert_rowbotham",
         "marriedYear": "1875",
         "marriedDate": "1875-Q4",
         "marriedPlace": "Sculcoates"
@@ -680,31 +782,31 @@
     ],
     "children": [
       "1877_lily_rowbotham",
-      "1878_george_william_rowbotham"
+      "1878_george_rowbotham"
     ],
     "parents": {
       "father": "george_cockin",
       "mother": "jane_andrews"
     },
     "info": "",
-    "sources": [],
+    "sources": [
+      "census 1881 52 Jenning St, 29, B Hull."
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "52 Jenning St, 29, B Hull."
-      }
-    ]
+    "name-parts": {
+      "firstname": "Rachel",
+      "middle-name": "",
+      "surname": "Cockin"
+    }
   },
   {
-    "id": "robert_nutall_rowbotham",
+    "id": "robert_rowbotham",
+    "full-name": "Robert Nutall Rowbotham",
     "name": "Robert Nutall Rowbotham",
     "birthday": "",
     "birthplace": "Chapel on le Frith, Derbyshire",
     "gender": "M",
     "occupation": "Tea dealer & grocer",
-    "death": "",
-    "deathplace": "",
     "spouses": [
       {
         "id": "rachel_cockin",
@@ -715,70 +817,74 @@
     ],
     "children": [
       "1877_lily_rowbotham",
-      "1878_george_william_rowbotham"
+      "1878_george_rowbotham"
     ],
     "parents": {
       "father": "",
       "mother": ""
     },
+    "original_info": "1888 Hull & District Directory, 52 Jenning St, provision dlr",
     "info": "1888 Hull & District Directory, 52 Jenning St, provision dlr",
-    "sources": [],
+    "sources": [
+      "census 1881 52 Jenning St, 36, tea dealer & grocer, B Chapel on le Frith, Derbyshire"
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "52 Jenning St, 36, tea dealer & grocer, B Chapel on le Frith, Derbyshire"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Robert",
+      "middle-name": "Nutall",
+      "surname": "Rowbotham"
+    }
   },
   {
     "id": "1877_lily_rowbotham",
+    "full-name": "Lily Rowbotham",
     "name": "Lily Rowbotham",
     "birthday": "1877-Q1",
     "birthplace": "Sculcoates",
     "gender": "F",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "robert_nutall_rowbotham",
+      "father": "robert_rowbotham",
       "mother": "rachel_cockin"
     },
+    "original_info": "B 1877 Q1 Sculcoates",
     "info": "B 1877 Q1 Sculcoates",
-    "sources": [],
+    "sources": [
+      "census 1881 52 Jenning St Sutton & Stoneferry, 4, scholar, B Hull."
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "52 Jenning St Sutton & Stoneferry, 4, scholar, B Hull."
-      }
-    ]
+    "name-parts": {
+      "firstname": "Lily",
+      "middle-name": "",
+      "surname": "Rowbotham"
+    }
   },
   {
-    "id": "1878_george_william_rowbotham",
+    "id": "1878_george_rowbotham",
+    "full-name": "George William Rowbotham",
     "name": "George William Rowbotham",
     "birthday": "1878-Q4",
     "birthplace": "Sculcoates",
     "gender": "M",
     "occupation": "",
-    "death": "",
-    "deathplace": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "robert_nutall_rowbotham",
+      "father": "robert_rowbotham",
       "mother": "rachel_cockin"
     },
+    "original_info": "B 1878 Q4 Sculcoates",
     "info": "B 1878 Q4 Sculcoates",
-    "sources": [],
+    "sources": [
+      "census 1881 52 Jenning St Sutton & Stoneferry, 2, B Hull."
+    ],
     "crossBranch": [],
-    "census": [
-      {
-        "year": "1881",
-        "details": "52 Jenning St Sutton & Stoneferry, 2, B Hull."
-      }
-    ]
+    "name-parts": {
+      "firstname": "George",
+      "middle-name": "William",
+      "surname": "Rowbotham"
+    }
   }
 ]

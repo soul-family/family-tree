@@ -7,18 +7,44 @@
   "properties": {
     "id": {
       "type": "string",
-      "description": "Unique person ID in the form YYYYMMDD_name_initials or YYYY_name_initials if exact date unknown",
+      "description": "Unique person ID",
       "examples": ["1800_grandfather_gf", "1852_mother_m1"]
     },
     "name": {
       "type": "string",
-      "description": "Full display name",
+      "description": "Full display name in original text case",
       "examples": ["John Smith", "Mary Jones"]
     },
-    "initials": {
+    "name-parts": {
+      "type": "object",
+      "description": "Parsed name components",
+      "properties": {
+        "firstname": {
+          "type": "string",
+          "description": "First name in original case",
+          "examples": ["John", "Mary"]
+        },
+        "middle-name": {
+          "type": "string",
+          "description": "Middle name(s) in original case, empty string if none",
+          "examples": ["", "James", "Ann Elizabeth"]
+        },
+        "surname": {
+          "type": "string",
+          "description": "Surname in original case. For females with maiden name, this is the maiden name",
+          "examples": ["Smith", "Jones"]
+        },
+        "maiden_name": {
+          "type": "string",
+          "description": "Maiden name for females, empty string if not applicable",
+          "examples": ["", "Jones", "Smith"]
+        }
+      }
+    },
+    "full-name": {
       "type": "string",
-      "description": "Name initials for disambiguation, e.g. GF for grandfather, M1 for mother1",
-      "examples": ["gf", "m1"]
+      "description": "Full name including maiden name in parentheses if applicable, in original text case",
+      "examples": ["John Smith", "Mary Jones (Jones)"]
     },
     "birthday": {
       "type": "string",
@@ -35,15 +61,26 @@
       "enum": ["M", "F", "U"],
       "description": "M=male, F=female, U=unknown"
     },
-    "death": {
-      "type": "string",
-      "description": "Death date in ISO format",
-      "examples": ["1875-03-10"]
-    },
-    "deathplace": {
-      "type": "string",
-      "description": "Death place",
-      "examples": ["London, England"]
+    "died": {
+      "type": "object",
+      "description": "Death details",
+      "properties": {
+        "date": {
+          "type": "string",
+          "description": "Death date in ISO format",
+          "examples": ["1875-03-10"]
+        },
+        "place": {
+          "type": "string",
+          "description": "Death place",
+          "examples": ["London, England"]
+        },
+        "burial": {
+          "type": "string",
+          "description": "Burial place or note",
+          "examples": ["Abney Park", "Bunhill"]
+        }
+      }
     },
     "occupation": {
       "type": "string",
@@ -103,14 +140,28 @@
     },
     "info": {
       "type": "string",
-      "description": "Any additional structured notes or biographical info"
+      "description": "Any additional structured notes or biographical info that could not be extracted into structured fields"
+    },
+    "original_info": {
+      "type": "string",
+      "description": "The very original info text before any extraction or cleaning"
+    },
+    "marriage": {
+      "type": "string",
+      "description": "Marriage date extracted from info text",
+      "examples": ["21 May 1840", "Q2 1860"]
+    },
+    "marriageplace": {
+      "type": "string",
+      "description": "Place of marriage extracted from info text, if different from birthplace or deathplace",
+      "examples": ["London, England"]
     },
     "sources": {
       "type": "array",
-      "description": "Source references",
+      "description": "Source references and extracted evidence such as baptism and census records",
       "items": {
         "type": "string",
-        "examples": ["(WHS)", "(MEHS)", "census 1841"]
+        "examples": ["(WHS)", "(MEHS)", "census 1841", "baptism 25 Oct 1801"]
       }
     },
     "crossBranch": {

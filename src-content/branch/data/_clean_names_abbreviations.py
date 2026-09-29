@@ -17,7 +17,7 @@ ABBREVIATIONS = {
     r'\bdecd\b': 'deceased',
     r'\brev\b': 'reverend',
     r'\best\.?\b': 'estate',
-    r'\bco\.?\b': 'county',
+     r'(?<!& )\bco\.?\b': 'county',
     r'\bpar\.?\b': 'parish',
     r'\bdis\.?\b': 'district',
     r'\bs\s+of\b': 'son of',

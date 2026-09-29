@@ -1,388 +1,517 @@
 [
   {
-    "id": "1806_thomas_hankin_sr",
+    "id": "1806_thomas_hankin",
+    "full-name": "Thomas Hankin",
     "name": "Thomas Hankin",
     "birthday": "1806",
-    "death": "1873-09-30",
-    "deathplace": "Gloucester Terrace, Gloucester Rd, Kensington",
-    "occupation": "Licensed victualler",
-    "info": "at Gloucester Terrace, Gloucester Rd, Kensington, buried 3 Oct 1873 Brompton Cemetery"
-  },
-  {
-    "id": "1852_thomas_hankin_jr",
-    "name": "Thomas Hankin",
-    "birthday": "1852",
-    "birthplace": "Pimlico",
-    "death": "",
-    "deathplace": "",
-    "occupation": "Licensed victualler",
-    "spouses": [
-      {
-        "id": "1854_hannah_amelia_coles",
-        "marriedYear": "1877",
-        "marriedDate": "1877-03-14",
-        "marriedPlace": "St George's Tufnell Park"
-      }
-    ],
-    "children": [
-      "1881_thomas_charles_hankin",
-      "1887_gladys_lettice_hankin"
-    ],
-    "parents": {
-      "father": "1806_thomas_hankin_sr",
-      "mother": ""
+    "died": {
+      "burial": "3 Oct 1873 Brompton Cemetery"
     },
-    "info": "1886 directory wine merchants, Thomas Hankin, 34 Gloucester rd & 29 30 & 31 Victoria grove Kensington W",
-    "census": [
-      {
-        "year": "1881",
-        "details": "1 Lupus St (Pimlico), 29, licensed victualler, B Paddington"
-      },
-      {
-        "year": "1891",
-        "details": "Springfield Public House, 53 Solon Rd, Lambeth, 38, licensed Victualler, B Paddington"
-      },
-      {
-        "year": "1901",
-        "details": "Swan Hotel, New Alresford, Hants, 47, hotel proprietor, employer, B Paddington, London."
-      }
-    ]
-  },
-  {
-    "id": "1854_hannah_amelia_coles",
-    "name": "Hannah Amelia Coles",
-    "birthday": "1854-08-21",
-    "birthplace": "1 Bird in Hand Court, City of London",
-    "death": "1954-02-07",
-    "deathplace": "44 The Avenue, Alresford",
-    "gender": "F",
-    "spouses": [
-      {
-        "id": "1852_thomas_hankin_jr",
-        "marriedYear": "1877",
-        "marriedDate": "1877-03-14",
-        "marriedPlace": "St George's Tufnell Park"
-      }
-    ],
-    "children": [
-      "1881_thomas_charles_hankin",
-      "1887_gladys_lettice_hankin"
-    ],
-    "info": "1 Bird in Hand Court, City of London, , & Hannah Coles formerly Clark; 1931 Hanmpshire Directory 2 Avenue Villas, New Alresford; , of 44 The Avenue, Alresford, widow, probate Winchester to William Medley Coles & John Keith Louis Wenham company directors, effects £6,184 15s 1d",
-    "census": [
-      {
-        "year": "1871",
-        "details": "Half Moon Inn, Half Moon Lane, Dulwich, 16, B Middx Cheapside"
-      },
-      {
-        "year": "1891",
-        "details": "Springfield Public House, 53 Solon Rd, Lambeth, B Cheapside, London"
-      },
-      {
-        "year": "1901",
-        "details": "Swan Hotel, New Alresford, Hants, 46"
-      }
-    ],
-    "parents": {
-      "mother": "Charles John Coles billiard marker"
+    "occupation": "Licensed victualler",
+    "original_info": "at Gloucester Terrace, Gloucester Rd, Kensington, buried 3 Oct 1873 Brompton Cemetery",
+    "info": "at Gloucester Terrace, Gloucester Rd, Kensington",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Hankin"
     }
   },
   {
-    "id": "1881_thomas_charles_hankin",
+    "id": "1852_thomas_hankin",
+    "full-name": "Thomas Hankin",
+    "name": "Thomas Hankin",
+    "birthday": "1852",
+    "birthplace": "Pimlico",
+    "occupation": "Licensed victualler",
+    "spouses": [
+      {
+        "id": "1854_hannah_coles",
+        "marriedYear": "1877",
+        "marriedDate": "1877-03-14",
+        "marriedPlace": "St George's Tufnell Park"
+      }
+    ],
+    "children": [
+      "1881_thomas_hankin",
+      "1887_gladys_hankin"
+    ],
+    "parents": {
+      "father": "1806_thomas_hankin",
+      "mother": ""
+    },
+    "original_info": "1886 directory wine merchants, Thomas Hankin, 34 Gloucester rd & 29 30 & 31 Victoria grove Kensington W",
+    "info": "1886 directory wine merchants, Thomas Hankin, 34 Gloucester rd & 29 30 & 31 Victoria grove Kensington W",
+    "sources": [
+      "census 1881 1 Lupus St (Pimlico), 29, licensed victualler, B Paddington",
+      "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, 38, licensed Victualler, B Paddington",
+      "census 1901 Swan Hotel, New Alresford, Hants, 47, hotel proprietor, employer, B Paddington, London."
+    ],
+    "name-parts": {
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Hankin"
+    }
+  },
+  {
+    "id": "1854_hannah_amelia_coles",
+    "full-name": "Hannah Amelia Coles",
+    "name": "Hannah Amelia Coles",
+    "birthday": "1854-08-21",
+    "birthplace": "1 Bird in Hand Court, City of London",
+    "gender": "F",
+    "died": {
+      "date": "1954-02-07",
+      "place": "44 The Avenue, Alresford"
+    },
+    "spouses": [
+      {
+        "id": "1852_thomas_hankin",
+        "marriedYear": "1877",
+        "marriedDate": "1877-03-14",
+        "marriedPlace": "St George's Tufnell Park"
+      }
+    ],
+    "children": [
+      "1881_thomas_hankin",
+      "1887_gladys_hankin"
+    ],
+    "parents": {
+      "mother": "Charles John Coles billiard marker"
+    },
+    "original_info": "1 Bird in Hand Court, City of London, , & Hannah Coles formerly Clark; 1931 Hanmpshire Directory 2 Avenue Villas, New Alresford; , of 44 The Avenue, Alresford, widow, probate Winchester to William Medley Coles & John Keith Louis Wenham company directors, effects £6,184 15s 1d",
+    "info": "1 Bird in Hand Court, City of London, , & Hannah Coles formerly Clark; 1931 Hanmpshire Directory 2 Avenue Villas, New Alresford; , of 44 The Avenue, Alresford, widow, probate Winchester to William Medley Coles & John Keith Louis Wenham company directors, effects £6,184 15s 1d",
+    "sources": [
+      "census 1871 Half Moon Inn, Half Moon Lane, Dulwich, 16, B Middx Cheapside",
+      "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, B Cheapside, London",
+      "census 1901 Swan Hotel, New Alresford, Hants, 46"
+    ],
+    "name-parts": {
+      "firstname": "Hannah",
+      "middle-name": "Amelia",
+      "surname": "Coles"
+    }
+  },
+  {
+    "id": "1881_thomas_hankin",
+    "full-name": "Thomas Charles Hankin",
     "name": "Thomas Charles Hankin",
     "birthday": "1881",
     "birthplace": "Pimlico",
-    "death": "",
-    "deathplace": "",
     "occupation": "Motor engineer",
     "spouses": [
       {
-        "id": "1879_jane_selina_bailey",
+        "id": "1879_jane_bailey",
         "marriedYear": "1915",
         "marriedDate": "1915-04-08",
         "marriedPlace": "St George's Tufnell Park"
       }
     ],
     "children": [
-      "1918_charles_alexander_hankin",
-      "1947_peter_alexander_hankin",
-      "1949_diana_mary_hankin",
-      "1950_john_charles_hankin",
-      "1984_emily_jane_hankin",
-      "1988_alice_kate_hankin"
+      "1918_charles_hankin",
+      "1947_peter_hankin",
+      "1949_diana_hankin",
+      "1950_john_hankin",
+      "1984_emily_hankin",
+      "1988_alice_hankin"
     ],
     "parents": {
-      "father": "1852_thomas_hankin_jr",
-      "mother": "1854_hannah_amelia_coles"
+      "father": "1852_thomas_hankin",
+      "mother": "1854_hannah_coles"
     },
+    "original_info": "1931 Hampshire Directory, Glenroy, Grange Rd; F.I.M.T., motor engnr, West St, T(el)N(o)28, New Alresford; 1939 Hampshire Directory, Hankin's Ltd, motor engnrs, West St, TN28",
     "info": "1931 Hampshire Directory, Glenroy, Grange Rd; F.I.M.T., motor engnr, West St, T(el)N(o)28, New Alresford; 1939 Hampshire Directory, Hankin's Ltd, motor engnrs, West St, TN28",
-    "census": [
-      {
-        "year": "1881",
-        "details": "1 Lupus St, aged 2 months, B Pimlico"
-      },
-      {
-        "year": "1891",
-        "details": "Springfield Public House, 53 Solon Rd, Lambeth, 10, B Pimlico"
-      },
-      {
-        "year": "1901",
-        "details": "2 to 7 Paternoster Row, City of London, 20, apprentice draper, B Pimlico, London"
-      }
-    ]
+    "sources": [
+      "census 1881 1 Lupus St, aged 2 months, B Pimlico",
+      "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, 10, B Pimlico",
+      "census 1901 2 to 7 Paternoster Row, City of London, 20, apprentice draper, B Pimlico, London"
+    ],
+    "name-parts": {
+      "firstname": "Thomas",
+      "middle-name": "Charles",
+      "surname": "Hankin"
+    }
   },
   {
     "id": "1879_jane_selina_bailey",
+    "full-name": "Jane Selina Bailey",
     "name": "Jane Selina Bailey",
     "birthday": "1879-03-18",
     "birthplace": "Tufnell Park",
     "gender": "F",
     "spouses": [
       {
-        "id": "1881_thomas_charles_hankin",
+        "id": "1881_thomas_hankin",
         "marriedYear": "1915",
         "marriedDate": "1915-04-08",
         "marriedPlace": "St George's Tufnell Park"
       }
     ],
     "children": [
-      "1918_charles_alexander_hankin",
-      "1947_peter_alexander_hankin",
-      "1949_diana_mary_hankin",
-      "1950_john_charles_hankin",
-      "1984_emily_jane_hankin",
-      "1988_alice_kate_hankin"
-    ],
-    "info": "St George's Tufnell Park, -binder & Emily Bailey, of 51 Russell Rd",
-    "baptism": "25 May 1879",
-    "census": [
-      {
-        "year": "1901",
-        "details": "Tasma, Anson Rd, Islington, 22. M 8 Apr 1915 St George's Tufnell Park, 36, spinster, of 'Tasma', Anson Rd, Tufnell Park, d of Frank Evans Bailey publishers' book-binder, & 39, bachelor, engineer, of 'Glenroy', Southampton Rd, Alresford, s of Thomas Hankin (decd) licensed victualler."
-      }
+      "1918_charles_hankin",
+      "1947_peter_hankin",
+      "1949_diana_hankin",
+      "1950_john_hankin",
+      "1984_emily_hankin",
+      "1988_alice_hankin"
     ],
     "parents": {
       "mother": "Frank Evans Bailey book"
+    },
+    "original_info": "St George's Tufnell Park, -binder & Emily Bailey, of 51 Russell Rd",
+    "info": "St George's Tufnell Park, -binder & Emily Bailey, of 51 Russell Rd",
+    "sources": [
+      "baptism 25 May 1879",
+      "census 1901 Tasma, Anson Rd, Islington, 22. M 8 Apr 1915 St George's Tufnell Park, 36, spinster, of 'Tasma', Anson Rd, Tufnell Park, d of Frank Evans Bailey publishers' book-binder, & 39, bachelor, engineer, of 'Glenroy', Southampton Rd, Alresford, s of Thomas Hankin (decd) licensed victualler."
+    ],
+    "name-parts": {
+      "firstname": "Jane",
+      "middle-name": "Selina",
+      "surname": "Bailey"
     }
   },
   {
-    "id": "1918_charles_alexander_hankin",
+    "id": "1918_charles_hankin",
+    "full-name": "Charles Alexander Hankin",
     "name": "Charles Alexander Hankin",
     "birthday": "1918-10-30",
-    "death": "2000-06-18",
-    "parents": {
-      "father": "1881_thomas_charles_hankin",
-      "mother": "1879_jane_selina_bailey"
+    "died": {
+      "date": "2000-06-18"
     },
-    "info": "1929-1935 Wellingborough School, Northants"
+    "parents": {
+      "father": "1881_thomas_hankin",
+      "mother": "1879_jane_bailey"
+    },
+    "original_info": "1929-1935 Wellingborough School, Northants",
+    "info": "1929-1935 Wellingborough School, Northants",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "Alexander",
+      "surname": "Hankin"
+    }
   },
   {
-    "id": "1947_peter_alexander_hankin",
+    "id": "1947_peter_hankin",
+    "full-name": "Peter Alexander Hankin",
     "name": "Peter Alexander Hankin",
     "birthday": "1947",
-    "parents": {
-      "father": "1881_thomas_charles_hankin",
-      "mother": "1879_jane_selina_bailey"
-    },
     "spouses": [
       {
-        "id": "margaret_janet_dores",
+        "id": "margaret_dores",
         "marriedYear": "1977",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "1979_lorna_kate_hankin",
-      "1983_nicola_sarah_hankin",
-      "1986_david_peter_hankin"
-    ]
+      "1979_lorna_hankin",
+      "1983_nicola_hankin",
+      "1986_david_hankin"
+    ],
+    "parents": {
+      "father": "1881_thomas_hankin",
+      "mother": "1879_jane_bailey"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Peter",
+      "middle-name": "Alexander",
+      "surname": "Hankin"
+    }
   },
   {
-    "id": "margaret_janet_dores",
+    "id": "margaret_dores",
+    "full-name": "Margaret Janet Dores",
     "name": "Margaret Janet Dores",
     "birthday": "",
     "birthplace": "",
     "spouses": [
       {
-        "id": "1947_peter_alexander_hankin",
+        "id": "1947_peter_hankin",
         "marriedYear": "1977",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "1979_lorna_kate_hankin",
-      "1983_nicola_sarah_hankin",
-      "1986_david_peter_hankin"
-    ]
+      "1979_lorna_hankin",
+      "1983_nicola_hankin",
+      "1986_david_hankin"
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Margaret",
+      "middle-name": "Janet",
+      "surname": "Dores"
+    }
   },
   {
-    "id": "1979_lorna_kate_hankin",
+    "id": "1979_lorna_hankin",
+    "full-name": "Lorna Kate Hankin",
     "name": "Lorna Kate Hankin",
     "birthday": "1979",
     "parents": {
-      "father": "1947_peter_alexander_hankin",
-      "mother": "margaret_janet_dores"
+      "father": "1947_peter_hankin",
+      "mother": "margaret_dores"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Lorna",
+      "middle-name": "Kate",
+      "surname": "Hankin"
     }
   },
   {
-    "id": "1983_nicola_sarah_hankin",
+    "id": "1983_nicola_hankin",
+    "full-name": "Nicola Sarah Hankin",
     "name": "Nicola Sarah Hankin",
     "birthday": "1983",
     "parents": {
-      "father": "1947_peter_alexander_hankin",
-      "mother": "margaret_janet_dores"
+      "father": "1947_peter_hankin",
+      "mother": "margaret_dores"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Nicola",
+      "middle-name": "Sarah",
+      "surname": "Hankin"
     }
   },
   {
-    "id": "1986_david_peter_hankin",
+    "id": "1986_david_hankin",
+    "full-name": "David Peter Hankin",
     "name": "David Peter Hankin",
     "birthday": "1986",
     "parents": {
-      "father": "1947_peter_alexander_hankin",
-      "mother": "margaret_janet_dores"
+      "father": "1947_peter_hankin",
+      "mother": "margaret_dores"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "David",
+      "middle-name": "Peter",
+      "surname": "Hankin"
     }
   },
   {
-    "id": "1949_diana_mary_hankin",
+    "id": "1949_diana_hankin",
+    "full-name": "Diana Mary Hankin",
     "name": "Diana Mary Hankin",
     "birthday": "1949",
-    "parents": {
-      "father": "1881_thomas_charles_hankin",
-      "mother": "1879_jane_selina_bailey"
-    },
     "spouses": [
       {
-        "id": "graeme_vanaton_irving",
+        "id": "graeme_irving",
         "marriedYear": "1976",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "1978_james_alexander_irving",
+      "1978_james_irving",
       "1980_roland_irving",
-      "1982_thomas_matthew_irving"
-    ]
+      "1982_thomas_irving"
+    ],
+    "parents": {
+      "father": "1881_thomas_hankin",
+      "mother": "1879_jane_bailey"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Diana",
+      "middle-name": "Mary",
+      "surname": "Hankin"
+    }
   },
   {
-    "id": "graeme_vanaton_irving",
+    "id": "graeme_irving",
+    "full-name": "Graeme Vanaton Irving",
     "name": "Graeme Vanaton Irving",
     "birthday": "",
     "birthplace": "",
     "spouses": [
       {
-        "id": "1949_diana_mary_hankin",
+        "id": "1949_diana_hankin",
         "marriedYear": "1976",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "1978_james_alexander_irving",
+      "1978_james_irving",
       "1980_roland_irving",
-      "1982_thomas_matthew_irving"
-    ]
+      "1982_thomas_irving"
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Graeme",
+      "middle-name": "Vanaton",
+      "surname": "Irving"
+    }
   },
   {
-    "id": "1978_james_alexander_irving",
+    "id": "1978_james_irving",
+    "full-name": "James Alexander Irving",
     "name": "James Alexander Irving",
     "birthday": "1978",
     "parents": {
-      "father": "graeme_vanaton_irving",
-      "mother": "1949_diana_mary_hankin"
+      "father": "graeme_irving",
+      "mother": "1949_diana_hankin"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "James",
+      "middle-name": "Alexander",
+      "surname": "Irving"
     }
   },
   {
     "id": "1980_roland_irving",
+    "full-name": "Roland Irving",
     "name": "Roland Irving",
     "birthday": "1980",
     "parents": {
-      "father": "graeme_vanaton_irving",
-      "mother": "1949_diana_mary_hankin"
+      "father": "graeme_irving",
+      "mother": "1949_diana_hankin"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Roland",
+      "middle-name": "",
+      "surname": "Irving"
     }
   },
   {
-    "id": "1982_thomas_matthew_irving",
+    "id": "1982_thomas_irving",
+    "full-name": "Thomas Matthew Irving",
     "name": "Thomas Matthew Irving",
     "birthday": "1982",
     "parents": {
-      "father": "graeme_vanaton_irving",
-      "mother": "1949_diana_mary_hankin"
+      "father": "graeme_irving",
+      "mother": "1949_diana_hankin"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Thomas",
+      "middle-name": "Matthew",
+      "surname": "Irving"
     }
   },
   {
-    "id": "1950_john_charles_hankin",
+    "id": "1950_john_hankin",
+    "full-name": "John Charles Hankin",
     "name": "John Charles Hankin",
     "birthday": "1950",
-    "parents": {
-      "father": "1881_thomas_charles_hankin",
-      "mother": "1879_jane_selina_bailey"
-    },
     "spouses": [
       {
-        "id": "jane_anne_farrar",
+        "id": "jane_farrar",
         "marriedYear": "1952",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "1984_emily_jane_hankin",
-      "1988_alice_kate_hankin"
-    ]
+      "1984_emily_hankin",
+      "1988_alice_hankin"
+    ],
+    "parents": {
+      "father": "1881_thomas_hankin",
+      "mother": "1879_jane_bailey"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "John",
+      "middle-name": "Charles",
+      "surname": "Hankin"
+    }
   },
   {
-    "id": "jane_anne_farrar",
+    "id": "jane_farrar",
+    "full-name": "Jane Anne Farrar",
     "name": "Jane Anne Farrar",
     "birthday": "",
     "birthplace": "",
     "spouses": [
       {
-        "id": "1950_john_charles_hankin",
+        "id": "1950_john_hankin",
         "marriedYear": "1952",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "1984_emily_jane_hankin",
-      "1988_alice_kate_hankin"
-    ]
+      "1984_emily_hankin",
+      "1988_alice_hankin"
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Jane",
+      "middle-name": "Anne",
+      "surname": "Farrar"
+    }
   },
   {
-    "id": "1984_emily_jane_hankin",
+    "id": "1984_emily_hankin",
+    "full-name": "Emily Jane Hankin",
     "name": "Emily Jane Hankin",
     "birthday": "1984",
     "parents": {
-      "father": "1950_john_charles_hankin",
-      "mother": "jane_anne_farrar"
+      "father": "1950_john_hankin",
+      "mother": "jane_farrar"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Emily",
+      "middle-name": "Jane",
+      "surname": "Hankin"
     }
   },
   {
-    "id": "1988_alice_kate_hankin",
+    "id": "1988_alice_hankin",
+    "full-name": "Alice Kate Hankin",
     "name": "Alice Kate Hankin",
     "birthday": "1988",
     "parents": {
-      "father": "1950_john_charles_hankin",
-      "mother": "jane_anne_farrar"
+      "father": "1950_john_hankin",
+      "mother": "jane_farrar"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Alice",
+      "middle-name": "Kate",
+      "surname": "Hankin"
     }
   },
   {
-    "id": "1887_gladys_lettice_hankin",
+    "id": "1887_gladys_hankin",
+    "full-name": "Gladys Lettice Hankin",
     "name": "Gladys Lettice Hankin",
     "birthday": "1887-07-16",
     "birthplace": "Kensington",
-    "death": "1962-03-22",
+    "died": {
+      "date": "1962-03-22"
+    },
     "parents": {
-      "father": "1852_thomas_hankin_jr",
-      "mother": "1854_hannah_amelia_coles"
+      "father": "1852_thomas_hankin",
+      "mother": "1854_hannah_coles"
     },
     "info": "",
-    "census": [
-      {
-        "year": "1891",
-        "details": "Springfield Public House, 53 Solon Rd, Lambeth, 3, B Kensington"
-      },
-      {
-        "year": "1901",
-        "details": "Swan Hotel, New Alresford, 13, B Kensington, D 22 Mar 1962."
-      }
-    ]
+    "sources": [
+      "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, 3, B Kensington",
+      "census 1901 Swan Hotel, New Alresford, 13, B Kensington, D 22 Mar 1962."
+    ],
+    "name-parts": {
+      "firstname": "Gladys",
+      "middle-name": "Lettice",
+      "surname": "Hankin"
+    }
   }
 ]

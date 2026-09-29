@@ -297,7 +297,7 @@ v2 extracts all person data into structured JSON files and generates clean Merma
   "birthday": "1829-10-06",
   "birthplace": "Little Waltham, Essex",
   "gender": "F",
-  "death": "1854-08-30",
+  "died": "1854-08-30",
   "deathplace": "1 Bird-in-Hand Court, Cheapside, City of London",
   "spouses": [
     {
@@ -381,7 +381,7 @@ These conventions were identified by surveying all 16 branch files and finding t
   "id": "1829_hannah_clark",
   "name": "Hannah Clark",
   "birthday": "1829-10-06",
-  "death": "1854-08-30",
+  "died": "1854-08-30",
   "deathplace": "1 Bird-in-Hand Court, Cheapside, City of London",
   "parents": {
     "father": "samuel_clark_tailor",

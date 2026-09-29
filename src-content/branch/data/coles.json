@@ -1,11 +1,10 @@
 [
   {
     "id": "1787_daniel_coles",
+    "full-name": "Daniel Coles",
     "name": "Daniel Coles",
     "birthday": "1787",
     "birthplace": "",
-    "death": "",
-    "deathplace": "",
     "occupation": "Confectioner; sail maker",
     "spouses": [
       {
@@ -15,7 +14,7 @@
         "marriedPlace": "St George-in-the-East London"
       },
       {
-        "id": "margaret_louisa_nanfan",
+        "id": "margaret_nanfan",
         "marriedYear": "1848",
         "marriedDate": "1848-05-14",
         "marriedPlace": "Christchurch, parish of St George-in-the-East"
@@ -23,22 +22,28 @@
     ],
     "children": [
       "1811_amelia_coles",
-      "1813_mary_ann_coles",
-      "1815_maria_jane_coles",
-      "1816_william_richard_daniel_coles",
-      "1821_daniel_thomas_coles",
-      "1823_henry_mather_william_coles",
-      "1824_charles_john_coles"
+      "1813_mary_coles",
+      "1815_maria_coles",
+      "1816_william_coles",
+      "1821_daniel_coles",
+      "1823_henry_coles",
+      "1824_charles_coles"
     ],
-    "info": "George-in-the-East London, bachelor & spinster, each of the parish"
+    "original_info": "George-in-the-East London, bachelor & spinster, each of the parish",
+    "info": "George-in-the-East London, bachelor & spinster, each of the parish",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Daniel",
+      "middle-name": "",
+      "surname": "Coles"
+    }
   },
   {
     "id": "amy_doe",
+    "full-name": "Amy Doe",
     "name": "Amy Doe",
     "birthday": "",
     "birthplace": "Ratcliff Highway",
-    "death": "",
-    "deathplace": "",
     "gender": "F",
     "spouses": [
       {
@@ -50,16 +55,24 @@
     ],
     "children": [
       "1811_amelia_coles",
-      "1813_mary_ann_coles",
-      "1815_maria_jane_coles",
-      "1816_william_richard_daniel_coles",
-      "1821_daniel_thomas_coles",
-      "1823_henry_mather_william_coles",
-      "1824_charles_john_coles"
-    ]
+      "1813_mary_coles",
+      "1815_maria_coles",
+      "1816_william_coles",
+      "1821_daniel_coles",
+      "1823_henry_coles",
+      "1824_charles_coles"
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Amy",
+      "middle-name": "",
+      "surname": "Doe"
+    }
   },
   {
     "id": "1811_amelia_coles",
+    "full-name": "Amelia Coles",
     "name": "Amelia Coles",
     "birthday": "1811-08-09",
     "birthplace": "St George-in-the-East",
@@ -68,11 +81,20 @@
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the-East, , & Amy of Ratcliff Highway",
     "info": "St George-in-the-East, , & Amy of Ratcliff Highway",
-    "baptism": "13 Oct 1811"
+    "sources": [
+      "baptism 13 Oct 1811"
+    ],
+    "name-parts": {
+      "firstname": "Amelia",
+      "middle-name": "",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1813_mary_ann_coles",
+    "id": "1813_mary_coles",
+    "full-name": "Mary Ann Coles",
     "name": "Mary Ann Coles",
     "birthday": "1813-07-06",
     "birthplace": "St George-in-the-East",
@@ -81,11 +103,20 @@
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the-East, , & Amy Coles, of Ratcliff Highway",
     "info": "St George-in-the-East, , & Amy Coles, of Ratcliff Highway",
-    "baptism": "18 June 1815"
+    "sources": [
+      "baptism 18 June 1815"
+    ],
+    "name-parts": {
+      "firstname": "Mary",
+      "middle-name": "Ann",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1815_maria_jane_coles",
+    "id": "1815_maria_coles",
+    "full-name": "Maria Jane Coles",
     "name": "Maria Jane Coles",
     "birthday": "1815-05-29",
     "birthplace": "St George-in-the-East",
@@ -94,11 +125,20 @@
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the-East, , & Amy Coles, of Ratcliff Highway",
     "info": "St George-in-the-East, , & Amy Coles, of Ratcliff Highway",
-    "baptism": "18 June 1815"
+    "sources": [
+      "baptism 18 June 1815"
+    ],
+    "name-parts": {
+      "firstname": "Maria",
+      "middle-name": "Jane",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1816_william_richard_daniel_coles",
+    "id": "1816_william_coles",
+    "full-name": "William Richard Daniel Coles",
     "name": "William Richard Daniel Coles",
     "birthday": "1816-12-20",
     "birthplace": "St George-in-the-East",
@@ -107,18 +147,27 @@
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the-East, , & Amy Coles, of Old Gravel Lane",
     "info": "St George-in-the-East, , & Amy Coles, of Old Gravel Lane",
-    "baptism": "12 Jan 1817"
+    "sources": [
+      "baptism 12 Jan 1817"
+    ],
+    "name-parts": {
+      "firstname": "William",
+      "middle-name": "Richard Daniel",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1821_daniel_thomas_coles",
+    "id": "1821_daniel_coles",
+    "full-name": "Daniel Thomas Coles",
     "name": "Daniel Thomas Coles",
     "birthday": "1821-05-13",
     "birthplace": "St George-in-the-East",
     "gender": "M",
     "spouses": [
       {
-        "id": "margaret_louisa_nanfan",
+        "id": "margaret_nanfan",
         "marriedYear": "1848",
         "marriedDate": "1848-05-14",
         "marriedPlace": "Christchurch, parish of St George-in-the-East"
@@ -128,33 +177,48 @@
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the-East, , & Amy Coles, of Old Gravel Lane",
     "info": "St George-in-the-East, , & Amy Coles, of Old Gravel Lane",
-    "baptism": "10 June 1821"
+    "sources": [
+      "baptism 10 June 1821"
+    ],
+    "name-parts": {
+      "firstname": "Daniel",
+      "middle-name": "Thomas",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "margaret_louisa_nanfan",
+    "id": "margaret_nanfan",
+    "full-name": "Margaret Louisa Nanfan",
     "name": "Margaret Louisa Nanfan",
     "birthday": "",
     "birthplace": "",
-    "death": "",
-    "deathplace": "",
     "gender": "F",
     "spouses": [
       {
-        "id": "1821_daniel_thomas_coles",
+        "id": "1821_daniel_coles",
         "marriedYear": "1848",
         "marriedDate": "1848-05-14",
         "marriedPlace": "Christchurch, parish of St George-in-the-East"
       }
     ],
-    "info": "of St George-in-the-East, bachelor, of full age, sail maker, of Cornwall St, ; & spinster. of full age, of Cornwall St",
     "parents": {
       "father": "Daniel Coles sail maker",
       "mother": "George Nanfan cork cutter"
+    },
+    "original_info": "of St George-in-the-East, bachelor, of full age, sail maker, of Cornwall St, ; & spinster. of full age, of Cornwall St",
+    "info": "of St George-in-the-East, bachelor, of full age, sail maker, of Cornwall St, ; & spinster. of full age, of Cornwall St",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Margaret",
+      "middle-name": "Louisa",
+      "surname": "Nanfan"
     }
   },
   {
-    "id": "1823_henry_mather_william_coles",
+    "id": "1823_henry_coles",
+    "full-name": "Henry Mather William Coles",
     "name": "Henry Mather William Coles",
     "birthday": "1823-05-10",
     "birthplace": "St George-in-the East",
@@ -163,16 +227,28 @@
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the East, , & Amy Coles, of Sun Tavern Fields",
     "info": "St George-in-the East, , & Amy Coles, of Sun Tavern Fields",
-    "baptism": "8 June 1823"
+    "sources": [
+      "baptism 8 June 1823"
+    ],
+    "name-parts": {
+      "firstname": "Henry",
+      "middle-name": "Mather William",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1824_charles_john_coles",
+    "id": "1824_charles_coles",
+    "full-name": "Charles John Coles",
     "name": "Charles John Coles",
     "birthday": "1824-11-07",
     "birthplace": "St George-in-the-East",
-    "death": "1908-09-08",
-    "deathplace": "Drayton Court Hotel, Ealing",
+    "died": {
+      "date": "1908-09-08",
+      "place": "Drayton Court Hotel, Ealing",
+      "burial": "Highgate"
+    },
     "occupation": "Manager of billiard rooms; victualler; hotel proprietor",
     "spouses": [
       {
@@ -182,82 +258,86 @@
         "marriedPlace": "Islington Parish Church"
       },
       {
-        "id": "1834_elizabeth_amelia_bailey",
+        "id": "1834_elizabeth_bailey",
         "marriedYear": "1860",
         "marriedDate": "1860-07-31",
         "marriedPlace": "St Mark's Islington"
       }
     ],
     "children": [
-      "1854_hannah_amelia_coles",
-      "1861_charles_alexander_coles",
-      "1864_william_henry_coles",
-      "1867_amy_jane_coles",
-      "1871_florence_emily_coles",
-      "1876_georgina_elizabeth_coles",
-      "1866_edwin_albert_coles",
-      "1869_frank_arthur_coles",
-      "1898_lilian_amy_coles",
-      "1900_walter_alexander_coles",
-      "1897_frank_ernest_coles",
+      "1854_hannah_coles",
+      "1861_charles_coles",
+      "1864_william_coles",
+      "1867_amy_coles",
+      "1871_florence_coles",
+      "1876_georgina_coles",
+      "1866_edwin_coles",
+      "1869_frank_coles",
+      "1898_lilian_coles",
+      "1900_walter_coles",
+      "1897_frank_coles",
       "1893_ellen_florence_coles",
-      "1905_george_henry_coles",
-      "1894_william_medley_coles",
-      "1895_charles_john_edward_coles"
+      "1905_george_coles",
+      "1894_william_coles",
+      "1895_charles_coles"
     ],
     "parents": {
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the-East, , & Amey, of Church Road; 1879 directory Barnsbury Rd east side, no 14, White Conduit House tavern; 1887 directory, Weyers & Coles, Metropolitan Hotel, South Place EC; 1895 26 Oct moved into 33 Hillmarton Rd, Lower Holloway (diary of Florence Emily Coles); , Cemetery gv 36555 sq 117 from Drayton Court Hotel, Ealing; 29 Sept 1908 probate of will granted to Charles Alexander Coles, William Henry Coles, and Frank Evans Bailey the executors",
     "info": "St George-in-the-East, , & Amey, of Church Road; 1879 directory Barnsbury Rd east side, no 14, White Conduit House tavern; 1887 directory, Weyers & Coles, Metropolitan Hotel, South Place EC; 1895 26 Oct moved into 33 Hillmarton Rd, Lower Holloway (diary of Florence Emily Coles); , Cemetery gv 36555 sq 117 from Drayton Court Hotel, Ealing; 29 Sept 1908 probate of will granted to Charles Alexander Coles, William Henry Coles, and Frank Evans Bailey the executors",
-    "baptism": "28 Nov 1824",
-    "burial": "Highgate",
-    "census": [
-      {
-        "year": "1861",
-        "details": "Bird in Hand Court between 76 & 77 Cheapside, 36, manager of billiard rooms, B Middx St George's in the East"
-      },
-      {
-        "year": "1871",
-        "details": "Half Moon Inn, Half Moon Lane, Dulwich, victualler"
-      },
-      {
-        "year": "1881",
-        "details": "14 Barnsbury Rd White Conduit (House Tavern), licensed victualler"
-      },
-      {
-        "year": "1891",
-        "details": "100 West End Lane Hampstead (The Railway Hotel), 66, licensed victualler"
-      }
-    ]
+    "sources": [
+      "baptism 28 Nov 1824",
+      "census 1861 Bird in Hand Court between 76 & 77 Cheapside, 36, manager of billiard rooms, B Middx St George's in the East",
+      "census 1871 Half Moon Inn, Half Moon Lane, Dulwich, victualler",
+      "census 1881 14 Barnsbury Rd White Conduit (House Tavern), licensed victualler",
+      "census 1891 100 West End Lane Hampstead (The Railway Hotel), 66, licensed victualler"
+    ],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "John",
+      "surname": "Coles"
+    }
   },
   {
     "id": "hannah_clark",
+    "full-name": "Hannah Clark",
     "name": "Hannah Clark",
     "birthday": "",
     "birthplace": "",
-    "death": "1854-08-30",
-    "deathplace": "1 Bird in Hand Court, Cheapside, City of London",
     "gender": "F",
+    "died": {
+      "date": "1854-08-30",
+      "place": "1 Bird in Hand Court, Cheapside, City of London"
+    },
     "spouses": [
       {
-        "id": "1824_charles_john_coles",
+        "id": "1824_charles_coles",
         "marriedYear": "1852",
         "marriedDate": "1852-08-22",
         "marriedPlace": "Islington Parish Church"
       }
     ],
     "children": [
-      "1854_hannah_amelia_coles"
+      "1854_hannah_coles"
     ],
     "parents": {
-      "father": "samuel_clark_tailor",
+      "father": "samuel_clark",
       "mother": "Samuel Clark tailor"
     },
-    "info": "1 Bird in Hand Court, 25, wife of Charles John Coles billiard marker, uterine haemorrhage. Parish Church, bachelor, grocer, of 20 Shepperton St, , & spinster, of 11 Shepperton St"
+    "original_info": "1 Bird in Hand Court, 25, wife of Charles John Coles billiard marker, uterine haemorrhage. Parish Church, bachelor, grocer, of 20 Shepperton St, , & spinster, of 11 Shepperton St",
+    "info": "1 Bird in Hand Court, 25, wife of Charles John Coles billiard marker, uterine haemorrhage. Parish Church, bachelor, grocer, of 20 Shepperton St, , & spinster, of 11 Shepperton St",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Hannah",
+      "middle-name": "",
+      "surname": "Clark"
+    }
   },
   {
     "id": "samuel_clark_tailor",
+    "full-name": "Samuel Clark",
     "name": "Samuel Clark",
     "birthday": "",
     "birthplace": "",
@@ -269,45 +349,61 @@
       "father": "of Hannah Clark per marriage record to Charles John Coles 22 Aug 1852",
       "mother": ""
     },
-    "info": ""
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Clark"
+    }
   },
   {
     "id": "1829_hannah_clark",
+    "full-name": "Hannah Clark",
     "name": "Hannah Clark",
     "birthday": "1829-10-06",
     "birthplace": "Little Waltham, Essex",
     "gender": "F",
+    "died": {
+      "date": "30 Aug 1854",
+      "place": "aged"
+    },
     "spouses": [
       {
-        "id": "1824_charles_john_coles",
+        "id": "1824_charles_coles",
         "marriedYear": "1852",
         "marriedDate": "1852-08-22",
         "marriedPlace": "Islington Parish Church"
       }
     ],
     "children": [
-      "1854_hannah_amelia_coles"
+      "1854_hannah_coles"
     ],
     "parents": {
       "father": "james_clarke",
       "mother": "sarah_clarke"
     },
+    "original_info": "Little Waltham, Essex, & Sarah; aged 25, 1 Bird-in-Hand Court, Cheapside, City of London, wife of Charles John Coles billiard marker, uterine haemorrhage. Marriage record states she was; 1 Bird in Hand Court, 25, wife of Charles John Coles billiard marker, uterine haemorrhage. Parish Church, bachelor, grocer, of 20 Shepperton St, , & spinster, of 11 Shepperton St",
     "info": "Little Waltham, Essex, & Sarah; aged 25, 1 Bird-in-Hand Court, Cheapside, City of London, wife of Charles John Coles billiard marker, uterine haemorrhage. Marriage record states she was; 1 Bird in Hand Court, 25, wife of Charles John Coles billiard marker, uterine haemorrhage. Parish Church, bachelor, grocer, of 20 Shepperton St, , & spinster, of 11 Shepperton St",
-    "death": "30 Aug 1854",
-    "deathplace": "aged",
-    "baptism": "21 Mar 1830"
+    "sources": [
+      "baptism 21 Mar 1830"
+    ],
+    "name-parts": {
+      "firstname": "Hannah",
+      "middle-name": "",
+      "surname": "Clark"
+    }
   },
   {
-    "id": "1854_hannah_amelia_coles",
+    "id": "1854_hannah_coles",
+    "full-name": "Hannah Amelia Coles",
     "name": "Hannah Amelia Coles",
     "birthday": "1854-08-21",
     "birthplace": "1 Bird in Hand Court, City of London",
-    "death": "",
-    "deathplace": "",
     "gender": "F",
     "spouses": [
       {
-        "id": "1852_thomas_hankin_jr",
+        "id": "1852_thomas_hankin",
         "marriedYear": "1877",
         "marriedDate": "1877-03-14",
         "marriedPlace": "St George's Tufnell Park"
@@ -315,177 +411,213 @@
     ],
     "children": [],
     "parents": {
-      "father": "1824_charles_john_coles",
+      "father": "1824_charles_coles",
       "mother": "1829_hannah_clark"
     },
+    "original_info": "1 Bird in Hand Court, City of London, , & Hannah Coles formerly Clark",
     "info": "1 Bird in Hand Court, City of London, , & Hannah Coles formerly Clark",
-    "census": [
-      {
-        "year": "1871",
-        "details": "Half Moon Inn, Half Moon Lane, Dulwich, 16, B Middx Cheapside."
-      }
-    ]
+    "sources": [
+      "census 1871 Half Moon Inn, Half Moon Lane, Dulwich, 16, B Middx Cheapside."
+    ],
+    "name-parts": {
+      "firstname": "Hannah",
+      "middle-name": "Amelia",
+      "surname": "Coles"
+    }
   },
   {
     "id": "1834_elizabeth_amelia_bailey",
+    "full-name": "Elizabeth Amelia Bailey",
     "name": "Elizabeth Amelia Bailey",
     "birthday": "1834-08-19",
     "birthplace": "at sea on voyage from England to Hobart Town",
-    "death": "1906-11-11",
-    "deathplace": "33 Hillmarton Rd, Lower Holloway, London",
     "gender": "F",
+    "died": {
+      "date": "1906-11-11",
+      "place": "33 Hillmarton Rd, Lower Holloway, London",
+      "burial": "Highgate"
+    },
     "spouses": [
       {
-        "id": "1824_charles_john_coles",
+        "id": "1824_charles_coles",
         "marriedYear": "1860",
         "marriedDate": "1860-07-31",
         "marriedPlace": "St Mark's Islington"
       }
     ],
     "children": [
-      "1861_charles_alexander_coles",
-      "1864_william_henry_coles",
-      "1867_amy_jane_coles",
-      "1871_florence_emily_coles",
-      "1876_georgina_elizabeth_coles",
-      "1866_edwin_albert_coles",
-      "1869_frank_arthur_coles",
-      "1898_lilian_amy_coles",
-      "1900_walter_alexander_coles",
-      "1897_frank_ernest_coles",
+      "1861_charles_coles",
+      "1864_william_coles",
+      "1867_amy_coles",
+      "1871_florence_coles",
+      "1876_georgina_coles",
+      "1866_edwin_coles",
+      "1869_frank_coles",
+      "1898_lilian_coles",
+      "1900_walter_coles",
+      "1897_frank_coles",
       "1893_ellen_florence_coles",
-      "1905_george_henry_coles",
-      "1894_william_medley_coles",
-      "1895_charles_john_edward_coles"
+      "1905_george_coles",
+      "1894_william_coles",
+      "1895_charles_coles"
     ],
     "parents": {
-      "father": "james_alexander_bailey",
+      "father": "james_bailey",
       "mother": "jane_manning"
     },
+    "original_info": "at sea; parish of Hobart Town, County of Buckingham (Tasmania); & Jane Manning Bailey of Hobart Town; aged 72; Cemetery gv 36555 sq 117. Informant Hannah A. Hankin (step-daughter)",
     "info": "at sea; parish of Hobart Town, County of Buckingham (Tasmania); & Jane Manning Bailey of Hobart Town; aged 72; Cemetery gv 36555 sq 117. Informant Hannah A. Hankin (step-daughter)",
-    "baptism": "3 Dec 1834",
-    "burial": "Highgate"
+    "sources": [
+      "baptism 3 Dec 1834"
+    ],
+    "name-parts": {
+      "firstname": "Elizabeth",
+      "middle-name": "Amelia",
+      "surname": "Bailey"
+    }
   },
   {
-    "id": "1861_charles_alexander_coles",
+    "id": "1861_charles_coles",
+    "full-name": "Charles Alexander Coles",
     "name": "Charles Alexander Coles",
     "birthday": "1861-05-02",
     "birthplace": "1 Bird in Hand Court, Cheapside, City of London",
-    "death": "1944",
-    "deathplace": "NZ",
     "gender": "M",
+    "died": {
+      "date": "1944",
+      "place": "NZ"
+    },
     "occupation": "Licensed victualler",
     "spouses": [
       {
-        "id": "minnie_milsted_odd",
+        "id": "minnie_milsted-odd",
         "marriedYear": "1905",
         "marriedDate": "1905",
         "marriedPlace": "Islington"
       }
     ],
     "children": [
-      "1906_alan_alexander_coles",
-      "ellen_florence_coles"
+      "1906_alan_coles",
+      "1893_ellen_coles"
     ],
     "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
     },
+    "original_info": "1 Bird in Hand Court, Cheapside, City of London, & Elizabeth Amelia Coles formerly Bailey; St George's Holloway, Tufnell Park, & Elizabeth Amelia Coles, of 76 Cheapside; emigrated to New Zealand (in or after 1925) with wife Minnie & son Alan; , NZ",
     "info": "1 Bird in Hand Court, Cheapside, City of London, & Elizabeth Amelia Coles formerly Bailey; St George's Holloway, Tufnell Park, & Elizabeth Amelia Coles, of 76 Cheapside; emigrated to New Zealand (in or after 1925) with wife Minnie & son Alan; , NZ",
-    "baptism": "29 Dec 1861",
-    "census": [
-      {
-        "year": "1901",
-        "details": "Castle Hotel, 18 High St, New Windsor, widower, 39, licensed victualler, employer, B London City"
-      },
-      {
-        "year": "1911",
-        "details": "Castle Hotel"
-      }
-    ]
+    "sources": [
+      "baptism 29 Dec 1861",
+      "census 1901 Castle Hotel, 18 High St, New Windsor, widower, 39, licensed victualler, employer, B London City",
+      "census 1911 Castle Hotel"
+    ],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "Alexander",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "minnie_milsted_odd",
+    "id": "minnie_milsted-odd",
+    "full-name": "Minnie Milsted-Odd",
     "name": "Minnie Milsted-Odd",
     "birthday": "",
     "birthplace": "Jamaica",
-    "death": "1963",
-    "deathplace": "NZ",
     "gender": "F",
+    "died": {
+      "date": "1963",
+      "place": "NZ"
+    },
     "spouses": [
       {
-        "id": "1861_charles_alexander_coles",
+        "id": "1861_charles_coles",
         "marriedYear": "1905",
         "marriedDate": "1905",
         "marriedPlace": "Islington"
       }
     ],
     "children": [
-      "1906_alan_alexander_coles",
-      "ellen_florence_coles"
+      "1906_alan_coles",
+      "1893_ellen_coles"
     ],
+    "original_info": "NZ",
     "info": "NZ",
-    "census": [
-      {
-        "year": "1911",
-        "details": "Castle Hotel, 31, B Jamaica"
-      }
-    ]
+    "sources": [
+      "census 1911 Castle Hotel, 31, B Jamaica"
+    ],
+    "name-parts": {
+      "firstname": "Minnie",
+      "middle-name": "",
+      "surname": "Milsted-Odd"
+    }
   },
   {
-    "id": "1906_alan_alexander_coles",
+    "id": "1906_alan_coles",
+    "full-name": "Alan Alexander Coles",
     "name": "Alan Alexander Coles",
     "birthday": "1906",
     "birthplace": "Hanwell, Middx",
-    "death": "1992",
-    "deathplace": "Palmerston North, N Island",
     "gender": "M",
+    "died": {
+      "date": "1992",
+      "place": "Palmerston North, N Island"
+    },
     "occupation": "Captain in NZ Infantry; farmer",
     "spouses": [
       {
-        "id": "mabel_jean_colley",
+        "id": "mabel_colley",
         "marriedYear": "1932",
         "marriedDate": "1932",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "michael_alan_coles"
+      "michael_coles"
     ],
     "parents": {
-      "father": "1861_charles_alexander_coles",
-      "mother": "minnie_milsted_odd"
+      "father": "1861_charles_coles",
+      "mother": "minnie_milsted-odd"
     },
+    "original_info": "Captain in NZ Infantry, serving in Fiji & New Caledonia; farmer in NZ (before & after WWII); , Palmerston North, N Island",
     "info": "Captain in NZ Infantry, serving in Fiji & New Caledonia; farmer in NZ (before & after WWII); , Palmerston North, N Island",
-    "census": [
-      {
-        "year": "1911",
-        "details": "Castle Hotel"
-      }
-    ]
+    "sources": [
+      "census 1911 Castle Hotel"
+    ],
+    "name-parts": {
+      "firstname": "Alan",
+      "middle-name": "Alexander",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "mabel_jean_colley",
+    "id": "mabel_colley",
+    "full-name": "Mabel Jean Colley",
     "name": "Mabel Jean Colley",
     "birthday": "",
     "birthplace": "",
-    "death": "",
-    "deathplace": "",
     "gender": "F",
     "spouses": [
       {
-        "id": "1906_alan_alexander_coles",
+        "id": "1906_alan_coles",
         "marriedYear": "1932",
         "marriedDate": "1932",
         "marriedPlace": ""
       }
     ],
     "children": [
-      "michael_alan_coles"
-    ]
+      "michael_coles"
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Mabel",
+      "middle-name": "Jean",
+      "surname": "Colley"
+    }
   },
   {
-    "id": "michael_alan_coles",
+    "id": "michael_coles",
+    "full-name": "Michael Alan Coles",
     "name": "Michael Alan Coles",
     "birthday": "",
     "birthplace": "",
@@ -497,200 +629,281 @@
         "marriedDate": "",
         "marriedPlace": ""
       }
-    ]
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Michael",
+      "middle-name": "Alan",
+      "surname": "Coles"
+    }
   },
   {
     "id": "kay_elizabeth",
+    "full-name": "Kay Elizabeth",
     "name": "Kay Elizabeth",
     "birthday": "",
     "birthplace": "",
     "gender": "F",
     "spouses": [
       {
-        "id": "michael_alan_coles",
+        "id": "michael_coles",
         "marriedYear": "",
         "marriedDate": "",
         "marriedPlace": ""
       }
-    ]
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Kay",
+      "middle-name": "",
+      "surname": "Elizabeth"
+    }
   },
   {
-    "id": "ellen_florence_coles",
+    "id": "1893_ellen_coles",
+    "full-name": "Ellen Florence Coles",
     "name": "Ellen Florence Coles",
     "birthday": "1893-07-07",
     "birthplace": "London City",
-    "death": "1967",
-    "deathplace": "Northumberland",
     "gender": "F",
+    "died": {
+      "date": "1967",
+      "place": "Northumberland"
+    },
     "spouses": [
       {
-        "id": "john_keith_louis_wenham",
+        "id": "1894_john_wenham",
         "marriedYear": "1923",
         "marriedDate": "1923",
         "marriedPlace": "Ealing"
       }
     ],
     "children": [
-      "1929_david_keith_wenham",
-      "john_terence_wenham",
-      "andrew_malcolm_wenham"
+      "1929_david_wenham",
+      "1931_john_wenham",
+      "1963_andrew_wenham"
     ],
     "parents": {
-      "father": "1861_charles_alexander_coles",
-      "mother": "minnie_milsted_odd"
+      "father": "1861_charles_coles",
+      "mother": "minnie_milsted-odd"
     },
+    "original_info": "Northumberland",
     "info": "Northumberland",
-    "census": [
-      {
-        "year": "1901",
-        "details": "visiting in Islington, B London City"
-      },
-      {
-        "year": "1911",
-        "details": "Drayton Court Hotel"
-      }
-    ]
+    "sources": [
+      "census 1901 visiting in Islington, B London City",
+      "census 1911 Drayton Court Hotel"
+    ],
+    "name-parts": {
+      "firstname": "Ellen",
+      "middle-name": "Florence",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "john_keith_louis_wenham",
+    "id": "1894_john_wenham",
+    "full-name": "John Keith Louis Wenham",
     "name": "John Keith Louis Wenham",
     "birthday": "1894",
     "birthplace": "Guildford",
-    "death": "1961",
-    "deathplace": "St Albans",
     "gender": "M",
+    "died": {
+      "date": "1961",
+      "place": "St Albans"
+    },
     "occupation": "Company director, manufacturing chemists",
     "spouses": [
       {
-        "id": "ellen_florence_coles",
+        "id": "1893_ellen_coles",
         "marriedYear": "1923",
         "marriedDate": "1923",
         "marriedPlace": "Ealing"
       }
     ],
     "children": [
-      "1929_david_keith_wenham",
-      "john_terence_wenham",
-      "andrew_malcolm_wenham"
+      "1929_david_wenham",
+      "1931_john_wenham",
+      "1963_andrew_wenham"
     ],
-    "info": "1939 register, Harpenden, company director, manufacturing chemists; , St Albans"
+    "original_info": "1939 register, Harpenden, company director, manufacturing chemists; , St Albans",
+    "info": "1939 register, Harpenden, company director, manufacturing chemists; , St Albans",
+    "sources": [],
+    "name-parts": {
+      "firstname": "John",
+      "middle-name": "Keith Louis",
+      "surname": "Wenham"
+    }
   },
   {
-    "id": "1929_david_keith_wenham",
+    "id": "1929_david_wenham",
+    "full-name": "David Keith Wenham",
     "name": "David Keith Wenham",
     "birthday": "1929",
     "birthplace": "Pancras",
     "gender": "M",
-    "parents": {
-      "father": "john_keith_louis_wenham",
-      "mother": "ellen_florence_coles"
-    },
     "spouses": [
       {
-        "id": "anthea_m_walmsley",
+        "id": "1933_anthea_walmsley",
         "marriedYear": "1955",
         "marriedDate": "1955",
         "marriedPlace": "Ploughley, Oxfordshire"
       }
-    ]
+    ],
+    "parents": {
+      "father": "1894_john_wenham",
+      "mother": "1893_ellen_coles"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "David",
+      "middle-name": "Keith",
+      "surname": "Wenham"
+    }
   },
   {
-    "id": "anthea_m_walmsley",
+    "id": "1933_anthea_walmsley",
+    "full-name": "Anthea M Walmsley",
     "name": "Anthea M Walmsley",
     "birthday": "1933",
     "birthplace": "Preston",
     "gender": "F",
     "spouses": [
       {
-        "id": "1929_david_keith_wenham",
+        "id": "1929_david_wenham",
         "marriedYear": "1955",
         "marriedDate": "1955",
         "marriedPlace": "Ploughley, Oxfordshire"
       }
-    ]
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Anthea",
+      "middle-name": "M",
+      "surname": "Walmsley"
+    }
   },
   {
-    "id": "john_terence_wenham",
+    "id": "1931_john_wenham",
+    "full-name": "John Terence Wenham",
     "name": "John Terence Wenham",
     "birthday": "1931",
     "birthplace": "Highgate",
-    "death": "1990",
-    "deathplace": "Hatfield",
     "gender": "M",
-    "parents": {
-      "father": "john_keith_louis_wenham",
-      "mother": "ellen_florence_coles"
+    "died": {
+      "date": "1990",
+      "place": "Hatfield"
     },
     "spouses": [
       {
-        "id": "sheena_bethea_walthew",
+        "id": "1937_sheena_walthew",
         "marriedYear": "1960",
         "marriedDate": "1960",
         "marriedPlace": "St Albans"
       }
-    ]
+    ],
+    "parents": {
+      "father": "1894_john_wenham",
+      "mother": "1893_ellen_coles"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "John",
+      "middle-name": "Terence",
+      "surname": "Wenham"
+    }
   },
   {
-    "id": "sheena_bethea_walthew",
+    "id": "1937_sheena_walthew",
+    "full-name": "Sheena Bethea Walthew",
     "name": "Sheena Bethea Walthew",
     "birthday": "1937",
     "birthplace": "St Albans",
     "gender": "F",
     "spouses": [
       {
-        "id": "john_terence_wenham",
+        "id": "1931_john_wenham",
         "marriedYear": "1960",
         "marriedDate": "1960",
         "marriedPlace": "St Albans"
       }
-    ]
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Sheena",
+      "middle-name": "Bethea",
+      "surname": "Walthew"
+    }
   },
   {
-    "id": "andrew_malcolm_wenham",
+    "id": "1963_andrew_wenham",
+    "full-name": "Andrew Malcolm Wenham",
     "name": "Andrew Malcolm Wenham",
     "birthday": "1963",
     "birthplace": "Hatfield",
     "gender": "M",
-    "parents": {
-      "father": "john_keith_louis_wenham",
-      "mother": "ellen_florence_coles"
-    },
     "spouses": [
       {
-        "id": "theresa_m_c_ryan",
+        "id": "theresa_ryan",
         "marriedYear": "1998",
         "marriedDate": "1998",
         "marriedPlace": "Much Hadham, Herts"
       }
-    ]
+    ],
+    "parents": {
+      "father": "1894_john_wenham",
+      "mother": "1893_ellen_coles"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Andrew",
+      "middle-name": "Malcolm",
+      "surname": "Wenham"
+    }
   },
   {
-    "id": "theresa_m_c_ryan",
+    "id": "theresa_ryan",
+    "full-name": "Theresa M C Ryan",
     "name": "Theresa M C Ryan",
     "birthday": "",
     "birthplace": "",
     "gender": "F",
     "spouses": [
       {
-        "id": "andrew_malcolm_wenham",
+        "id": "1963_andrew_wenham",
         "marriedYear": "1998",
         "marriedDate": "1998",
         "marriedPlace": "Much Hadham, Herts"
       }
-    ]
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Theresa",
+      "middle-name": "M C",
+      "surname": "Ryan"
+    }
   },
   {
-    "id": "1864_william_henry_coles",
+    "id": "1864_william_coles",
+    "full-name": "William Henry Coles",
     "name": "William Henry Coles",
     "birthday": "1864",
     "birthplace": "Half Moon Inn, Half Moon Lane, Dulwich",
-    "death": "1940-10-25",
-    "deathplace": "Greenways, 4 Milton Rd, Harpenden",
     "gender": "M",
+    "died": {
+      "date": "1940-10-25",
+      "place": "Greenways, 4 Milton Rd, Harpenden"
+    },
     "occupation": "Hotel keeper; public house manager",
     "spouses": [
       {
-        "id": "ellen_lilian_medley",
+        "id": "1869_ellen_medley",
         "marriedYear": "1892",
         "marriedDate": "1892-10-06",
         "marriedPlace": "Hampstead Parish Church"
@@ -698,688 +911,869 @@
     ],
     "children": [],
     "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
     },
+    "original_info": "1895 directory 'Castle' public house, 9 Finsbury Pavement, EC; 1936 Ealing Directory, Drayton Court Hotel and wine & spirit merchant, 4 The Avenue, W Ealing; at Greenways, 4 Milton Rd, Harpenden, late of Drayton Court Hotel Ealing, & Hampstead, aged 76; 1941 probate Llandudno 10 Apr to Ellen Lilian Coles widow, & William Medley Coles & Walter Alexander Coles chartered accountants, effects '18,367 15s 1d",
     "info": "1895 directory 'Castle' public house, 9 Finsbury Pavement, EC; 1936 Ealing Directory, Drayton Court Hotel and wine & spirit merchant, 4 The Avenue, W Ealing; at Greenways, 4 Milton Rd, Harpenden, late of Drayton Court Hotel Ealing, & Hampstead, aged 76; 1941 probate Llandudno 10 Apr to Ellen Lilian Coles widow, & William Medley Coles & Walter Alexander Coles chartered accountants, effects '18,367 15s 1d",
-    "census": [
-      {
-        "year": "1871",
-        "details": "Half Moon Inn, Half Moon Lane, Dulwich, 7, B Essex, Brentwood"
-      },
-      {
-        "year": "1881",
-        "details": "14 Barnsbury Rd White Conduit (House Tavern), 16, commercial clerk"
-      },
-      {
-        "year": "1891",
-        "details": "100 West End Lane, Hampstead, 26, public house manager"
-      },
-      {
-        "year": "1901",
-        "details": "38 Grove Rd, New Windsor, hotel keeper out of business"
-      },
-      {
-        "year": "1911",
-        "details": "Drayton Court Hotel, The Avenue, W Ealing"
-      }
-    ]
+    "sources": [
+      "census 1871 Half Moon Inn, Half Moon Lane, Dulwich, 7, B Essex, Brentwood",
+      "census 1881 14 Barnsbury Rd White Conduit (House Tavern), 16, commercial clerk",
+      "census 1891 100 West End Lane, Hampstead, 26, public house manager",
+      "census 1901 38 Grove Rd, New Windsor, hotel keeper out of business",
+      "census 1911 Drayton Court Hotel, The Avenue, W Ealing"
+    ],
+    "name-parts": {
+      "firstname": "William",
+      "middle-name": "Henry",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "ellen_lilian_medley",
+    "id": "1869_ellen_medley",
+    "full-name": "Ellen Lilian Medley",
     "name": "Ellen Lilian Medley",
     "birthday": "1869",
     "birthplace": "Islington, London",
-    "death": "1949",
-    "deathplace": "Ealing",
     "gender": "F",
+    "died": {
+      "date": "1949",
+      "place": "Ealing"
+    },
     "spouses": [
       {
-        "id": "1864_william_henry_coles",
+        "id": "1864_william_coles",
         "marriedYear": "1892",
         "marriedDate": "1892-10-06",
         "marriedPlace": "Hampstead Parish Church"
       }
     ],
     "children": [],
+    "original_info": "baptised 1887 (with three siblings); , Ealing",
     "info": "baptised 1887 (with three siblings); , Ealing",
-    "census": [
-      {
-        "year": "1901",
-        "details": "38 Grove Rd, New Windsor, 32, B Islington, London"
-      },
-      {
-        "year": "1911",
-        "details": "Golf Links Villa, Downley Common, High Wycombe"
-      }
-    ]
+    "sources": [
+      "census 1901 38 Grove Rd, New Windsor, 32, B Islington, London",
+      "census 1911 Golf Links Villa, Downley Common, High Wycombe"
+    ],
+    "name-parts": {
+      "firstname": "Ellen",
+      "middle-name": "Lilian",
+      "surname": "Medley"
+    }
   },
   {
-    "id": "1867_amy_jane_coles",
+    "id": "1867_amy_coles",
+    "full-name": "Amy Jane Coles",
     "name": "Amy Jane Coles",
     "birthday": "1867-08-30",
     "birthplace": "Essex Brentwood",
-    "death": "1955",
-    "deathplace": "Norwich",
     "gender": "F",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1955",
+      "place": "Norwich"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "St George's Tufnell Park, , & Elizabeth Amelia, of 51 Russell Rd; , Norwich",
     "info": "St George's Tufnell Park, , & Elizabeth Amelia, of 51 Russell Rd; , Norwich",
-    "baptism": "24 Nov 1867",
-    "census": [
-      {
-        "year": "1901",
-        "details": "Park House, High St, Ixworth, Suffolk, B Essex Brentwood"
-      },
-      {
-        "year": "1911",
-        "details": "The Hermitage, Mill Lane, Richmond, Yorks"
-      }
-    ]
+    "sources": [
+      "baptism 24 Nov 1867",
+      "census 1901 Park House, High St, Ixworth, Suffolk, B Essex Brentwood",
+      "census 1911 The Hermitage, Mill Lane, Richmond, Yorks"
+    ],
+    "name-parts": {
+      "firstname": "Amy",
+      "middle-name": "Jane",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1868_ernest_edward_sawrey_cookson",
+    "id": "1868_ernest_sawrey-cookson",
+    "full-name": "Ernest Edward Sawrey-Cookson",
     "name": "Ernest Edward Sawrey-Cookson",
     "birthday": "1868",
     "birthplace": "Hurworth on Tees",
-    "death": "1948",
-    "deathplace": "Welwyn Garden City",
     "gender": "M",
+    "died": {
+      "date": "1948",
+      "place": "Welwyn Garden City"
+    },
     "spouses": [
       {
-        "id": "1867_amy_jane_coles",
+        "id": "1867_amy_coles",
         "marriedYear": "1898",
         "marriedDate": "1898-06-16",
         "marriedPlace": "Albany, W Australia"
       }
     ],
     "children": [
-      "1901_aileen_marguerite_sawrey_cookson",
-      "1903_dreda_violet_sawrey_cookson"
+      "1901_aileen_sawrey-cookson",
+      "1903_dreda_sawrey-cookson"
     ],
+    "original_info": "1939 register, Welwyn Garden City, riding stables manager; , WGC",
     "info": "1939 register, Welwyn Garden City, riding stables manager; , WGC",
-    "census": [
-      {
-        "year": "1901",
-        "details": "High St, Ixworth, Suffolk, 33, living on own means, B Hurworth on Tees, Durham"
-      },
-      {
-        "year": "1911",
-        "details": "The Hermitage, Mill Lane, Richmond, Yorks, racehorse trainer"
-      }
-    ]
+    "sources": [
+      "census 1901 High St, Ixworth, Suffolk, 33, living on own means, B Hurworth on Tees, Durham",
+      "census 1911 The Hermitage, Mill Lane, Richmond, Yorks, racehorse trainer"
+    ],
+    "name-parts": {
+      "firstname": "Ernest",
+      "middle-name": "Edward",
+      "surname": "Sawrey-Cookson"
+    }
   },
   {
-    "id": "1901_aileen_marguerite_sawrey_cookson",
+    "id": "1901_aileen_sawrey-cookson",
+    "full-name": "Aileen Marguerite Sawrey-Cookson",
     "name": "Aileen Marguerite Sawrey-Cookson",
     "birthday": "1901-08-10",
     "birthplace": "Ixworth, Suffolk",
-    "death": "1980",
-    "deathplace": "Wadhurst, E Sussex",
     "gender": "F",
+    "died": {
+      "date": "1980",
+      "place": "Wadhurst, E Sussex"
+    },
     "occupation": "Principal, Bishop's High School for Girls",
     "parents": {
-      "father": "1868_ernest_edward_sawrey_cookson",
-      "mother": "1867_amy_jane_coles"
+      "father": "1868_ernest_sawrey-cookson",
+      "mother": "1867_amy_coles"
     },
-    "info": "Ixworth, Suffolk; Principal, Bishop's High School for Girls (Who is Who in British Guiana, 1945-48); , Wadhurst, E Sussex"
+    "original_info": "Ixworth, Suffolk; Principal, Bishop's High School for Girls (Who is Who in British Guiana, 1945-48); , Wadhurst, E Sussex",
+    "info": "Ixworth, Suffolk; Principal, Bishop's High School for Girls (Who is Who in British Guiana, 1945-48); , Wadhurst, E Sussex",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Aileen",
+      "middle-name": "Marguerite",
+      "surname": "Sawrey-Cookson"
+    }
   },
   {
-    "id": "1903_dreda_violet_sawrey_cookson",
+    "id": "1903_dreda_sawrey-cookson",
+    "full-name": "Dreda Violet Sawrey-Cookson",
     "name": "Dreda Violet Sawrey-Cookson",
     "birthday": "1903-03-10",
     "birthplace": "Great Hallingbury, Essex",
-    "death": "1992-03-23",
-    "deathplace": "Welwyn Garden City",
     "gender": "F",
-    "parents": {
-      "father": "1868_ernest_edward_sawrey_cookson",
-      "mother": "1867_amy_jane_coles"
+    "died": {
+      "date": "1992-03-23",
+      "place": "Welwyn Garden City"
     },
-    "info": "Great Hallingbury, Essex; 1939 register, Letchworth, school matron; , Welwyn Garden City"
+    "parents": {
+      "father": "1868_ernest_sawrey-cookson",
+      "mother": "1867_amy_coles"
+    },
+    "original_info": "Great Hallingbury, Essex; 1939 register, Letchworth, school matron; , Welwyn Garden City",
+    "info": "Great Hallingbury, Essex; 1939 register, Letchworth, school matron; , Welwyn Garden City",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Dreda",
+      "middle-name": "Violet",
+      "surname": "Sawrey-Cookson"
+    }
   },
   {
-    "id": "1871_florence_emily_coles",
+    "id": "1871_florence_coles",
+    "full-name": "Florence Emily Coles",
     "name": "Florence Emily Coles",
     "birthday": "1871-04-15",
     "birthplace": "Half Moon Inn, Half Moon Lane, Dulwich",
-    "death": "1921",
-    "deathplace": "Tufnell Park",
     "gender": "F",
+    "died": {
+      "date": "1921",
+      "place": "Tufnell Park"
+    },
     "spouses": [
       {
-        "id": "1867_george_herbert_soul",
+        "id": "1867_george_soul",
         "marriedYear": "1902",
         "marriedDate": "1902-06-05",
         "marriedPlace": "St George's Tufnell Park"
       }
     ],
     "children": [
-      "1904_gerald_bruce_soul",
-      "1906_denis_bruce_soul"
+      "1904_gerald_soul",
+      "1906_denis_soul"
     ],
     "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
     },
+    "original_info": "Half Moon Inn, Half Moon Lane, Dulwich, , & Elizabeth Amelia Coles formerly Bailey; , St George's Tufnell Park, , & Elizabeth Amelia Coles, of Herne Hill, Dulwich; , Tufnell Park",
     "info": "Half Moon Inn, Half Moon Lane, Dulwich, , & Elizabeth Amelia Coles formerly Bailey; , St George's Tufnell Park, , & Elizabeth Amelia Coles, of Herne Hill, Dulwich; , Tufnell Park",
-    "baptism": "30 July 1871"
+    "sources": [
+      "baptism 30 July 1871"
+    ],
+    "name-parts": {
+      "firstname": "Florence",
+      "middle-name": "Emily",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1867_george_herbert_soul",
+    "id": "1867_george_soul",
+    "full-name": "George Herbert Soul",
     "name": "George Herbert Soul",
     "birthday": "1867-12-12",
     "birthplace": "3 Belgrave Sq e, Rathmines, Dublin",
-    "death": "1944-07-13",
-    "deathplace": "Royal Northern Hospital",
+    "died": {
+      "date": "1944-07-13",
+      "place": "Royal Northern Hospital",
+      "burial": "Highgate"
+    },
     "occupation": "Banker's accountant; bank manager",
     "spouses": [
       {
-        "id": "1871_florence_emily_coles",
+        "id": "1871_florence_coles",
         "marriedYear": "1902",
         "marriedDate": "1902-06-05",
         "marriedPlace": "St George's Tufnell Park"
       }
     ],
     "children": [
-      "1904_gerald_bruce_soul",
-      "1906_denis_bruce_soul",
-      "1910_geoffrey_bruce_soul",
-      "1911_cecil_bruce_soul"
+      "1904_gerald_soul",
+      "1906_denis_soul",
+      "1910_geoffrey_soul",
+      "1911_cecil_soul"
     ],
     "parents": {
-      "father": "1836_george_simmonds_soul",
-      "mother": "1838_ann_bruce_holt"
+      "father": "1836_george_soul",
+      "mother": "1838_ann_holt"
     },
+    "original_info": "& Ann Bruce Soul formerly Holt; The Times 17 Dec 'at 3 Belgrave Sq e, Rathmines, Dublin, the wife of Mr George Simmonds Soul, of a son'; 1908 directory Anglo-Egyptian Bank Ltd, 27 Clements Lane, secretary; 1916-1927 churchwarden St George's Tufnell Park; 1926 directory Anglo-Egyptian Bank Ltd., 37-39 King William St EC4, London manager; Dec 1927 retired from Anglo-Egyptian Bank; 12 July 1944 injured Rosedene, 82 Carleton Rd, Tufnell Park, N 7, by flying bomb, Royal Northern Hospital, 18 July gv 42078 sq 117 by D.T. Wilson Rector of Bidborough; effects '4706:19:6",
     "info": "& Ann Bruce Soul formerly Holt; The Times 17 Dec 'at 3 Belgrave Sq e, Rathmines, Dublin, the wife of Mr George Simmonds Soul, of a son'; 1908 directory Anglo-Egyptian Bank Ltd, 27 Clements Lane, secretary; 1916-1927 churchwarden St George's Tufnell Park; 1926 directory Anglo-Egyptian Bank Ltd., 37-39 King William St EC4, London manager; Dec 1927 retired from Anglo-Egyptian Bank; 12 July 1944 injured Rosedene, 82 Carleton Rd, Tufnell Park, N 7, by flying bomb, Royal Northern Hospital, 18 July gv 42078 sq 117 by D.T. Wilson Rector of Bidborough; effects '4706:19:6",
-    "burial": "Highgate",
-    "census": [
-      {
-        "year": "1891",
-        "details": "6 Ellington St, Islington, 23, commercial clerk, B Ireland, Dublin"
-      },
-      {
-        "year": "1901",
-        "details": "19 Drayton Pk, banker's accountant"
-      },
-      {
-        "year": "1911",
-        "details": "82 Carleton Rd, bank secretary"
-      }
-    ]
+    "sources": [
+      "census 1891 6 Ellington St, Islington, 23, commercial clerk, B Ireland, Dublin",
+      "census 1901 19 Drayton Pk, banker's accountant",
+      "census 1911 82 Carleton Rd, bank secretary"
+    ],
+    "name-parts": {
+      "firstname": "George",
+      "middle-name": "Herbert",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "1904_gerald_bruce_soul",
+    "id": "1904_gerald_soul",
+    "full-name": "Gerald Bruce Soul",
     "name": "Gerald Bruce Soul",
     "birthday": "1904-02-07",
     "birthplace": "",
-    "death": "1904-03-12",
-    "deathplace": "",
-    "parents": {
-      "father": "1867_george_herbert_soul",
-      "mother": "1871_florence_emily_coles"
+    "died": {
+      "date": "1904-03-12",
+      "burial": "Highgate"
     },
+    "parents": {
+      "father": "1867_george_soul",
+      "mother": "1871_florence_coles"
+    },
+    "original_info": "& Florence Emily Soul formerly Coles, The Times 9 Feb 'at 8 Tufnell-house, Anson-road N., the wife of George Herbert Soul, of a son'; St George's Tufnell Park; , Cemetery gv 33590",
     "info": "& Florence Emily Soul formerly Coles, The Times 9 Feb 'at 8 Tufnell-house, Anson-road N., the wife of George Herbert Soul, of a son'; St George's Tufnell Park; , Cemetery gv 33590",
-    "baptism": "9 Mar 1904",
-    "burial": "Highgate"
+    "sources": [
+      "baptism 9 Mar 1904"
+    ],
+    "name-parts": {
+      "firstname": "Gerald",
+      "middle-name": "Bruce",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "1906_denis_bruce_soul",
+    "id": "1906_denis_soul",
+    "full-name": "Denis Bruce Soul",
     "name": "Denis Bruce Soul",
     "birthday": "1906-12-25",
     "birthplace": "8 Tufnell House, Anson Road, Islington",
-    "death": "1997-06-29",
-    "deathplace": "",
+    "died": {
+      "date": "1997-06-29",
+      "burial": "Highgate"
+    },
     "occupation": "Banker",
     "spouses": [
       {
-        "id": "1908_dorothea_florence_taylor_wilson",
+        "id": "1908_dorothea_wilson",
         "marriedYear": "1938",
         "marriedDate": "1938-07-23",
         "marriedPlace": "St Lawrence's Bidborough, Kent"
       }
     ],
     "children": [
-      "1939_john_brendan_soul",
-      "1946_joan_valerie_soul",
-      "1946_elaine_barbara_soul"
+      "1939_john_soul",
+      "1946_joan_soul",
+      "1946_elaine_soul"
     ],
     "parents": {
-      "father": "1867_george_herbert_soul",
-      "mother": "1871_florence_emily_coles"
+      "father": "1867_george_soul",
+      "mother": "1871_florence_coles"
     },
+    "original_info": "at 8 Tufnell House, Anson Road, Islington, , & Florence Emily Soul formerly Coles; St George's Tufnell Park; 1916-25 Wellingborough School, Northants; 1925 St Catharine's College Cambridge organ scholar, BA 1928, MA 1932; 1928 Hongkong & Shanghai Bank, London; 1930 organist & choir-master All Saints Upper Holloway N London 'pupil of Dr Harold Darke'; 1932 HK Bank Harbin, Manchuria; 1938 on leave England; 1938 HK Bank Johore Bahru, Malaya; 1941 mobil. Johore Volunteer Engineers; 1942 interned Singapore, Changi, later Sime Road Camp; 1943 (in Changi), composed Whitsunday anthem 'Spirit of mercy, truth and love' for male-voice choir; 1946 HK Bank Shanghai; 1950 HK Bank Singapore; 1951 HK Bank Calcutta, (accountant), organist & choir-master St John's Calcutta; 1955 HK Bank Hong Kong (sub-manager); 1958 HK Bank Calcutta (acting manager), organist & choir-master St John's; 1959 Hamburg (manager), organist English Church of St Thomas a Becket Hamburg; retd 1965; organist & choir-master St Wilfrid's Bognor Regis; , Cemetery gv 42078 sq 117",
     "info": "at 8 Tufnell House, Anson Road, Islington, , & Florence Emily Soul formerly Coles; St George's Tufnell Park; 1916-25 Wellingborough School, Northants; 1925 St Catharine's College Cambridge organ scholar, BA 1928, MA 1932; 1928 Hongkong & Shanghai Bank, London; 1930 organist & choir-master All Saints Upper Holloway N London 'pupil of Dr Harold Darke'; 1932 HK Bank Harbin, Manchuria; 1938 on leave England; 1938 HK Bank Johore Bahru, Malaya; 1941 mobil. Johore Volunteer Engineers; 1942 interned Singapore, Changi, later Sime Road Camp; 1943 (in Changi), composed Whitsunday anthem 'Spirit of mercy, truth and love' for male-voice choir; 1946 HK Bank Shanghai; 1950 HK Bank Singapore; 1951 HK Bank Calcutta, (accountant), organist & choir-master St John's Calcutta; 1955 HK Bank Hong Kong (sub-manager); 1958 HK Bank Calcutta (acting manager), organist & choir-master St John's; 1959 Hamburg (manager), organist English Church of St Thomas a Becket Hamburg; retd 1965; organist & choir-master St Wilfrid's Bognor Regis; , Cemetery gv 42078 sq 117",
-    "baptism": "20 Jan 1907",
-    "burial": "Highgate"
+    "sources": [
+      "baptism 20 Jan 1907"
+    ],
+    "name-parts": {
+      "firstname": "Denis",
+      "middle-name": "Bruce",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "1908_dorothea_florence_taylor_wilson",
+    "id": "1908_dorothea_wilson",
+    "full-name": "Dorothea Florence Taylor Wilson",
     "name": "Dorothea Florence Taylor Wilson",
     "birthday": "1908-11-11",
     "birthplace": "Christ Church Vicarage, Cobden St, Leicester",
-    "death": "1983-04-03",
-    "deathplace": "inscrip Highgate grave",
     "gender": "F",
+    "died": {
+      "date": "1983-04-03",
+      "place": "inscrip Highgate grave"
+    },
     "spouses": [
       {
-        "id": "1906_denis_bruce_soul",
+        "id": "1906_denis_soul",
         "marriedYear": "1938",
         "marriedDate": "1938-07-23",
         "marriedPlace": "St Lawrence's Bidborough, Kent"
       }
     ],
     "children": [
-      "1939_john_brendan_soul",
-      "1946_joan_valerie_soul",
-      "1946_elaine_barbara_soul"
+      "1939_john_soul",
+      "1946_joan_soul",
+      "1946_elaine_soul"
     ],
     "parents": {
-      "father": "1872_david_taylor_wilson",
-      "mother": "1872_lilias_roberts_cockin"
+      "father": "1872_david_wilson",
+      "mother": "1872_lilias_cockin"
     },
-    "info": "at Christ Church Vicarage, Cobden St, Leicester, , & Lilias Roberts Wilson formerly Cockin; 1942 evac Singapore to Liverpool in 'Empress, of Japan'; inscrip Highgate grave 42078"
+    "original_info": "at Christ Church Vicarage, Cobden St, Leicester, , & Lilias Roberts Wilson formerly Cockin; 1942 evac Singapore to Liverpool in 'Empress, of Japan'; inscrip Highgate grave 42078",
+    "info": "at Christ Church Vicarage, Cobden St, Leicester, , & Lilias Roberts Wilson formerly Cockin; 1942 evac Singapore to Liverpool in 'Empress, of Japan'; inscrip Highgate grave 42078",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Dorothea",
+      "middle-name": "Florence Taylor",
+      "surname": "Wilson"
+    }
   },
   {
-    "id": "1939_john_brendan_soul",
+    "id": "1939_john_soul",
+    "full-name": "John Brendan Soul",
     "name": "John Brendan Soul",
     "birthday": "1939",
     "birthplace": "Hongkong & Shanghai Bank flats, Johore Bahru, Malay States",
     "gender": "M",
     "parents": {
-      "father": "1906_denis_bruce_soul",
-      "mother": "1908_dorothea_florence_taylor_wilson"
+      "father": "1906_denis_soul",
+      "mother": "1908_dorothea_wilson"
     },
-    "info": "1942 evac Singapore to Liverpool in 'Empress of Japan'"
+    "original_info": "1942 evac Singapore to Liverpool in 'Empress of Japan'",
+    "info": "1942 evac Singapore to Liverpool in 'Empress of Japan'",
+    "sources": [],
+    "name-parts": {
+      "firstname": "John",
+      "middle-name": "Brendan",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "1946_joan_valerie_soul",
+    "id": "1946_joan_soul",
+    "full-name": "Joan Valerie Soul",
     "name": "Joan Valerie Soul",
     "birthday": "1946",
     "birthplace": "North-China Daily News 'at the Country Hospital, Shanghai, to Dorothea, wife of Denis B. Soul, twin daughters'.",
     "gender": "F",
     "parents": {
-      "father": "1906_denis_bruce_soul",
-      "mother": "1908_dorothea_florence_taylor_wilson"
+      "father": "1906_denis_soul",
+      "mother": "1908_dorothea_wilson"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Joan",
+      "middle-name": "Valerie",
+      "surname": "Soul"
     }
   },
   {
-    "id": "1946_elaine_barbara_soul",
+    "id": "1946_elaine_soul",
+    "full-name": "Elaine Barbara Soul",
     "name": "Elaine Barbara Soul",
     "birthday": "1946",
     "birthplace": "North-China Daily News 'at the Country Hospital, Shanghai, to Dorothea, wife of Denis B. Soul, twin daughters'.",
     "gender": "F",
     "parents": {
-      "father": "1906_denis_bruce_soul",
-      "mother": "1908_dorothea_florence_taylor_wilson"
+      "father": "1906_denis_soul",
+      "mother": "1908_dorothea_wilson"
+    },
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Elaine",
+      "middle-name": "Barbara",
+      "surname": "Soul"
     }
   },
   {
-    "id": "1910_geoffrey_bruce_soul",
+    "id": "1910_geoffrey_soul",
+    "full-name": "Geoffrey Bruce Soul",
     "name": "Geoffrey Bruce Soul",
     "birthday": "1910-07-29",
     "birthplace": "82 Carleton Rd",
-    "death": "2002-12-04",
-    "deathplace": "Worthing Hospital",
+    "died": {
+      "date": "2002-12-04",
+      "place": "Worthing Hospital"
+    },
     "occupation": "Bank manager",
     "spouses": [
       {
-        "id": "ivy_may_marson",
+        "id": "1908_ivy_marson",
         "marriedYear": "1937",
         "marriedDate": "1937-05-29",
         "marriedPlace": "St George's Tufnell Park"
       }
     ],
     "parents": {
-      "father": "1867_george_herbert_soul",
-      "mother": "1871_florence_emily_coles"
+      "father": "1867_george_soul",
+      "mother": "1871_florence_coles"
     },
+    "original_info": "St George's Tufnell Park, & Florence Emily Soul, of 82 Carleton Rd; 1918-28 Wellingborough School, Northants; 16 June 1966 manager, international banking division, The English Scottish & Australian Bank Ltd, 55 Gracechurch St, London; , Worthing Hospital",
     "info": "St George's Tufnell Park, & Florence Emily Soul, of 82 Carleton Rd; 1918-28 Wellingborough School, Northants; 16 June 1966 manager, international banking division, The English Scottish & Australian Bank Ltd, 55 Gracechurch St, London; , Worthing Hospital",
-    "baptism": "21 Aug 1910"
+    "sources": [
+      "baptism 21 Aug 1910"
+    ],
+    "name-parts": {
+      "firstname": "Geoffrey",
+      "middle-name": "Bruce",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "ivy_may_marson",
+    "id": "1908_ivy_marson",
+    "full-name": "Ivy May Marson",
     "name": "Ivy May Marson",
     "birthday": "1908-08-14",
-    "death": "2015-08-09",
-    "deathplace": "Littlehampton",
     "gender": "F",
+    "died": {
+      "date": "2015-08-09",
+      "place": "Littlehampton"
+    },
     "spouses": [
       {
-        "id": "1910_geoffrey_bruce_soul",
+        "id": "1910_geoffrey_soul",
         "marriedYear": "1937",
         "marriedDate": "1937-05-29",
         "marriedPlace": "St George's Tufnell Park"
       }
     ],
-    "info": "Littlehampton"
+    "original_info": "Littlehampton",
+    "info": "Littlehampton",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Ivy",
+      "middle-name": "May",
+      "surname": "Marson"
+    }
   },
   {
-    "id": "1911_cecil_bruce_soul",
+    "id": "1911_cecil_soul",
+    "full-name": "Cecil Bruce Soul",
     "name": "Cecil Bruce Soul",
     "birthday": "1911-12-29",
     "birthplace": "",
-    "death": "1991-04-15",
-    "deathplace": "Malaga, Spain",
     "gender": "M",
+    "died": {
+      "date": "1991-04-15",
+      "place": "Malaga, Spain"
+    },
     "occupation": "Bank clerk",
     "spouses": [
       {
-        "id": "gwendoline_iris_slater",
+        "id": "1921_gwendoline_slater",
         "marriedYear": "1948",
         "marriedDate": "1948-12-19",
         "marriedPlace": "Christ Church, Vale Sq, Ramsgate"
       }
     ],
     "parents": {
-      "father": "1867_george_herbert_soul",
-      "mother": "1871_florence_emily_coles"
+      "father": "1867_george_soul",
+      "mother": "1871_florence_coles"
     },
+    "original_info": "St George's Tufnell Park, & Florence Emily Soul, of 82 Carleton Rd; 1922-29 Wellingborough School, Northants; 1937 Mercantile Bank of India Ltd, Calcutta; 1939 register, cash register representative, Liverpool; June 1940 taken prisoner Calais, serving with Queen Victoria's Rifles; Stalag XXI A Germany; 1954 Folkestone Directory, 7 Westbourne Gdns, Westbourne Private Hotel; , Malaga, Spain",
     "info": "St George's Tufnell Park, & Florence Emily Soul, of 82 Carleton Rd; 1922-29 Wellingborough School, Northants; 1937 Mercantile Bank of India Ltd, Calcutta; 1939 register, cash register representative, Liverpool; June 1940 taken prisoner Calais, serving with Queen Victoria's Rifles; Stalag XXI A Germany; 1954 Folkestone Directory, 7 Westbourne Gdns, Westbourne Private Hotel; , Malaga, Spain",
-    "baptism": "21 Jan 1912"
+    "sources": [
+      "baptism 21 Jan 1912"
+    ],
+    "name-parts": {
+      "firstname": "Cecil",
+      "middle-name": "Bruce",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "gwendoline_iris_slater",
+    "id": "1921_gwendoline_slater",
+    "full-name": "Gwendoline Iris Slater",
     "name": "Gwendoline Iris Slater",
     "birthday": "1921",
     "birthplace": "Dudley, Staffs",
-    "death": "2004-03-05",
-    "deathplace": "Malaga",
     "gender": "F",
+    "died": {
+      "date": "2004-03-05",
+      "place": "Malaga"
+    },
     "spouses": [
       {
-        "id": "1911_cecil_bruce_soul",
+        "id": "1911_cecil_soul",
         "marriedYear": "1948",
         "marriedDate": "1948-12-19",
         "marriedPlace": "Christ Church, Vale Sq, Ramsgate"
       }
     ],
-    "info": "Dudley, Staffs; , Malaga. Engagement party on stage Palace Theatre, Ramsgate, Bruce Soul stage manager, Gwendoline Slater assistant stage manager, 'who have been with the company since they opened at Ramsgate, Autumn 1946'"
+    "original_info": "Dudley, Staffs; , Malaga. Engagement party on stage Palace Theatre, Ramsgate, Bruce Soul stage manager, Gwendoline Slater assistant stage manager, 'who have been with the company since they opened at Ramsgate, Autumn 1946'",
+    "info": "Dudley, Staffs; , Malaga. Engagement party on stage Palace Theatre, Ramsgate, Bruce Soul stage manager, Gwendoline Slater assistant stage manager, 'who have been with the company since they opened at Ramsgate, Autumn 1946'",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Gwendoline",
+      "middle-name": "Iris",
+      "surname": "Slater"
+    }
   },
   {
-    "id": "1876_georgina_elizabeth_coles",
+    "id": "1876_georgina_coles",
+    "full-name": "Georgina Elizabeth Coles",
     "name": "Georgina Elizabeth Coles",
     "birthday": "1876-10-02",
     "birthplace": "14 Barnsbury Rd, Islington",
-    "death": "1880-02-14",
-    "deathplace": "Highgate Cemetery",
     "gender": "F",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1880-02-14",
+      "place": "Highgate Cemetery",
+      "burial": "Highgate"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "St George's Tufnell Park, , & Elizabeth Amelia Coles, of 14 Barnsbury Rd, Islington; , Cemetery, gv 21479 sq 117, from White Conduit House Tavern",
     "info": "St George's Tufnell Park, , & Elizabeth Amelia Coles, of 14 Barnsbury Rd, Islington; , Cemetery, gv 21479 sq 117, from White Conduit House Tavern",
-    "baptism": "11 Feb 1877",
-    "burial": "Highgate"
+    "sources": [
+      "baptism 11 Feb 1877"
+    ],
+    "name-parts": {
+      "firstname": "Georgina",
+      "middle-name": "Elizabeth",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1866_edwin_albert_coles",
+    "id": "1866_edwin_coles",
+    "full-name": "Edwin Albert Coles",
     "name": "Edwin Albert Coles",
     "birthday": "1866-05-27",
     "birthplace": "St George's Holloway",
-    "death": "1901-09-15",
-    "deathplace": "aged",
     "gender": "M",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1901-09-15",
+      "place": "aged"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "St George's Holloway, , & Elizabeth Amelia Coles, of 60 Tollington Place; aged 35",
     "info": "St George's Holloway, , & Elizabeth Amelia Coles, of 60 Tollington Place; aged 35",
-    "baptism": "27 May 1866",
-    "census": [
-      {
-        "year": "1871",
-        "details": "Half Moon Inn, Half Moon Lane, Dulwich, 5, B Essex, Brentwood"
-      },
-      {
-        "year": "1881",
-        "details": "14 Barnsbury Rd White Conduit (House Tavern), 15, commercial clerk"
-      }
-    ]
+    "sources": [
+      "baptism 27 May 1866",
+      "census 1871 Half Moon Inn, Half Moon Lane, Dulwich, 5, B Essex, Brentwood",
+      "census 1881 14 Barnsbury Rd White Conduit (House Tavern), 15, commercial clerk"
+    ],
+    "name-parts": {
+      "firstname": "Edwin",
+      "middle-name": "Albert",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1869_frank_arthur_coles",
+    "id": "1869_frank_coles",
+    "full-name": "Frank Arthur Coles",
     "name": "Frank Arthur Coles",
     "birthday": "1869-02-03",
     "birthplace": "",
-    "death": "",
-    "deathplace": "",
     "gender": "M",
     "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
     },
+    "original_info": "St George's Tufnell Park, , & Elizabeth Amelia, of 51 Russell Rd",
     "info": "St George's Tufnell Park, , & Elizabeth Amelia, of 51 Russell Rd",
-    "baptism": "23 May 1869"
+    "sources": [
+      "baptism 23 May 1869"
+    ],
+    "name-parts": {
+      "firstname": "Frank",
+      "middle-name": "Arthur",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1898_lilian_amy_coles",
+    "id": "1898_lilian_coles",
+    "full-name": "Lilian Amy Coles",
     "name": "Lilian Amy Coles",
     "birthday": "1898-08-15",
     "birthplace": "38 Grove Rd, New Windsor",
-    "death": "1988",
-    "deathplace": "Newcastle",
     "gender": "F",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1988",
+      "place": "Newcastle"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "1939 register, Hampstead, living with brother GHC; , Newcastle",
     "info": "1939 register, Hampstead, living with brother GHC; , Newcastle",
-    "census": [
-      {
-        "year": "1901",
-        "details": "38 Grove Rd, New Windsor, 2, B Hawkhurst, Kent"
-      },
-      {
-        "year": "1911",
-        "details": "visiting in W Ealing"
-      }
-    ]
+    "sources": [
+      "census 1901 38 Grove Rd, New Windsor, 2, B Hawkhurst, Kent",
+      "census 1911 visiting in W Ealing"
+    ],
+    "name-parts": {
+      "firstname": "Lilian",
+      "middle-name": "Amy",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1900_walter_alexander_coles",
+    "id": "1900_walter_coles",
+    "full-name": "Walter Alexander Coles",
     "name": "Walter Alexander Coles",
     "birthday": "1900-12-18",
     "birthplace": "38 Grove Rd, New Windsor",
-    "death": "1975",
-    "deathplace": "Marlborough",
     "gender": "M",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1975",
+      "place": "Marlborough"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "1939 register, Harpenden, chartered accountant; , Marlborough",
     "info": "1939 register, Harpenden, chartered accountant; , Marlborough",
-    "census": [
-      {
-        "year": "1901",
-        "details": "38 Grove Rd, New Windsor, 3 months, B Windsor, Berks"
-      },
-      {
-        "year": "1911",
-        "details": "Drayton Court Hotel"
-      }
-    ]
+    "sources": [
+      "census 1901 38 Grove Rd, New Windsor, 3 months, B Windsor, Berks",
+      "census 1911 Drayton Court Hotel"
+    ],
+    "name-parts": {
+      "firstname": "Walter",
+      "middle-name": "Alexander",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1897_frank_ernest_coles",
+    "id": "1897_frank_coles",
+    "full-name": "Frank Ernest Coles",
     "name": "Frank Ernest Coles",
     "birthday": "1897",
     "birthplace": "Hawkhurst, Kent",
-    "death": "1954",
-    "deathplace": "Tonbridge ?",
     "gender": "M",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1954",
+      "place": "Tonbridge ?"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "between the wars farmed with brother CJEC at Burlescombe, Devon; , Tonbridge ?",
     "info": "between the wars farmed with brother CJEC at Burlescombe, Devon; , Tonbridge ?",
-    "census": [
-      {
-        "year": "1901",
-        "details": "38 Grove Rd, New Windsor, 3, B Hawkhurst, Kent"
-      },
-      {
-        "year": "1911",
-        "details": "Golf Links Villa"
-      }
-    ]
+    "sources": [
+      "census 1901 38 Grove Rd, New Windsor, 3, B Hawkhurst, Kent",
+      "census 1911 Golf Links Villa"
+    ],
+    "name-parts": {
+      "firstname": "Frank",
+      "middle-name": "Ernest",
+      "surname": "Coles"
+    }
   },
   {
     "id": "1893_ellen_florence_coles",
+    "full-name": "Ellen Florence Coles",
     "name": "Ellen Florence Coles",
     "birthday": "1893-07-07",
     "birthplace": "London City",
-    "death": "1967",
-    "deathplace": "Northumberland",
     "gender": "F",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1967",
+      "place": "Northumberland"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "Northumberland",
     "info": "Northumberland",
-    "census": [
-      {
-        "year": "1901",
-        "details": "visiting in Islington, B London City"
-      },
-      {
-        "year": "1911",
-        "details": "Drayton Court Hotel"
-      }
-    ]
+    "sources": [
+      "census 1901 visiting in Islington, B London City",
+      "census 1911 Drayton Court Hotel"
+    ],
+    "name-parts": {
+      "firstname": "Ellen",
+      "middle-name": "Florence",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1905_george_henry_coles",
+    "id": "1905_george_coles",
+    "full-name": "George Henry Coles",
     "name": "George Henry Coles",
     "birthday": "1905-08-07",
     "birthplace": "Brentford",
-    "death": "1963",
-    "deathplace": "Ealing ?",
     "gender": "M",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1963",
+      "place": "Ealing ?"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "Brentford; 1939 register, Hampstead, manager, manufacturing chemists; , Ealing ?",
     "info": "Brentford; 1939 register, Hampstead, manager, manufacturing chemists; , Ealing ?",
-    "census": [
-      {
-        "year": "1911",
-        "details": "Golf Links Villa"
-      }
-    ]
+    "sources": [
+      "census 1911 Golf Links Villa"
+    ],
+    "name-parts": {
+      "firstname": "George",
+      "middle-name": "Henry",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1894_william_medley_coles",
+    "id": "1894_william_coles",
+    "full-name": "William Medley Coles",
     "name": "William Medley Coles",
     "birthday": "1894-07-04",
     "birthplace": "City, London",
-    "death": "1980",
-    "deathplace": "Hatch End, Middlesex",
     "gender": "M",
-    "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+    "died": {
+      "date": "1980",
+      "place": "Hatch End, Middlesex"
     },
+    "parents": {
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
+    },
+    "original_info": "Hatch End, Middlesex",
     "info": "Hatch End, Middlesex",
-    "census": [
-      {
-        "year": "1901",
-        "details": "38 Grove Rd, New Windsor, 6, B City, London"
-      },
-      {
-        "year": "1911",
-        "details": "Golf Links Villa"
-      }
-    ]
+    "sources": [
+      "census 1901 38 Grove Rd, New Windsor, 6, B City, London",
+      "census 1911 Golf Links Villa"
+    ],
+    "name-parts": {
+      "firstname": "William",
+      "middle-name": "Medley",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1895_charles_john_edward_coles",
+    "id": "1895_charles_coles",
+    "full-name": "Charles John Edward Coles",
     "name": "Charles John Edward Coles",
     "birthday": "1895-08-19",
     "birthplace": "City, London",
-    "death": "1965",
-    "deathplace": "Hendon",
     "gender": "M",
+    "died": {
+      "date": "1965",
+      "place": "Hendon"
+    },
     "occupation": "Military",
     "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
     },
+    "original_info": "three times wounded in action in France, 1915-18; , Hendon",
     "info": "three times wounded in action in France, 1915-18; , Hendon",
-    "census": [
-      {
-        "year": "1901",
-        "details": "38 Grove Rd, New Windsor, 5, B City, London"
-      },
-      {
-        "year": "1911",
-        "details": "Drayton Court Hotel"
-      }
-    ]
+    "sources": [
+      "census 1901 38 Grove Rd, New Windsor, 5, B City, London",
+      "census 1911 Drayton Court Hotel"
+    ],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "John Edward",
+      "surname": "Coles"
+    }
   },
   {
     "id": "1869_frank_arthur_coles",
+    "full-name": "Frank Arthur Coles",
     "name": "Frank Arthur Coles",
     "birthday": "1869-02-03",
     "birthplace": "",
-    "death": "",
-    "deathplace": "",
     "gender": "M",
     "parents": {
-      "father": "1824_charles_john_coles",
-      "mother": "1834_elizabeth_amelia_bailey"
+      "father": "1824_charles_coles",
+      "mother": "1834_elizabeth_bailey"
     },
+    "original_info": "St George's Tufnell Park, , & Elizabeth Amelia, of 51 Russell Rd",
     "info": "St George's Tufnell Park, , & Elizabeth Amelia, of 51 Russell Rd",
-    "baptism": "23 May 1869"
+    "sources": [
+      "baptism 23 May 1869"
+    ],
+    "name-parts": {
+      "firstname": "Frank",
+      "middle-name": "Arthur",
+      "surname": "Coles"
+    }
   },
   {
     "id": "1828_joseph_coles",
+    "full-name": "Joseph Coles",
     "name": "Joseph Coles",
     "birthday": "1828-02-29",
     "birthplace": "St George-in-the-East",
-    "death": "1871-02-19",
-    "deathplace": "111 Shad Thames",
     "gender": "M",
+    "died": {
+      "date": "1871-02-19",
+      "place": "111 Shad Thames"
+    },
     "occupation": "Sail maker; warehouseman",
     "spouses": [
       {
-        "id": "esther_louisa_freeman",
+        "id": "esther_freeman",
         "marriedYear": "1850",
         "marriedDate": "1850-01-27",
         "marriedPlace": "St Martin-in-the-Fields, Westminster"
       }
     ],
     "children": [
-      "1850_charles_john_coles",
-      "1852_amy_elizabeth_coles",
-      "1859_amelia_rebecca_coles",
-      "1863_alexandra_louisa_coles"
+      "1850_charles_coles",
+      "1852_amy_coles",
+      "1859_amelia_coles",
+      "1863_alexandra_coles"
     ],
     "parents": {
       "father": "1787_daniel_coles",
       "mother": "amy_doe"
     },
+    "original_info": "St George-in-the-East, , & Amy Coles, of Grove St; at 111 Shad Thames, 42, warehouse-man, 'Bright's disease 2 months'",
     "info": "St George-in-the-East, , & Amy Coles, of Grove St; at 111 Shad Thames, 42, warehouse-man, 'Bright's disease 2 months'",
-    "baptism": "13 July 1828",
-    "census": [
-      {
-        "year": "1851",
-        "details": "28 Thomas Street, parish of St John Horselydown, Southwark, 23, sack & tarpaulin maker, B Middlesex St George's"
-      },
-      {
-        "year": "1861",
-        "details": "111 Shad Thames, 33, B St George's Middlesex"
-      }
-    ]
+    "sources": [
+      "baptism 13 July 1828",
+      "census 1851 28 Thomas Street, parish of St John Horselydown, Southwark, 23, sack & tarpaulin maker, B Middlesex St George's",
+      "census 1861 111 Shad Thames, 33, B St George's Middlesex"
+    ],
+    "name-parts": {
+      "firstname": "Joseph",
+      "middle-name": "",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "esther_louisa_freeman",
+    "id": "esther_freeman",
+    "full-name": "Esther Louisa Freeman",
     "name": "Esther Louisa Freeman",
     "birthday": "",
     "birthplace": "Middlesex Whitechapel",
-    "death": "",
-    "deathplace": "",
     "gender": "F",
     "spouses": [
       {
@@ -1390,91 +1784,94 @@
       }
     ],
     "children": [
-      "1850_charles_john_coles",
-      "1852_amy_elizabeth_coles",
-      "1859_amelia_rebecca_coles",
-      "1863_alexandra_louisa_coles"
+      "1850_charles_coles",
+      "1852_amy_coles",
+      "1859_amelia_coles",
+      "1863_alexandra_coles"
     ],
     "info": "",
-    "census": [
-      {
-        "year": "1851",
-        "details": "28 Thomas Street, Southwark, 23, dressmaker, B Middlesex Whitechapel"
-      },
-      {
-        "year": "1861",
-        "details": "111 Shad Thames, 32, B St George's Middlesex"
-      },
-      {
-        "year": "1881",
-        "details": "2 New Lane, parish of St John Horsleydown, widow, 53"
-      },
-      {
-        "year": "1891",
-        "details": "4 Norfolk Road, Hackney, widow, 63"
-      },
-      {
-        "year": "1901",
-        "details": "4 Norfolk Road, household of Charles J(oseph) Coles, mother. widow, 73."
-      }
-    ]
+    "sources": [
+      "census 1851 28 Thomas Street, Southwark, 23, dressmaker, B Middlesex Whitechapel",
+      "census 1861 111 Shad Thames, 32, B St George's Middlesex",
+      "census 1881 2 New Lane, parish of St John Horsleydown, widow, 53",
+      "census 1891 4 Norfolk Road, Hackney, widow, 63",
+      "census 1901 4 Norfolk Road, household of Charles J(oseph) Coles, mother. widow, 73."
+    ],
+    "name-parts": {
+      "firstname": "Esther",
+      "middle-name": "Louisa",
+      "surname": "Freeman"
+    }
   },
   {
-    "id": "1850_charles_john_coles",
+    "id": "1850_charles_coles",
+    "full-name": "Charles John Coles",
     "name": "Charles John Coles",
     "birthday": "1850-Q4",
     "birthplace": "St Olave district",
     "gender": "M",
     "parents": {
       "father": "1828_joseph_coles",
-      "mother": "esther_louisa_freeman"
+      "mother": "esther_freeman"
     },
+    "original_info": "B Q4 1850 district of St Olave",
     "info": "B Q4 1850 district of St Olave",
-    "census": [
-      {
-        "year": "1851",
-        "details": "28 Thomas Street, parish of St John Horselydown, Southwark, B Surrey St John's."
-      }
-    ]
+    "sources": [
+      "census 1851 28 Thomas Street, parish of St John Horselydown, Southwark, B Surrey St John's."
+    ],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "John",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1852_amy_elizabeth_coles",
+    "id": "1852_amy_coles",
+    "full-name": "Amy Elizabeth Coles",
     "name": "Amy Elizabeth Coles",
     "birthday": "1852-Q4",
     "birthplace": "St Olave district",
     "gender": "F",
     "parents": {
       "father": "1828_joseph_coles",
-      "mother": "esther_louisa_freeman"
+      "mother": "esther_freeman"
     },
+    "original_info": "B Q4 1852 district of St Olave",
     "info": "B Q4 1852 district of St Olave",
-    "census": [
-      {
-        "year": "1901",
-        "details": "4 Norfolk Road, household of Charles J Coles, sister, 47, cook domestic. B London Southwark."
-      }
-    ]
+    "sources": [
+      "census 1901 4 Norfolk Road, household of Charles J Coles, sister, 47, cook domestic. B London Southwark."
+    ],
+    "name-parts": {
+      "firstname": "Amy",
+      "middle-name": "Elizabeth",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1859_amelia_rebecca_coles",
+    "id": "1859_amelia_coles",
+    "full-name": "Amelia Rebecca Coles",
     "name": "Amelia Rebecca Coles",
     "birthday": "1859-Q3",
     "birthplace": "St Olave district",
     "gender": "F",
     "parents": {
       "father": "1828_joseph_coles",
-      "mother": "esther_louisa_freeman"
+      "mother": "esther_freeman"
     },
+    "original_info": "B Q3 1859 district of St Olave; 1891 census. 4 Norfolk Road, Hackney, household of Esther L. Cole, daughter, 31",
     "info": "B Q3 1859 district of St Olave; 1891 census. 4 Norfolk Road, Hackney, household of Esther L. Cole, daughter, 31",
-    "census": [
-      {
-        "year": "1901",
-        "details": "4 Norfolk Road, household of Charles J Coles, sister, 41, B London Southwark."
-      }
-    ]
+    "sources": [
+      "census 1901 4 Norfolk Road, household of Charles J Coles, sister, 41, B London Southwark."
+    ],
+    "name-parts": {
+      "firstname": "Amelia",
+      "middle-name": "Rebecca",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1863_alexandra_louisa_coles",
+    "id": "1863_alexandra_coles",
+    "full-name": "Alexandra Louisa Coles",
     "name": "Alexandra Louisa Coles",
     "birthday": "1863-05-30",
     "birthplace": "111 Shad Thames, St John's, Southwark",
@@ -1489,104 +1886,117 @@
     ],
     "parents": {
       "father": "1828_joseph_coles",
-      "mother": "esther_louisa_freeman"
+      "mother": "esther_freeman"
     },
+    "original_info": "at 111 Shad Thames, St John's, Southwark, a foreman at a sacking warehouse, & Esther Coles formerly Freeman",
     "info": "at 111 Shad Thames, St John's, Southwark, a foreman at a sacking warehouse, & Esther Coles formerly Freeman",
-    "census": [
-      {
-        "year": "1881",
-        "details": "White Conduit House Tavern, 14 Barnsbury Rd, Islington, 17, B Surrey, Bermondsey."
-      }
-    ]
+    "sources": [
+      "census 1881 White Conduit House Tavern, 14 Barnsbury Rd, Islington, 17, B Surrey, Bermondsey."
+    ],
+    "name-parts": {
+      "firstname": "Alexandra",
+      "middle-name": "Louisa",
+      "surname": "Coles"
+    }
   },
   {
     "id": "charles_dall",
+    "full-name": "Charles Dall",
     "name": "Charles Dall",
     "birthday": "",
     "birthplace": "",
     "gender": "M",
     "spouses": [
       {
-        "id": "1863_alexandra_louisa_coles",
+        "id": "1863_alexandra_coles",
         "marriedYear": "1884",
         "marriedDate": "1884-02-01",
         "marriedPlace": "St Mary's Kilburn"
       }
     ],
-    "info": "Mary's Kilburn, spinster, of 28 Bolton Rd, (deceased); & bachelor, clerk, of 28 Bolton Rd, (deceased)",
     "parents": {
       "father": "Philip Dall",
       "mother": "Joseph Coles"
+    },
+    "original_info": "Mary's Kilburn, spinster, of 28 Bolton Rd, (deceased); & bachelor, clerk, of 28 Bolton Rd, (deceased)",
+    "info": "Mary's Kilburn, spinster, of 28 Bolton Rd, (deceased); & bachelor, clerk, of 28 Bolton Rd, (deceased)",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "",
+      "surname": "Dall"
     }
   },
   {
-    "id": "1868_charles_joseph_coles",
+    "id": "1868_charles_coles",
+    "full-name": "Charles Joseph Coles",
     "name": "Charles Joseph Coles",
     "birthday": "1868-Q2",
     "birthplace": "St Olave district",
-    "death": "",
-    "deathplace": "",
     "gender": "M",
     "parents": {
       "father": "1828_joseph_coles",
-      "mother": "esther_louisa_freeman"
+      "mother": "esther_freeman"
     },
+    "original_info": "B Q2 1868 district of St Olave",
     "info": "B Q2 1868 district of St Olave",
-    "census": [
-      {
-        "year": "1881",
-        "details": "Royal Albert Orphan Asylum, Frimley, Surrey, orphan inmate, 12, scholar"
-      },
-      {
-        "year": "1891",
-        "details": "4 Norfolk Road, Hackney, household of Esther L Coles, son, 22, vellum binder, B Southwark, Horsleydown"
-      },
-      {
-        "year": "1901",
-        "details": "4 Norfolk Road, head of household, single, 32, book binder, B London Southwark."
-      }
-    ]
+    "sources": [
+      "census 1881 Royal Albert Orphan Asylum, Frimley, Surrey, orphan inmate, 12, scholar",
+      "census 1891 4 Norfolk Road, Hackney, household of Esther L Coles, son, 22, vellum binder, B Southwark, Horsleydown",
+      "census 1901 4 Norfolk Road, head of household, single, 32, book binder, B London Southwark."
+    ],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "Joseph",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1870_albert_edward_coles",
+    "id": "1870_albert_coles",
+    "full-name": "Albert Edward Coles",
     "name": "Albert Edward Coles",
     "birthday": "1870-Q3",
     "birthplace": "St Olave district",
-    "death": "",
-    "deathplace": "",
     "gender": "M",
     "parents": {
       "father": "1828_joseph_coles",
-      "mother": "esther_louisa_freeman"
+      "mother": "esther_freeman"
     },
+    "original_info": "B Q3 1870 district of St Olave",
     "info": "B Q3 1870 district of St Olave",
-    "census": [
-      {
-        "year": "1881",
-        "details": "2 New Lane, parish of St John Horsleydown Surrey, household of Esther Coles widow, son, 10. B Southwark, scholar"
-      },
-      {
-        "year": "1891",
-        "details": "4 Norfolk Road, Hackney, household of Esther L Coles, son, 20, vellum binder's apprentice, B Southwark. Horsleydown"
-      },
-      {
-        "year": "1901",
-        "details": "4 Norfolk Road, household of Charles J Coles, brother, single, 30, book binder, B London Southwark."
-      }
-    ]
+    "sources": [
+      "census 1881 2 New Lane, parish of St John Horsleydown Surrey, household of Esther Coles widow, son, 10. B Southwark, scholar",
+      "census 1891 4 Norfolk Road, Hackney, household of Esther L Coles, son, 20, vellum binder's apprentice, B Southwark. Horsleydown",
+      "census 1901 4 Norfolk Road, household of Charles J Coles, brother, single, 30, book binder, B London Southwark."
+    ],
+    "name-parts": {
+      "firstname": "Albert",
+      "middle-name": "Edward",
+      "surname": "Coles"
+    }
   },
   {
-    "id": "1909_charles_alexander_coles",
+    "id": "1909_charles_coles",
+    "full-name": "Charles Alexander Coles",
     "name": "Charles Alexander Coles",
     "birthday": "1909-Q3",
     "birthplace": "",
-    "death": "1949-07-23",
-    "deathplace": "83 Monkleigh Rd, Morden, Surrey",
     "gender": "M",
+    "died": {
+      "date": "1949-07-23",
+      "place": "83 Monkleigh Rd, Morden, Surrey"
+    },
     "parents": {
       "father": "eli_joseph_soul",
       "mother": "matilda_elizabeth_soul"
     },
-    "info": "B 1909 Q3: , late of 83 Monkleigh Rd, Morden, Surrey, 23 July admin to Ethel Mary Soul widow"
+    "original_info": "B 1909 Q3: , late of 83 Monkleigh Rd, Morden, Surrey, 23 July admin to Ethel Mary Soul widow",
+    "info": "B 1909 Q3: , late of 83 Monkleigh Rd, Morden, Surrey, 23 July admin to Ethel Mary Soul widow",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Charles",
+      "middle-name": "Alexander",
+      "surname": "Coles"
+    }
   }
 ]

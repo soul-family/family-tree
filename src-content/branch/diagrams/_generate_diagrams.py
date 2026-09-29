@@ -9,43 +9,6 @@ DATA_DIR = r'C:\_Vicki_documents\online github - familytree petersoul.co.uk\src-
 OUT_DIR = r'C:\_Vicki_documents\online github - familytree petersoul.co.uk\src-content\branch\diagrams'
 os.makedirs(OUT_DIR, exist_ok=True)
 
-NAME_OVERRIDES = {
-    'jane_manning_jm': 'Jane Manning',
-    'amy_doe_ad': 'Amy Doe',
-    'margaret_louisa_nanfan_mln': 'Margaret Louisa Nanfan',
-    'hannah_clark_hc': 'Hannah Clark',
-    'emily_deane_ed': 'Emily Deane',
-    'frances_marie_waters_fmw': 'Frances Marie Waters',
-    'sarah_johnson_sj': 'Sarah Johnson',
-    'frances_maria_stawell_fms': 'Frances Maria Stawell',
-    'jane_andrews_ja': 'Jane Andrews',
-    'joice_morgan_jm': 'Joice Morgan',
-    'thomas_hemsley_th': 'Thomas Hemsley',
-    'jessie_franklyn_jf': 'Jessie Franklyn',
-    'clara_willmott_thomas_cwt': 'Clara Willmott Thomas',
-    'henry_elisha_wilkinson_hew': 'Henry Elisha Wilkinson',
-    'walter_huckett_wh2': 'Walter Huckett',
-    'kathleen_mary_dallimore_kmd': 'Kathleen Mary Dallimore',
-    'david_evans_de': 'David Evans',
-    'maurice_sheehan_ms': 'Maurice Sheehan',
-    'lilias_roberts_cockin_lrc': 'Lilias Roberts Cockin',
-    'edith_mary_taylor_wilson_emtw': 'Edith Mary Taylor Wilson',
-    'elizabeth_sudderick_es': 'Elizabeth Sudderick',
-    'sarah_clarke_sc': 'Sarah Clarke',
-    'samuel_clark_sc2': 'Samuel Clark',
-    'charles_john_coles_cjc': 'Charles John Coles',
-    'george_cockin_gc': 'George Cockin',
-    'thomas_dickerson_smith_tds': 'Thomas Dickerson Smith',
-    'elizabeth_simmonds_soul_ess': 'Elizabeth Simmonds Soul',
-    'william_hone_wh': 'William Hone',
-}
-
-
-def clean_name(raw):
-    if not raw:
-        return 'Unknown'
-    return re.sub(r'\s*\([^)]*\)', '', raw).strip()
-
 
 def format_birthday(person):
     bday = person.get('birthday') or ''
@@ -56,15 +19,10 @@ def format_birthday(person):
     return str(bday)
 
 
-def display_name(person):
-    pid = person.get('id', '')
-    if pid in NAME_OVERRIDES:
-        return NAME_OVERRIDES[pid]
-    return clean_name(person.get('name')) or pid
-
-
 def person_label(person, parent2=False):
-    name = display_name(person)
+    # Use full-name if available, otherwise fall back to name
+    full_name = person.get('full-name') or person.get('name') or ''
+    name = full_name.strip()
     bday = format_birthday(person)
     label = name
     if parent2:

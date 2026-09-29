@@ -1,29 +1,35 @@
 [
   {
-    "id": "1845_thomas_dickerson_smith",
+    "id": "1845_thomas_smith",
+    "full-name": "Thomas Dickerson Smith",
     "name": "Thomas Dickerson Smith",
     "birthday": "1845",
     "birthplace": "Ebley, Stroud, Glos",
+    "died": {
+      "date": "1921-07-05",
+      "place": "Sunnyside, Queen's Road, Stonehouse, Glos"
+    },
     "occupation": "Commission agent/worsted",
-    "death": "1921-07-05",
-    "deathplace": "Sunnyside, Queen's Road, Stonehouse, Glos",
     "spouses": [
       {
-        "id": "1841_elizabeth_simmonds_soul",
+        "id": "1841_elizabeth_soul",
         "marriedYear": "1873",
         "marriedPlace": "Hackney"
       }
     ],
     "children": [
-      "1875_joseph_soul_smith",
-      "1905_leslie_joseph_soul_smith",
-      "1877_lucy_augusta_smith",
-      "1878_margaret_dickerson_smith",
-      "1880_william_thomas_smith"
+      "1875_joseph_smith",
+      "1905_leslie_smith",
+      "1877_lucy_smith",
+      "1878_margaret_smith",
+      "1880_william_smith"
     ],
+    "original_info": "probate Gloucester 15 Aug to Elizabeth Simmonds Smith widow, and Margaret Dickerson Smith spinster, effects '2055 17s 6d",
     "info": "probate Gloucester 15 Aug to Elizabeth Simmonds Smith widow, and Margaret Dickerson Smith spinster, effects '2055 17s 6d",
     "sources": [
-      "(WHS)"
+      "(WHS)",
+      "census 1901 The Limes, Bowbridge Lane, Stroud, Glos, 56",
+      "census 1911 The Limes, yarn agent"
     ],
     "crossBranch": [
       {
@@ -32,172 +38,208 @@
         "relationship": "married into"
       }
     ],
-    "census": [
-      {
-        "year": "1901",
-        "details": "The Limes, Bowbridge Lane, Stroud, Glos, 56"
-      },
-      {
-        "year": "1911",
-        "details": "The Limes, yarn agent"
-      }
-    ]
+    "name-parts": {
+      "firstname": "Thomas",
+      "middle-name": "Dickerson",
+      "surname": "Smith"
+    }
   },
   {
-    "id": "1841_elizabeth_simmonds_soul",
+    "id": "1841_elizabeth_soul",
+    "full-name": "Elizabeth Simmonds Soul",
     "name": "Elizabeth Simmonds Soul",
     "birthday": "1841-04-11",
+    "died": {
+      "date": "1930"
+    },
     "spouses": [
       {
-        "id": "1845_thomas_dickerson_smith",
+        "id": "1845_thomas_smith",
         "marriedYear": "1873",
         "marriedPlace": "Hackney"
       }
     ],
     "children": [
-      "1875_joseph_soul_smith",
-      "1905_leslie_joseph_soul_smith",
-      "1877_lucy_augusta_smith",
-      "1878_margaret_dickerson_smith",
-      "1880_william_thomas_smith"
+      "1875_joseph_smith",
+      "1905_leslie_smith",
+      "1877_lucy_smith",
+      "1878_margaret_smith",
+      "1880_william_smith"
     ],
+    "original_info": "Stroud",
     "info": "Stroud",
-    "death": "1930",
-    "census": [
-      {
-        "year": "1861",
-        "details": "11 Boxworth Grove, Islington, 19, music teacher"
-      },
-      {
-        "year": "1901",
-        "details": "The Limes, Stroud, 59"
-      },
-      {
-        "year": "1911",
-        "details": "The Limes"
-      }
-    ]
+    "sources": [
+      "census 1861 11 Boxworth Grove, Islington, 19, music teacher",
+      "census 1901 The Limes, Stroud, 59",
+      "census 1911 The Limes"
+    ],
+    "name-parts": {
+      "firstname": "Elizabeth",
+      "middle-name": "Simmonds",
+      "surname": "Soul"
+    }
   },
   {
-    "id": "1875_joseph_soul_smith",
+    "id": "1875_joseph_smith",
+    "full-name": "Joseph Soul Smith",
     "name": "Joseph Soul Smith",
     "birthday": "1875-07-02",
-    "parents": {
-      "father": "1845_thomas_dickerson_smith",
-      "mother": "1841_elizabeth_simmonds_soul"
-    },
-    "info": "Stroud",
-    "death": "1947",
     "birthplace": "Stroud",
-    "census": [
-      {
-        "year": "1901",
-        "details": "The Limes, Stroud, 25, commision agent/worsted, B Stroud"
-      },
-      {
-        "year": "1911",
-        "details": "Wishanger Lodge, Bowbridge, Stroud, yarn agent"
-      }
-    ]
+    "died": {
+      "date": "1947"
+    },
+    "parents": {
+      "father": "1845_thomas_smith",
+      "mother": "1841_elizabeth_soul"
+    },
+    "original_info": "Stroud",
+    "info": "Stroud",
+    "sources": [
+      "census 1901 The Limes, Stroud, 25, commision agent/worsted, B Stroud",
+      "census 1911 Wishanger Lodge, Bowbridge, Stroud, yarn agent"
+    ],
+    "name-parts": {
+      "firstname": "Joseph",
+      "middle-name": "Soul",
+      "surname": "Smith"
+    }
   },
   {
-    "id": "1905_leslie_joseph_soul_smith",
+    "id": "1905_leslie_smith",
+    "full-name": "Leslie Joseph Soul Smith",
     "name": "Leslie Joseph Soul Smith",
     "birthday": "1905",
-    "death": "1956",
+    "died": {
+      "date": "1956"
+    },
     "spouses": [
       {
-        "id": "1904_hilda_elizabeth_harmer",
+        "id": "1904_hilda_harmer",
         "marriedYear": "1933",
         "marriedPlace": "Rodborough, Glos"
       }
     ],
     "children": [
-      "1908_ethel_margaret_smith"
+      "1908_ethel_smith"
     ],
     "parents": {
-      "father": "1845_thomas_dickerson_smith",
-      "mother": "1841_elizabeth_simmonds_soul"
+      "father": "1845_thomas_smith",
+      "mother": "1841_elizabeth_soul"
     },
+    "original_info": "Stroud",
     "info": "Stroud",
-    "census": [
-      {
-        "year": "1901",
-        "details": "The Limes, Stroud"
-      }
-    ]
+    "sources": [
+      "census 1901 The Limes, Stroud"
+    ],
+    "name-parts": {
+      "firstname": "Leslie",
+      "middle-name": "Joseph Soul",
+      "surname": "Smith"
+    }
   },
   {
-    "id": "1904_hilda_elizabeth_harmer",
+    "id": "1904_hilda_harmer",
+    "full-name": "Hilda Elizabeth Harmer",
     "name": "Hilda Elizabeth Harmer",
     "birthday": "1904",
     "spouses": [
       {
-        "id": "1905_leslie_joseph_soul_smith",
+        "id": "1905_leslie_smith",
         "marriedYear": "1933",
         "marriedPlace": "Rodborough, Glos"
       }
     ],
     "children": [
-      "1908_ethel_margaret_smith"
-    ]
-  },
-  {
-    "id": "1908_ethel_margaret_smith",
-    "name": "Ethel Margaret Smith",
-    "birthday": "1908",
-    "parents": {
-      "father": "1905_leslie_joseph_soul_smith",
-      "mother": "1904_hilda_elizabeth_harmer"
+      "1908_ethel_smith"
+    ],
+    "info": "",
+    "sources": [],
+    "name-parts": {
+      "firstname": "Hilda",
+      "middle-name": "Elizabeth",
+      "surname": "Harmer"
     }
   },
   {
-    "id": "1877_lucy_augusta_smith",
-    "name": "Lucy Augusta Smith",
-    "birthday": "1877-06-02",
+    "id": "1908_ethel_smith",
+    "full-name": "Ethel Margaret Smith",
+    "name": "Ethel Margaret Smith",
+    "birthday": "1908",
     "parents": {
-      "father": "1845_thomas_dickerson_smith",
-      "mother": "1841_elizabeth_simmonds_soul"
+      "father": "1905_leslie_smith",
+      "mother": "1904_hilda_harmer"
     },
     "info": "",
-    "birthplace": "Bowbridge",
-    "census": [
-      {
-        "year": "1901",
-        "details": "23, The Limes, Stroud, B Bowbridge, Glos"
-      },
-      {
-        "year": "1911",
-        "details": "The Limes."
-      }
-    ]
+    "sources": [],
+    "name-parts": {
+      "firstname": "Ethel",
+      "middle-name": "Margaret",
+      "surname": "Smith"
+    }
   },
   {
-    "id": "1878_margaret_dickerson_smith",
+    "id": "1877_lucy_smith",
+    "full-name": "Lucy Augusta Smith",
+    "name": "Lucy Augusta Smith",
+    "birthday": "1877-06-02",
+    "birthplace": "Bowbridge",
+    "parents": {
+      "father": "1845_thomas_smith",
+      "mother": "1841_elizabeth_soul"
+    },
+    "info": "",
+    "sources": [
+      "census 1901 23, The Limes, Stroud, B Bowbridge, Glos",
+      "census 1911 The Limes."
+    ],
+    "name-parts": {
+      "firstname": "Lucy",
+      "middle-name": "Augusta",
+      "surname": "Smith"
+    }
+  },
+  {
+    "id": "1878_margaret_smith",
+    "full-name": "Margaret Dickerson Smith",
     "name": "Margaret Dickerson Smith",
     "birthday": "1878-11-27",
-    "death": "1973",
-    "parents": {
-      "father": "1845_thomas_dickerson_smith",
-      "mother": "1841_elizabeth_simmonds_soul"
+    "died": {
+      "date": "1973"
     },
+    "parents": {
+      "father": "1845_thomas_smith",
+      "mother": "1841_elizabeth_soul"
+    },
+    "original_info": "Stroud",
     "info": "Stroud",
-    "census": [
-      {
-        "year": "1911",
-        "details": "The Limes"
-      }
-    ]
+    "sources": [
+      "census 1911 The Limes"
+    ],
+    "name-parts": {
+      "firstname": "Margaret",
+      "middle-name": "Dickerson",
+      "surname": "Smith"
+    }
   },
   {
-    "id": "1880_william_thomas_smith",
+    "id": "1880_william_smith",
+    "full-name": "William Thomas Smith",
     "name": "William Thomas Smith",
     "birthday": "1880-07-31",
-    "death": "South African War",
-    "parents": {
-      "father": "1845_thomas_dickerson_smith",
-      "mother": "1841_elizabeth_simmonds_soul"
+    "died": {
+      "date": "South African War"
     },
-    "info": "Went to South African War, returned unhurt, went again, and took a fever and died there (WHS)"
+    "parents": {
+      "father": "1845_thomas_smith",
+      "mother": "1841_elizabeth_soul"
+    },
+    "original_info": "Went to South African War, returned unhurt, went again, and took a fever and died there (WHS)",
+    "info": "Went to South African War, returned unhurt, went again, and took a fever and died there (WHS)",
+    "sources": [],
+    "name-parts": {
+      "firstname": "William",
+      "middle-name": "Thomas",
+      "surname": "Smith"
+    }
   }
 ]
