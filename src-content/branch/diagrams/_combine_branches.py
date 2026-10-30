@@ -12,7 +12,7 @@ os.makedirs(OUT_DIR, exist_ok=True)
 
 
 def format_birthday(person):
-    bday = person.get('birthday') or ''
+    bday = (person.get('born', {}) or {}).get('date', '') or ''
     if not bday:
         return ''
     if len(str(bday)) == 4 and str(bday).isdigit():
@@ -22,7 +22,8 @@ def format_birthday(person):
 
 def person_label(person, parent2=False):
     # Use full-name if available, otherwise fall back to name
-    full_name = person.get('full-name') or person.get('name') or ''
+    name_obj = person.get('name', {}) or {}
+    full_name = name_obj.get('full-name') or name_obj.get('full', '') or person.get('full-name', '') or ''
     name = full_name.strip()
     bday = format_birthday(person)
     label = name
@@ -51,7 +52,59 @@ def main():
         path = os.path.join(DATA_DIR, filename)
         with open(path, 'r', encoding='utf-8') as fh:
             people = json.load(fh)
-            all_people.extend(people)
+        for p in people:
+            if 'name' in p and isinstance(p['name'], dict):
+                n = p['name']
+                if 'full' in n:
+                    n['full-name'] = n.pop('full')
+                if 'maiden_name' in n:
+                    n['maiden-name'] = n.pop('maiden_name')
+            if 'gender' in p:
+                g = p.pop('gender')
+                p['cisgender'] = 'male' if g == 'M' else 'female' if g == 'F' else g
+            rel = {}
+            if 'spouses' in p:
+                rel['spouses'] = p.pop('spouses')
+            if 'children' in p:
+                rel['children'] = p.pop('children')
+            if 'parents' in p:
+                rel['parents'] = p.pop('parents')
+            if rel:
+                p['relationship'] = rel
+            if 'birth' in p:
+                b = p.pop('birth')
+                born = {}
+                if 'date' in b:
+                    born['date'] = b['date']
+                if 'place' in b:
+                    born['location'] = b['place']
+                if born:
+                    p['born'] = born
+            if 'died' in p and isinstance(p['died'], dict):
+                d = p['died']
+                if 'place' in d:
+                    d['location'] = d.pop('place')
+                if 'burial' in d:
+                    d['date-burried'] = d.pop('burial')
+            if 'fix' in p:
+                fix = p.pop('fix')
+                if isinstance(fix, dict):
+                    items = [f'{k}: {v}' for k, v in fix.items() if v]
+                    if items:
+                        p['todo'] = ', '.join(items)
+            if 'sources' in p and isinstance(p['sources'], list):
+                new_sources = []
+                for s in p['sources']:
+                    if isinstance(s, str):
+                        if ':' in s:
+                            key, val = s.split(':', 1)
+                            new_sources.append({key.strip(): val.strip()})
+                        else:
+                            new_sources.append({'source': s})
+                    else:
+                        new_sources.append(s)
+                p['sources'] = new_sources
+        all_people.extend(people)
 
     # Merge by ID
     by_id = defaultdict(list)
@@ -71,7 +124,7 @@ def main():
                 for key, value in p.items():
                     if key in ('spouses', 'children', 'parents', 'crossBranch', 'sources', 'census'):
                         continue
-                    if key in ('info', 'occupation', 'birthplace', 'deathplace'):
+                    if key in ('info', 'occupation', 'original-info', 'remaining-info'):
                         merged[key] = merge_field(merged.get(key, ''), value)
                     elif key in ('birthday', 'death', 'gender'):
                         if not merged.get(key):
@@ -101,8 +154,9 @@ def main():
         pid = person.get('id')
         if not pid:
             continue
-        spouses = person.get('spouses', []) or []
-        children = person.get('children', []) or []
+        rel = person.get('relationship', {}) or {}
+        spouses = rel.get('spouses', []) or []
+        children = rel.get('children', []) or []
 
         for spouse in spouses:
             sid = spouse.get('id')

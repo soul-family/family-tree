@@ -82,6 +82,24 @@ flowchart TD
 
 Reading: James Clarke and Sarah Clarke are spouses. Their daughter Hephzibah Clarke (born 1816-10-29) carries the subtree. Hephzibah's spouse is Samuel Unwin (birth year unknown).
 
+
+## Expanded spaces
+
+Vertical and horizontal connector lines stay continuous in the expanded ASCII trees. 
+
+Summary of expansion:
+
+3,532 gaps expanded across 192 branch trees
+138 blank lines inserted (replacing automatic blank lines that were previously there)
+676 underscore runs lengthened to the minimum gap (8)
+35 triple-quote runs tracked and aligned
+35 triple-quote positions properly aligned between original and expanded
+227 underscore runs lengthened to the minimum gap
+Vertical connector runs preserved (pipes stay at original columns)
+Text segments preserved exactly
+138 blank lines inserted (only at genuine entry boundaries)
+
+
 ## Combined Files
 
 The combined JSON merges all branch records by person ID. When the same person appears in multiple branches, `original-info`, `remaining-info`, places, and occupations are concatenated. Duplicate persons are merged with fuzzy birthday matching (plus or minus one year). The combined diagram contains every person from every branch, with subtrees connected through common persons.
