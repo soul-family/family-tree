@@ -96,10 +96,26 @@ a[href^="https://"]::after {
   transition: opacity 0.2s ease;
 }
 
-.layout-wrapper:not(.sidebar-expanded) .sidebar-content {
+/* --- Sidebar hover --- */
+.layout-wrapper:not(.sidebar-expanded) .sidebar:hover {
+  grid-template-columns: 50px 1fr;
+}
+
+.layout-wrapper:not(.sidebar-expanded) .sidebar:hover .sidebar-content {
+  position: absolute;
+  left: 50px;
+  top: 0;
+  bottom: 0;
+  width: 200px;
+  z-index: 10;
+  background: #f5f5f5;
+  border-right: 1px solid #ddd;
+  box-shadow: 2px 0 8px rgba(0,0,0,0.1);
+}
+
+.layout-wrapper:not(.sidebar-expanded) .sidebar:hover .sidebar-toggle {
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.2s ease;
 }
 
 .main-content {

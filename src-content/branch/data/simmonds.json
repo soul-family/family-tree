@@ -1,17 +1,21 @@
 [
   {
     "id": "1775_george_simmonds",
-    "full-name": "George Simmonds",
-    "name": "George Simmonds",
-    "birthday": "1775",
-    "birthplace": "",
+    "name": {
+      "full": "George Simmonds",
+      "firstname": "George",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "occupation": "Carpenter; builder",
     "spouses": [
       {
-        "id": "elizabeth_simmonds",
+        "id": "1762_1800__elizabeth_simmonds",
         "marriedYear": "",
         "marriedDate": "",
-        "marriedPlace": ""
+        "marriedPlace": "",
+        "main": true
       }
     ],
     "children": [
@@ -26,30 +30,38 @@
       "1818_frederick_simmonds",
       "1820_sarah_simmonds"
     ],
-    "original_info": "1818 Westminster Poll, Parishes of St Clement Danes & St Mary le Strand, Geo. Simmonds of 11 Bear Yard, Linc. Inn F., carpenter, voted as householder for candidates Sir Francis Burdett bart & Sir Samuel Romilly; 1832 directory Page & Simmonds, Builders, Bear yd, Lincs. inn flds; 1837 Westminster Poll, of Bear Yard, voted for Lieut-Col de Lacey Evans & John Temple Leader",
-    "info": "1818 Westminster Poll, Parishes of St Clement Danes & St Mary le Strand, Geo. Simmonds of 11 Bear Yard, Linc. Inn F., carpenter, voted as householder for candidates Sir Francis Burdett bart & Sir Samuel Romilly; 1832 directory Page & Simmonds, Builders, Bear yd, Lincs. inn flds; 1837 Westminster Poll, of Bear Yard, voted for Lieut-Col de Lacey Evans & John Temple Leader",
+    "original-info": "1818 Westminster Poll, Parishes of St Clement Danes & St Mary le Strand, Geo. Simmonds of 11 Bear Yard, Linc. Inn F., carpenter, voted as householder for candidates Sir Francis Burdett bart & Sir Samuel Romilly; 1832 directory Page & Simmonds, Builders, Bear yd, Lincs. inn flds; 1837 Westminster Poll, of Bear Yard, voted for Lieut-Col de Lacey Evans & John Temple Leader",
     "sources": [
       "census 1841 15 Blackmoor Street, 66, carpenter, not born in county."
     ],
-    "name-parts": {
-      "firstname": "George",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "birth": {
+      "date": "1775",
+      "place": ""
+    },
+    "remaining-info": "1818 Westminster Poll, Parishes of St Clement Danes & St Mary le Strand, Geo. Simmonds of 11 Bear Yard, Linc. Inn F., carpenter, voted as householder for candidates Sir Francis Burdett bart & Sir Samuel Romilly; 1832 directory Page & Simmonds, Builders, Bear yd, Lincs. inn flds; 1837 Westminster Poll, of Bear Yard, voted for Lieut-Col de Lacey Evans & John Temple Leader",
+    "parents": {}
   },
   {
-    "id": "elizabeth_simmonds",
-    "full-name": "Elizabeth Simmonds",
-    "name": "Elizabeth Simmonds",
-    "birthday": "",
-    "birthplace": "",
+    "id": "1762_1800__elizabeth_simmonds",
+    "name": {
+      "full": "Elizabeth Simmonds",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "spouses": [
       {
         "id": "1775_george_simmonds",
         "marriedYear": "",
         "marriedDate": "",
-        "marriedPlace": ""
+        "marriedPlace": "",
+        "main": false
       }
     ],
     "children": [
@@ -64,66 +76,84 @@
       "1818_frederick_simmonds",
       "1820_sarah_simmonds"
     ],
-    "info": "",
     "sources": [
       "census 1841 15 Blackmoor Street, 64, not born in county."
     ],
-    "name-parts": {
-      "firstname": "Elizabeth",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "remaining-info": "",
+    "parents": {}
   },
   {
     "id": "1802_elizabeth_simmonds",
-    "full-name": "Elizabeth Sarah Simmonds",
-    "name": "Elizabeth Sarah Simmonds",
-    "birthday": "1802-11-16",
-    "birthplace": "",
+    "name": {
+      "full": "Elizabeth Sarah Simmonds",
+      "firstname": "Elizabeth",
+      "middle-name": "Sarah",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth",
-    "info": "St Clement Danes, & Elizabeth",
+    "original-info": "St Clement Danes, & Elizabeth",
     "sources": [
       "baptism 13 Jan 1803"
     ],
-    "name-parts": {
-      "firstname": "Elizabeth",
-      "middle-name": "Sarah",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1802-11-16",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1805_jane_simmonds",
-    "full-name": "Jane Mary Simmonds",
-    "name": "Jane Mary Simmonds",
-    "birthday": "1805-02-07",
-    "birthplace": "",
+    "name": {
+      "full": "Jane Mary Simmonds",
+      "firstname": "Jane",
+      "middle-name": "Mary",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth",
-    "info": "St Clement Danes, & Elizabeth",
+    "original-info": "St Clement Danes, & Elizabeth",
     "sources": [
       "baptism 18 Mar 1805"
     ],
-    "name-parts": {
-      "firstname": "Jane",
-      "middle-name": "Mary",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1805-02-07",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1807_ann_simmonds",
-    "full-name": "Ann Simmonds",
-    "name": "Ann Simmonds",
-    "birthday": "1807-05-06",
-    "birthplace": "",
+    "name": {
+      "full": "Ann Simmonds",
+      "firstname": "Ann",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "died": {
       "date": "1898-04-16",
@@ -132,33 +162,37 @@
     },
     "spouses": [
       {
-        "id": "joseph_simmonds_soul",
+        "id": "1805_joseph_soul",
         "marriedYear": "1830",
         "marriedDate": "1830-05-06",
-        "marriedPlace": "St Bride's Fleet Street"
+        "marriedPlace": "St Bride's Fleet Street",
+        "main": true
       }
     ],
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth; at 19 Courtney Road, Drayton Park, Holloway, Park grave 70572 sq 49, aged 90, from 19 Courtney Road",
-    "info": "St Clement Danes, & Elizabeth; at 19 Courtney Road, Drayton Park, Holloway, Park grave 70572 sq 49, aged 90, from 19 Courtney Road",
+    "original-info": "St Clement Danes, & Elizabeth; at 19 Courtney Road, Drayton Park, Holloway, Park grave 70572 sq 49, aged 90, from 19 Courtney Road",
     "sources": [
       "baptism 20 June 1807"
     ],
-    "name-parts": {
-      "firstname": "Ann",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "birth": {
+      "date": "1807-05-06",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth; at 19 Courtney Road, Drayton Park, Holloway, Park grave 70572 sq 49, aged 90, from 19 Courtney Road",
+    "children": []
   },
   {
-    "id": "joseph_simmonds_soul",
-    "full-name": "Joseph Simmonds Soul",
-    "name": "Joseph Simmonds Soul",
-    "birthday": "1805-11-14",
-    "birthplace": "",
+    "id": "1805_joseph_soul",
+    "name": {
+      "full": "Joseph Simmonds Soul",
+      "firstname": "Joseph",
+      "middle-name": "Simmonds",
+      "surname": "Soul",
+      "maiden_name": ""
+    },
     "died": {
       "date": "1881-12-25",
       "place": "11 Boxworth Grove, Islington",
@@ -170,7 +204,8 @@
         "id": "1807_ann_simmonds",
         "marriedYear": "1830",
         "marriedDate": "1830-05-06",
-        "marriedPlace": "St Bride's Fleet Street"
+        "marriedPlace": "St Bride's Fleet Street",
+        "main": false
       }
     ],
     "children": [
@@ -183,110 +218,131 @@
       "1848_edward_miall_simmonds_soul"
     ],
     "parents": {
-      "father": "Eli"
+      "father": "1766_eli_soul"
     },
-    "original_info": "St Leonard's Shoreditch, & Elizabeth Soul of Long Alley; in British and Foreign Anti-Slavery Society Convention of 1840 group portrait by Benjamin Robert Haydon, on display in the National Portrait Gallery, London; 1843 directory 20 Brunswick Parade, Islington; 1844 Directory City Rd, Orphan Working School secretary, Matilda Hone mistress; 1870 directory, sec to Orphan Working School, Maitland Park, Haverstock Hill NW, & hon sec to the Alexandra Orphanage for Infants, Hornsey Rise N, office 73 Cheapside EC; , 11 Boxworth Grove; The Times 27 Dec 'for 36 years secretary to the Orphan Working School, Haverstock Hill'; Park, 76, gv 70572 sq 49; effects '92:12:4",
-    "info": "St Leonard's Shoreditch, & Elizabeth Soul of Long Alley; in British and Foreign Anti-Slavery Society Convention of 1840 group portrait by Benjamin Robert Haydon, on display in the National Portrait Gallery, London; 1843 directory 20 Brunswick Parade, Islington; 1844 Directory City Rd, Orphan Working School secretary, Matilda Hone mistress; 1870 directory, sec to Orphan Working School, Maitland Park, Haverstock Hill NW, & hon sec to the Alexandra Orphanage for Infants, Hornsey Rise N, office 73 Cheapside EC; , 11 Boxworth Grove; The Times 27 Dec 'for 36 years secretary to the Orphan Working School, Haverstock Hill'; Park, 76, gv 70572 sq 49; effects '92:12:4",
+    "original-info": "St Leonard's Shoreditch, & Elizabeth Soul of Long Alley; in British and Foreign Anti-Slavery Society Convention of 1840 group portrait by Benjamin Robert Haydon, on display in the National Portrait Gallery, London; 1843 directory 20 Brunswick Parade, Islington; 1844 Directory City Rd, Orphan Working School secretary, Matilda Hone mistress; 1870 directory, sec to Orphan Working School, Maitland Park, Haverstock Hill NW, & hon sec to the Alexandra Orphanage for Infants, Hornsey Rise N, office 73 Cheapside EC; , 11 Boxworth Grove; The Times 27 Dec 'for 36 years secretary to the Orphan Working School, Haverstock Hill'; Park, 76, gv 70572 sq 49; effects '92:12:4",
     "sources": [
       "baptism 9 Feb 1806",
       "census 1861 11 Boxworth Grove, Islington"
     ],
-    "name-parts": {
-      "firstname": "Joseph",
-      "middle-name": "Simmonds",
-      "surname": "Soul"
-    }
+    "birth": {
+      "date": "1805-11-14",
+      "place": ""
+    },
+    "remaining-info": "St Leonard's Shoreditch, & Elizabeth Soul of Long Alley; in British and Foreign Anti-Slavery Society Convention of 1840 group portrait by Benjamin Robert Haydon, on display in the National Portrait Gallery, London; 1843 directory 20 Brunswick Parade, Islington; 1844 Directory City Rd, Orphan Working School secretary, Matilda Hone mistress; 1870 directory, sec to Orphan Working School, Maitland Park, Haverstock Hill NW, & hon sec to the Alexandra Orphanage for Infants, Hornsey Rise N, office 73 Cheapside EC; , 11 Boxworth Grove; The Times 27 Dec 'for 36 years secretary to the Orphan Working School, Haverstock Hill'; Park, 76, gv 70572 sq 49; effects '92:12:4"
   },
   {
     "id": "1809_charlotte_simmonds",
-    "full-name": "Charlotte Simmonds",
-    "name": "Charlotte Simmonds",
-    "birthday": "1809-03-30",
-    "birthplace": "",
+    "name": {
+      "full": "Charlotte Simmonds",
+      "firstname": "Charlotte",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth",
-    "info": "St Clement Danes, & Elizabeth",
+    "original-info": "St Clement Danes, & Elizabeth",
     "sources": [
       "baptism 8 May 1809",
       "census 1841 15 Blackmoor Street, 32, dress maker."
     ],
-    "name-parts": {
-      "firstname": "Charlotte",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1809-03-30",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1811_frances_simmonds",
-    "full-name": "Frances Simmonds",
-    "name": "Frances Simmonds",
-    "birthday": "1811-02-21",
-    "birthplace": "",
+    "name": {
+      "full": "Frances Simmonds",
+      "firstname": "Frances",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth",
-    "info": "St Clement Danes, & Elizabeth",
+    "original-info": "St Clement Danes, & Elizabeth",
     "sources": [
       "baptism 27 Mar 1811"
     ],
-    "name-parts": {
-      "firstname": "Frances",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1811-02-21",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1812_edward_simmonds",
-    "full-name": "Edward Simmonds",
-    "name": "Edward Simmonds",
-    "birthday": "1812-10-06",
-    "birthplace": "Middx",
+    "name": {
+      "full": "Edward Simmonds",
+      "firstname": "Edward",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "M",
     "occupation": "Carpenter",
     "spouses": [
       {
-        "id": "jane_wheeler",
+        "id": "xxxx_jane_wheeler",
         "marriedYear": "1841",
         "marriedDate": "1841-06-27",
         "marriedPlace": "St Bride's Fleet Street"
       }
     ],
     "children": [
-      "harriet_simmonds",
-      "edward_simmonds",
-      "jane_simmonds"
+      "1797_1827__harriet_simmonds",
+      "1797_1827__edward_simmonds",
+      "1797_1827__jane_simmonds"
     ],
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth",
-    "info": "St Clement Danes, & Elizabeth",
+    "original-info": "St Clement Danes, & Elizabeth",
     "sources": [
       "baptism 9 Nov 1812",
       "census 1841 15 Blackmoor Street, 28, carpenter",
       "census 1851 15 Denzell Street, parish of St Clement Danes, 38, carpenter, B Middx. St Clement Danes",
       "census 1881 160 Lorrimore Rd, Newington, Surrey, 69, B St Clement Danes, builders' carpenter."
     ],
-    "name-parts": {
-      "firstname": "Edward",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1812-10-06",
+      "place": "Middx"
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth"
   },
   {
-    "id": "jane_wheeler",
-    "full-name": "Jane Wheeler",
-    "name": "Jane Wheeler",
-    "birthday": "",
-    "birthplace": "Surrey Guildford",
+    "id": "xxxx_jane_wheeler",
+    "name": {
+      "full": "Jane Wheeler",
+      "firstname": "Jane",
+      "middle-name": "",
+      "surname": "Wheeler",
+      "maiden_name": ""
+    },
     "gender": "F",
     "spouses": [
       {
@@ -297,135 +353,181 @@
       }
     ],
     "children": [
-      "harriet_simmonds",
-      "edward_simmonds",
-      "jane_simmonds"
+      "1797_1827__harriet_simmonds",
+      "1797_1827__edward_simmonds",
+      "1797_1827__jane_simmonds"
     ],
-    "info": "",
     "sources": [
       "census 1851 15 Denzell Street, 32, B Surrey Guildford",
       "census 1881 160 Lorrimore Rd, Newington, Surrey, 63, B Guildford."
     ],
-    "name-parts": {
-      "firstname": "Jane",
-      "middle-name": "",
-      "surname": "Wheeler"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "birth": {
+      "date": "",
+      "place": "Surrey Guildford"
+    },
+    "remaining-info": "",
+    "parents": {}
   },
   {
-    "id": "harriet_simmonds",
-    "full-name": "Harriet Simmonds",
-    "name": "Harriet Simmonds",
-    "birthday": "",
-    "birthplace": "parish of St George",
+    "id": "1797_1827__harriet_simmonds",
+    "name": {
+      "full": "Harriet Simmonds",
+      "firstname": "Harriet",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1812_edward_simmonds",
-      "mother": "jane_wheeler"
+      "mother": "1819_jane"
     },
-    "info": "",
     "sources": [
       "census 1851 15 Denzell Street, parish of St Clement Danes, 8, scholar, B parish of St George's Bloomsbury."
     ],
-    "name-parts": {
-      "firstname": "Harriet",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "",
+      "place": "parish of St George"
+    },
+    "remaining-info": "",
+    "spouses": [],
+    "children": []
   },
   {
-    "id": "edward_simmonds",
-    "full-name": "Edward Simmonds",
-    "name": "Edward Simmonds",
-    "birthday": "",
-    "birthplace": "parish of St George",
+    "id": "1797_1827__edward_simmonds",
+    "name": {
+      "full": "Edward Simmonds",
+      "firstname": "Edward",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "M",
     "parents": {
       "father": "1812_edward_simmonds",
-      "mother": "jane_wheeler"
+      "mother": "1819_jane"
     },
-    "info": "",
     "sources": [
       "census 1851 15 Denzell Street, 7, scholar, B parish of St George's Bloomsbury."
     ],
-    "name-parts": {
-      "firstname": "Edward",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "",
+      "place": "parish of St George"
+    },
+    "remaining-info": "",
+    "spouses": [],
+    "children": []
   },
   {
-    "id": "jane_simmonds",
-    "full-name": "Jane Simmonds",
-    "name": "Jane Simmonds",
-    "birthday": "",
-    "birthplace": "parish of St Clement Danes",
+    "id": "1797_1827__jane_simmonds",
+    "name": {
+      "full": "Jane Simmonds",
+      "firstname": "Jane",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1812_edward_simmonds",
-      "mother": "jane_wheeler"
+      "mother": "1819_jane"
     },
-    "info": "",
     "sources": [
       "census 1851 15 Denzell Street, 2, B parish of St Clement Danes."
     ],
-    "name-parts": {
-      "firstname": "Jane",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "",
+      "place": "parish of St Clement Danes"
+    },
+    "remaining-info": "",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1814_matilda_simmonds",
-    "full-name": "Matilda Simmonds",
-    "name": "Matilda Simmonds",
-    "birthday": "1814-06-12",
-    "birthplace": "",
+    "name": {
+      "full": "Matilda Simmonds",
+      "firstname": "Matilda",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
-    "info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
+    "original-info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
     "sources": [
       "baptism 12 June 1814",
       "census 1841 15 Blackmoor Street, 27."
     ],
-    "name-parts": {
-      "firstname": "Matilda",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1814-06-12",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1816_james_simmonds",
-    "full-name": "James Simmonds",
-    "name": "James Simmonds",
-    "birthday": "1816-09-09",
-    "birthplace": "",
+    "name": {
+      "full": "James Simmonds",
+      "firstname": "James",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "M",
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard",
-    "info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard",
+    "original-info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard",
     "sources": [
       "baptism 9 Sept 1816"
     ],
-    "name-parts": {
-      "firstname": "James",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1816-09-09",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1818_frederick_simmonds",
-    "full-name": "Frederick William Ladds Simmonds",
-    "name": "Frederick William Ladds Simmonds",
-    "birthday": "1818-07-20",
-    "birthplace": "",
+    "name": {
+      "full": "Frederick William Ladds Simmonds",
+      "firstname": "Frederick",
+      "middle-name": "William Ladds",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "M",
     "died": {
       "date": "aged 6",
@@ -434,129 +536,164 @@
     },
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard; D aged 6 days, buried 28 July 1818 St Clement Danes, of 11 Bear Yard",
-    "info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard",
+    "original-info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard; D aged 6 days, buried 28 July 1818 St Clement Danes, of 11 Bear Yard",
     "sources": [
       "baptism 20 July 1818"
     ],
-    "name-parts": {
-      "firstname": "Frederick",
-      "middle-name": "William Ladds",
-      "surname": "Simmonds"
-    }
+    "birth": {
+      "date": "1818-07-20",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth Simmonds of 11 Bear Yard",
+    "spouses": [],
+    "children": []
   },
   {
     "id": "1820_sarah_simmonds",
-    "full-name": "Sarah Simmonds",
-    "name": "Sarah Simmonds",
-    "birthday": "1820-02-21",
-    "birthplace": "",
+    "name": {
+      "full": "Sarah Simmonds",
+      "firstname": "Sarah",
+      "middle-name": "",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "gender": "F",
     "parents": {
       "father": "1775_george_simmonds",
-      "mother": "elizabeth_simmonds"
+      "mother": "1834_1859_elizabeth_sudderick"
     },
-    "original_info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
-    "info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
+    "original-info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
     "sources": [
       "baptism 21 Feb 1820",
       "census 1841 15 Blackmoor Street, 21."
     ],
-    "name-parts": {
-      "firstname": "Sarah",
-      "middle-name": "",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1820-02-21",
+      "place": ""
+    },
+    "remaining-info": "St Clement Danes, & Elizabeth Simmonds of Bear Yard",
+    "spouses": [],
+    "children": []
   },
   {
-    "id": "george_simmonds",
-    "full-name": "George Henry Simmonds",
-    "name": "George Henry Simmonds",
-    "birthday": "",
-    "birthplace": "Essex Woodford",
+    "id": "xxxx_george_simmonds",
+    "name": {
+      "full": "George Henry Simmonds",
+      "firstname": "George",
+      "middle-name": "Henry",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "occupation": "Architect; surveyor of pavements",
     "spouses": [
       {
-        "id": "elizabeth_harden",
+        "id": "xxxx_elizabeth_harden",
         "marriedYear": "1831",
         "marriedDate": "1831-05-19",
         "marriedPlace": "St Bride's Fleet Street"
       }
     ],
     "children": [],
-    "original_info": "1846 Directory surveyor of pavements, 7 Gt. Alie St Whitechapel; 1870 Directory, architect & surveyor, 7 Gt Alie st E",
-    "info": "1846 Directory surveyor of pavements, 7 Gt. Alie St Whitechapel; 1870 Directory, architect & surveyor, 7 Gt Alie st E",
+    "original-info": "1846 Directory surveyor of pavements, 7 Gt. Alie St Whitechapel; 1870 Directory, architect & surveyor, 7 Gt Alie st E",
     "sources": [
       "census 1851 7 Great Alie Street, Whitechapel, 51, architect, B Essex Woodford"
     ],
-    "name-parts": {
-      "firstname": "George",
-      "middle-name": "Henry",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "birth": {
+      "date": "",
+      "place": "Essex Woodford"
+    },
+    "remaining-info": "1846 Directory surveyor of pavements, 7 Gt. Alie St Whitechapel; 1870 Directory, architect & surveyor, 7 Gt Alie st E",
+    "parents": {}
   },
   {
-    "id": "elizabeth_harden",
-    "full-name": "Elizabeth Harden",
-    "name": "Elizabeth Harden",
-    "birthday": "",
-    "birthplace": "Essex Ilford",
+    "id": "xxxx_elizabeth_harden",
+    "name": {
+      "full": "Elizabeth Harden",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Harden",
+      "maiden_name": ""
+    },
     "gender": "F",
     "spouses": [
       {
-        "id": "george_simmonds",
+        "id": "xxxx_george_simmonds",
         "marriedYear": "1831",
         "marriedDate": "1831-05-19",
         "marriedPlace": "St Bride's Fleet Street"
       }
     ],
     "children": [],
-    "info": "",
     "sources": [
       "census 1851 7 Great Alie Street, 47, B Essex Ilford."
     ],
-    "name-parts": {
-      "firstname": "Elizabeth",
-      "middle-name": "",
-      "surname": "Harden"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "birth": {
+      "date": "",
+      "place": "Essex Ilford"
+    },
+    "remaining-info": "",
+    "parents": {}
   },
   {
-    "id": "john_simmonds",
-    "full-name": "John Daniel Simmonds",
-    "name": "John Daniel Simmonds",
-    "birthday": "",
-    "birthplace": "Essex Woodford",
+    "id": "xxxx_john_simmonds",
+    "name": {
+      "full": "John Daniel Simmonds",
+      "firstname": "John",
+      "middle-name": "Daniel",
+      "surname": "Simmonds",
+      "maiden_name": ""
+    },
     "occupation": "Carpenter; builder",
     "spouses": [
       {
-        "id": "elizabeth_finch",
+        "id": "xxxx_elizabeth_finch",
         "marriedYear": "1831",
         "marriedDate": "1831-05-19",
         "marriedPlace": "St Bride's Fleet Street"
       }
     ],
     "children": [],
-    "original_info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; 1846 Directory builder, 11 Bear Yd, Lincoln's Inn Fields; 1870 Directory, builder, 9 Bear Yd, Lincoln's Inn Fields WC",
-    "info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; 1846 Directory builder, 11 Bear Yd, Lincoln's Inn Fields; 1870 Directory, builder, 9 Bear Yd, Lincoln's Inn Fields WC",
+    "original-info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; 1846 Directory builder, 11 Bear Yd, Lincoln's Inn Fields; 1870 Directory, builder, 9 Bear Yd, Lincoln's Inn Fields WC",
     "sources": [
       "census 1841 11 Bear Yard, carpenter",
       "census 1851 Bear Yard, 49, carpenter master employing 2 men, B Essex Woodford"
     ],
-    "name-parts": {
-      "firstname": "John",
-      "middle-name": "Daniel",
-      "surname": "Simmonds"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "birth": {
+      "date": "",
+      "place": "Essex Woodford"
+    },
+    "remaining-info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; 1846 Directory builder, 11 Bear Yd, Lincoln's Inn Fields; 1870 Directory, builder, 9 Bear Yd, Lincoln's Inn Fields WC",
+    "parents": {}
   },
   {
-    "id": "elizabeth_finch",
-    "full-name": "Elizabeth Finch",
-    "name": "Elizabeth Finch",
-    "birthday": "",
-    "birthplace": "Middx London",
+    "id": "xxxx_elizabeth_finch",
+    "name": {
+      "full": "Elizabeth Finch",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Finch",
+      "maiden_name": ""
+    },
     "gender": "F",
     "died": {
       "date": "1870-07-16",
@@ -564,23 +701,27 @@
     },
     "spouses": [
       {
-        "id": "john_simmonds",
+        "id": "xxxx_john_simmonds",
         "marriedYear": "1831",
         "marriedDate": "1831-05-19",
         "marriedPlace": "St Bride's Fleet Street"
       }
     ],
     "children": [],
-    "original_info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; at 9 Bear Yard intestate, 23 August letters of admin. to John Daniel Simmonds of 9 Bear Yard carpenter, the lawful husband",
-    "info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; at 9 Bear Yard intestate, 23 August letters of admin. to John Daniel Simmonds of 9 Bear Yard carpenter, the lawful husband",
+    "original-info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; at 9 Bear Yard intestate, 23 August letters of admin. to John Daniel Simmonds of 9 Bear Yard carpenter, the lawful husband",
     "sources": [
       "census 1841 11 Bear Yard",
       "census 1851 Bear Yard, 42, B Middx London"
     ],
-    "name-parts": {
-      "firstname": "Elizabeth",
-      "middle-name": "",
-      "surname": "Finch"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "parents": "missing parents"
+    },
+    "birth": {
+      "date": "",
+      "place": "Middx London"
+    },
+    "remaining-info": "6 May 1830 witness at marriage of Ann Simmonds & Joseph Soul, St Bride's Fleet St; at 9 Bear Yard intestate, 23 August letters of admin. to John Daniel Simmonds of 9 Bear Yard carpenter, the lawful husband",
+    "parents": {}
   }
 ]

@@ -1,0 +1,229 @@
+[
+  {
+    "id": "1813_samuel_roberts",
+    "name": {
+      "full-name": "Samuel Roberts",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Roberts",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Blacksmith",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1813_martha_chiven",
+          "marriedYear": "1838",
+          "marriedPlace": "Hull",
+          "marriedDate": "1838",
+          "main": true
+        }
+      ],
+      "children": [
+        "1839_eliza_roberts",
+        "1842_ann_roberts",
+        "1847_martha_roberts",
+        "1847_samuel_roberts"
+      ]
+    },
+    "born": {
+      "date": "1813",
+      "location": "Birmingham"
+    },
+    "died": {
+      "date": "1871-04-19",
+      "location": "3 Nags Head Lane, Southcoates, Kingston upon Hull"
+    },
+    "original-info": "1846 General Directory of Kingston-upon-Hull, Roberts Samuel, blacksmith, Holderness Rd; at 3 Nags Head Lane, Southcoates, blacksmith, aged 57, disease of the brain 3 years, informant Samuel Roberts of 3 Nags Head Lane; 9 Aug 1871, letters of admin to Martha Roberts widow",
+    "sources": [
+      {
+        "source": "census 1871 2 Nags Head Lane, Southcoates, Kingston upon Hull, 58, retired smith, B Birmingham, 3 years blind through disease of brain"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": "1846 General Directory of Kingston-upon-Hull, Roberts Samuel, blacksmith, Holderness Rd; at 3 Nags Head Lane, Southcoates, blacksmith, aged 57, disease of the brain 3 years, informant Samuel Roberts of 3 Nags Head Lane; 9 Aug 1871, letters of admin to Martha Roberts widow"
+  },
+  {
+    "id": "1813_martha_chiven",
+    "name": {
+      "full-name": "Martha Chiven",
+      "firstname": "Martha",
+      "middle-name": "",
+      "surname": "Chiven",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1813_samuel_roberts",
+          "marriedYear": "1838",
+          "marriedPlace": "Hull",
+          "marriedDate": "1838",
+          "main": false
+        }
+      ],
+      "children": [
+        "1839_eliza_roberts",
+        "1842_ann_roberts",
+        "1847_martha_roberts",
+        "1847_samuel_roberts"
+      ]
+    },
+    "born": {
+      "date": "1813",
+      "location": "Hull"
+    },
+    "sources": [
+      {
+        "source": "census 1861 Nags Head Lane, Southcoates, Kingston-upon-Hull, 48, engine smith wife, B Hull"
+      },
+      {
+        "source": "census 1871 2 Nags Head Lane, 58."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  // Roberts children declared by ascending birth year.
+  // Equal birth keys retain source order; this does not establish birth order.
+  {
+    "id": "1839_eliza_roberts",
+    "name": {
+      "full-name": "Eliza Roberts",
+      "firstname": "Eliza",
+      "middle-name": "",
+      "surname": "Roberts",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1813_samuel_roberts",
+        "mother": "1813_martha_chiven"
+      }
+    },
+    "born": {
+      "date": "1839-09-25",
+      "location": "4 Aldbro St, Sculcoates, Yorkshire"
+    },
+    "sources": [
+      {
+        "source": "census 1861 Nags Head Lane, 21, governess, B Hull"
+      },
+      {
+        "source": "census 1871 2 Nags Head Lane, 31, certificate teacher, B Hull."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  // Ann Maria Roberts and John Cockin married 23 Apr 1867 at St Mary's, Hull.
+  // Ann Maria is first-listed; John is second-listed.
+  // No children of this marriage are documented in the supplied source.
+  {
+    "id": "1842_ann_roberts",
+    "name": {
+      "full-name": "Ann Maria Roberts",
+      "firstname": "Ann",
+      "middle-name": "Maria",
+      "surname": "Roberts",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "john_cockin",
+          "marriedYear": "1867",
+          "marriedDate": "1867-04-23",
+          "marriedPlace": "St Mary's Hull"
+        }
+      ],
+      "parents": {
+        "father": "1813_samuel_roberts",
+        "mother": "1813_martha_chiven"
+      }
+    },
+    "born": {
+      "date": "1842-08-01",
+      "location": "Aldbro St, Sculcoates"
+    },
+    "original-info": "Mary's Hull, 24, spinster, of St Mary's, , & 21, bachelor, school master, of Skipton, , in pres of Samuel Roberts, Samuel Roberts junr, Eliza Roberts, & Ann Elizabeth Roberts",
+    "sources": [
+      {
+        "source": "census 1861 Nags Head Lane, 18, pupil teacher, B Hull"
+      }
+    ],
+    "crossBranch": [
+      {
+        "branch": "cockin",
+        "id": "JohnCockin",
+        "relationship": "married into"
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "Mary's Hull, 24, spinster, of St Mary's, , & 21, bachelor, school master, of Skipton, , in pres of Samuel Roberts, Samuel Roberts junr, Eliza Roberts, & Ann Elizabeth Roberts"
+  },
+  {
+    "id": "1847_martha_roberts",
+    "name": {
+      "full-name": "Martha Roberts",
+      "firstname": "Martha",
+      "middle-name": "",
+      "surname": "Roberts",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1813_samuel_roberts",
+        "mother": "1813_martha_chiven"
+      }
+    },
+    "born": {
+      "date": "1847-Q4",
+      "location": "Sculcoates"
+    },
+    "sources": [
+      {
+        "source": "census 1861 Nags Head Lane, 13, scholar, B Hull."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1847_samuel_roberts",
+    "name": {
+      "full-name": "Samuel Roberts",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Roberts",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Master smith",
+    "relationship": {
+      "parents": {
+        "father": "1813_samuel_roberts",
+        "mother": "1813_martha_chiven"
+      }
+    },
+    "born": {
+      "date": "1847-Q4",
+      "location": "Sculcoates"
+    },
+    "sources": [
+      {
+        "source": "census 1861 Nags Head Lane, 13, scholar, B Hull"
+      },
+      {
+        "source": "census 1871 3 Nags Head Lane, Southcoates, Kingston upon Hull, master smith, B Hull."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  }
+]

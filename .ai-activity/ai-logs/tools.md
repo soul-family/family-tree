@@ -24,7 +24,8 @@
 | skill         | Loads specialized skill definitions for specific task categories       |
 | sqlite3       | Query and back up AI co-developer session database tables              |
 | agent_manager | Orchestrate multiple AI sessions in parallel worktrees                 |
-| task          | Launch subagents for parallel exploration or code generation           |
+| task          | Launch subagents for parallel exploration or code generation |
+| ascii expansion | Widen column gaps and insert blank lines between entries in v1 ASCII trees for verification |
 
 **Notes:**
 

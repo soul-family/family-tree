@@ -1,0 +1,675 @@
+[
+  {
+    "id": "1809_samuel_giles",
+    "name": {
+      "full-name": "Samuel Giles",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_charlotte_sills",
+          "marriedYear": "1834",
+          "marriedDate": "1834-02-10",
+          "marriedPlace": "St Pancras (Old Church)",
+          "main": true
+        }
+      ],
+      "children": [
+        "1836_william_giles"
+      ]
+    },
+    "born": {
+      "date": "1809",
+      "location": ""
+    },
+    "original-info": "Pancras (Old Church), bachelor & spinster, each of the parish",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Pancras (Old Church), bachelor & spinster, each of the parish"
+  },
+  {
+    "id": "xxxx_charlotte_sills",
+    "name": {
+      "full-name": "Charlotte Esther Sills",
+      "firstname": "Charlotte",
+      "middle-name": "Esther",
+      "surname": "Sills",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1809_samuel_giles",
+          "marriedYear": "1834",
+          "marriedDate": "1834-02-10",
+          "marriedPlace": "St Pancras (Old Church)",
+          "main": false
+        }
+      ],
+      "children": [
+        "1836_william_giles"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  // William's marriage 2: Mary Ann Simmonds Soul; 6 May 1880.
+  {
+    "id": "1836_william_giles",
+    "name": {
+      "full-name": "William Thomas Giles",
+      "firstname": "William",
+      "middle-name": "Thomas",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Commercial clerk; managing clerk",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1826_1849__elizabeth_palmer",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1845_mary_soul",
+          "marriedYear": "1880",
+          "marriedDate": "1880-05-06",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1869_elizabeth_giles",
+        "1881_marion_giles",
+        "1882_william_giles",
+        "1884_percy_giles",
+        "1886_edith_giles",
+        "1889_hilda_giles"
+      ],
+      "parents": {
+        "father": "1809_samuel_giles",
+        "mother": ""
+      }
+    },
+    "born": {
+      "date": "1836-01-30",
+      "location": "12 Warren St, White Conduit Fields, parish of St James Clerkenwell"
+    },
+    "died": {
+      "date": "1899-10-17",
+      "location": "19 Courtney Road; bd Abney Park",
+      "date-burried": "Abney"
+    },
+    "original-info": "12 Warren St, White Conduit Fields, parish of St James Clerkenwell, , Claremont Chapel, Pentonville, , & Charlotte Esther ; , Park from 19 Courtney Road; probate London 22 Nov to Charles Frederick Palmer gentleman & Joseph Simmonds Soul bank-manager, effects Â£276 7s 9d",
+    "sources": [
+      {
+        "source": "baptism 10 Apr 1836"
+      },
+      {
+        "source": "census 1881 19 Courtney Rd, Highbury, 45, comm clerk tea trade"
+      },
+      {
+        "source": "census 1891 managing clerk"
+      }
+    ],
+    "remaining-info": "12 Warren St, White Conduit Fields, parish of St James Clerkenwell, , Claremont Chapel, Pentonville, , & Charlotte Esther ; , Park from 19 Courtney Road; probate London 22 Nov to Charles Frederick Palmer gentleman & Joseph Simmonds Soul bank-manager, effects Â£276 7s 9d"
+  },
+  {
+    "id": "1826_1849__elizabeth_palmer",
+    "name": {
+      "full-name": "Elizabeth Palmer",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Palmer",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1836_william_giles",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "children": [
+        "1869_elizabeth_giles"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1869_elizabeth_giles",
+    "name": {
+      "full-name": "Elizabeth Charlotte Giles",
+      "firstname": "Elizabeth",
+      "middle-name": "Charlotte",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1836_william_giles",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "1869-09-26",
+      "location": "175 Prince of Wales Rd, Kentish Town"
+    },
+    "original-info": "175 Prince of Wales Rd, Kentish Town, , & Elizabeth Giles formerly Palmer",
+    "sources": [
+      {
+        "source": "census 1891 19 Courtney Rd, 21"
+      },
+      {
+        "source": "census 1901 19 Courtney Rd, single. 31, music teacher, B London, Kentish Town."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "175 Prince of Wales Rd, Kentish Town, , & Elizabeth Giles formerly Palmer"
+  },
+  {
+    "id": "1880_charles_rudd",
+    "name": {
+      "full-name": "Charles Stacey Harrison Rudd",
+      "firstname": "Charles",
+      "middle-name": "Stacey Harrison",
+      "surname": "Rudd",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1869_elizabeth_giles",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1880",
+      "location": "Plumstead, Kent"
+    },
+    "original-info": "Plumstead, Kent",
+    "sources": [
+      {
+        "source": "census 1901 19 Courtney Rd, boarder. single, 20, draper's clerk, B Thornton Heath."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Plumstead, Kent"
+  },
+  {
+    "id": "1845_mary_soul",
+    "name": {
+      "full-name": "Mary Ann Simmonds Soul",
+      "firstname": "Mary",
+      "middle-name": "Ann Simmonds",
+      "surname": "Soul",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1836_william_giles",
+          "marriedYear": "1880",
+          "marriedDate": "1880-05-06",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1881_marion_giles",
+        "1882_william_giles",
+        "1884_percy_giles",
+        "1886_edith_giles",
+        "1889_hilda_giles"
+      ],
+      "parents": {
+        "father": "joseph_cox",
+        "mother": "1807_ann_simmonds"
+      }
+    },
+    "born": {
+      "date": "1845-05-16",
+      "location": "20 Brunswick Parade"
+    },
+    "original-info": "at 20 Brunswick Parade, , & Ann Soul formerly Simmonds",
+    "sources": [
+      {
+        "source": "census 1901 19 Courtney Rd, widow."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "at 20 Brunswick Parade, , & Ann Soul formerly Simmonds"
+  },
+  {
+    "id": "1881_marion_giles",
+    "name": {
+      "full-name": "Marion Soul Giles",
+      "firstname": "Marion",
+      "middle-name": "Soul",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1836_william_giles",
+        "mother": "1845_mary_soul"
+      }
+    },
+    "born": {
+      "date": "1881-02-19",
+      "location": "19 Courtney Rd"
+    },
+    "original-info": "19 Courtney Rd, 's clerk, & Mary Ann Giles formerly Soul",
+    "sources": [
+      {
+        "source": "census 1901 19 Courtney Rd, 20, bank clerk."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "19 Courtney Rd, 's clerk, & Mary Ann Giles formerly Soul"
+  },
+  {
+    "id": "1882_william_giles",
+    "name": {
+      "full-name": "William Joseph Giles",
+      "firstname": "William",
+      "middle-name": "Joseph",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1836_william_giles",
+        "mother": "1845_mary_soul"
+      }
+    },
+    "born": {
+      "date": "1882-11-19",
+      "location": "19 Courtney Rd"
+    },
+    "original-info": "(WHS)",
+    "sources": [
+      {
+        "source": "census 1901 19 Courtney Rd, 18, bank clerk."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "(WHS)"
+  },
+  {
+    "id": "1884_percy_giles",
+    "name": {
+      "full-name": "Percy Samuel Giles",
+      "firstname": "Percy",
+      "middle-name": "Samuel",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1836_william_giles",
+        "mother": "1845_mary_soul"
+      }
+    },
+    "born": {
+      "date": "1884-08-17",
+      "location": "19 Courtney Rd"
+    },
+    "died": {
+      "date": "1886-04-07",
+      "date-burried": "Abney"
+    },
+    "original-info": "Park",
+    "remaining-info": "Park"
+  },
+  {
+    "id": "1886_edith_giles",
+    "name": {
+      "full-name": "Edith Fearn Giles",
+      "firstname": "Edith",
+      "middle-name": "Fearn",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1885_victor_rudd",
+          "marriedYear": "1908",
+          "marriedDate": "1908",
+          "marriedPlace": "Islington",
+          "main": true
+        }
+      ],
+      "children": [
+        "1910_edith_rudd"
+      ],
+      "parents": {
+        "father": "1836_william_giles",
+        "mother": "1845_mary_soul"
+      }
+    },
+    "born": {
+      "date": "1886-07-14",
+      "location": "19 Courtney Road, Highbury, Islington, London"
+    },
+    "died": {
+      "date": "1974-11-18",
+      "location": "Chadwell Heath Hospital, Redbridge, Essex"
+    },
+    "original-info": "19 Courtney Road, Highbury, Islington, London; Chadwell Heath Hospital, Redbridge, Essex",
+    "sources": [
+      {
+        "source": "census 1901 19 Courtney Rd, 14, milliner apprentice"
+      }
+    ],
+    "remaining-info": "19 Courtney Road, Highbury, Islington, London; Chadwell Heath Hospital, Redbridge, Essex"
+  },
+  {
+    "id": "1885_victor_rudd",
+    "name": {
+      "full-name": "Victor Lionel Patrick Harrison Rudd",
+      "firstname": "Victor",
+      "middle-name": "Lionel Patrick Harrison",
+      "surname": "Rudd",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1886_edith_giles",
+          "marriedYear": "1908",
+          "marriedDate": "1908",
+          "marriedPlace": "Islington",
+          "main": false
+        }
+      ],
+      "children": [
+        "1910_edith_rudd"
+      ]
+    },
+    "born": {
+      "date": "1885-12-13",
+      "location": "Croydon, Surrey"
+    },
+    "died": {
+      "date": "1960-06-12",
+      "location": "Hornchurch, Essex"
+    },
+    "original-info": "Croydon, Surrey; Hornchurch, Essex.",
+    "todo": "parents: missing parents",
+    "remaining-info": "Croydon, Surrey; Hornchurch, Essex."
+  },
+  {
+    "id": "1910_edith_rudd",
+    "name": {
+      "full-name": "Edith Jessie Rudd",
+      "firstname": "Edith",
+      "middle-name": "Jessie",
+      "surname": "Rudd",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1904_frederick_wright",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1885_victor_rudd",
+        "mother": "1886_edith_giles"
+      }
+    },
+    "born": {
+      "date": "1910-07-25",
+      "location": "Highbury, Islington, London"
+    },
+    "died": {
+      "date": "2000-04-20",
+      "location": "Brixham, Devon"
+    },
+    "original-info": "Highbury, Islington, London; Brixham, Devon",
+    "remaining-info": "Highbury, Islington, London; Brixham, Devon"
+  },
+  {
+    "id": "1904_frederick_wright",
+    "name": {
+      "full-name": "Frederick Wright",
+      "firstname": "Frederick",
+      "middle-name": "",
+      "surname": "Wright",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Chemical Manufacturer's Lorry Driver; Transport Worker",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1910_edith_rudd",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "children": [
+        "1938_anthony_wright"
+      ]
+    },
+    "born": {
+      "date": "1904-11-05",
+      "location": "Poplar, Bow, London"
+    },
+    "died": {
+      "date": "1977-04-15",
+      "location": "Brixham, Devon"
+    },
+    "original-info": "Poplar, Bow, London; 1938 Chemical Manufacturer's Lorry Driver; 1961 Transport Worker; Brixham, Devon",
+    "todo": "parents: missing parents",
+    "remaining-info": "Poplar, Bow, London; 1938 Chemical Manufacturer's Lorry Driver; 1961 Transport Worker; Brixham, Devon"
+  },
+  {
+    "id": "1938_anthony_wright",
+    "name": {
+      "full-name": "Anthony Frederick Wright",
+      "firstname": "Anthony",
+      "middle-name": "Frederick",
+      "surname": "Wright",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1940_valerie_hart",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "children": [
+        "1928_1950__julia_wright",
+        "1966_alison_wright",
+        "1977_jonathan_wright"
+      ],
+      "parents": {
+        "father": "1904_frederick_wright",
+        "mother": "1910_edith_rudd"
+      }
+    },
+    "born": {
+      "date": "1938",
+      "location": "Ilford, Essex"
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1940_valerie_hart",
+    "name": {
+      "full-name": "Valerie Ann Hart",
+      "firstname": "Valerie",
+      "middle-name": "Ann",
+      "surname": "Hart",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1938_anthony_wright",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "children": [
+        "1928_1950__julia_wright",
+        "1966_alison_wright",
+        "1977_jonathan_wright"
+      ]
+    },
+    "born": {
+      "date": "1940",
+      "location": "West Ham, London"
+    },
+    "original-info": "1988 School Principal, Ottawa, Ontario, Canada",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "1988 School Principal, Ottawa, Ontario, Canada"
+  },
+  {
+    "id": "1928_1950__julia_wright",
+    "name": {
+      "full-name": "Julia Margaret Wright",
+      "firstname": "Julia",
+      "middle-name": "Margaret",
+      "surname": "Wright",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1938_anthony_wright",
+        "mother": "1940_valerie_hart"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Walthamstow, Essex"
+    },
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1966_alison_wright",
+    "name": {
+      "full-name": "Alison Patricia Wright",
+      "firstname": "Alison",
+      "middle-name": "Patricia",
+      "surname": "Wright",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1938_anthony_wright",
+        "mother": "1940_valerie_hart"
+      }
+    },
+    "born": {
+      "date": "1966",
+      "location": "Bracknell, Berkshire"
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1977_jonathan_wright",
+    "name": {
+      "full-name": "Jonathan Frederick Wright",
+      "firstname": "Jonathan",
+      "middle-name": "Frederick",
+      "surname": "Wright",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1938_anthony_wright",
+        "mother": "1940_valerie_hart"
+      }
+    },
+    "born": {
+      "date": "1977-07-08",
+      "location": "Ottawa, Ontario, Canada"
+    },
+    "died": {
+      "date": "1994-08-04",
+      "location": "Calgary, Alberta, Canada"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1889_hilda_giles",
+    "name": {
+      "full-name": "Hilda Mary Giles",
+      "firstname": "Hilda",
+      "middle-name": "Mary",
+      "surname": "Giles",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1836_william_giles",
+        "mother": "1845_mary_soul"
+      }
+    },
+    "born": {
+      "date": "1889-03-08",
+      "location": ""
+    },
+    "died": {
+      "date": "c1976-1978"
+    },
+    "original-info": "(WHS); D between 1976 - 1978",
+    "sources": [
+      {
+        "source": "census 1901 19 Courtney Rd, 12"
+      }
+    ],
+    "remaining-info": "(WHS); D between 1976 - 1978"
+  }
+]

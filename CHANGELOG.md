@@ -13,14 +13,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 - Combined branch JSON merging all persons by ID
 - Combined family tree diagram connecting all subtrees
 - Scripts for cleaning, extracting, shortening IDs, and generating diagrams
+- **Birth year interval estimation for unknown-birth-year persons (`xxxx_` prefix)**
+- **New ID format for estimated persons: `year1_year2__firstname__maiden_name` (females) or `year1_year2__firstname_surname` (males)**
+- **Dedicated v1 and v2 structure documents for the family tree**
+- **ASCII expansion capability for v1 tree verification (widens column gaps to a minimum separation, inserts blank lines between entries, preserves all text)**
+- **v1 to v2 conversion skill**
 
 ### Changed
 
 - Person IDs shortened to `birthday_firstname_famname`
+- **Person IDs for unknown birth years now use interval format: `year1_year2__firstname__maiden_name`**
 - Mermaid node syntax standardized to `id(label)` with `+` only in labels
 - Edge syntax standardized to `===`
 - Parent extraction uses `s of`/`d of` patterns from info text
 - Info text cleaned of redundant date/place/baptism/burial/census patterns
+- **41 `xxxx_` prefix persons updated with estimated birth year intervals (1600-1950)**
+- **Cross-references updated across all 16 branch JSONs and combined.json**
+- **Family tree report split into journey, comparison, and report; structure details moved to dedicated v1 and v2 structure documents**
 
 ### Fixed
 
@@ -28,6 +37,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 - Removed `1829_hannah_clark` from `james_clarke` and `sarah_clarke` children
 - Combined tree now properly connects subtrees through common persons
 - Parent fields now reference person IDs instead of empty strings or names
+- **4 duplicate edges removed** from combined diagram (Charles Coles-Hannah Coles, Dorothea Wilson-John/Joan/Elaine Soul)
+- **Duplicate person entries merged** (1906_denis_soul + 1907_denis_soul) via fuzzy birthday matching (±1 year) in `_combine_branches.py`
+- Total combined persons reduced from 690 to 689
 
 ## [v1.8.0]
 

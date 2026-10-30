@@ -1,0 +1,744 @@
+[
+  {
+    "id": "1786_thomas_fletcher",
+    "name": {
+      "full-name": "Thomas Fletcher",
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Lieut-Colonel, Ceylon Rifles",
+    "born": {
+      "date": "1786",
+      "location": ""
+    },
+    "died": {
+      "date": "1846-03-08",
+      "location": "Malta"
+    },
+    "original-info": "Memorial stone in the church of Kandy, Sri Lanka. Served in the Peninsula and Walcheren in the 6th Foot; present at Roleia, Vimera and Corruna. Appointed to the Ceylon Regiment in 1810. After 35 years of Civil and Military duties in Ceylon, retired and died at Malta on 8 Mar 1846 aged 60",
+    "todo": "parents: missing parents",
+    "remaining-info": "Memorial stone in the church of Kandy, Sri Lanka. Served in the Peninsula and Walcheren in the 6th Foot; present at Roleia, Vimera and Corruna. Appointed to the Ceylon Regiment in 1810. After 35 years of Civil and Military duties in Ceylon, retired and died at Malta on 8 Mar 1846 aged 60"
+  },
+  {
+    "id": "1796_william_fletcher",
+    "name": {
+      "full-name": "William Fletcher",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Deputy Commissary-General",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_hannah_hone",
+          "marriedYear": "1824",
+          "marriedPlace": "Hobart Town, Van Diemens Land",
+          "marriedDate": "1824",
+          "main": true
+        }
+      ],
+      "children": [
+        "1827_hannah_fletcher",
+        "1832_george_fletcher",
+        "1837_william_fletcher",
+        "1839_joseph_fletcher",
+        "1841_sidney_fletcher",
+        "1843_charles_fletcher",
+        "1845_henry_fletcher",
+        "1848_sarah_fletcher",
+        "1851_emma_fletcher",
+        "1855_margaret_fletcher"
+      ],
+      "parents": {
+        "mother": ""
+      }
+    },
+    "born": {
+      "date": "1796",
+      "location": ""
+    },
+    "died": {
+      "date": "1872-09-14",
+      "location": "Stowellville, New Town, Tasmania"
+    },
+    "original-info": "In September 1812 went to Lisbon as Clerk in the Commissariat Department of the Duke of Wellington's Army. Arrived in Hobart Town in 1824. In 1842 placed on the Commission of the Peace and remained a magistrate until his death, a period of 30 years. Received a large grant of land as a military officer but never settled on it. Built a residence at New Town where he died. Married the , barrister and Chairman of Quarter Sessions. 21 Oct 1872 Supreme Court of Tasmania, will of William Fletcher proved, administration to George William Fletcher son and sole executor",
+    "remaining-info": "In September 1812 went to Lisbon as Clerk in the Commissariat Department of the Duke of Wellington's Army. Arrived in Hobart Town in 1824. In 1842 placed on the Commission of the Peace and remained a magistrate until his death, a period of 30 years. Received a large grant of land as a military officer but never settled on it. Built a residence at New Town where he died. Married the , barrister and Chairman of Quarter Sessions. 21 Oct 1872 Supreme Court of Tasmania, will of William Fletcher proved, administration to George William Fletcher son and sole executor"
+  },
+  {
+    "id": "xxxx_hannah_hone",
+    "name": {
+      "full-name": "Hannah Hone",
+      "firstname": "Hannah",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1796_william_fletcher",
+          "marriedYear": "1824",
+          "marriedPlace": "Hobart Town, Van Diemens Land",
+          "marriedDate": "1824",
+          "main": false
+        }
+      ],
+      "children": [
+        "1827_hannah_fletcher",
+        "1832_george_fletcher",
+        "1837_william_fletcher",
+        "1839_joseph_fletcher",
+        "1841_sidney_fletcher",
+        "1843_charles_fletcher",
+        "1845_henry_fletcher",
+        "1848_sarah_fletcher",
+        "1851_emma_fletcher",
+        "1855_margaret_fletcher"
+      ]
+    },
+    "died": {
+      "date": "1879-10-14",
+      "location": "Stowellville, New Town, Tasmania"
+    },
+    "original-info": "25 Oct 1879 Supreme Court of Tasmania, will of Hannah Fletcher late of Stowellville, New Town, Tasmania, proved, administration to George William Fletcher son and sole executor",
+    "todo": "birthday: missing birthday, parents: missing parents",
+    "remaining-info": "25 Oct 1879 Supreme Court of Tasmania, will of Hannah Fletcher late of Stowellville, New Town, Tasmania, proved, administration to George William Fletcher son and sole executor"
+  },
+  {
+    "id": "1827_hannah_fletcher",
+    "name": {
+      "full-name": "Hannah Mary Anne Fletcher",
+      "firstname": "Hannah",
+      "middle-name": "Mary Anne",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_william_knight",
+          "marriedYear": "1846",
+          "marriedDate": "1846-06-13",
+          "marriedPlace": "St John's, New Town, VDL"
+        }
+      ],
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1827-12-29",
+      "location": "New Town, Van Diemens Land"
+    },
+    "died": {
+      "date": "1885-07-02",
+      "location": "Sandy Bay, Hobart"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_william_knight",
+    "name": {
+      "full-name": "William Knight",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Knight",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1827_hannah_fletcher",
+          "marriedYear": "1846",
+          "marriedDate": "1846-06-13",
+          "marriedPlace": "St John's, New Town, VDL"
+        }
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1832_george_fletcher",
+    "name": {
+      "full-name": "George William Fletcher",
+      "firstname": "George",
+      "middle-name": "William",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1832-12-06",
+      "location": "New Town, Van Diemens Land"
+    },
+    "died": {
+      "date": "1905-06-08",
+      "location": "Moonah, Tasmania"
+    },
+    "remaining-info": ""
+  },
+  // Marriage: William Hone Fletcher and Margaret Smith, 1 June 1863.
+  // Source order: parent1 William, parent2 Margaret.
+  // Both parents are supported regardless of displayed arrows.
+  // All children have explicit birth evidence; do not alter it using assumptions.
+  // Source listing order does not itself establish birth order.
+  {
+    "id": "1837_william_fletcher",
+    "name": {
+      "full-name": "William Hone Fletcher",
+      "firstname": "William",
+      "middle-name": "Hone",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_margaret_smith",
+          "marriedYear": "1863",
+          "marriedDate": "1863-06-01",
+          "marriedPlace": "St Mark's, Warwick, Queensland",
+          "main": true
+        }
+      ],
+      "children": [
+        "1864_jessie_fletcher",
+        "1866_william_fletcher",
+        "1867_george_fletcher",
+        "1871_hannah_fletcher",
+        "1869_walter_fletcher",
+        "1822_1852__sarah_fletcher",
+        "1874_sidney_fletcher",
+        "1876_thomas_fletcher",
+        "1879_florence_fletcher",
+        "1881_euphemia_fletcher"
+      ],
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1837-01-19",
+      "location": "New Town, Van Diemens Land"
+    },
+    "died": {
+      "date": "1914-12-20",
+      "location": "White Swamp, NSW"
+    },
+    "original-info": "New Town, VDL; White Swamp, NSW",
+    "remaining-info": "New Town, VDL; White Swamp, NSW"
+  },
+  {
+    "id": "xxxx_margaret_smith",
+    "name": {
+      "full-name": "Margaret Smith",
+      "firstname": "Margaret",
+      "middle-name": "",
+      "surname": "Smith",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1837_william_fletcher",
+          "marriedYear": "1863",
+          "marriedDate": "1863-06-01",
+          "marriedPlace": "St Mark's, Warwick, Queensland",
+          "main": false
+        }
+      ],
+      "children": [
+        "1864_jessie_fletcher",
+        "1866_william_fletcher",
+        "1867_george_fletcher",
+        "1871_hannah_fletcher",
+        "1869_walter_fletcher",
+        "1822_1852__sarah_fletcher",
+        "1874_sidney_fletcher",
+        "1876_thomas_fletcher",
+        "1879_florence_fletcher",
+        "1881_euphemia_fletcher"
+      ],
+      "parents": {
+        "mother": "1836_george_soul"
+      }
+    },
+    "born": {
+      "date": "c1839",
+      "location": "Dunbar, Haddington, Scotland"
+    },
+    "died": {
+      "date": "1909-08-23",
+      "location": "White Swamp, New South Wales"
+    },
+    "original-info": "Cocksburnpath, Berwick, Scotland, & Jane (Cowan)",
+    "sources": [
+      {
+        "source": "baptism 17 Mar 1838"
+      }
+    ],
+    "remaining-info": "Cocksburnpath, Berwick, Scotland, & Jane (Cowan)"
+  },
+  {
+    "id": "1864_jessie_fletcher",
+    "name": {
+      "full-name": "Jessie Cowan Fletcher",
+      "firstname": "Jessie",
+      "middle-name": "Cowan",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1864-03-18",
+      "location": "Warwick Reserve, Queensland"
+    },
+    "died": {
+      "date": "1940-01-01",
+      "location": "Brisbane, Queensland"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1866_william_fletcher",
+    "name": {
+      "full-name": "William Joseph Hone Fletcher",
+      "firstname": "William",
+      "middle-name": "Joseph Hone",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1866-02-02",
+      "location": "Warwick Reserve, Queensland"
+    },
+    "died": {
+      "date": "c1960",
+      "location": "West Burleigh, Queensland"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1867_george_fletcher",
+    "name": {
+      "full-name": "George Smith Fletcher",
+      "firstname": "George",
+      "middle-name": "Smith",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1867-09-15",
+      "location": "Warwick Reserve, Queensland"
+    },
+    "died": {
+      "date": "1940-11-11",
+      "location": "Boonah, Queensland"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1871_hannah_fletcher",
+    "name": {
+      "full-name": "Hannah Mary Anne Hone Fletcher",
+      "firstname": "Hannah",
+      "middle-name": "Mary Anne Hone",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1871-07-08",
+      "location": "Warwick Reserve, Queensland"
+    },
+    "died": {
+      "date": "1953-04-08",
+      "location": "Warwick, Queensland"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1869_walter_fletcher",
+    "name": {
+      "full-name": "Walter John Watson Fletcher",
+      "firstname": "Walter",
+      "middle-name": "John Watson",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1869-11-26",
+      "location": "Warwick Reserve, Queensland"
+    },
+    "died": {
+      "date": "1885",
+      "location": "White Swamp, NSW"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1822_1852__sarah_fletcher",
+    "name": {
+      "full-name": "Sarah Margaret Fletcher",
+      "firstname": "Sarah",
+      "middle-name": "Margaret",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "c1872",
+      "location": "White Swamp, NSW"
+    },
+    "died": {
+      "date": "c1960",
+      "location": "Brisbane, Queensland"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1874_sidney_fletcher",
+    "name": {
+      "full-name": "Sidney Swettenham Fletcher",
+      "firstname": "Sidney",
+      "middle-name": "Swettenham",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1874",
+      "location": "White Swamp, NSW"
+    },
+    "died": {
+      "date": "1914-01-28",
+      "location": "Old Koreelah, NSW"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1876_thomas_fletcher",
+    "name": {
+      "full-name": "Thomas Charles Fletcher",
+      "firstname": "Thomas",
+      "middle-name": "Charles",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1876-09-26",
+      "location": "Koreelah Creek, NSW"
+    },
+    "died": {
+      "date": "1970-09-18",
+      "location": "Killarney, Queensland"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1879_florence_fletcher",
+    "name": {
+      "full-name": "Florence Fletcher",
+      "firstname": "Florence",
+      "middle-name": "",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1879",
+      "location": "White Swamp, NSW"
+    },
+    "died": {
+      "date": "1879",
+      "location": "White Swamp, NSW"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1881_euphemia_fletcher",
+    "name": {
+      "full-name": "Euphemia Agnes Fletcher",
+      "firstname": "Euphemia",
+      "middle-name": "Agnes",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1837_william_fletcher",
+        "mother": "margaret_mcnab_soul"
+      }
+    },
+    "born": {
+      "date": "1881",
+      "location": "White Swamp, NSW"
+    },
+    "died": {
+      "date": "c1960",
+      "location": "Tweed Heads, NSW"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1839_joseph_fletcher",
+    "name": {
+      "full-name": "Joseph Walter Fletcher",
+      "firstname": "Joseph",
+      "middle-name": "Walter",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1839-02-04",
+      "location": "New Town, VDL"
+    },
+    "died": {
+      "date": "1915-09-05",
+      "location": "Sydney, NSW"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1841_sidney_fletcher",
+    "name": {
+      "full-name": "Sidney Gerald Fletcher",
+      "firstname": "Sidney",
+      "middle-name": "Gerald",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1841-06-15",
+      "location": "New Town, VDL"
+    },
+    "died": {
+      "date": "1874-10-19",
+      "location": "Ipswich, Queensland"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1843_charles_fletcher",
+    "name": {
+      "full-name": "Charles Augustus Fletcher",
+      "firstname": "Charles",
+      "middle-name": "Augustus",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1843-09-10",
+      "location": "New Town, VDL"
+    },
+    "died": {
+      "date": "1913-09-19",
+      "location": "Hobart, Tasmania"
+    },
+    "remaining-info": ""
+  },
+  // Source omits B before 24 Nov 1845. Retain the existing birth interpretation
+  // from its position in the entry, while flagging the missing marker.
+  {
+    "id": "1845_henry_fletcher",
+    "name": {
+      "full-name": "Henry Wellesly Fletcher",
+      "firstname": "Henry",
+      "middle-name": "Wellesly",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1845-11-24",
+      "location": "New Town, VDL"
+    },
+    "died": {
+      "date": "1853-09-18",
+      "location": "New Town, VDL"
+    },
+    "remaining-info": ""
+  },
+  // Source records death on 9 Jan 1990; retain without correction.
+  {
+    "id": "1848_sarah_fletcher",
+    "name": {
+      "full-name": "Sarah Augusta Fletcher",
+      "firstname": "Sarah",
+      "middle-name": "Augusta",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1848-02-17",
+      "location": "New Town, VDL"
+    },
+    "died": {
+      "date": "1990-01-09",
+      "location": "New Town, Tasmania"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1851_emma_fletcher",
+    "name": {
+      "full-name": "Emma Sophia Fletcher",
+      "firstname": "Emma",
+      "middle-name": "Sophia",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1851-01-17",
+      "location": "New Town, VDL"
+    },
+    "died": {
+      "date": "1876-02-08",
+      "location": "New Town, Tasmania"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1855_margaret_fletcher",
+    "name": {
+      "full-name": "Margaret Elizabeth Fletcher",
+      "firstname": "Margaret",
+      "middle-name": "Elizabeth",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1796_william_fletcher",
+        "mother": "xxxx_hannah_hone"
+      }
+    },
+    "born": {
+      "date": "1855-01-25",
+      "location": "New Town, VDL"
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  }
+]

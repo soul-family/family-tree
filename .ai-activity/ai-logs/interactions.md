@@ -210,3 +210,69 @@
 1. Merged contact.html and license.html content into about.html with Contact and License sections
 
 **Result:** About page now contains all site information. Contact and sitemap pages removed.
+
+## Interaction: Family tree report restructure and v1 to v2 conversion preparation
+
+**Time:** 2026-10-12
+
+**Task:** Restructure the family tree report into separate documents and prepare the v1 to v2 conversion workflow.
+
+**Actions:**
+
+1. Split the family tree report so it holds the journey, the comparison, and the report; moved the v1 and v2 structure details into dedicated structure documents.
+2. Documented the v1 ASCII structure, including notation, layout rules, and parsing challenges.
+3. Documented the v2 structure, including JSON fields, ID conventions, and Mermaid edge constraints.
+4. Created an ASCII expansion capability that widens column gaps to a minimum separation and inserts a blank line before each person entry in v1 trees, writing expanded copies for verification; original branch pages are not modified.
+5. Expanded and verified all 16 branch trees: every text segment preserved, columns clearly separated, entries separated by blank lines.
+6. Documented the v1 to v2 conversion process as a reusable skill.
+
+**Result:** Report restructured into comparison, journey, and report; v1 and v2 structures documented separately; expanded ASCII verification copies generated for all branches with horizontal and vertical expansion; conversion skill available. Data and diagram work paused until ASCII recognition completes.
+
+## Interaction: ASCII expansion connector continuity and horizontal lines
+
+**Time:** 2026-10-13
+
+**Task:** Keep vertical connector runs continuous in the expanded ASCII trees and lengthen the horizontal branch lines.
+
+**Actions:**
+
+1. Fixed the expansion so no blank line is inserted between a connector run and the person entry it leads into when both share a pipe column, matching the continuous connections in the original trees.
+2. Lengthened short underscore runs in structural positions (entry bars, corners, short branch lines) to the minimum gap; longer lines are preserved and underscores inside words, links and URLs are untouched.
+3. Treated text following a closing line that carries text as continuation of that text, not as a new person entry.
+4. Recognized connector runs with internal spacing (pipes separated by spaces) as connector lines.
+5. Re-expanded and verified all 16 branch trees: all text segments preserved exactly, no small column gaps remain, no short structural underscore runs remain, and every connector run stays continuous.
+
+**Result:** Expanded ASCII copies for all 16 branches keep the original vertical connections continuous, lengthen the horizontal lines to the minimum gap, and preserve every text segment; blank line insertions reduced from 514 to 138 across the branches. Conversion skill and structure reference updated to match.
+
+## Interaction: ASCII expansion column realignment for vertical connectors
+
+**Time:** 2026-10-13
+
+**Task:** Keep every vertical connector aligned after the horizontal expansion, line by line against the original.
+
+**Actions:**
+
+1. Compared the expanded trees against the originals pipe column by pipe column and found 119 columns where the same hand-drawn column landed on different expanded columns, because one line reached it through leading indentation and another through a widened gap or a lengthened bar.
+2. Added a second horizontal phase that walks the anchor columns (pipe characters and marker segment starts) from left to right and adds the missing characters in front of the segment holding each anchor, so every line puts the same anchor on the same expanded column. Characters are only ever added, never removed.
+3. Made the second phase put the extra characters directly in front of a pipe that sits inside a bar or corner, lengthening the underscore run in front of it, so the bar grows to meet its connector instead of being split by spaces.
+4. Restricted the anchors to pipes and marker segments so nothing is inserted inside sentences, and kept the rule that a gap in front of a pipe is never widened.
+5. Restored the rule that no blank line goes between a connector run and the entry it leads into when both share a pipe column, so connector runs stay attached.
+6. Verified all 16 branches: every text segment preserved exactly, no unintended small gaps, no short structural underscore runs, pipe columns aligned, and connector runs continuous.
+
+**Result:** Expanded ASCII copies for all 16 branches now have continuous vertical connectors: zero pipe columns are misaligned, against 119 before. Horizontal bars, corners and entry bars are lengthened to the minimum gap, and where a bar had to make room for its connector the bar itself grew. Blank line insertions reduced from 514 to 135. Conversion skill and structure reference updated to match.
+
+## Interaction: ASCII expansion sibling marker alignment
+
+**Time:** 2026-10-13
+
+**Task:** Align the child markers of one parent the way they were drawn, so the connection from the main column to each sibling branch matches the original.
+
+**Actions:**
+
+1. Compared the expanded trees against the originals line by line and found the sibling markers did not line up: the gap in front of a child marker was being widened, which moved one sibling's marker while another's stayed put.
+2. Stopped widening gaps in front of segments that start with `|`, `_` or `=`, so a pipe or a child marker keeps its column in phase 1.
+3. Added the columns where sibling names start as phase 2 anchors, so the markers of one parent line up; closing the gap then lengthens the bar instead of tearing the marker off its pipe.
+4. Restricted structural underscore runs to those that start a segment or follow a `|` or `=`, so marker bars inside a text column (for example text|_Name) are lengthened and anchored too, while underscores inside words, links and URLs stay untouched.
+5. Verified all 16 branches: text segments preserved exactly, no unintended small gaps, no short structural underscore runs, pipe columns aligned, sibling name columns aligned, and connector runs continuous.
+
+**Result:** Expanded ASCII copies for all 16 branches keep the whole path from the main column to each sibling branch the way it was drawn: the child pipe, the marker bar at a constant distance from it, and the sibling names on one column. A bar keeps the same offset from its parent pipe as in the original, and grows when it has to close a gap. Conversion skill and structure reference updated to match.

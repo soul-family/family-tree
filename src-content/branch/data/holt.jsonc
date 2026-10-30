@@ -1,0 +1,698 @@
+[
+  {
+    "id": "1786_thomas_holt",
+    "name": {
+      "full-name": "Thomas Holt",
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Coal merchant; banker's clerk",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1776_1842__helen_britten",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "children": [
+        "1836_helen_holt",
+        "1838_ann_holt",
+        "1841_thomas_holt",
+        "1862_william_holt",
+        "1845_robert_holt",
+        "1823_alexander_holt",
+        "1830_mary_holt",
+        "1833_jessie_holt",
+        "1830_andrew_holt"
+      ]
+    },
+    "born": {
+      "date": "1786",
+      "location": "Warwickshire"
+    },
+    "died": {
+      "date": "1868-12-06",
+      "location": "36 Thornhill Sq, Islington",
+      "date-burried": "Abney"
+    },
+    "original-info": "1846 directory coal merchant, 5 Up. Brunswick ter. Barnsbury Rd; aged 68, Park grave 1168 sq 96, from 36 Thornhill Sq, Islington",
+    "sources": [
+      {
+        "source": "census 1861 36 Thornhill Sq., 60, banker's clerk, B Warwickshire"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": "1846 directory coal merchant, 5 Up. Brunswick ter. Barnsbury Rd; aged 68, Park grave 1168 sq 96, from 36 Thornhill Sq, Islington"
+  },
+  {
+    "id": "1776_1842__helen_britten",
+    "name": {
+      "full-name": "Helen Britten",
+      "firstname": "Helen",
+      "middle-name": "",
+      "surname": "Britten",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1786_thomas_holt",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "children": [
+        "1836_helen_holt",
+        "1838_ann_holt",
+        "1841_thomas_holt",
+        "1862_william_holt",
+        "1845_robert_holt",
+        "1823_alexander_holt",
+        "1830_mary_holt",
+        "1833_jessie_holt",
+        "1830_andrew_holt"
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "Middlesex"
+    },
+    "died": {
+      "date": "1874-09-21",
+      "location": "36 Thornhill Sq, Islington",
+      "date-burried": "Abney"
+    },
+    "original-info": "66, Park grave 1168 sq 96, from 36 Thornhill Sq; will proved 17 Nov 1874 by Alexander Goode Holt of 6 Tower St, City of London, wine merchant, son, sole executor",
+    "sources": [
+      {
+        "source": "census 1871 36 Thornhill Sq, widow, 62, annuitant, B Middlesex"
+      }
+    ],
+    "todo": "birthday: missing birthday, parents: missing parents",
+    "remaining-info": "66, Park grave 1168 sq 96, from 36 Thornhill Sq; will proved 17 Nov 1874 by Alexander Goode Holt of 6 Tower St, City of London, wine merchant, son, sole executor"
+  },
+  // Thomas and Helen's children: sorted by earliest, then latest birth year.
+  {
+    "id": "1836_helen_holt",
+    "name": {
+      "full-name": "Helen Britten Holt",
+      "firstname": "Helen",
+      "middle-name": "Britten",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1836-08-09",
+      "location": "5 Brunswick Terrace, Islington"
+    },
+    "died": {
+      "date": "1892-06-28",
+      "location": "The Deaconesses Institution, Tottenham N",
+      "date-burried": "Abney"
+    },
+    "original-info": "at 5 Brunswick Terrace, Islington, , Claremont Chapel, Pentonville, & Helen his wife ; , Park 2 July, 56, from The Deaconesses Institution, Tottenham N gv 1168 sq 96",
+    "sources": [
+      {
+        "source": "baptism 30 Oct 1836"
+      }
+    ],
+    "remaining-info": "at 5 Brunswick Terrace, Islington, , Claremont Chapel, Pentonville, & Helen his wife ; , Park 2 July, 56, from The Deaconesses Institution, Tottenham N gv 1168 sq 96"
+  },
+  {
+    "id": "1838_ann_holt",
+    "name": {
+      "full-name": "Ann Bruce Holt",
+      "firstname": "Ann",
+      "middle-name": "Bruce",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1836_george_soul",
+          "marriedYear": "1865",
+          "marriedDate": "1865-11-09",
+          "marriedPlace": "Barnsbury Chapel, Islington"
+        }
+      ],
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1838-01-18",
+      "location": "5 Brunswick Terrace, Islington"
+    },
+    "died": {
+      "date": "1900-01-06",
+      "location": "19 Drayton Park N",
+      "date-burried": "Highgate"
+    },
+    "original-info": "at 5 Brunswick Terrace, Islington, , & Helen Holt formerly Britten; Claremont Chapel, Pentonville; , 19 Drayton Park N, 61, Cemetery gv 33590 sq 148",
+    "sources": [
+      {
+        "source": "baptism 11 Mar 1838"
+      }
+    ],
+    "remaining-info": "at 5 Brunswick Terrace, Islington, , & Helen Holt formerly Britten; Claremont Chapel, Pentonville; , 19 Drayton Park N, 61, Cemetery gv 33590 sq 148"
+  },
+  {
+    "id": "1841_thomas_holt",
+    "name": {
+      "full-name": "Thomas Richard Holt",
+      "firstname": "Thomas",
+      "middle-name": "Richard",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Merchant's clerk; bank manager",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1831_1861__anne_fluker",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1877_thomas_holt",
+        "1879_cecil_holt",
+        "1880_ralph_holt",
+        "1881_mabel_holt"
+      ],
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1841",
+      "location": "Brunswick Terrace"
+    },
+    "died": {
+      "date": "1913-03-10",
+      "location": "27 Princes Avenue, Finchley",
+      "date-burried": "Highgate"
+    },
+    "original-info": "13 July 1874 named joint executor of the will of his 17 Nov 1874 at Cairo in Egypt when the will was proved; 1895-1903 churchwarden St George's Tufnell Park; , Cemetery from 27 Princes Avenue, Finchley, 73, gv 32742 sq 147",
+    "sources": [
+      {
+        "source": "census 1841 Brunswick Terrace"
+      },
+      {
+        "source": "census 1861 36 Thornhill Sq, 21, merchant's clerk"
+      }
+    ],
+    "remaining-info": "13 July 1874 named joint executor of the will of his 17 Nov 1874 at Cairo in Egypt when the will was proved; 1895-1903 churchwarden St George's Tufnell Park; , Cemetery from 27 Princes Avenue, Finchley, 73, gv 32742 sq 147"
+  },
+  {
+    "id": "1831_1861__anne_fluker",
+    "name": {
+      "full-name": "Anne Elizabeth Fluker",
+      "firstname": "Anne",
+      "middle-name": "Elizabeth",
+      "surname": "Fluker",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1841_thomas_holt",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1877_thomas_holt",
+        "1879_cecil_holt",
+        "1880_ralph_holt",
+        "1881_mabel_holt"
+      ]
+    },
+    "died": {
+      "date": "1898-03-08",
+      "location": "130 Tufnell Park Rd",
+      "date-burried": "Highgate"
+    },
+    "original-info": "Cemetery 12 Mar, aged 50, from 130 Tufnell Park Rd, gv 32742 sq 147",
+    "todo": "birthday: missing birthday, parents: missing parents",
+    "remaining-info": "Cemetery 12 Mar, aged 50, from 130 Tufnell Park Rd, gv 32742 sq 147"
+  },
+  // Thomas Richard and Anne Elizabeth's children: birth-year order.
+  {
+    "id": "1877_thomas_holt",
+    "name": {
+      "full-name": "Thomas James Holt",
+      "firstname": "Thomas",
+      "middle-name": "James",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1841_thomas_holt",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "1877-09-08",
+      "location": "Cairo"
+    },
+    "died": {
+      "date": "1934-01-12",
+      "location": "Scarborough",
+      "date-burried": "Scarborough, inscrip"
+    },
+    "original-info": "Cairo, , & Anne Elizabeth (Fluker); , Highgate Cemetery gv 32742",
+    "remaining-info": "Cairo, , & Anne Elizabeth (Fluker); , Highgate Cemetery gv 32742"
+  },
+  // Source '=' documents marriage; date unknown.
+  {
+    "id": "1879_cecil_holt",
+    "name": {
+      "full-name": "Cecil Bruce Holt",
+      "firstname": "Cecil",
+      "middle-name": "Bruce",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1841_thomas_holt",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "1879-01-07",
+      "location": ""
+    },
+    "died": {
+      "date": "1952-06-25",
+      "location": "16 Forest Side, Buckhurst Hill, Epping",
+      "date-burried": "Highgate"
+    },
+    "original-info": "St George's Tufnell Park, & Anne Elizabeth, of 130 Tufnell Park Road; , Cemetery, 73, from 16 Forest Side, Buckhurst Hill, Epping, gv 33607 sq 147",
+    "sources": [
+      {
+        "source": "baptism 23 Mar 1879"
+      }
+    ],
+    "remaining-info": "St George's Tufnell Park, & Anne Elizabeth, of 130 Tufnell Park Road; , Cemetery, 73, from 16 Forest Side, Buckhurst Hill, Epping, gv 33607 sq 147"
+  },
+  // Source '=' documents marriage; date unknown.
+  // Ralph Jesse Fluker first-listed; Josephine second-listed.
+  {
+    "id": "1880_ralph_holt",
+    "name": {
+      "full-name": "Ralph Jesse Fluker Holt",
+      "firstname": "Ralph",
+      "middle-name": "Jesse Fluker",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1841_thomas_holt",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "1880-08-18",
+      "location": ""
+    },
+    "died": {
+      "date": "1932-01-13",
+      "location": "Scarborough",
+      "date-burried": "Scarborough, inscrip"
+    },
+    "original-info": "St George's Tufnell Park, & Anne Elizabeth Holt, of 130 Tufnell Park Rd; , Highgate Cemetery gv 32742",
+    "sources": [
+      {
+        "source": "baptism 17 Oct 1880"
+      }
+    ],
+    "remaining-info": "St George's Tufnell Park, & Anne Elizabeth Holt, of 130 Tufnell Park Rd; , Highgate Cemetery gv 32742"
+  },
+  {
+    "id": "1881_mabel_holt",
+    "name": {
+      "full-name": "Mabel Claire Holt",
+      "firstname": "Mabel",
+      "middle-name": "Claire",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1841_thomas_holt",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "1881-12-18",
+      "location": ""
+    },
+    "died": {
+      "date": "1954-01-31"
+    },
+    "original-info": "St George's Tufnell Park, & Anne Elizabeth Holt of 130 Tufnell Park Rd; , inscrip Highgate Cemetery gv 32742 sq 147",
+    "sources": [
+      {
+        "source": "baptism 19 Mar 1882"
+      }
+    ],
+    "remaining-info": "St George's Tufnell Park, & Anne Elizabeth Holt of 130 Tufnell Park Rd; , inscrip Highgate Cemetery gv 32742 sq 147"
+  },
+  {
+    "id": "1866_1896__john_sutton",
+    "name": {
+      "full-name": "John Henry Sutton",
+      "firstname": "John",
+      "middle-name": "Henry",
+      "surname": "Sutton",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1881_mabel_holt",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": ""
+        }
+      ]
+    },
+    "died": {
+      "date": "1933-11-13",
+      "location": "inscrip Highgate Cemetery gv"
+    },
+    "original-info": "inscrip Highgate Cemetery gv 32742 sq 147",
+    "todo": "birthday: missing birthday, parents: missing parents",
+    "remaining-info": "inscrip Highgate Cemetery gv 32742 sq 147"
+  },
+  {
+    "id": "1862_william_holt",
+    "name": {
+      "full-name": "William Henry Holt",
+      "firstname": "William",
+      "middle-name": "Henry",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1862",
+      "location": ""
+    },
+    "died": {
+      "date": "1862-02-25",
+      "location": "aged",
+      "date-burried": "Abney"
+    },
+    "original-info": "aged 21, Park gv 1168 sq 96",
+    "remaining-info": "aged 21, Park gv 1168 sq 96"
+  },
+  {
+    "id": "1845_robert_holt",
+    "name": {
+      "full-name": "Robert Bruce Holt",
+      "firstname": "Robert",
+      "middle-name": "Bruce",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1845",
+      "location": ""
+    },
+    "died": {
+      "date": "1845-02-14",
+      "location": "aged",
+      "date-burried": "Abney"
+    },
+    "original-info": "aged 18 months, Park gv 1168 sq 96",
+    "remaining-info": "aged 18 months, Park gv 1168 sq 96"
+  },
+  {
+    "id": "1823_alexander_holt",
+    "name": {
+      "full-name": "Alexander Goode Holt",
+      "firstname": "Alexander",
+      "middle-name": "Goode",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Wine merchant",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_elizabeth_freeman",
+          "marriedYear": "1873",
+          "marriedDate": "1873-Q2",
+          "marriedPlace": "Islington"
+        }
+      ],
+      "children": [
+        "1881_edith_holt"
+      ],
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1823",
+      "location": "Islington"
+    },
+    "died": {
+      "date": "1938-02-11",
+      "location": "Highgate Cemetery",
+      "date-burried": "Highgate"
+    },
+    "original-info": "1874 directory, wine merchant, 6 Tower St, City; aged 91, Cemetery gv 33606 sq 14",
+    "sources": [
+      {
+        "source": "census 1871 36 Thornhill Sq, 24, commercial clerk"
+      },
+      {
+        "source": "census 1881 11 St John's Park, Islington, 34, wine merchant, B Islington"
+      },
+      {
+        "source": "census 1901 11 St John's Pk, 54, wine merchant, employer"
+      }
+    ],
+    "remaining-info": "1874 directory, wine merchant, 6 Tower St, City; aged 91, Cemetery gv 33606 sq 14"
+  },
+  {
+    "id": "xxxx_elizabeth_freeman",
+    "name": {
+      "full-name": "Elizabeth Freeman",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Freeman",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1823_alexander_holt",
+          "marriedYear": "1873",
+          "marriedDate": "1873-Q2",
+          "marriedPlace": "Islington"
+        }
+      ],
+      "children": [
+        "1881_edith_holt"
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "Islington"
+    },
+    "died": {
+      "date": "1921-11-28",
+      "location": "Highgate Cemetery",
+      "date-burried": "Highgate"
+    },
+    "original-info": "Cemetery gv 33606 sq 147",
+    "sources": [
+      {
+        "source": "census 1881 11 St John's Park, 34, B Islington"
+      },
+      {
+        "source": "census 1901 11 St John's Pk, 54"
+      }
+    ],
+    "todo": "birthday: missing birthday, parents: missing parents",
+    "remaining-info": "Cemetery gv 33606 sq 147"
+  },
+  {
+    "id": "1881_edith_holt",
+    "name": {
+      "full-name": "Edith Holt",
+      "firstname": "Edith",
+      "middle-name": "",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1823_alexander_holt",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "1881",
+      "location": "Islington"
+    },
+    "sources": [
+      {
+        "source": "census 1881 11 St John's Park, 11 months, B Islington"
+      },
+      {
+        "source": "census 1901 11 St John's Park, 20."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1830_mary_holt",
+    "name": {
+      "full-name": "Mary Jane Holt",
+      "firstname": "Mary",
+      "middle-name": "Jane",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1830",
+      "location": ""
+    },
+    "died": {
+      "date": "1907-04-06",
+      "location": "12 Blomfield St, Paddington",
+      "date-burried": "Abney"
+    },
+    "original-info": "at 12 Blomfield St, Paddington, 58, spinster, of independent means; Park gv 1168 sq 96, from 12 Blomfield St W; 22 Apr 1907 letters of administration to Jessie Bird Holt sister, effects '473:17:2",
+    "remaining-info": "at 12 Blomfield St, Paddington, 58, spinster, of independent means; Park gv 1168 sq 96, from 12 Blomfield St W; 22 Apr 1907 letters of administration to Jessie Bird Holt sister, effects '473:17:2"
+  },
+  {
+    "id": "1833_jessie_holt",
+    "name": {
+      "full-name": "Jessie Bird Holt",
+      "firstname": "Jessie",
+      "middle-name": "Bird",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1833",
+      "location": "Middlesex"
+    },
+    "died": {
+      "date": "1912-04-03",
+      "location": "The Asylum, Portsmouth",
+      "date-burried": "Highgate"
+    },
+    "original-info": "Cemetery from Milton Hospital, Southsea, 61, gv 38663 sq 147; 10 May 1912 'of 25 Granada Rd, Southsea, Hants, formerly of The Beach House Hotel, Deal, Kent', D at The Asylum, Portsmouth, probate to Andrew Fisher Holt brother, effects '656:18:1",
+    "sources": [
+      {
+        "source": "census 1871 36 Thornhill Sq, 20, B Middlesex"
+      }
+    ],
+    "remaining-info": "Cemetery from Milton Hospital, Southsea, 61, gv 38663 sq 147; 10 May 1912 'of 25 Granada Rd, Southsea, Hants, formerly of The Beach House Hotel, Deal, Kent', D at The Asylum, Portsmouth, probate to Andrew Fisher Holt brother, effects '656:18:1"
+  },
+  {
+    "id": "1830_andrew_holt",
+    "name": {
+      "full-name": "Andrew Fisher Holt",
+      "firstname": "Andrew",
+      "middle-name": "Fisher",
+      "surname": "Holt",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Bank manager",
+    "relationship": {
+      "parents": {
+        "father": "1786_thomas_holt",
+        "mother": "helen"
+      }
+    },
+    "born": {
+      "date": "1830",
+      "location": "Middlesex"
+    },
+    "died": {
+      "date": "1915-07-23",
+      "location": "25 Granada Rd, Southsea, Hants",
+      "date-burried": "Highgate"
+    },
+    "original-info": "1887 named 'of The National Provincial Bank of London' an executor of the will of George Simmonds Soul; , 25 Granada Rd, Southsea, Hants, 62, bank manager (retired), informant Alex G. Holt brother, of 30 Summerland Mansions, Muswell Hill, N; Cemetery from 25 Granada Rd, gv 38663 sq 147; 14 Sept 1915 probate to George Herbert Soul & Thomas James Holt nephews, effects '1159:1:4",
+    "sources": [
+      {
+        "source": "census 1871 36 Thornhill Sq, 18, banker's clerk, B Middlesex"
+      }
+    ],
+    "remaining-info": "1887 named 'of The National Provincial Bank of London' an executor of the will of George Simmonds Soul; , 25 Granada Rd, Southsea, Hants, 62, bank manager (retired), informant Alex G. Holt brother, of 30 Summerland Mansions, Muswell Hill, N; Cemetery from 25 Granada Rd, gv 38663 sq 147; 14 Sept 1915 probate to George Herbert Soul & Thomas James Holt nephews, effects '1159:1:4"
+  }
+]

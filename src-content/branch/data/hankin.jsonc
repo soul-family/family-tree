@@ -1,0 +1,662 @@
+[
+  {
+    "id": "1806_thomas_hankin",
+    "name": {
+      "full-name": "Thomas Hankin",
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Licensed victualler",
+    "relationship": {
+      "children": [
+        "1918_charles_hankin"
+      ]
+    },
+    "born": {
+      "date": "1806",
+      "location": ""
+    },
+    "died": {
+      "date-burried": "3 Oct 1873 Brompton Cemetery"
+    },
+    "original-info": "at Gloucester Terrace, Gloucester Rd, Kensington, buried 3 Oct 1873 Brompton Cemetery",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "at Gloucester Terrace, Gloucester Rd, Kensington"
+  },
+  {
+    "id": "1852_thomas_hankin",
+    "name": {
+      "full-name": "Thomas Hankin",
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Licensed victualler",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1854_hannah_coles",
+          "marriedYear": "1877",
+          "marriedDate": "1877-03-14",
+          "marriedPlace": "St George's Tufnell Park"
+        }
+      ],
+      "children": [
+        "1881_thomas_hankin",
+        "1887_gladys_hankin"
+      ],
+      "parents": {
+        "father": "1806_thomas_hankin",
+        "mother": ""
+      }
+    },
+    "born": {
+      "date": "1852",
+      "location": "Pimlico"
+    },
+    "original-info": "1886 directory wine merchants, Thomas Hankin, 34 Gloucester rd & 29 30 & 31 Victoria grove Kensington W",
+    "sources": [
+      {
+        "source": "census 1881 1 Lupus St (Pimlico), 29, licensed victualler, B Paddington"
+      },
+      {
+        "source": "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, 38, licensed Victualler, B Paddington"
+      },
+      {
+        "source": "census 1901 Swan Hotel, New Alresford, Hants, 47, hotel proprietor, employer, B Paddington, London."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "1886 directory wine merchants, Thomas Hankin, 34 Gloucester rd & 29 30 & 31 Victoria grove Kensington W"
+  },
+  {
+    "id": "1854_hannah_coles",
+    "name": {
+      "full-name": "Hannah Amelia Coles",
+      "firstname": "Hannah",
+      "middle-name": "Amelia",
+      "surname": "Coles",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1852_thomas_hankin",
+          "marriedYear": "1877",
+          "marriedDate": "1877-03-14",
+          "marriedPlace": "St George's Tufnell Park"
+        }
+      ],
+      "children": [
+        "1881_thomas_hankin",
+        "1887_gladys_hankin"
+      ],
+      "parents": {
+        "mother": "1791_john_soul"
+      }
+    },
+    "born": {
+      "date": "1854-08-21",
+      "location": "1 Bird in Hand Court, City of London"
+    },
+    "died": {
+      "date": "1954-02-07",
+      "location": "44 The Avenue, Alresford"
+    },
+    "original-info": "1 Bird in Hand Court, City of London, , & Hannah Coles formerly Clark; 1931 Hanmpshire Directory 2 Avenue Villas, New Alresford; , of 44 The Avenue, Alresford, widow, probate Winchester to William Medley Coles & John Keith Louis Wenham company directors, effects Â£6,184 15s 1d",
+    "sources": [
+      {
+        "source": "census 1871 Half Moon Inn, Half Moon Lane, Dulwich, 16, B Middx Cheapside"
+      },
+      {
+        "source": "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, B Cheapside, London"
+      },
+      {
+        "source": "census 1901 Swan Hotel, New Alresford, Hants, 46"
+      }
+    ],
+    "remaining-info": "1 Bird in Hand Court, City of London, , & Hannah Coles formerly Clark; 1931 Hanmpshire Directory 2 Avenue Villas, New Alresford; , of 44 The Avenue, Alresford, widow, probate Winchester to William Medley Coles & John Keith Louis Wenham company directors, effects Â£6,184 15s 1d"
+  },
+  {
+    "id": "1881_thomas_hankin",
+    "name": {
+      "full-name": "Thomas Charles Hankin",
+      "firstname": "Thomas",
+      "middle-name": "Charles",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Motor engineer",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1879_jane_bailey",
+          "marriedYear": "1915",
+          "marriedDate": "1915-04-08",
+          "marriedPlace": "St George's Tufnell Park",
+          "main": true
+        }
+      ],
+      "children": [
+        "1918_charles_hankin",
+        "1947_peter_hankin",
+        "1949_diana_hankin",
+        "1950_john_hankin",
+        "1984_emily_hankin",
+        "1988_alice_hankin"
+      ],
+      "parents": {
+        "father": "1852_thomas_hankin",
+        "mother": "1854_hannah_coles"
+      }
+    },
+    "born": {
+      "date": "1881",
+      "location": "Pimlico"
+    },
+    "original-info": "1931 Hampshire Directory, Glenroy, Grange Rd; F.I.M.T., motor engnr, West St, T(el)N(o)28, New Alresford; 1939 Hampshire Directory, Hankin's Ltd, motor engnrs, West St, TN28",
+    "sources": [
+      {
+        "source": "census 1881 1 Lupus St, aged 2 months, B Pimlico"
+      },
+      {
+        "source": "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, 10, B Pimlico"
+      },
+      {
+        "source": "census 1901 2 to 7 Paternoster Row, City of London, 20, apprentice draper, B Pimlico, London"
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "1931 Hampshire Directory, Glenroy, Grange Rd; F.I.M.T., motor engnr, West St, T(el)N(o)28, New Alresford; 1939 Hampshire Directory, Hankin's Ltd, motor engnrs, West St, TN28"
+  },
+  {
+    "id": "1879_jane_bailey",
+    "name": {
+      "full-name": "Jane Selina Bailey",
+      "firstname": "Jane",
+      "middle-name": "Selina",
+      "surname": "Bailey",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1881_thomas_hankin",
+          "marriedYear": "1915",
+          "marriedDate": "1915-04-08",
+          "marriedPlace": "St George's Tufnell Park",
+          "main": false
+        }
+      ],
+      "children": [
+        "1918_charles_hankin",
+        "1947_peter_hankin",
+        "1949_diana_hankin",
+        "1950_john_hankin",
+        "1984_emily_hankin",
+        "1988_alice_hankin"
+      ],
+      "parents": {
+        "mother": "1845_frank_bailey"
+      }
+    },
+    "born": {
+      "date": "1879-03-18",
+      "location": "Tufnell Park"
+    },
+    "original-info": "St George's Tufnell Park, -binder & Emily Bailey, of 51 Russell Rd",
+    "sources": [
+      {
+        "source": "baptism 25 May 1879"
+      },
+      {
+        "source": "census 1901 Tasma, Anson Rd, Islington, 22. M 8 Apr 1915 St George's Tufnell Park, 36, spinster, of 'Tasma', Anson Rd, Tufnell Park, d of Frank Evans Bailey publishers' book-binder, & 39, bachelor, engineer, of 'Glenroy', Southampton Rd, Alresford, s of Thomas Hankin (decd) licensed victualler."
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "St George's Tufnell Park, -binder & Emily Bailey, of 51 Russell Rd"
+  },
+  {
+    "id": "1918_charles_hankin",
+    "name": {
+      "full-name": "Charles Alexander Hankin",
+      "firstname": "Charles",
+      "middle-name": "Alexander",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1881_thomas_hankin",
+        "mother": "1879_jane_bailey"
+      }
+    },
+    "born": {
+      "date": "1918-10-30",
+      "location": ""
+    },
+    "died": {
+      "date": "2000-06-18"
+    },
+    "original-info": "1929-1935 Wellingborough School, Northants",
+    "remaining-info": "1929-1935 Wellingborough School, Northants"
+  },
+  {
+    "id": "1947_peter_hankin",
+    "name": {
+      "full-name": "Peter Alexander Hankin",
+      "firstname": "Peter",
+      "middle-name": "Alexander",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_margaret_dores",
+          "marriedYear": "1977",
+          "marriedPlace": "",
+          "marriedDate": "1977"
+        }
+      ],
+      "children": [
+        "1979_lorna_hankin",
+        "1983_nicola_hankin",
+        "1986_david_hankin"
+      ],
+      "parents": {
+        "father": "1881_thomas_hankin",
+        "mother": "1879_jane_bailey"
+      }
+    },
+    "born": {
+      "date": "1947",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_margaret_dores",
+    "name": {
+      "full-name": "Margaret Janet Dores",
+      "firstname": "Margaret",
+      "middle-name": "Janet",
+      "surname": "Dores",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1947_peter_hankin",
+          "marriedYear": "1977",
+          "marriedPlace": "",
+          "marriedDate": "1977"
+        }
+      ],
+      "children": [
+        "1979_lorna_hankin",
+        "1983_nicola_hankin",
+        "1986_david_hankin"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1979_lorna_hankin",
+    "name": {
+      "full-name": "Lorna Kate Hankin",
+      "firstname": "Lorna",
+      "middle-name": "Kate",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1947_peter_hankin",
+        "mother": "1819_jane"
+      }
+    },
+    "born": {
+      "date": "1979",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1983_nicola_hankin",
+    "name": {
+      "full-name": "Nicola Sarah Hankin",
+      "firstname": "Nicola",
+      "middle-name": "Sarah",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1947_peter_hankin",
+        "mother": "1819_jane"
+      }
+    },
+    "born": {
+      "date": "1983",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1986_david_hankin",
+    "name": {
+      "full-name": "David Peter Hankin",
+      "firstname": "David",
+      "middle-name": "Peter",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1947_peter_hankin",
+        "mother": "1819_jane"
+      }
+    },
+    "born": {
+      "date": "1986",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1949_diana_hankin",
+    "name": {
+      "full-name": "Diana Mary Hankin",
+      "firstname": "Diana",
+      "middle-name": "Mary",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_graeme_irving",
+          "marriedYear": "1976",
+          "marriedPlace": "",
+          "marriedDate": "1976"
+        }
+      ],
+      "children": [
+        "1978_james_irving",
+        "1980_roland_irving",
+        "1982_thomas_irving"
+      ],
+      "parents": {
+        "father": "1881_thomas_hankin",
+        "mother": "1879_jane_bailey"
+      }
+    },
+    "born": {
+      "date": "1949",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_graeme_irving",
+    "name": {
+      "full-name": "Graeme Vanaton Irving",
+      "firstname": "Graeme",
+      "middle-name": "Vanaton",
+      "surname": "Irving",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1949_diana_hankin",
+          "marriedYear": "1976",
+          "marriedPlace": "",
+          "marriedDate": "1976"
+        }
+      ],
+      "children": [
+        "1978_james_irving",
+        "1980_roland_irving",
+        "1982_thomas_irving"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1978_james_irving",
+    "name": {
+      "full-name": "James Alexander Irving",
+      "firstname": "James",
+      "middle-name": "Alexander",
+      "surname": "Irving",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1936_1961_graeme_vanaton_irving",
+        "mother": "1949_diana_hankin"
+      }
+    },
+    "born": {
+      "date": "1978",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1980_roland_irving",
+    "name": {
+      "full-name": "Roland Irving",
+      "firstname": "Roland",
+      "middle-name": "",
+      "surname": "Irving",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1936_1961_graeme_vanaton_irving",
+        "mother": "1949_diana_hankin"
+      }
+    },
+    "born": {
+      "date": "1980",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1982_thomas_irving",
+    "name": {
+      "full-name": "Thomas Matthew Irving",
+      "firstname": "Thomas",
+      "middle-name": "Matthew",
+      "surname": "Irving",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1936_1961_graeme_vanaton_irving",
+        "mother": "1949_diana_hankin"
+      }
+    },
+    "born": {
+      "date": "1982",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1950_john_hankin",
+    "name": {
+      "full-name": "John Charles Hankin",
+      "firstname": "John",
+      "middle-name": "Charles",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jane_farrar",
+          "marriedYear": "1952",
+          "marriedPlace": "",
+          "marriedDate": "1952",
+          "main": true
+        }
+      ],
+      "children": [
+        "1984_emily_hankin",
+        "1988_alice_hankin"
+      ],
+      "parents": {
+        "father": "1881_thomas_hankin",
+        "mother": "1879_jane_bailey"
+      }
+    },
+    "born": {
+      "date": "1950",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_jane_farrar",
+    "name": {
+      "full-name": "Jane Anne Farrar",
+      "firstname": "Jane",
+      "middle-name": "Anne",
+      "surname": "Farrar",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1950_john_hankin",
+          "marriedYear": "1952",
+          "marriedPlace": "",
+          "marriedDate": "1952",
+          "main": false
+        }
+      ],
+      "children": [
+        "1984_emily_hankin",
+        "1988_alice_hankin"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1984_emily_hankin",
+    "name": {
+      "full-name": "Emily Jane Hankin",
+      "firstname": "Emily",
+      "middle-name": "Jane",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1950_john_hankin",
+        "mother": "1819_jane"
+      }
+    },
+    "born": {
+      "date": "1984",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1988_alice_hankin",
+    "name": {
+      "full-name": "Alice Kate Hankin",
+      "firstname": "Alice",
+      "middle-name": "Kate",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1950_john_hankin",
+        "mother": "1819_jane"
+      }
+    },
+    "born": {
+      "date": "1988",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1887_gladys_hankin",
+    "name": {
+      "full-name": "Gladys Lettice Hankin",
+      "firstname": "Gladys",
+      "middle-name": "Lettice",
+      "surname": "Hankin",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1852_thomas_hankin",
+        "mother": "1854_hannah_coles"
+      }
+    },
+    "born": {
+      "date": "1887-07-16",
+      "location": "Kensington"
+    },
+    "died": {
+      "date": "1962-03-22"
+    },
+    "sources": [
+      {
+        "source": "census 1891 Springfield Public House, 53 Solon Rd, Lambeth, 3, B Kensington"
+      },
+      {
+        "source": "census 1901 Swan Hotel, New Alresford, 13, B Kensington, D 22 Mar 1962."
+      }
+    ],
+    "remaining-info": ""
+  }
+]

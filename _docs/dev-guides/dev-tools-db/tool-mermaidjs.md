@@ -116,7 +116,9 @@ flowchart TD
 - Parent 1 connects to parent 2 with exactly one direct link.
 - Parent 2 produces the next generation: children or further subtrees.
 - Every child receives links from both parents.
-- Node IDs are person IDs from branch JSON files, e.g. `1845_thomas_dickerson_smith_tds`.
+- Node IDs are person IDs from branch JSON files:
+  - Known birth year: `birthday_firstname_famname` (e.g., `1845_thomas_dickerson_smith`)
+  - Unknown birth year (estimated interval): `year1_year2__firstname__maiden_name` (females) or `year1_year2__firstname_surname` (males) (e.g., `1776_1814__james_clarke`)
 - Nodes use plain parenthesis () with markdown label text displaying name and birthday on a new line using `<br/>`.
 - Edges use `===` and `linkStyle default stroke:#555`.
 
@@ -126,9 +128,19 @@ Using `smith.json` as an example:
 
 | Person | ID | Role |
 |--------|----|------|
-| Thomas Dickerson Smith | `1845_thomas_dickerson_smith_tds` | parent 1 to Elizabeth Simmonds Soul |
-| Elizabeth Simmonds Soul | `+1841_elizabeth_simmonds_soul_ess` | parent 2, carries subtree |
-| Joseph Soul Smith | `1875_joseph_soul_smith_jss` | child of both parents |
-| Leslie Joseph Soul Smith | `1905_leslie_joseph_soul_smith_ljss` | child, later parent 1 to Hilda Harmer |
-| Hilda Elizabeth Harmer | `+1904_hilda_elizabeth_harmer_heh` | parent 2, carries subtree to Ethel |
-| Ethel Margaret Smith | `1908_ethel_margaret_smith_ems` | child of both parents |
+| Thomas Dickerson Smith | `1845_thomas_dickerson_smith` | parent 1 to Elizabeth Simmonds Soul |
+| Elizabeth Simmonds Soul | `+1841_elizabeth_simmonds_soul` | parent 2, carries subtree |
+| Joseph Soul Smith | `1875_joseph_soul_smith` | child of both parents |
+| Leslie Joseph Soul Smith | `1905_leslie_joseph_soul_smith` | child, later parent 1 to Hilda Harmer |
+| Hilda Elizabeth Harmer | `+1904_hilda_elizabeth_harmer` | parent 2, carries subtree to Ethel |
+| Ethel Margaret Smith | `1908_ethel_margaret_smith` | child of both parents |
+
+#### Example with estimated birth year intervals
+
+For persons with unknown birth years, intervals are estimated from family connections:
+
+| Person | Old ID | New ID | Interval Basis |
+|--------|--------|--------|----------------|
+| James Clarke | `xxxx_james_clarke` | `1776_1814__james_clarke` | Children born 1798-1834 |
+| Sarah Clarke | `xxxx_sarah_clarke` | `1776_1814__sarah_clarke` | Same as spouse |
+| Elizabeth Simmonds | `xxxx_elizabeth_simmonds` | `1762_1800__elizabeth_simmonds` | Children born 1790-1820 |

@@ -2,358 +2,100 @@
 
 ## Report: Branch Tree Connections and Data Improvements
 
-**Date:** 2026-09-28  
+**Date:** 2026-10-12  
 **Scope:** All 16 family branches, combined tree, Mermaid diagrams, JSON data  
-**Status:** Complete
+**Status:** Complete (data and diagram work paused; ASCII recognition pending)
+
+**Structure references:** The v1 ASCII structure is documented in [familytree-v1-structure.md](familytree-v1-structure.md) and the v2 JSON and Mermaid structure in [familytree-v2-structure.md](familytree-v2-structure.md).
 
 ---
 
 ## Executive Summary
 
-This report documents the improvements made to the family tree branch data, JSON schemas, Mermaid diagram generation, and combined tree connections. The work focused on cleaning person IDs, extracting structured data from free-text notes, fixing parent-child relationships, and ensuring all subtrees connect correctly through common persons in the combined view.
+This report documents the improvements made to the family tree branch data, JSON schemas, Mermaid diagram generation, and combined tree connections. The work focused on cleaning person IDs, extracting structured data from free-text notes, fixing parent-child relationships, and ensuring all subtrees connect correctly through common persons in the combined view. The v1 structure, v2 structure, and the comparison between them are maintained in dedicated structure documents.
 
 ---
 
-## 1. Branch JSON Schema Standardization
+## 1. The Journey
 
-### Changes
+### 1.1 Branch JSON Schema Standardization
 
-- Created `src-content/_data/branch-schema.json` as the single source of truth for all branch person records.
-- Normalized all 16 branch JSON files (`src-content/branch/data/*.json`) to use the schema.
+- Created a branch JSON schema as the single source of truth for all branch person records.
+- Normalized all 16 branch JSON files to use the schema.
 - Shortened person IDs from `birthday_name_initials` to `birthday_firstname_famname` for readability and cross-file matching.
 
-### Schema Fields
+### 1.2 Info Text Cleanup and Structured Extraction
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `id` | string | Unique ID: `birthday_firstname_famname` |
-| `name` | string | Full display name |
-| `birthday` | string | Birth date or year |
-| `birthplace` | string | Birth location |
-| `gender` | string | `M`, `F`, or `U` |
-| `occupation` | string | Profession or trade |
-| `death` | string | Death date or year |
-| `deathplace` | string | Death location |
-| `spouses` | array | Marriage records with `id`, `marriedYear`, `marriedDate`, `marriedPlace` |
-| `children` | array | Child person IDs |
-| `parents` | object | `father` and `mother` IDs |
-| `info` | string | Remaining biographical notes after extraction |
-| `sources` | array | Source references |
-| `crossBranch` | array | Links to persons in other branches |
+The `info` fields in branch JSON contained redundant free-text patterns (birth dates, death dates, places, baptisms, burials, census records) that duplicated structured fields.
 
----
+Cleaning tools were created to:
 
-## 2. Info Text Cleanup and Structured Extraction
+- Extract `baptism`, `burial`, and `census` records into structured fields
+- Parse `s of` and `d of` patterns into the `parents` object
+- Remove redundant date/place patterns from the remaining info text
 
-### Problem
+**Example:** a marriage record stating "she was daughter of Samuel Clark tailor" moved into the `parents.father` field, with the free text retained in `original-info`.
 
-The `info` fields in branch JSON contained redundant free-text patterns like:
-- `B 15 Jan 1850` (birth date already in `birthday`)
-- `D 1921-07-05` (death date already in `death`)
-- `B London, England` (birthplace already in `birthplace`)
-- `bpt 25 Mar 1763` (baptism)
-- `bd London` (burial)
-- `1861 census...` (census records)
+### 1.3 Mermaid Diagram Generation
 
-### Solution
+Per-branch diagrams and the combined diagram were generated from the JSON data with standardized syntax, inline node definitions, and parent2 markers. Diagram logic ensures parent1 connects only to parent2, parent2 carries the subtree and produces children, every child has links from both parents via parent2, and parent1 never connects directly to children.
 
-Created `_clean_info.py` which:
-- Extracts `baptism`, `burial`, and `census` records into structured fields
-- Removes redundant date/place patterns from `info` text
-- Cleans up punctuation and whitespace
+### 1.4 Combined Tree Fixes
 
-### Parent Detail Extraction
+The combined tree had missing or incorrect connections between subtrees. Common persons appearing in multiple branches were not properly linked, causing disconnected fragments instead of a unified family network.
 
-Created `_extract_parents.py` which:
-- Parses `s of <name>` and `d of <name>` patterns from `info` text
-- Moves extracted parent details into the `parents` object
-- Cleans the `info` field to remove redundant parent references
+Key fixes:
 
-**Example:**
-```json
-{
-  "id": "1829_hannah_clark",
-  "parents": {
-    "father": "samuel_clark_tailor",
-    "mother": ""
-  },
-  "info": "Marriage record states she was daughter of Samuel Clark tailor"
-}
-```
+1. **Hannah Clark parentage:** updated to have Samuel Clark tailor as her father, matching the marriage record; removed her from James Clarke & Sarah's children.
+2. **Samuel Clark tailor:** ensured he is properly connected as father of Hannah Clark in both JSON data and the combined diagram.
+3. **Samuel Clark b. 1834:** verified he has no children or spouses in source data, preventing incorrect tree connections.
+4. **Cross-branch links:** verified all references point to valid person IDs in other branch files.
+5. **Duplicate ID handling:** the merge logic concatenates info, birthplace, deathplace, and occupation when the same person appears in multiple branches.
+6. **Duplicate edge removal (2026-10-09):** fixed 4 duplicate edges (Charles Coles-Hannah Coles; Dorothea Wilson-John/Joan/Elaine Soul). Root cause: edges were emitted from both the spouse loop and the parent-reference loop; an emitted-edge set now prevents duplicates.
+7. **Duplicate person merging (2026-10-09):** enhanced merge logic with fuzzy birthday matching (±1 year). Merged the 1906 and 1907 Denis Soul entries (same name, birthdays off by one year). Total persons reduced from 690 to 689.
+
+### 1.5 Birth Year Interval Estimation for Unknown Birth Years
+
+165 persons had `xxxx_` prefix IDs indicating unknown birth years, preventing proper sorting and timeline-based connections.
+
+A tool was created to estimate birth year intervals from family connections (parents, spouses, children), with outlier filtering for modern dates. Results: 41 of 165 persons received estimated intervals (25%); the remaining 124 have no connected relatives with known birth years. All cross-references were updated across the 16 branch JSONs and the combined JSON.
+
+| Old ID | New ID | Interval | Basis |
+|--------|--------|----------|-------|
+| `xxxx_james_clarke` | `1776_1814__james_clarke` | 1776-1814 | Children born 1798-1834 |
+| `xxxx_sarah_clarke` | `1776_1814__sarah_clarke` | 1776-1814 | Same as spouse |
+| `xxxx_elizabeth_simmonds` | `1762_1800__elizabeth_simmonds` | 1762-1800 | Children born 1790-1820 |
+| `xxxx_joseph_jacobsohn` | `1828_1849__joseph_jacobsohn` | 1828-1849 | Parents born 1838/1839 |
+
+### 1.6 Documentation Restructure and Conversion Preparation (2026-10-12)
+
+- The family tree report was restructured: this report now holds the journey, the comparison, and the report; the v1 and v2 structures moved to dedicated structure documents.
+- The v1 ASCII structure was documented, including notation, layout rules, and parsing challenges.
+- An ASCII expansion capability was created to widen the space between person columns and insert a blank line before each person entry in v1 trees, producing expanded copies for verification. Original branch pages are not modified.
+- The v1 to v2 conversion process was documented as a reusable skill.
+- Data and diagram work is paused until the ASCII is recognised properly; the expanded ASCII verification pass comes first.
 
 ---
 
-## 3. Mermaid Diagram Syntax
+## 2. The Comparison
 
-### Standardized Syntax
+### v1 vs v2
 
-All branch diagrams (`src-content/branch/diagrams/*.md`) and the combined diagram (`src-content/branch/combined.md`) now use:
-
-- **Node syntax:** `id(label)` with `()` for all nodes
-- **Parent2 marker:** `+` prefix only in the label, never in the ID
-- **Edge syntax:** `===` for all connections
-- **Style:** `linkStyle default stroke:#555`
-
-### Logic
-
-- `parent1 === +parent2` — parent1 connects only to parent2
-- `+parent2 === child` — parent2 carries the subtree and produces children
-- Every child has links from both parents via parent2
-- Parent1 never connects directly to children
-
-### Example
-
-```mermaid
-flowchart TD
-    1845_thomas_dickerson_smith(Thomas Dickerson Smith<br/>1845) === 1841_elizabeth_simmonds_soul(+Elizabeth Simmonds Soul<br/>1841-04-11)
-    1841_elizabeth_simmonds_soul === 1875_joseph_soul_smith(Joseph Soul Smith<br/>1875-07-02)
-```
-
-### Inline Node Optimization
-
-Nodes are defined inline on their first edge to reduce repetition:
-```mermaid
-james_alexander_bailey(James Alexander Bailey) === jane_manning(+Jane Manning)
-jane_manning === 1834_elizabeth_amelia_bailey(Elizabeth Amelia Bailey<br/>1834-08-19)
-```
-
----
-
-## 4. Combined Tree Fixes
-
-### Problem
-
-The combined tree (`src-content/branch/combined.json` and `combined.md`) had missing or incorrect connections between subtrees. Common persons who appear in multiple branches were not properly linked, causing the tree to show disconnected fragments instead of a unified family network.
-
-### Key Fixes
-
-1. **Hannah Clark parentage:** Updated `1829_hannah_clark` to have `samuel_clark_tailor` as her father, matching the marriage record. Removed her from `james_clarke` and `sarah_clarke`'s children.
-
-2. **Samuel Clark tailor:** Ensured `samuel_clark_tailor` is properly connected as father of `1829_hannah_clark` in both the JSON data and the combined Mermaid diagram.
-
-3. **Samuel Clark b. 1834:** Verified `1834_samuel_clark` has no children or spouses in source data, preventing incorrect tree connections. He remains a child of James Clarke & Sarah.
-
-4. **Cross-branch links:** Verified all `crossBranch` references point to valid person IDs in other branch files.
-
-5. **Duplicate ID handling:** The merge script (`_combine_branches.py`) now correctly concatenates `info`, `birthplace`, `deathplace`, and `occupation` when the same person appears in multiple branches.
-
-### Combined Tree Structure
-
-The combined tree includes all 16 branches:
-- Bailey
-- Clark & Unwin
-- Cockin
-- Coles
-- Fletcher
-- Giles
-- Handley
-- Hankin
-- Holt
-- Hone
-- Jacobsohn & Cohen
-- Roberts
-- Simmonds
-- Smith
-- Soul
-- Wilson
-
-Total persons: ~600+  
-Total connections: ~800+
-
----
-
-## 5. Scripts Created
-
-| Script | Purpose |
-|--------|---------|
-| `_clean_json.py` | Removes redundant date/place patterns from `info` |
-| `_clean_info.py` | Extracts structured `baptism`, `burial`, `census` fields |
-| `_extract_parents.py` | Parses `s of`/`d of` patterns into `parents` object |
-| `_shorten_ids.py` | Shortens IDs to `birthday_firstname_famname` |
-| `_fix_parents.py` | Ensures `parents` fields reference person IDs |
-| `_fix_connections.py` | Fixes parent-child connections based on marriage records |
-| `_generate_diagrams.py` | Generates per-branch Mermaid diagrams |
-| `_combine_branches.py` | Creates combined JSON and Mermaid diagram |
-
-All scripts are in `src-content/branch/data/` or `src-content/branch/diagrams/`.
-
----
-
-## 6. Files Modified
-
-### Created
-
-- `src-content/_data/branch-schema.json`
-- `src-content/branch/data/*.json` (16 files)
-- `src-content/branch/diagrams/*.md` (16 files)
-- `src-content/branch/combined.json`
-- `src-content/branch/combined.md`
-- `src-content/branch/diagrams/_generate_diagrams.py`
-- `src-content/branch/diagrams/_combine_branches.py`
-- `src-content/branch/data/_clean_json.py`
-- `src-content/branch/data/_clean_info.py`
-- `src-content/branch/data/_extract_parents.py`
-- `src-content/branch/data/_shorten_ids.py`
-- `src-content/branch/data/_fix_parents.py`
-- `src-content/branch/data/_fix_connections.py`
-
-### Updated
-
-- All 16 branch JSON data files cleaned and normalized
-- All 16 branch Mermaid diagrams regenerated
-- Combined JSON and diagram regenerated with fixed connections
-- `_docs/dev-guides/dev-tools-db/tool-mermaidjs.md` updated with ID-based syntax logic
-
----
-
-## 7. Remaining Issues
-
-1. **Parent conflicts:** Some persons have conflicting parent information in the original markdown (e.g., Hannah Clark appears as daughter of both James Clarke & Sarah and Samuel Clark tailor). The current fix uses the marriage record as authoritative, but original birth records should be reviewed.
-
-2. **Missing data:** Some persons have empty `birthday`, `death`, or `parents` fields due to incomplete original records.
-
-3. **Cross-branch IDs:** Some `crossBranch` references use old IDs (e.g., `CharlesJohnColes`) that don't match the new `birthday_firstname_famname` format. These should be updated to use the new ID format.
-
-4. **Samuel Clark b. 1834:** No children or spouses found in source data. If additional research reveals descendants, they should be added. He remains correctly linked as a child of James Clarke & Sarah.
-
----
-
-## 8. Recommendations
-
-1. Review all `parents` fields against original marriage and baptism records
-2. Update `crossBranch` IDs to match the new `birthday_firstname_famname` format
-3. Add missing `birthday`/`death` data where original records are available
-4. Validate combined tree connections by reviewing `combined.md` diagram
-5. Consider adding a visual tree view to the branch pages using the generated Mermaid diagrams
-
----
-
-## 9. Changelog Entry
-
-```markdown
-## [Unreleased]
-
-### Added
-
-- Branch JSON schema (`src-content/_data/branch-schema.json`) for all 16 family branches
-- Per-branch Mermaid diagrams (`src-content/branch/diagrams/*.md`) with inline node syntax
-- Combined branch JSON (`src-content/branch/combined.json`) merging all persons by ID
-- Combined family tree diagram (`src-content/branch/combined.md`)
-- Scripts for cleaning, extracting, shortening IDs, and generating diagrams
-
-### Changed
-
-- Person IDs shortened from `birthday_name_initials` to `birthday_firstname_famname`
-- Mermaid node syntax standardized to `id(label)` with `+` only in labels
-- Edge syntax standardized to `===`
-- Parent extraction uses `s of`/`d of` patterns from info text
-- Info text cleaned of redundant date/place/baptism/burial/census patterns
-
-### Fixed
-
-- Hannah Clark parentage updated to match marriage record (`samuel_clark_tailor` as father)
-- Removed `1829_hannah_clark` from `james_clarke` and `sarah_clarke` children
-- Combined tree now properly connects subtrees through common persons
-- Parent fields now reference person IDs instead of empty strings or names
-```
-
----
-
-## 10. v1 vs v2: Info Text Evolution
-
-### v1: Original Markdown Info Text
-
-In the original branch markdown files, person information was embedded as free-text within ASCII family tree diagrams. This made it difficult to query, validate, or combine data across branches.
-
-**Example from `clark_unwin.md` (v1):**
-
-```
-Samuel Clark.
-
- =
- |
- |______________Hannah (Clark) D 30 Aug 1854, 1 Bird-in-Hand Court, Cheapside. City of London,
-                25, wife of Charles John Coles billiard marker, uterine haemorrhage.
-
-                 =1 [Charles John Coles](../coles.md#CharlesJohnColes) B 7 Nov 1824, bpt 28 Nov 1824
-```
-
-**Problems with v1 format:**
-- Person data buried in ASCII art
-- No structured fields for dates, places, or relationships
-- Difficult to validate or combine across branches
-- No machine-readable format for tools or diagrams
-
-### v2: Structured JSON with Markdown Diagrams
-
-v2 extracts all person data into structured JSON files and generates clean Mermaid diagrams.
-
-**Example from `clark_unwin.json` (v2):**
-
-```json
-{
-  "id": "1829_hannah_clark",
-  "name": "Hannah Clark",
-  "birthday": "1829-10-06",
-  "birthplace": "Little Waltham, Essex",
-  "gender": "F",
-  "died": "1854-08-30",
-  "deathplace": "1 Bird-in-Hand Court, Cheapside, City of London",
-  "spouses": [
-    {
-      "id": "1824_charles_john_coles",
-      "marriedYear": "1852",
-      "marriedDate": "22 Aug 1852",
-      "marriedPlace": "Islington Parish Church"
-    }
-  ],
-  "children": [
-    "1854_hannah_amelia_coles"
-  ],
-  "parents": {
-    "father": "samuel_clark_tailor",
-    "mother": ""
-  },
-  "info": "aged 25, 1 Bird-in-Hand Court, Cheapside, City of London, wife of Charles John Coles billiard marker, uterine haemorrhage. Marriage record states she was",
-  "baptism": "21 Mar 1830"
-}
-```
-
-**Example from `clark_unwin.md` diagram (v2):**
-
-```mermaid
-flowchart TD
-    james_clarke(James Clarke) === sarah_clarke(+Sarah Clarke)
-    sarah_clarke === 1816_hephzibah_clarke(Hephzibah Clarke<br/>1816-10-29)
-    sarah_clarke === 1818_sarah_clark(Sarah Clark<br/>1818-09-22)
-    sarah_clarke === 1821_ann_clark(Ann Clark<br/>1821-04-16)
-    sarah_clarke === 1823_elizabeth_clark(Elizabeth Clark<br/>1823-02-16)
-    sarah_clarke === 1827_priscilla_clark(Priscilla Clark<br/>1827-07-07)
-    sarah_clarke === 1832_emma_clark(Emma Clark<br/>1832-04-15)
-    sarah_clarke === 1834_samuel_clark(Samuel Clark<br/>1834-04-16)
-    1816_hephzibah_clarke === samuel_unwin(+Samuel Unwin)
-    1818_sarah_clark === samuel_unwin(+Samuel Unwin)
-    samuel_clark_tailor(Samuel Clark) === 1829_hannah_clark(Hannah Clark<br/>1829-10-06)
-    joseph_unwin(Joseph Unwin) === samuel_unwin(Samuel Unwin)
-```
-
-### Key Improvements
-
-| Aspect | v1 (Markdown) | v2 (JSON + Mermaid) |
+| Aspect | v1 (ASCII Markdown) | v2 (JSON + Mermaid) |
 |--------|---------------|---------------------|
 | **Structure** | ASCII art with embedded text | Structured JSON with defined schema |
-| **Dates** | Mixed in free text (`D 30 Aug 1854`) | Separate `birthday`, `death`, `baptism` fields |
-| **Places** | Mixed in free text (`Cheapside. City of London`) | Separate `birthplace`, `deathplace` fields |
+| **Dates** | Mixed in free text (`D 30 Aug 1854`) | Separate `birth` and `died` fields |
+| **Places** | Mixed in free text (`Cheapside. City of London`) | Separate `birthplace`/`place` fields |
 | **Relationships** | Implied by ASCII tree | Explicit `spouses`, `children`, `parents` arrays |
-| **IDs** | None | `birthday_firstname_famname` for cross-branch linking |
+| **IDs** | None | `birthday_firstname_famname` or interval format for cross-branch linking |
 | **Diagrams** | ASCII art only | Mermaid diagrams with syntax logic |
-| **Combined view** | Not possible | `combined.json` + `combined.md` merge all branches |
-| **Validation** | Manual review | JSON schema + scripts |
+| **Combined view** | Not possible | Combined JSON and diagram merge all branches |
+| **Validation** | Manual review | JSON schema plus scripts |
 | **Abbreviations** | `bd`, `bpt`, `s of`, `d of` | Expanded to `buried`, `baptised`, `son of`, `daughter of` |
 
-### Info Text Conventions
+### Abbreviation Conventions
 
-The original v1 info text used several common genealogical abbreviations:
+The original v1 info text used common genealogical abbreviations, identified by surveying all 16 branch files:
 
 | v1 Abbreviation | v2 Expansion | Example |
 |-----------------|--------------|---------|
@@ -361,40 +103,111 @@ The original v1 info text used several common genealogical abbreviations:
 | `bpt` | `baptised` | `bpt 25 Mar 1763` → `baptised 25 Mar 1763` |
 | `s of` | `son of` | `s of James Clarke` → `son of James Clarke` |
 | `d of` | `daughter of` | `d of Samuel Clark` → `daughter of Samuel Clark` |
-| `B` | removed | `B 15 Jan 1850` → extracted to `birthday` field |
-| `D` | removed | `D 30 Aug 1854` → extracted to `death` field |
-| `M` | removed | `M 22 Aug 1852` → extracted to `marriedDate` field |
-
-These conventions were identified by surveying all 16 branch files and finding the most common patterns. The extraction scripts handle these expansions automatically.
+| `B` | moved to birth field | `B 15 Jan 1850` → `birth.date` |
+| `D` | moved to death field | `D 30 Aug 1854` → `died.date` |
+| `M` | moved to marriage field | `M 22 Aug 1852` → `spouses.marriedDate` |
 
 ### Before/After Example: Hannah Clark
 
-**v1 (from `clark_unwin.md`):**
+**v1 (free text in ASCII art):**
+
 ```
 |______________Hannah (Clark) D 30 Aug 1854, 1 Bird-in-Hand Court, Cheapside. City of London,
                25, wife of Charles John Coles billiard marker, uterine haemorrhage.
 ```
 
-**v2 (from `clark_unwin.json` + Mermaid diagram):**
+**v2 (structured record):**
+
 ```json
 {
   "id": "1829_hannah_clark",
-  "name": "Hannah Clark",
-  "birthday": "1829-10-06",
-  "died": "1854-08-30",
-  "deathplace": "1 Bird-in-Hand Court, Cheapside, City of London",
-  "parents": {
-    "father": "samuel_clark_tailor",
-    "mother": ""
-  },
-  "info": "aged 25, wife of Charles John Coles billiard marker, uterine haemorrhage"
+  "name": { "full": "Hannah Clark", "firstname": "Hannah", "surname": "Clark" },
+  "birth": { "date": "1829-10-06" },
+  "died": { "date": "1854-08-30", "place": "1 Bird-in-Hand Court, Cheapside, City of London" },
+  "parents": { "father": "samuel_clark_tailor", "mother": "" },
+  "remaining-info": "aged 25, wife of Charles John Coles billiard marker, uterine haemorrhage"
 }
 ```
 
-```mermaid
-samuel_clark_tailor(Samuel Clark) === 1829_hannah_clark(Hannah Clark<br/>1829-10-06)
-1824_charles_john_coles === 1829_hannah_clark(+Hannah Clark<br/>1829-10-06)
-1829_hannah_clark === 1854_hannah_amelia_coles(Hannah Amelia Coles<br/>1854-08-21)
-```
-
 The v2 format separates structured data (dates, places, relationships) from free-text notes, making the data queryable, combinable, and suitable for generating diagrams automatically.
+
+---
+
+## 3. Report
+
+### Combined Tree Structure
+
+The combined tree includes all 16 branches:
+
+Bailey, Clark & Unwin, Cockin, Coles, Fletcher, Giles, Handley, Hankin, Holt, Hone, Jacobsohn & Cohen, Roberts, Simmonds, Smith, Soul, Wilson
+
+Total persons: ~689 (after duplicate merging)  
+Total connections: ~268 edges
+
+### Remaining Issues
+
+1. **Parent conflicts:** some persons have conflicting parent information in the original markdown (e.g., Hannah Clark appears as daughter of both James Clarke & Sarah and Samuel Clark tailor). The current fix uses the marriage record as authoritative, but original birth records should be reviewed.
+
+2. **Missing data:** some persons have empty birth, death, or parent fields due to incomplete original records.
+
+3. **Cross-branch IDs:** some cross-branch references use old IDs (e.g., `CharlesJohnColes`) that don't match the new format. These should be updated.
+
+4. **Samuel Clark b. 1834:** no children or spouses found in source data. If additional research reveals descendants, they should be added.
+
+5. **Data entry errors in birthdays:** fuzzy matching (±1 year) catches some birthday inconsistencies (e.g., Denis Soul 1906 vs 1907). Original records should be verified to confirm correct birth years.
+
+6. **Unknown birth years:** 124 persons retain the `xxxx_` prefix with no estimable birth year interval due to lack of connected relatives with known dates.
+
+7. **ASCII recognition:** the v1 ASCII art is not yet recognised reliably (column drift, tight spacing). Conversion to v2 is paused until the expanded ASCII verification pass completes.
+
+### Recommendations
+
+1. Review all `parents` fields against original marriage and baptism records
+2. Update cross-branch IDs to match the new ID format
+3. Add missing birth and death data where original records are available
+4. Validate combined tree connections by reviewing the combined diagram
+5. Complete the ASCII expansion verification pass, then run the v1 to v2 conversion skill
+6. Consider adding a visual tree view to the branch pages using the generated Mermaid diagrams
+
+---
+
+## 4. Changelog Entry
+
+```markdown
+## [Unreleased]
+
+### Added
+
+- Branch JSON schema for all 16 family branches
+- Per-branch Mermaid diagrams with inline node syntax
+- Combined branch JSON merging all persons by ID
+- Combined family tree diagram connecting all subtrees
+- Tools for cleaning, extracting, shortening IDs, and generating diagrams
+- Birth year interval estimation for unknown-birth-year persons
+- New ID format for estimated persons: `year1_year2__firstname__maiden_name` (females) or `year1_year2__firstname_surname` (males)
+- Dedicated v1 and v2 structure documents for the family tree
+- ASCII expansion capability for v1 tree verification
+- v1 to v2 conversion skill
+
+### Changed
+
+- Person IDs shortened to `birthday_firstname_famname`
+- Person IDs for unknown birth years now use interval format
+- Mermaid node syntax standardized with parent2 marker only in labels
+- Edge syntax standardized
+- Parent extraction uses `s of`/`d of` patterns from info text
+- Info text cleaned of redundant date/place/baptism/burial/census patterns
+- 41 unknown-birth-year persons updated with estimated birth year intervals (1600-1950)
+- Cross-references updated across all 16 branch JSONs and combined JSON
+- Family tree report split into journey, comparison, and report; structure details moved to dedicated structure documents
+
+### Fixed
+
+- Hannah Clark parentage updated to match marriage record
+- Removed Hannah Clark from James Clarke and Sarah's children
+- Combined tree now properly connects subtrees through common persons
+- Parent fields now reference person IDs instead of empty strings or names
+- 4 duplicate edges removed from combined diagram
+- Duplicate person entries merged (1906 and 1907 Denis Soul) via fuzzy birthday matching (±1 year)
+- Total combined persons reduced from 690 to 689
+```

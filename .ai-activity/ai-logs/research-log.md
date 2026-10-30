@@ -16,6 +16,8 @@
 
 4. **Documentation Reorganization** - Reviewed existing guides and reports for v1.5 consistency, identified outdated references to deleted scripts and intermediate files, and planned documentation updates.
 
+5. **v1 ASCII Structure Analysis** - Surveyed all 16 branch pages, documented ASCII notation and layout rules, identified parsing challenges (column drift, tight spacing, indentation ambiguity), and created an expansion pass that widens column separation and inserts blank lines between entries while preserving all text.
+
 ## Outcomes
 
 - v1.0.0: Original website fully backed up to GitHub with backdated commits matching original publish dates
@@ -24,6 +26,7 @@
 - v1 prep skills archived to archived skills folder; only ai-transparency remains active
 - Dev-scripts streamlined to task management, changelog generation, and pre-commit audit
 - v1 migration intermediate files removed from working tree; git history preserves all artifacts
+- v1 ASCII structure documented; expanded verification copies generated for all 16 branches with horizontal and vertical expansion; v1 to v2 conversion skill created
 
 ## Data Loss Incidents
 
@@ -33,6 +36,12 @@
 - **Cause:** Sessions were added to backup config as placeholders but never contained message data in any accessible source
 - **Evidence checked:** Kilo runtime DB, old project backup, git history (edde43b, df97049), copy backup, OpenCode DB — all empty or missing
 - **Action taken:** Removed empty sessions from backup database and config file
+
+### Session Storage Format Change (2026-10-12)
+
+- **Finding:** The current AI co-developer runtime stores sessions in a hosted backend with only empty local scaffold databases; the export format expected by the backup tooling (session, message, and part tables) is no longer written locally
+- **Evidence checked:** All local agent session data folders and co-developer config locations — session and turn tables are empty scaffolds
+- **Action taken:** Existing backup database verified intact (14 sessions, integrity check passed), optimized, and statistics regenerated; current-session export deferred until a compatible source database is available
 
 ## Data Sources
 

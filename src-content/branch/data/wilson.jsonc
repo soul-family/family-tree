@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "xxxx_john_wilson",
+    "name": {
+      "full-name": "John Wilson",
+      "firstname": "John",
+      "middle-name": "",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Baker",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1794_1824__susannah_bellamy",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "children": [
+        "1776_1806__sarah_wilson",
+        "1776_1806__charles_wilson",
+        "1839_william_wilson"
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "Northamptonshire, Warmington"
+    },
+    "sources": [
+      {
+        "source": "census 1841 Whitmore St, Whittlesey, Cambridgeshire, 35, baker"
+      },
+      {
+        "source": "census 1861 Whitmore St, Whittlesey, 56, baker, B Northamptonshire, Warmington"
+      },
+      {
+        "source": "census 1871 Whitmore St, Whittlesey, 67, baker"
+      },
+      {
+        "source": "census 1881 Whitmore St, Whittlesey, widower, 77, baker, B Warmington."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1794_1824__susannah_bellamy",
+    "name": {
+      "full-name": "Susannah Bellamy",
+      "firstname": "Susannah",
+      "middle-name": "",
+      "surname": "Bellamy",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_john_wilson",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "children": [
+        "1776_1806__sarah_wilson",
+        "xxxx_john_wilson",
+        "1776_1806__charles_wilson",
+        "1839_william_wilson"
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "Huntingdonshre, Ramsey"
+    },
+    "sources": [
+      {
+        "source": "census 1841 Whitmore St, Whittlesey, 30"
+      },
+      {
+        "source": "census 1861 Whitmore St, Whittlesey, 50, baker, B Huntingdonshre, Ramsey"
+      },
+      {
+        "source": "census 1871 Whitmore St, 60."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1776_1806__sarah_wilson",
+    "name": {
+      "full-name": "Sarah Ann Wilson",
+      "firstname": "Sarah",
+      "middle-name": "Ann",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1838_ann_bruce_holt"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Whittlesey"
+    },
+    "sources": [
+      {
+        "source": "census 1841 Whitmore St, Whittlesey, 8"
+      },
+      {
+        "source": "census 1851 Whitmore St, 17, B Whittlesey."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_john_wilson",
+    "name": {
+      "full-name": "John Wilson",
+      "firstname": "John",
+      "middle-name": "",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "occupation": "Baker",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_elizabeth_sudderick",
+          "marriedYear": "1874",
+          "marriedDate": "1874-Q4",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1776_1806__maude_wilson",
+        "1776_1806__william_wilson",
+        "1776_1806__leonard_wilson"
+      ],
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1838_ann_bruce_holt"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Whittlesey"
+    },
+    "sources": [
+      {
+        "source": "census 1841 Whitmore St, Whittlesey, 5"
+      },
+      {
+        "source": "census 1851 Whitmore St, 15, baker at home, B Whittlesey"
+      },
+      {
+        "source": "census 1881 Eastrea, Whittlesey, Cambridgeshire, 44, baker, b Whittlesey."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_elizabeth_sudderick",
+    "name": {
+      "full-name": "Elizabeth Sudderick",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Sudderick",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_john_wilson",
+          "marriedYear": "1874",
+          "marriedDate": "1874-Q4",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1776_1806__maude_wilson",
+        "1776_1806__william_wilson",
+        "1776_1806__leonard_wilson"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1776_1806__maude_wilson",
+    "name": {
+      "full-name": "Maude Wilson",
+      "firstname": "Maude",
+      "middle-name": "",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Eastrea, Cambridgeshire"
+    },
+    "sources": [
+      {
+        "source": "census 1881 Eastrea, Whittlesey, 15, assistant in baking, b Whittlesey."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1776_1806__william_wilson",
+    "name": {
+      "full-name": "William Wilson",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Eastrea, Cambridgeshire"
+    },
+    "original-info": "1881 census. Eastrea, 2",
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": "1881 census. Eastrea, 2"
+  },
+  {
+    "id": "1776_1806__leonard_wilson",
+    "name": {
+      "full-name": "Leonard Wilson",
+      "firstname": "Leonard",
+      "middle-name": "",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1834_1859_elizabeth_sudderick"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Eastrea, Cambridgeshire"
+    },
+    "sources": [
+      {
+        "source": "census 1881 Eastrea, 10 mnths, b Eastrea."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1776_1806__charles_wilson",
+    "name": {
+      "full-name": "Charles Wilson",
+      "firstname": "Charles",
+      "middle-name": "",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1838_ann_bruce_holt"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Whittlesey"
+    },
+    "sources": [
+      {
+        "source": "census 1841 Whitmore St, Whittlesey, 3"
+      },
+      {
+        "source": "census 1851 Whitmore St, 13, baker at home, B Whittlesey."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  // Marriage: 7 November 1863.
+  {
+    "id": "1839_william_wilson",
+    "name": {
+      "full-name": "William Cooper Wilson",
+      "firstname": "William",
+      "middle-name": "Cooper",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "occupation": "Tin-plate worker; ironmonger",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_mary_taylor",
+          "marriedYear": "1863",
+          "marriedDate": "1863-11-07",
+          "marriedPlace": "Langholme Wesleyan Chapel, Rawtenstall, Haslingden, Lancashire",
+          "main": true
+        }
+      ],
+      "children": [
+        "1872_david_wilson"
+      ],
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1838_ann_bruce_holt"
+      }
+    },
+    "born": {
+      "date": "1839-01-27",
+      "location": "Whittlesey, Cambridgeshre"
+    },
+    "died": {
+      "date": "1916-11-20",
+      "location": "Christ Church Vicarage, Chadderton, Oldham"
+    },
+    "original-info": "Whittlesey, Cambridgeshre, , Whittlesey, and Susannah Wilson formerly Bellamy; at Christ Church Vicarage, Chadderton, Oldham, of 14 Whitecroft-avenue, Helmshore-road, Haslingden, Lancashire, retired tin-plate worker; 8 Oct 1917 probate Oldham to the reverend David Taylor Wilson clerk, effects Â£555 3s 6d",
+    "sources": [
+      {
+        "source": "census 1841 Whitmore St, Whittlesey, 1"
+      },
+      {
+        "source": "census 1851 Whitmore St, 10, baker at home, B Whittlesey"
+      },
+      {
+        "source": "census 1881 Waterfoot, 39, ironmonger, B Whittlesey"
+      },
+      {
+        "source": "census 1891 31 Bacup Rd, Newchurch, 50, ironmonger"
+      }
+    ],
+    "remaining-info": "Whittlesey, Cambridgeshre, , Whittlesey, and Susannah Wilson formerly Bellamy; at Christ Church Vicarage, Chadderton, Oldham, of 14 Whitecroft-avenue, Helmshore-road, Haslingden, Lancashire, retired tin-plate worker; 8 Oct 1917 probate Oldham to the reverend David Taylor Wilson clerk, effects Â£555 3s 6d"
+  },
+  {
+    "id": "xxxx_mary_taylor",
+    "name": {
+      "full-name": "Mary Taylor",
+      "firstname": "Mary",
+      "middle-name": "",
+      "surname": "Taylor",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1839_william_wilson",
+          "marriedYear": "1863",
+          "marriedDate": "1863-11-07",
+          "marriedPlace": "Langholme Wesleyan Chapel, Rawtenstall, Haslingden, Lancashire",
+          "main": false
+        }
+      ],
+      "children": [
+        "1872_david_wilson"
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "Lancashire, Newchurch"
+    },
+    "died": {
+      "date-burried": "23 Dec St Nicholas' Church"
+    },
+    "original-info": "in her 68th year, buried 23 Dec St Nicholas' Church, Newchurch, Lancs",
+    "sources": [
+      {
+        "source": "census 1881 Waterfoot, 36, B Lancashire, Newchurch"
+      },
+      {
+        "source": "census 1891 31 Bacup Rd, Newchurch, 46"
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "in her 68th year"
+  },
+  // David Taylor Wilson's marriage 2: 4 April 1951; widower, age 78.
+  // This documented remarriage is outside the provisional marriage-age assumption;
+  // his explicit birth date remains unchanged.
+  {
+    "id": "1872_david_wilson",
+    "name": {
+      "full-name": "David Taylor Wilson",
+      "firstname": "David",
+      "middle-name": "Taylor",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Clerk in Holy Orders; Vicar",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1872_lilias_cockin",
+          "marriedYear": "1901",
+          "marriedDate": "1901-02-12",
+          "marriedPlace": "Christ Church Hull",
+          "main": true
+        },
+        {
+          "id": "xxxx_kathleen_dallimore",
+          "marriedYear": "1951",
+          "marriedDate": "1951-04-04",
+          "marriedPlace": "St Lawrence's, Bidborough, Kent",
+          "main": true
+        }
+      ],
+      "children": [
+        "1901_edith_wilson",
+        "1906_lilias_wilson",
+        "1908_dorothea_wilson",
+        "1911_mildred_wilson"
+      ],
+      "parents": {
+        "father": "1839_william_wilson",
+        "mother": "1823_1848_mary_taylor"
+      }
+    },
+    "born": {
+      "date": "1872-11-30",
+      "location": "Waterfoot-Lenches, Rossendale, Haslingden, Lancashire"
+    },
+    "died": {
+      "date-burried": "1 Feb churchyard of St Lawrence"
+    },
+    "original-info": "Waterfoot-Lenches, Rossendale, Haslingden, Lancashire, & ironmonger, & Mary Wilson formerly Taylor; 2 Aug 1886, 2nd form prize, The Grammar School, Newchurch (founded 1701); 19 Mar 1889, confirmed St James' Waterfoot; 1893 Easter matriculated Cambridge University from Ayerst Hall; 1894 migrated to St Catharine's College; BA 1896; 27 Sept 1896 ordained deacon in York Minster by Archbishop William Dalrymple Maclagan, curate Christ Church, Hull, Yorkshire; 19 Dec 1897 ordained priest in York Minster by Archbishop William Dalrymple Maclagan; 8 Feb 1899, curate St Andrew's, Drypool, Hull; 23 Oct 1899, curate Christ Church, Blackpool; 28 May 1900, curate St Jude's, Mildmay Park, London; 18 Mar 1901, missionary chaplain during construction of extension of Keyham Naval Docks near Devonport; 11 July 1903, curate Christ Church, Leicester; 14 Oct 1904, Vicar of Christ Church, Leicester; 1909 author 'A Sketch of the History of Christ Church Leicester'; 18 Jan 1911 Vicar of Christ Church, Chadderton, Lancashire; 19 Nov 1917, Vicar of All Saints, Hamer, Lancashire; 19 Dec 1924, Vicar of St John the Evangelist, Carlisle; 13 Mar 1931, Vicar of All Saints, Upper Holloway, London; 31 May 1937 Rector of Bidborough, Kent; retired 1946; bd 1 Feb churchyard of St Lawrence, Bidborough",
+    "sources": [
+      {
+        "source": "census 1881 8, scholar, B Lancashire, Waterfoot"
+      },
+      {
+        "source": "census 1891 31 Bacup Rd, Newchurch, 18, pupil teacher"
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "Waterfoot-Lenches, Rossendale, Haslingden, Lancashire, & ironmonger, & Mary Wilson formerly Taylor; 2 Aug 1886, 2nd form prize, The Grammar School, Newchurch (founded 1701); 19 Mar 1889, confirmed St James' Waterfoot; 1893 Easter matriculated Cambridge University from Ayerst Hall; 1894 migrated to St Catharine's College; BA 1896; 27 Sept 1896 ordained deacon in York Minster by Archbishop William Dalrymple Maclagan, curate Christ Church, Hull, Yorkshire; 19 Dec 1897 ordained priest in York Minster by Archbishop William Dalrymple Maclagan; 8 Feb 1899, curate St Andrew's, Drypool, Hull; 23 Oct 1899, curate Christ Church, Blackpool; 28 May 1900, curate St Jude's, Mildmay Park, London; 18 Mar 1901, missionary chaplain during construction of extension of Keyham Naval Docks near Devonport; 11 July 1903, curate Christ Church, Leicester; 14 Oct 1904, Vicar of Christ Church, Leicester; 1909 author 'A Sketch of the History of Christ Church Leicester'; 18 Jan 1911 Vicar of Christ Church, Chadderton, Lancashire; 19 Nov 1917, Vicar of All Saints, Hamer, Lancashire; 19 Dec 1924, Vicar of St John the Evangelist, Carlisle; 13 Mar 1931, Vicar of All Saints, Upper Holloway, London; 31 May 1937 Rector of Bidborough, Kent; retired 1946"
+  },
+  {
+    "id": "1872_lilias_cockin",
+    "name": {
+      "full-name": "Lilias Roberts Cockin",
+      "firstname": "Lilias",
+      "middle-name": "Roberts",
+      "surname": "Cockin",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1872_david_wilson",
+          "marriedYear": "1901",
+          "marriedDate": "1901-02-12",
+          "marriedPlace": "Christ Church Hull",
+          "main": false
+        }
+      ],
+      "children": [
+        "1901_edith_wilson",
+        "1906_lilias_wilson",
+        "1908_dorothea_wilson"
+      ],
+      "parents": {
+        "father": "1845_john_cockin",
+        "mother": "1842_ann_roberts"
+      }
+    },
+    "born": {
+      "date": "1872-07-14",
+      "location": "Swamp, Northowram, Halifax"
+    },
+    "died": {
+      "date": "1950-05-23",
+      "location": "Bidborough"
+    },
+    "original-info": "at Swamp Northowram Halifax, , & Ann Maria Cockin formerly Roberts; 15 Sept 1872 baptised Queensbury parish church",
+    "sources": [
+      {
+        "source": "census 1881 45 Mason St Kingston upon Hull, 8, scholar, B Halifax."
+      }
+    ],
+    "remaining-info": "at Swamp Northowram Halifax, , & Ann Maria Cockin formerly Roberts; 15 Sept 1872 baptised Queensbury parish church"
+  },
+  {
+    "id": "xxxx_kathleen_dallimore",
+    "name": {
+      "full-name": "Kathleen Mary Dallimore",
+      "firstname": "Kathleen",
+      "middle-name": "Mary",
+      "surname": "Dallimore",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1872_david_wilson",
+          "marriedYear": "1951",
+          "marriedDate": "1951-04-04",
+          "marriedPlace": "St Lawrence's, Bidborough, Kent",
+          "main": false
+        }
+      ],
+      "parents": {
+        "father": "1839_william_wilson",
+        "mother": "1839_william_wilson"
+      }
+    },
+    "died": {
+      "date": "1962-04-25",
+      "location": "7 Cavendish Ave, St Leonards"
+    },
+    "original-info": "Lawrence's, Bidborough, Kent, widower, 78, retired clergyman, of 20 Arkwright Rd, Hampstead, , & spinster, 53, of Kew Cottage, Bidborough, , retired civil servant, by Henry Dallimore rector of Nettlestead, Kent, in pres of Edith A. Dallimore & W. Dallimore; , at 7 Cavendish Ave, St Leonards",
+    "todo": "birthday: missing birthday",
+    "remaining-info": "Lawrence's, Bidborough, Kent, widower, 78, retired clergyman, of 20 Arkwright Rd, Hampstead, , & spinster, 53, of Kew Cottage, Bidborough, , retired civil servant, by Henry Dallimore rector of Nettlestead, Kent, in pres of Edith A. Dallimore & W. Dallimore; , at 7 Cavendish Ave, St Leonards"
+  },
+  // Edith's first marriage, marked =1 in the source: 1929.
+  {
+    "id": "1901_edith_wilson",
+    "name": {
+      "full-name": "Edith Mary Taylor Wilson",
+      "firstname": "Edith",
+      "middle-name": "Mary Taylor",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1872_david_wilson",
+        "mother": "1872_lilias_cockin"
+      }
+    },
+    "born": {
+      "date": "1901-12",
+      "location": "Devonport"
+    },
+    "died": {
+      "date-burried": "18 Jan Rochdale Cemetery"
+    },
+    "original-info": "1901 Devonport; aged 35, buried 18 Jan Rochdale Cemetery",
+    "todo": "death: missing death date",
+    "remaining-info": "1901 Devonport; aged 35"
+  },
+  {
+    "id": "xxxx_eric_bracken",
+    "name": {
+      "full-name": "Eric Brown Bracken",
+      "firstname": "Eric",
+      "middle-name": "Brown",
+      "surname": "Bracken",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1901_edith_wilson",
+          "marriedYear": "1929",
+          "marriedDate": "1929",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1931_catherine_bracken",
+        "1934_jean_bracken"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1931_catherine_bracken",
+    "name": {
+      "full-name": "Catherine Mary Bracken",
+      "firstname": "Catherine",
+      "middle-name": "Mary",
+      "surname": "Bracken",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1916_1946__david_evans",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1957_susan_evans",
+        "1916_1946__matthew_evans",
+        "1958_hilary_evans",
+        "1916_1946__davina_evans"
+      ],
+      "parents": {
+        "father": "1889_1914_eric_brown_bracken",
+        "mother": "1901_edith_wilson"
+      }
+    },
+    "born": {
+      "date": "1931-03-09",
+      "location": ""
+    },
+    "died": {
+      "date": "2008-03-29"
+    },
+    "remaining-info": ""
+  },
+  {
+    "id": "1916_1946__david_evans",
+    "name": {
+      "full-name": "David Evans",
+      "firstname": "David",
+      "middle-name": "",
+      "surname": "Evans",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1931_catherine_bracken",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": ""
+        }
+      ],
+      "children": [
+        "1957_susan_evans",
+        "1916_1946__matthew_evans",
+        "1958_hilary_evans",
+        "1916_1946__davina_evans"
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  // Susan is parent1; her documented unnamed spouse is parent2.
+  {
+    "id": "1957_susan_evans",
+    "name": {
+      "full-name": "Susan Elizabeth Evans",
+      "firstname": "Susan",
+      "middle-name": "Elizabeth",
+      "surname": "Evans",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1912_1942_david_evans",
+        "mother": "1931_catherine_bracken"
+      }
+    },
+    "born": {
+      "date": "1957",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1916_1946__matthew_evans",
+    "name": {
+      "full-name": "Matthew Evans",
+      "firstname": "Matthew",
+      "middle-name": "",
+      "surname": "Evans",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1912_1942_david_evans",
+        "mother": "1931_catherine_bracken"
+      }
+    },
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1958_hilary_evans",
+    "name": {
+      "full-name": "Hilary Ann Evans",
+      "firstname": "Hilary",
+      "middle-name": "Ann",
+      "surname": "Evans",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1912_1942_david_evans",
+        "mother": "1931_catherine_bracken"
+      }
+    },
+    "born": {
+      "date": "1958",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1916_1946__davina_evans",
+    "name": {
+      "full-name": "Davina Evans",
+      "firstname": "Davina",
+      "middle-name": "",
+      "surname": "Evans",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1912_1942_david_evans",
+        "mother": "1931_catherine_bracken"
+      }
+    },
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1934_jean_bracken",
+    "name": {
+      "full-name": "Jean Alison Bracken",
+      "firstname": "Jean",
+      "middle-name": "Alison",
+      "surname": "Bracken",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1889_1914_eric_brown_bracken",
+        "mother": "1901_edith_wilson"
+      }
+    },
+    "born": {
+      "date": "1934-01-11",
+      "location": ""
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1906_lilias_wilson",
+    "name": {
+      "full-name": "Lilias Ann Taylor Wilson",
+      "firstname": "Lilias",
+      "middle-name": "Ann Taylor",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1872_david_wilson",
+        "mother": "1872_lilias_cockin"
+      }
+    },
+    "born": {
+      "date": "1906-07-15",
+      "location": "Christ Church Vicarage, Cobden St, Leicester"
+    },
+    "died": {
+      "date": "1907-01-10",
+      "location": "Christ Church Vicarage",
+      "date-burried": "Leicester"
+    },
+    "original-info": "Christ Church Vicarage, Cobden St, Leicester, ; Christ Church Vicarage, broncho pneumonia 2 days; Cemetery, section O, gv 3019",
+    "remaining-info": "Christ Church Vicarage, Cobden St, Leicester, ; Christ Church Vicarage, broncho pneumonia 2 days; Cemetery, section O, gv 3019"
+  },
+  {
+    "id": "1908_dorothea_wilson",
+    "name": {
+      "full-name": "Dorothea Florence Taylor Wilson",
+      "firstname": "Dorothea",
+      "middle-name": "Florence Taylor",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1907_denis_soul",
+          "marriedYear": "1938",
+          "marriedDate": "1938-07-23",
+          "marriedPlace": "St Lawrence's Bidborough, Kent"
+        }
+      ],
+      "children": [
+        "1939_john_soul",
+        "1946_joan_soul",
+        "1946_elaine_soul"
+      ],
+      "parents": {
+        "father": "1872_david_wilson",
+        "mother": "1872_lilias_cockin"
+      }
+    },
+    "born": {
+      "date": "1908-11-11",
+      "location": "Christ Church Vicarage, Cobden St, Leicester"
+    },
+    "died": {
+      "date": "1983-04-03",
+      "location": "inscrip Highgate grave"
+    },
+    "original-info": "at Christ Church Vicarage, Cobden St, Leicester, , & Lilias Roberts Wilson formerly Cockin; 1942 evac Singapore to Liverpool in 'Empress, of Japan'; inscrip Highgate grave 42078",
+    "remaining-info": "at Christ Church Vicarage, Cobden St, Leicester, , & Lilias Roberts Wilson formerly Cockin; 1942 evac Singapore to Liverpool in 'Empress, of Japan'; inscrip Highgate grave 42078"
+  },
+  {
+    "id": "1907_denis_soul",
+    "name": {
+      "full-name": "Denis Bruce Soul",
+      "firstname": "Denis",
+      "middle-name": "Bruce",
+      "surname": "Soul",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Banker",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1908_dorothea_wilson",
+          "marriedYear": "1938",
+          "marriedDate": "1938-07-23",
+          "marriedPlace": "St Lawrence's Bidborough, Kent"
+        }
+      ],
+      "children": [
+        "1939_john_soul",
+        "1946_joan_soul",
+        "1946_elaine_soul"
+      ],
+      "parents": {
+        "father": "1867_george_soul",
+        "mother": "1871_florence_coles"
+      }
+    },
+    "born": {
+      "date": "1907-12-25",
+      "location": "8 Tufnell House, Anson Road, Islington"
+    },
+    "died": {
+      "date": "1997-06-29",
+      "date-burried": "Highgate"
+    },
+    "original-info": "at 8 Tufnell House, Anson Road, Islington, , & Florence Emily Soul formerly Coles; St George's Tufnell Park; 1916-25 Wellingborough School, Northants; 1925 St Catharine's College Cambridge organ scholar, BA 1928, MA 1932; 1928 Hongkong & Shanghai Bank, London; 1930 organist & choir-master All Saints Upper Holloway N London 'pupil of Dr Harold Darke'; 1932 HK Bank Harbin, Manchuria; 1938 on leave England; 1938 HK Bank Johore Bahru, Malaya; 1941 mobil. Johore Volunteer Engineers; 1942 interned Singapore, Changi, later Sime Road Camp; 1943 (in Changi), composed Whitsunday anthem 'Spirit of mercy, truth and love' for male-voice choir; 1946 HK Bank Shanghai; 1950 HK Bank Singapore; 1951 HK Bank Calcutta, (accountant), organist & choir-master St John's Calcutta; 1955 HK Bank Hong Kong (sub-manager); 1958 HK Bank Calcutta (acting manager), organist & choir-master St John's; 1959 Hamburg (manager), organist English Church of St Thomas a Becket Hamburg; retd 1965; organist & choir-master St Wilfrid's Bognor Regis; , Cemetery gv 42078 sq 117",
+    "sources": [
+      {
+        "source": "baptism 20 Jan 1907"
+      }
+    ],
+    "remaining-info": "at 8 Tufnell House, Anson Road, Islington, , & Florence Emily Soul formerly Coles; St George's Tufnell Park; 1916-25 Wellingborough School, Northants; 1925 St Catharine's College Cambridge organ scholar, BA 1928, MA 1932; 1928 Hongkong & Shanghai Bank, London; 1930 organist & choir-master All Saints Upper Holloway N London 'pupil of Dr Harold Darke'; 1932 HK Bank Harbin, Manchuria; 1938 on leave England; 1938 HK Bank Johore Bahru, Malaya; 1941 mobil. Johore Volunteer Engineers; 1942 interned Singapore, Changi, later Sime Road Camp; 1943 (in Changi), composed Whitsunday anthem 'Spirit of mercy, truth and love' for male-voice choir; 1946 HK Bank Shanghai; 1950 HK Bank Singapore; 1951 HK Bank Calcutta, (accountant), organist & choir-master St John's Calcutta; 1955 HK Bank Hong Kong (sub-manager); 1958 HK Bank Calcutta (acting manager), organist & choir-master St John's; 1959 Hamburg (manager), organist English Church of St Thomas a Becket Hamburg; retd 1965; organist & choir-master St Wilfrid's Bognor Regis; , Cemetery gv 42078 sq 117"
+  },
+  {
+    "id": "1939_john_soul",
+    "name": {
+      "full-name": "John Brendan Soul",
+      "firstname": "John",
+      "middle-name": "Brendan",
+      "surname": "Soul",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1907_denis_soul",
+        "mother": "1908_dorothea_wilson"
+      }
+    },
+    "born": {
+      "date": "1939",
+      "location": "Hongkong & Shanghai Bank flats, Johore Bahru, Malay States"
+    },
+    "original-info": "1942 evac Singapore to Liverpool in 'Empress of Japan'",
+    "todo": "death: missing death date",
+    "remaining-info": "1942 evac Singapore to Liverpool in 'Empress of Japan'"
+  },
+  {
+    "id": "1946_joan_soul",
+    "name": {
+      "full-name": "Joan Valerie Soul",
+      "firstname": "Joan",
+      "middle-name": "Valerie",
+      "surname": "Soul",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1907_denis_soul",
+        "mother": "1908_dorothea_wilson"
+      }
+    },
+    "born": {
+      "date": "1946",
+      "location": "North-China Daily News 'at the Country Hospital, Shanghai, to Dorothea, wife of Denis B. Soul, twin daughters'."
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1946_elaine_soul",
+    "name": {
+      "full-name": "Elaine Barbara Soul",
+      "firstname": "Elaine",
+      "middle-name": "Barbara",
+      "surname": "Soul",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1907_denis_soul",
+        "mother": "1908_dorothea_wilson"
+      }
+    },
+    "born": {
+      "date": "1946",
+      "location": "North-China Daily News 'at the Country Hospital, Shanghai, to Dorothea, wife of Denis B. Soul, twin daughters'."
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1911_mildred_wilson",
+    "name": {
+      "full-name": "Mildred Kathleen Taylor Wilson",
+      "firstname": "Mildred",
+      "middle-name": "Kathleen Taylor",
+      "surname": "Wilson",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_maurice_sheehan",
+          "marriedYear": "1942",
+          "marriedDate": "1942-03-02",
+          "marriedPlace": "The Register Office. St Marylebone, London",
+          "main": true
+        }
+      ],
+      "children": [
+        "1944_christopher_sheehan"
+      ],
+      "parents": {
+        "father": "1872_david_wilson",
+        "mother": "1872_lilias_cockin"
+      }
+    },
+    "born": {
+      "date": "1911-07-23",
+      "location": ""
+    },
+    "died": {
+      "date": "1971-11-01",
+      "location": "bd Hampstead Cemetery",
+      "date-burried": "Hampstead"
+    },
+    "original-info": "Cemetery",
+    "remaining-info": "Cemetery"
+  },
+  {
+    "id": "xxxx_maurice_sheehan",
+    "name": {
+      "full-name": "Maurice Sheehan",
+      "firstname": "Maurice",
+      "middle-name": "",
+      "surname": "Sheehan",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "occupation": "Medical practitioner, MB ChB",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1911_mildred_wilson",
+          "marriedYear": "1942",
+          "marriedDate": "1942-03-02",
+          "marriedPlace": "The Register Office. St Marylebone, London",
+          "main": false
+        }
+      ],
+      "children": [
+        "1944_christopher_sheehan"
+      ],
+      "parents": {
+        "father": "Patrick Sheehan dec",
+        "mother": "1912_1942_david_evans"
+      }
+    },
+    "original-info": "Register Office. St Marylebone, London, bachelor, 37, medical practitioner, MB ChB, of 4 Portland Sq, Carlisle, 'd medical practitioner, & spinster, 30, of 1 Vinery Villas, London NW8",
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": "Register Office. St Marylebone, London, bachelor, 37, medical practitioner, MB ChB, of 4 Portland Sq, Carlisle, 'd medical practitioner, & spinster, 30, of 1 Vinery Villas, London NW8"
+  },
+  {
+    "id": "1944_christopher_sheehan",
+    "name": {
+      "full-name": "Christopher Sheehan",
+      "firstname": "Christopher",
+      "middle-name": "",
+      "surname": "Sheehan",
+      "maiden-name": ""
+    },
+    "cisgender": "",
+    "relationship": {
+      "parents": {
+        "father": "1902_1927_maurice_sheehan",
+        "mother": "1911_mildred_wilson"
+      }
+    },
+    "born": {
+      "date": "1944",
+      "location": "Hampstead"
+    },
+    "todo": "death: missing death date",
+    "remaining-info": ""
+  }
+]

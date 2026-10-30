@@ -1,0 +1,4731 @@
+[
+  // DATE DISPLAY AND ESTIMATION RULES
+  // All approximate births display c., as requested.
+  // Comments distinguish age-derived, source-approximate and assumption-based dates.
+  // Dates use YYYY Mon DD; unknown components, ranges and quarters are retained.
+  // Completed age A in year Y gives [Y-A-1,Y-A].
+  // Provisional parental ages: 15–60; marriage-only ages: 16–40.
+  // Child [L,U] gives parent [L-60,U-15].
+  // Parent [L,U] gives child [L+15,U+60].
+  // Known marriage year M gives birth [M-40,M-16].
+  // Intersect applicable fallback intervals; never override documentary dates.
+  // CONDITIONAL SPOUSE ESTIMATES: additionally assume both partners married
+  // aged 16–40, giving the other spouse [L-24,U+24] from partner birth [L,U].
+  // This is an additional assumption, not independent evidence of a birth
+  // or a marriage year; do not feed its result back into the input estimate.
+  // Very broad ranges are model envelopes, not documented birth intervals.
+  // Only the second-listed parent points to shared children.
+  // Where only one parent is named, that parent points to the children.
+  // Co-parent links do not assert an undocumented marriage.
+  // FOUNDING FAMILY
+  {
+    "id": "1755_william_hone",
+    "name": {
+      "full-name": "William Hone",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jacob_burn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1875_woldemar_sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1781_sarah__johnson",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1801_sarah__hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "xxxx_sarah__thompson",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1878_gerta__von_zur_mhlen",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "children": [
+        "1828_allan_burn",
+        "1781_sarah__johnson",
+        "1801_sarah__hone",
+        "1911_alice_granberg",
+        "1862_alice__burn",
+        "1887_evan_williams",
+        "1803_fanny__hone",
+        "1798_thomas_hemsley",
+        "1827_thomas_hemsley",
+        "1851_thomas_hemsley",
+        "1878_violet_hemsley",
+        "1879_winifred_hemsley",
+        "1881_jessie_hemsley",
+        "1882_gladys_hemsley",
+        "1884_thomas_hemsley",
+        "1886_robert_hemsley",
+        "1888_doris_hemsley",
+        "1891_daisy_hemsley",
+        "1859_mary_hemsley",
+        "1861_george_hemsley",
+        "xxxx_arthur_hemsley",
+        "xxxx_margaret__hemsley",
+        "1898_hugh_huckett",
+        "1892_arnold_huckett",
+        "1894_margaret_huckett",
+        "1899_oliver_huckett",
+        "1865_kate_hemsley",
+        "1867_edith_hemsley",
+        "1869_franklyn_hemsley",
+        "1829_william_hemsley",
+        "1831_fanny_hemsley",
+        "1837_emma__hemsley",
+        "1844_alfred_hemsley",
+        "xxxx_emma__ginder",
+        "1805_matilda_hone",
+        "1810_alfred_hone",
+        "1836_alfred_hone",
+        "xxxx_edward_hone",
+        "xxxx_sarah__thompson",
+        "1901_bertie_hone",
+        "1899_george_hone",
+        "xxxx_doris_hone",
+        "xxxx_edgar_hone",
+        "xxxx_lena_hone",
+        "xxxx_bertie_hone",
+        "xxxx_daisy_hone",
+        "xxxx_nathaniel_beadell",
+        "1844_nathaniel_hone",
+        "xxxx_frank_hone",
+        "xxxx_brian_hone",
+        "xxxx_john_hone",
+        "1814_emma__hone",
+        "1848_elieser_hahn",
+        "1878_emma__hahn",
+        "1904_burchard_sielmann",
+        "1907_heinrich_sielmann",
+        "1910_hildegard__sielmann",
+        "1913_marie__sielmann",
+        "1850_emma__hahn",
+        "xxxx_charlotte_hone",
+        "1876_frederick_beiderbecke",
+        "1911_joseph_beidebecker",
+        "1818_rose_hone",
+        "1822_ellen__hone",
+        "1825_alice__hone",
+        "1847_alice_lovati",
+        "xxxx_agnes_lovati",
+        "xxxx_emma_fourdinois",
+        "1869_angeline_fourdinois",
+        "1783_joseph_hone",
+        "1842_joseph_hone",
+        "1848_joseph_hone"
+      ]
+    },
+    "born": {
+      "date": "1755-03-31",
+      "location": ""
+    },
+    "died": {
+      "date": "1831",
+      "location": "Bunhill Fields, London",
+      "date-burried": "Bunhill"
+    },
+    "original-info": "Fields, London, 12 Feb, aged 76, from Percival Street",
+    "todo": "parents: missing parents",
+    "remaining-info": "Fields, London, 12 Feb, aged 76, from Percival Street"
+  },
+  {
+    "id": "xxxx_frances__stawell",
+    "name": {
+      "full-name": "Frances (Stawell)",
+      "firstname": "Frances",
+      "middle-name": "",
+      "surname": "Stawell",
+      "maiden-name": "Stawell"
+    },
+    "cisgender": "female",
+    "died": {
+      "date": "1833",
+      "location": "Bunhill Fields",
+      "date-burried": "Bunhill"
+    },
+    "original-info": "Fields 22 Apr, aged 76, from Percival Street; maiden-name: Stawell",
+    "todo": "name_mismatch: name mismatch: full-name='Frances (Stawell)' vs constructed='Frances Stawell', birthday: missing birthday, parents: missing parents",
+    "remaining-info": "Fields 22 Apr, aged 76, from Percival Street"
+  },
+  // Married 1800 Jul 19, St Anne's Soho.
+  {
+    "id": "1780_william_hone",
+    "name": {
+      "full-name": "William Hone",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jacob_burn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1875_woldemar_sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "children": [
+        "1828_allan_burn"
+      ]
+    },
+    "born": {
+      "date": "1780-06-03",
+      "location": "Bath"
+    },
+    "died": {
+      "date": "1842-11-06",
+      "location": "Abney Park Cemetery, Stoke Newington, N London",
+      "date-burried": "Abney"
+    },
+    "original-info": "Bath 3 June 1780; , Park Cemetery, Stoke Newington, N London, gv 316 sq 76, aged 62, from Grove Place, Tottenham",
+    "todo": "parents: missing parents",
+    "remaining-info": "Bath 3 June 1780; , Park Cemetery, Stoke Newington, N London, gv 316 sq 76, aged 62, from Grove Place, Tottenham"
+  },
+  {
+    "id": "1781_sarah__johnson",
+    "name": {
+      "full-name": "Sarah (Johnson)",
+      "firstname": "Sarah",
+      "middle-name": "",
+      "surname": "Johnson",
+      "maiden-name": "Johnson"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1755_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1781-11-30",
+      "location": "Southwark"
+    },
+    "died": {
+      "date": "1864-09-26",
+      "location": "Abney Park",
+      "date-burried": "Abney"
+    },
+    "original-info": "Southwark 30 Nov 1781; , Park gv 316 sq 76, aged 83, from Somerford Grove; maiden-name: Johnson",
+    "todo": "name_mismatch: name mismatch: full-name='Sarah (Johnson)' vs constructed='Sarah Johnson', parents: missing parents",
+    "remaining-info": "Southwark 30 Nov 1781; , Park gv 316 sq 76, aged 83, from Somerford Grove"
+  },
+  {
+    "id": "1801_sarah__hone",
+    "name": {
+      "full-name": "Sarah (Hone)",
+      "firstname": "Sarah",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1755_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1801",
+      "location": ""
+    },
+    "died": {
+      "date": "1883-08-03",
+      "location": "Melbourne, Vic"
+    },
+    "original-info": "St Mary's Lambeth; emigrated to Australia, Melbourne; Melbourne, Vic; maiden-name: Hone",
+    "sources": [
+      {
+        "source": "baptism 25 Oct 1801"
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Sarah (Hone)' vs constructed='Sarah Hone', parents: missing parents",
+    "remaining-info": "St Mary's Lambeth; emigrated to Australia, Melbourne; Melbourne, Vic"
+  },
+  {
+    "id": "xxxx_jacob_burn",
+    "name": {
+      "full-name": "Jacob Henry Burn",
+      "firstname": "Jacob",
+      "middle-name": "Henry",
+      "surname": "Burn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1755_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1780_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1807_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "xxxx_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1825_robert_burn",
+    "name": {
+      "full-name": "Robert Burn",
+      "firstname": "Robert",
+      "middle-name": "",
+      "surname": "Burn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1825-03-14",
+      "location": "London"
+    },
+    "original-info": "London",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "London"
+  },
+  {
+    "id": "1827_henry_burn",
+    "name": {
+      "full-name": "Henry Burn",
+      "firstname": "Henry",
+      "middle-name": "",
+      "surname": "Burn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1827-01-19",
+      "location": "London"
+    },
+    "original-info": "London",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "London"
+  },
+  // Married 1856 Feb, Taraville, Victoria.
+  {
+    "id": "1828_allan_burn",
+    "name": {
+      "full-name": "Allan Burn",
+      "firstname": "Allan",
+      "middle-name": "",
+      "surname": "Burn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1828-10-27",
+      "location": "London"
+    },
+    "died": {
+      "date": "1883",
+      "location": "Bairnsdale, Victoria, Australia"
+    },
+    "original-info": "London, Bairnsdale, Victoria, Australia",
+    "todo": "parents: missing parents",
+    "remaining-info": "London, Bairnsdale, Victoria, Australia"
+  },
+  {
+    "id": "1858_robert_burn",
+    "name": {
+      "full-name": "Robert Henry Burn",
+      "firstname": "Robert",
+      "middle-name": "Henry",
+      "surname": "Burn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1858",
+      "location": "Victoria"
+    },
+    "died": {
+      "date": "in infancy"
+    },
+    "original-info": "Victoria, D in infancy",
+    "todo": "parents: missing parents",
+    "remaining-info": "Victoria"
+  },
+  // Robert died in infancy; the source does not establish a death year.
+  {
+    "id": "1869_mary_burn",
+    "name": {
+      "full-name": "Mary Rose Burn",
+      "firstname": "Mary",
+      "middle-name": "Rose",
+      "surname": "Burn",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1869",
+      "location": "Victoria, Australia"
+    },
+    "original-info": "Victoria, Australia",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Victoria, Australia"
+  },
+  {
+    "id": "1911_alice_granberg",
+    "name": {
+      "full-name": "Alice M. Granberg",
+      "firstname": "Alice",
+      "middle-name": "M.",
+      "surname": "Granberg",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jeanbaptiste_lovati",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1911",
+      "location": "W Australia"
+    },
+    "original-info": "W Australia",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "W Australia"
+  },
+  {
+    "id": "xxxx_doreen_barrett",
+    "name": {
+      "full-name": "Doreen Barrett",
+      "firstname": "Doreen",
+      "middle-name": "",
+      "surname": "Barrett",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_wesley_barrett",
+    "name": {
+      "full-name": "Wesley Barrett",
+      "firstname": "Wesley",
+      "middle-name": "",
+      "surname": "Barrett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1913_lillian__granberg",
+    "name": {
+      "full-name": "Lillian (Granberg)",
+      "firstname": "Lillian",
+      "middle-name": "",
+      "surname": "Granberg",
+      "maiden-name": "Granberg"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1913",
+      "location": "W Australia"
+    },
+    "died": {
+      "date": "1998",
+      "location": "W Australia"
+    },
+    "original-info": "W Australia; W Australia; maiden-name: Granberg",
+    "todo": "name_mismatch: name mismatch: full-name='Lillian (Granberg)' vs constructed='Lillian Granberg', parents: missing parents",
+    "remaining-info": "W Australia; W Australia"
+  },
+  {
+    "id": "xxxx_mervyn_barrett",
+    "name": {
+      "full-name": "Mervyn Barrett",
+      "firstname": "Mervyn",
+      "middle-name": "",
+      "surname": "Barrett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_michelle__otwaymelvin",
+    "name": {
+      "full-name": "Michelle (Otway-Melvin)",
+      "firstname": "Michelle",
+      "middle-name": "",
+      "surname": "Otway-Melvin",
+      "maiden-name": "Otway-Melvin"
+    },
+    "cisgender": "female",
+    "original-info": "maiden-name: Otway-Melvin",
+    "todo": "name_mismatch: name mismatch: full-name='Michelle (Otway-Melvin)' vs constructed='Michelle Otway-Melvin', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1905_cheryl__grant",
+    "name": {
+      "full-name": "Cheryl (Grant)",
+      "firstname": "Cheryl",
+      "middle-name": "",
+      "surname": "Grant",
+      "maiden-name": "Grant"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "mother": "hector_j_liddle"
+      }
+    },
+    "born": {
+      "date": "23 July 1905",
+      "location": ""
+    },
+    "died": {
+      "date": "1 Apr 1986"
+    },
+    "original-info": "Glasgow, W Australia, & Freda E. (Scot) B 1909 W Australia, W Australia; maiden-name: Grant",
+    "todo": "name_mismatch: name mismatch: full-name='Cheryl (Grant)' vs constructed='Cheryl Grant'",
+    "remaining-info": "Glasgow, W Australia, & Freda E. (Scot) B 1909 W Australia, W Australia"
+  },
+  {
+    "id": "xxxx_matthew_barrett",
+    "name": {
+      "full-name": "Matthew Barrett",
+      "firstname": "Matthew",
+      "middle-name": "",
+      "surname": "Barrett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_melissa__barrett",
+    "name": {
+      "full-name": "Melissa (Barrett)",
+      "firstname": "Melissa",
+      "middle-name": "",
+      "surname": "Barrett",
+      "maiden-name": "Barrett"
+    },
+    "cisgender": "female",
+    "original-info": "maiden-name: Barrett",
+    "todo": "name_mismatch: name mismatch: full-name='Melissa (Barrett)' vs constructed='Melissa Barrett', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_wayne_barrett",
+    "name": {
+      "full-name": "Wayne Barrett",
+      "firstname": "Wayne",
+      "middle-name": "",
+      "surname": "Barrett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_lauren_fernandez",
+    "name": {
+      "full-name": "Lauren Fernandez",
+      "firstname": "Lauren",
+      "middle-name": "",
+      "surname": "Fernandez",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_lachlan_simson",
+    "name": {
+      "full-name": "Lachlan Simson",
+      "firstname": "Lachlan",
+      "middle-name": "",
+      "surname": "Simson",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1862_alice__burn",
+    "name": {
+      "full-name": "Alice (Burn)",
+      "firstname": "Alice",
+      "middle-name": "",
+      "surname": "Burn",
+      "maiden-name": "Burn"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jeanbaptiste_lovati",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1862-06-03",
+      "location": "Victoria"
+    },
+    "original-info": "Victoria; maiden-name: Burn",
+    "todo": "name_mismatch: name mismatch: full-name='Alice (Burn)' vs constructed='Alice Burn', death: missing death date, parents: missing parents",
+    "remaining-info": "Victoria"
+  },
+  {
+    "id": "1884_may__williams",
+    "name": {
+      "full-name": "May (Williams)",
+      "firstname": "May",
+      "middle-name": "",
+      "surname": "Williams",
+      "maiden-name": "Williams"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1884",
+      "location": "Victoria"
+    },
+    "died": {
+      "date": "1964-03-09",
+      "location": "W Australia"
+    },
+    "original-info": "Victoria; W Australia; maiden-name: Williams",
+    "todo": "name_mismatch: name mismatch: full-name='May (Williams)' vs constructed='May Williams', parents: missing parents",
+    "remaining-info": "Victoria; W Australia"
+  },
+  {
+    "id": "1864_david_williams",
+    "name": {
+      "full-name": "David Evan Williams",
+      "firstname": "David",
+      "middle-name": "Evan",
+      "surname": "Williams",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1839_william_wilson"
+      }
+    },
+    "born": {
+      "date": "1864-07-01",
+      "location": "Belvoir, Victoria"
+    },
+    "died": {
+      "date": "2 Jan 1917",
+      "location": "Katanning"
+    },
+    "original-info": "Belvoir, Victoria, (Jenkins), Katanning, W Australia",
+    "remaining-info": "Belvoir, Victoria, (Jenkins), Katanning, W Australia"
+  },
+  {
+    "id": "1880_frans_granberg",
+    "name": {
+      "full-name": "Frans Edward Granberg",
+      "firstname": "Frans",
+      "middle-name": "Edward",
+      "surname": "Granberg",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": ""
+      }
+    },
+    "born": {
+      "date": "1880",
+      "location": "W Australia"
+    },
+    "died": {
+      "date": "1940",
+      "location": "W Australia"
+    },
+    "original-info": "& Maria (Erickasen), W Australia",
+    "remaining-info": "& Maria (Erickasen), W Australia"
+  },
+  {
+    "id": "xxxx_maria__erickasen",
+    "name": {
+      "full-name": "Maria (Erickasen)",
+      "firstname": "Maria",
+      "middle-name": "",
+      "surname": "Erickasen",
+      "maiden-name": "Erickasen"
+    },
+    "cisgender": "female",
+    "died": {
+      "date": "1940",
+      "location": "W Australia"
+    },
+    "original-info": "W Australia; maiden-name: Erickasen",
+    "todo": "name_mismatch: name mismatch: full-name='Maria (Erickasen)' vs constructed='Maria Erickasen', birthday: missing birthday, parents: missing parents",
+    "remaining-info": "W Australia"
+  },
+  // BARRETT FAMILY
+  {
+    "id": "1912_richard_barrett",
+    "name": {
+      "full-name": "Richard John Barrett",
+      "firstname": "Richard",
+      "middle-name": "John",
+      "surname": "Barrett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1912-10-24",
+      "location": "Lancashire, England"
+    },
+    "died": {
+      "date": "1974-12-06",
+      "location": "W Australia"
+    },
+    "original-info": "Lancashire, England; W Australia",
+    "todo": "parents: missing parents",
+    "remaining-info": "Lancashire, England; W Australia"
+  },
+  {
+    "id": "1909_freda__scot",
+    "name": {
+      "full-name": "Freda (Scot)",
+      "firstname": "Freda",
+      "middle-name": "",
+      "surname": "Scot",
+      "maiden-name": "Scot"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1909",
+      "location": "W Australia"
+    },
+    "died": {
+      "date": "2003-03-05",
+      "location": "W Australia"
+    },
+    "original-info": "W Australia, W Australia; maiden-name: Scot",
+    "todo": "name_mismatch: name mismatch: full-name='Freda (Scot)' vs constructed='Freda Scot', parents: missing parents",
+    "remaining-info": "W Australia, W Australia"
+  },
+  {
+    "id": "1833_joice__morgan",
+    "name": {
+      "full-name": "Joice (Morgan)",
+      "firstname": "Joice",
+      "middle-name": "",
+      "surname": "Morgan",
+      "maiden-name": "Morgan"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "mother": "xxxx_john_morgan"
+      }
+    },
+    "born": {
+      "date": "1833-06-17",
+      "location": "Tredegar, Wales"
+    },
+    "original-info": "Tredegar, Wales, & Elizabeth (Edwards); maiden-name: Morgan",
+    "todo": "name_mismatch: name mismatch: full-name='Joice (Morgan)' vs constructed='Joice Morgan', death: missing death date",
+    "remaining-info": "Tredegar, Wales, & Elizabeth (Edwards)"
+  },
+  {
+    "id": "xxxx_john_morgan",
+    "name": {
+      "full-name": "John Morgan",
+      "firstname": "John",
+      "middle-name": "",
+      "surname": "Morgan",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "mother": ""
+      }
+    },
+    "original-info": "& Elizabeth (Edwards)",
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": "& Elizabeth (Edwards)"
+  },
+  {
+    "id": "xxxx_elizabeth__edwards",
+    "name": {
+      "full-name": "Elizabeth (Edwards)",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Edwards",
+      "maiden-name": "Edwards"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "mother": "xxxx_john_morgan"
+      }
+    },
+    "original-info": "& Elizabeth (Edwards); maiden-name: Edwards",
+    "todo": "name_mismatch: name mismatch: full-name='Elizabeth (Edwards)' vs constructed='Elizabeth Edwards', birthday: missing birthday, death: missing death date",
+    "remaining-info": "& Elizabeth (Edwards)"
+  },
+  {
+    "id": "1916_david_granberg",
+    "name": {
+      "full-name": "David Edward Kitchener Granberg",
+      "firstname": "David",
+      "middle-name": "Edward Kitchener",
+      "surname": "Granberg",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1916-10-01",
+      "location": "W Australia"
+    },
+    "died": {
+      "date": "1968",
+      "location": "W Australia"
+    },
+    "original-info": "W Australia, W Australia",
+    "todo": "parents: missing parents",
+    "remaining-info": "W Australia, W Australia"
+  },
+  {
+    "id": "1885_arthur_williams",
+    "name": {
+      "full-name": "Arthur Allan G. Williams",
+      "firstname": "Arthur",
+      "middle-name": "Allan G.",
+      "surname": "Williams",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1885",
+      "location": "Victoria"
+    },
+    "original-info": "Victoria",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Victoria"
+  },
+  {
+    "id": "1887_evan_williams",
+    "name": {
+      "full-name": "Evan Jenkins Williams",
+      "firstname": "Evan",
+      "middle-name": "Jenkins",
+      "surname": "Williams",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1887",
+      "location": "Victoria"
+    },
+    "original-info": "Victoria",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Victoria"
+  },
+  {
+    "id": "xxxx_hannah__thomas",
+    "name": {
+      "full-name": "Hannah (Thomas)",
+      "firstname": "Hannah",
+      "middle-name": "",
+      "surname": "Thomas",
+      "maiden-name": "Thomas"
+    },
+    "cisgender": "female",
+    "original-info": "maiden-name: Thomas",
+    "todo": "name_mismatch: name mismatch: full-name='Hannah (Thomas)' vs constructed='Hannah Thomas', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1803_fanny__hone",
+    "name": {
+      "full-name": "Fanny (Hone)",
+      "firstname": "Fanny",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1798_thomas_hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1825_jessie__franklyn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1803-04-05",
+      "location": "City of London"
+    },
+    "died": {
+      "date": "1883-03-10",
+      "location": "Margaretting, Essex",
+      "date-burried": "Abney"
+    },
+    "original-info": "at residence of her son Thomas at Margaretting, Essex, Park, Stoke Newington, 15 Mar, aged 79; maiden-name: Hone",
+    "sources": [
+      {
+        "source": "census 1881 3 Nightingale Rd, household of Joseph Simmonds Soul, widow, 77, B City of London"
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Fanny (Hone)' vs constructed='Fanny Hone', parents: missing parents",
+    "remaining-info": "at residence of her son Thomas at Margaretting, Essex, Park, Stoke Newington, 15 Mar, aged 79"
+  },
+  {
+    "id": "1798_thomas_hemsley",
+    "name": {
+      "full-name": "Thomas Hemsley",
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1803_fanny__hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1831_fanny_hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1798-06-11",
+      "location": "Newington Butts, Surrey"
+    },
+    "original-info": "Newington Butts, Surrey, bpt King's Weigh House Chapel, 30 Dec 1834, & Elizabeth (Seaton)",
+    "todo": "death: missing death date",
+    "remaining-info": "Newington Butts, Surrey, bpt King's Weigh House Chapel, 30 Dec 1834, & Elizabeth (Seaton)"
+  },
+  {
+    "id": "1856_1886__elizabeth_seaton",
+    "name": {
+      "full-name": "Elizabeth (Seaton)",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Seaton",
+      "maiden-name": "Seaton"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1871_thomas_soul"
+      }
+    },
+    "original-info": "& Elizabeth (Seaton); maiden-name: Seaton",
+    "todo": "name_mismatch: name mismatch: full-name='Elizabeth (Seaton)' vs constructed='Elizabeth Seaton', birthday: missing birthday, death: missing death date",
+    "remaining-info": "& Elizabeth (Seaton)"
+  },
+  // Married 1851 Aug 11, Elstree.
+  {
+    "id": "1827_thomas_hemsley",
+    "name": {
+      "full-name": "Thomas Hemsley",
+      "firstname": "Thomas",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1827-08-16",
+      "location": "King St, Tower Hill, parish of St Botolph Aldgate"
+    },
+    "original-info": "King St, Tower Hill, parish of St Botolph Aldgate, King's Weigh House Chapel by Thomas Binney, & Fanny (Hone)",
+    "sources": [
+      {
+        "source": "baptism 30 Dec 1834"
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "King St, Tower Hill, parish of St Botolph Aldgate, King's Weigh House Chapel by Thomas Binney, & Fanny (Hone)"
+  },
+  {
+    "id": "1825_jessie__franklyn",
+    "name": {
+      "full-name": "Jessie (Franklyn)",
+      "firstname": "Jessie",
+      "middle-name": "",
+      "surname": "Franklyn",
+      "maiden-name": "Franklyn"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1803_fanny__hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1825-11-30",
+      "location": ""
+    },
+    "died": {
+      "date-burried": "4 Dec"
+    },
+    "original-info": "bd 4 Dec, Abney Park, Stoke Newington, with Franklyn Charles; maiden-name: Franklyn",
+    "todo": "name_mismatch: name mismatch: full-name='Jessie (Franklyn)' vs constructed='Jessie Franklyn', death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  // Married 1876 Jun 22, Islington.
+  {
+    "id": "1851_thomas_hemsley",
+    "name": {
+      "full-name": "Thomas Franklyn Hemsley",
+      "firstname": "Thomas",
+      "middle-name": "Franklyn",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1851-12-09",
+      "location": "America"
+    },
+    "died": {
+      "date": "1916-01-03"
+    },
+    "sources": [
+      {
+        "source": "census 1901 15 Capel Rd, East Ham, widower, 49, printer's book reader, B America, New York"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_clara__thomas",
+    "name": {
+      "full-name": "Clara (Thomas)",
+      "firstname": "Clara",
+      "middle-name": "",
+      "surname": "Thomas",
+      "maiden-name": "Thomas"
+    },
+    "cisgender": "female",
+    "died": {
+      "date": "1891",
+      "location": "Q1, aged 37, Romford"
+    },
+    "original-info": "D 1891 Q1, aged 37, Romford; maiden-name: Thomas",
+    "todo": "name_mismatch: name mismatch: full-name='Clara (Thomas)' vs constructed='Clara Thomas', birthday: missing birthday, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1877_ethel_hemsley",
+    "name": {
+      "full-name": "Ethel Clara Hemsley",
+      "firstname": "Ethel",
+      "middle-name": "Clara",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1877-04-03",
+      "location": "Edmonton"
+    },
+    "original-info": "Edmonton (MEHS)",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Edmonton (MEHS)"
+  },
+  {
+    "id": "1878_violet_hemsley",
+    "name": {
+      "full-name": "Violet Mary Hemsley",
+      "firstname": "Violet",
+      "middle-name": "Mary",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1878-04-02",
+      "location": "Middx Tottenham"
+    },
+    "sources": [
+      {
+        "source": "census 1901 15 Capel Rd, East Ham, single, 22, B Middx Tottenham."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1879_winifred_hemsley",
+    "name": {
+      "full-name": "Winifred Sarah Hemsley",
+      "firstname": "Winifred",
+      "middle-name": "Sarah",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1879-10-15",
+      "location": ""
+    },
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1881_jessie_hemsley",
+    "name": {
+      "full-name": "Jessie Maud Hemsley",
+      "firstname": "Jessie",
+      "middle-name": "Maud",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1881-05-03",
+      "location": "Edmonton"
+    },
+    "original-info": "Edmonton, (MEHS)",
+    "sources": [
+      {
+        "source": "census 1901 3 Nightingale Rd, Hackney, niece of Joseph Simmonds Soul, single, 19, art needleworker, B Tottenham."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Edmonton, (MEHS)"
+  },
+  {
+    "id": "1882_gladys_hemsley",
+    "name": {
+      "full-name": "Gladys Margaret Hemsley",
+      "firstname": "Gladys",
+      "middle-name": "Margaret",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1882-11-26",
+      "location": ""
+    },
+    "died": {
+      "date": "1883-08-17",
+      "location": "Abney Park",
+      "date-burried": "Abney"
+    },
+    "original-info": "Park 22 Aug, aged 8 months, Sq D06",
+    "todo": "parents: missing parents",
+    "remaining-info": "Park 22 Aug, aged 8 months, Sq D06"
+  },
+  {
+    "id": "1884_thomas_hemsley",
+    "name": {
+      "full-name": "Thomas Alexis Franklyn Hemsley",
+      "firstname": "Thomas",
+      "middle-name": "Alexis Franklyn",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1884-11-12",
+      "location": "Middx Tottenham"
+    },
+    "original-info": "(MEHS)",
+    "sources": [
+      {
+        "source": "census 1901 15 Capel Rd, West Ham, 16, mercantile clerk, B Middx Tottenham."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "(MEHS)"
+  },
+  {
+    "id": "1886_robert_hemsley",
+    "name": {
+      "full-name": "Robert Harry Hemsley",
+      "firstname": "Robert",
+      "middle-name": "Harry",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1886-05-09",
+      "location": "Romford"
+    },
+    "died": {
+      "date": "1917-10-12",
+      "location": "Lijssenthoek Military Cemetery"
+    },
+    "original-info": "Romford (MEHS); emigrated to Australia, Australian I.F., wounded at Ypres 10 October 1917, , aged 31, private, 17th Bn Australian Infantry, A.I.F, grave XXI.A.20A Lijssenthoek Military Cemetery",
+    "sources": [
+      {
+        "source": "census 1901 15 Capel Rd, West Ham, 14, mercantile clerk, B Essex Upminster"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": "Romford (MEHS); emigrated to Australia, Australian I.F., wounded at Ypres 10 October 1917, , aged 31, private, 17th Bn Australian Infantry, A.I.F, grave XXI.A.20A Lijssenthoek Military Cemetery"
+  },
+  {
+    "id": "1888_doris_hemsley",
+    "name": {
+      "full-name": "Doris Evelyn Hemsley",
+      "firstname": "Doris",
+      "middle-name": "Evelyn",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1888-02-06",
+      "location": "Romford"
+    },
+    "original-info": "Romford (MEHS)",
+    "sources": [
+      {
+        "source": "census 1901 15 Capel Rd, West Ham, 13, B Essex Upminster."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Romford (MEHS)"
+  },
+  {
+    "id": "1891_daisy_hemsley",
+    "name": {
+      "full-name": "Daisy Rosalie Hemsley",
+      "firstname": "Daisy",
+      "middle-name": "Rosalie",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1891-02-25",
+      "location": "Romford"
+    },
+    "original-info": "Romford",
+    "sources": [
+      {
+        "source": "census 1901 15 Cleveland Rd, Wanstead, Essex, gd-daughter in household of Thomas Hemsley, 10, B Upminster, Essex."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Romford"
+  },
+  // Married 1894 Sep 04, Oxsted as written in source.
+  {
+    "id": "1859_mary_hemsley",
+    "name": {
+      "full-name": "Mary Hemsley",
+      "firstname": "Mary",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_henry_wilkinson",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1859-03-08",
+      "location": "City of London"
+    },
+    "died": {
+      "date": "1946-03-08",
+      "location": "Beaufort, Monmouthshire"
+    },
+    "original-info": "Beaufort, Monmouthshire",
+    "sources": [
+      {
+        "source": "census 1881 Ivy Cottage, Margaretting, Essex, 22, B City of London"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": "Beaufort, Monmouthshire"
+  },
+  {
+    "id": "xxxx_henry_wilkinson",
+    "name": {
+      "full-name": "Henry Elisha Wilkinson",
+      "firstname": "Henry",
+      "middle-name": "Elisha",
+      "surname": "Wilkinson",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1859_mary_hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1861_george_hemsley",
+    "name": {
+      "full-name": "George Franklyn Hemsley",
+      "firstname": "George",
+      "middle-name": "Franklyn",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1861-Q1",
+      "location": "Whitechapel"
+    },
+    "died": {
+      "date-burried": "5 May"
+    },
+    "original-info": "B 1861 Q1, Whitechapel; , bd 5 May, Abney Park, Stoke Newington, aged 14 months",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "B 1861 Q1, Whitechapel"
+  },
+  {
+    "id": "xxxx_arthur_hemsley",
+    "name": {
+      "full-name": "Arthur Franklyn Hemsley",
+      "firstname": "Arthur",
+      "middle-name": "Franklyn",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "died": {
+      "date-burried": "28 Jan"
+    },
+    "original-info": "bd 28 Jan, Abney Park, Stoke Newington, gv 316 sq 76, grave of his gt gd-parents William & Sarah Hone, aged 22 months, from King St, Tower Hill",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_margaret__hemsley",
+    "name": {
+      "full-name": "Margaret (Hemsley)",
+      "firstname": "Margaret",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": "Hemsley"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1862_walter_huckett",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "City of London"
+    },
+    "original-info": "maiden-name: Hemsley",
+    "sources": [
+      {
+        "source": "census 1881 Ivy Cottage, Margaretting, Essex, 18, b City of London."
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Margaret (Hemsley)' vs constructed='Margaret Hemsley', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  // HUCKETT FAMILY
+  {
+    "id": "1862_walter_huckett",
+    "name": {
+      "full-name": "Walter Huckett",
+      "firstname": "Walter",
+      "middle-name": "",
+      "surname": "Huckett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_margaret__hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1894_margaret_huckett",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1862-01-31",
+      "location": ""
+    },
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1898_hugh_huckett",
+    "name": {
+      "full-name": "Hugh Cecil Huckett",
+      "firstname": "Hugh",
+      "middle-name": "Cecil",
+      "surname": "Huckett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1898-07-13",
+      "location": "Antananarivo, Madagascar"
+    },
+    "original-info": "Antananarivo, Madagascar",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Antananarivo, Madagascar"
+  },
+  {
+    "id": "1892_arnold_huckett",
+    "name": {
+      "full-name": "Arnold Walter Huckett",
+      "firstname": "Arnold",
+      "middle-name": "Walter",
+      "surname": "Huckett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1892-02-27",
+      "location": "Antananarivo, Madagascar"
+    },
+    "died": {
+      "date": "1915-08-10",
+      "location": "Gallipoli"
+    },
+    "original-info": "Antananarivo, Madagascar; , Gallipoli, lieutenant, 5th Bn, Wiltshire Regt, named on Helles Memorial",
+    "todo": "parents: missing parents",
+    "remaining-info": "Antananarivo, Madagascar; , Gallipoli, lieutenant, 5th Bn, Wiltshire Regt, named on Helles Memorial"
+  },
+  {
+    "id": "1894_margaret_huckett",
+    "name": {
+      "full-name": "Margaret Christina Huckett",
+      "firstname": "Margaret",
+      "middle-name": "Christina",
+      "surname": "Huckett",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1862_walter_huckett",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1894-07-07",
+      "location": "Antananarivo, Madagascar"
+    },
+    "original-info": "Antananarivo. Madagascar",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Antananarivo. Madagascar"
+  },
+  {
+    "id": "1899_oliver_huckett",
+    "name": {
+      "full-name": "Oliver Sharman Huckett",
+      "firstname": "Oliver",
+      "middle-name": "Sharman",
+      "surname": "Huckett",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1899-07-12",
+      "location": "Samoa"
+    },
+    "died": {
+      "date": "1918-04-27",
+      "location": "France"
+    },
+    "original-info": "Samoa; , France, aged 18, rifleman, 1st/8th Bn London Regt (Post Office Rifles), Rifle Brigade, named on Pozieres Memorial",
+    "todo": "parents: missing parents",
+    "remaining-info": "Samoa; , France, aged 18, rifleman, 1st/8th Bn London Regt (Post Office Rifles), Rifle Brigade, named on Pozieres Memorial"
+  },
+  {
+    "id": "1865_kate_hemsley",
+    "name": {
+      "full-name": "Kate Hemsley",
+      "firstname": "Kate",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1865-01-17",
+      "location": "City of London"
+    },
+    "died": {
+      "date": "1930-08-04"
+    },
+    "sources": [
+      {
+        "source": "census 1881 Ivy Cottage, Margaretting, Essex, 16, scholar, B City of London"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1867_edith_hemsley",
+    "name": {
+      "full-name": "Edith Florence Hemsley",
+      "firstname": "Edith",
+      "middle-name": "Florence",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1867-07-09",
+      "location": "City of London"
+    },
+    "sources": [
+      {
+        "source": "census 1881 Ivy Cottage, Margaretting, Essex, 13, scholar, B City of London."
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1869_franklyn_hemsley",
+    "name": {
+      "full-name": "Franklyn Charles Hemsley",
+      "firstname": "Franklyn",
+      "middle-name": "Charles",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1869-Q4",
+      "location": ""
+    },
+    "died": {
+      "date": "1869",
+      "location": "Q4, bd 4 Dec, Abney Park",
+      "date-burried": "4 Dec"
+    },
+    "original-info": "B & D 1869 Q4, bd 4 Dec, Abney Park",
+    "todo": "parents: missing parents",
+    "remaining-info": "B &"
+  },
+  {
+    "id": "1829_william_hemsley",
+    "name": {
+      "full-name": "William Hemsley",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1829-05-27",
+      "location": "King St, Tower Hill"
+    },
+    "original-info": "King St, Tower Hill, King's Weigh House Chapel, & Fanny (Hone)",
+    "sources": [
+      {
+        "source": "baptism 30 Dec 1834"
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "King St, Tower Hill, King's Weigh House Chapel, & Fanny (Hone)"
+  },
+  {
+    "id": "1831_fanny_hemsley",
+    "name": {
+      "full-name": "Fanny Hemsley",
+      "firstname": "Fanny",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1798_thomas_hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "mother": "1755_william_hone",
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1831-02-20",
+      "location": "King St, Tower Hill"
+    },
+    "original-info": "King St, Tower Hill, King's Weigh House Chapel, & Fanny (Hone)",
+    "sources": [
+      {
+        "source": "baptism 30 Dec 1834"
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "King St, Tower Hill, King's Weigh House Chapel, & Fanny (Hone)"
+  },
+  {
+    "id": "1837_emma__hemsley",
+    "name": {
+      "full-name": "Emma (Hemsley)",
+      "firstname": "Emma",
+      "middle-name": "",
+      "surname": "Hemsley",
+      "maiden-name": "Hemsley"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1781_1881__john_walker",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1818_carl_hahn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1846_carl_hahn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1886_carl_hahn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1837-03-14",
+      "location": ""
+    },
+    "died": {
+      "date": "1899-11-21"
+    },
+    "original-info": "(MEHS); maiden-name: Hemsley",
+    "todo": "name_mismatch: name mismatch: full-name='Emma (Hemsley)' vs constructed='Emma Hemsley', parents: missing parents",
+    "remaining-info": "(MEHS)"
+  },
+  {
+    "id": "1781_1881__john_walker",
+    "name": {
+      "full-name": "John Walker",
+      "firstname": "John",
+      "middle-name": "",
+      "surname": "Walker",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1837_emma__hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "xxxx_emma__ginder",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1814_emma__hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1878_emma__hahn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1850_emma__hahn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "xxxx_emma_fourdinois",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "parents": {
+        "father": "1791_john_soul",
+        "mother": "1871_thomas_soul"
+      }
+    },
+    "todo": "birthday: missing birthday, death: missing death date",
+    "remaining-info": ""
+  },
+  {
+    "id": "1844_alfred_hemsley",
+    "name": {
+      "full-name": "Alfred Frederick Hemsley",
+      "firstname": "Alfred",
+      "middle-name": "Frederick",
+      "surname": "Hemsley",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1844-04-20",
+      "location": "Whitechapel"
+    },
+    "died": {
+      "date": "1922-03-14"
+    },
+    "original-info": "(MEHS), Whitechapel",
+    "todo": "parents: missing parents",
+    "remaining-info": "(MEHS), Whitechapel"
+  },
+  {
+    "id": "xxxx_emma__ginder",
+    "name": {
+      "full-name": "Emma (Ginder)",
+      "firstname": "Emma",
+      "middle-name": "",
+      "surname": "Ginder",
+      "maiden-name": "Ginder"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1781_1881__john_walker",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "original-info": "maiden-name: Ginder",
+    "todo": "name_mismatch: name mismatch: full-name='Emma (Ginder)' vs constructed='Emma Ginder', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1805_matilda_hone",
+    "name": {
+      "full-name": "Matilda Hone",
+      "firstname": "Matilda",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1805-07-26",
+      "location": "Surrey"
+    },
+    "died": {
+      "date": "1884-09-10",
+      "location": "Abney Park",
+      "date-burried": "Abney"
+    },
+    "original-info": "in early days was in business as printseller in Little Bell Alley, published 'Old Humphrey' for her father; 1834 Directory, Grasshopper Coffee House & Hotel, Matilda Hone, 13 Gracechurch St London; 1844 Directory, City Rd, Orphan Working School, Joseph Soul secretary, Matilda Hone mistress; , Park, gv 316 sq 76",
+    "sources": [
+      {
+        "source": "census 1871 4 Milner Sq, Islington, 65, school mistress, B Surrey, Lambeth"
+      },
+      {
+        "source": "census 1881 3 Nightingale Rd, household of brother-in-law Joseph Simmonds Soul, 75, B Lambeth, Surrey"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": "in early days was in business as printseller in Little Bell Alley, published 'Old Humphrey' for her father; 1834 Directory, Grasshopper Coffee House & Hotel, Matilda Hone, 13 Gracechurch St London; 1844 Directory, City Rd, Orphan Working School, Joseph Soul secretary, Matilda Hone mistress; , Park, gv 316 sq 76"
+  },
+  {
+    "id": "1807_william_hone",
+    "name": {
+      "full-name": "William Hone",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jacob_burn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1875_woldemar_sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "children": [
+        "1828_allan_burn"
+      ],
+      "parents": {
+        "father": ""
+      }
+    },
+    "born": {
+      "date": "1807-07-24",
+      "location": ""
+    },
+    "died": {
+      "location": "died at sea"
+    },
+    "original-info": "St Mary's Lambeth, & Sarah Hone; died at sea (MEHS)",
+    "sources": [
+      {
+        "source": "baptism 9 June 1811"
+      }
+    ],
+    "todo": "death: missing death date",
+    "remaining-info": "St Mary's Lambeth, & Sarah Hone; died at sea (MEHS)"
+  },
+  // Married 1835 Jun 16, St Pancras Old Church.
+  {
+    "id": "1810_alfred_hone",
+    "name": {
+      "full-name": "Alfred Hone",
+      "firstname": "Alfred",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_elizabeth__preece",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "xxxx_elizabeth__rowe",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1810-01-02",
+      "location": ""
+    },
+    "died": {
+      "date": "1883"
+    },
+    "original-info": "St Mary's Lambeth & Sarah Hone; exhibited portrait busts at the Royal Academy 1836-41 1843-4 1852; worked for Mr Foley on the 'Asia' group of the Albert Memorial; (MEHS)",
+    "sources": [
+      {
+        "source": "baptism 9 June 1811"
+      }
+    ],
+    "remaining-info": "St Mary's Lambeth & Sarah Hone; exhibited portrait busts at the Royal Academy 1836-41 1843-4 1852; worked for Mr Foley on the 'Asia' group of the Albert Memorial; (MEHS)"
+  },
+  {
+    "id": "xxxx_elizabeth__preece",
+    "name": {
+      "full-name": "Elizabeth (Preece)",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Preece",
+      "maiden-name": "Preece"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1810_alfred_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "Kingstone, Herefordshire"
+    },
+    "original-info": "maiden-name: Preece",
+    "sources": [
+      {
+        "source": "census 1851 12 London St, 40, B Kingstone, Herefordshire"
+      },
+      {
+        "source": "census 1881 17 Victoria Rd, Hornsey, 70, B Hereford."
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Elizabeth (Preece)' vs constructed='Elizabeth Preece', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1836_alfred_hone",
+    "name": {
+      "full-name": "Alfred Hone",
+      "firstname": "Alfred",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1836",
+      "location": "Middx"
+    },
+    "died": {
+      "date": "1885",
+      "location": "Calcutta"
+    },
+    "original-info": "(MEHS); 1856 exhibited medallion portrait Royal Academy; executed bronze equestrian memorial to Prince Imperial erected in S Africa; in Calcutta while executing sculptural work (MEHS)",
+    "sources": [
+      {
+        "source": "census 1841 William St, Hampstead Rd. 4"
+      },
+      {
+        "source": "census 1851 12 London St, 14, scholar, B Middx, St Pancras"
+      },
+      {
+        "source": "census 1881 17 Victoria Rd, Hornsey, 45, designer (artizan), B St Pancras"
+      }
+    ],
+    "todo": "parents: missing parents",
+    "remaining-info": "(MEHS); 1856 exhibited medallion portrait Royal Academy; executed bronze equestrian memorial to Prince Imperial erected in S Africa; in Calcutta while executing sculptural work (MEHS)"
+  },
+  {
+    "id": "xxxx_annie_unknown",
+    "name": {
+      "full-name": "Annie",
+      "firstname": "Annie",
+      "middle-name": "",
+      "surname": "Unknown",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1783_joseph_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "Stepney"
+    },
+    "sources": [
+      {
+        "source": "census 1881 17 Victoria Rd, Hornsey, 39, B Stepney."
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Annie' vs constructed='Annie Unknown', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_edward_hone",
+    "name": {
+      "full-name": "Edward Hone",
+      "firstname": "Edward",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "St Pancras"
+    },
+    "original-info": "emigrated to Lima, Peru",
+    "sources": [
+      {
+        "source": "census 1881 17 Victoria Rd, 14, scholar, B St Pancras"
+      },
+      {
+        "source": "census 1901 59 Cobbold Rd, Willesden, 34, stone & marble mason, employer, working at home, B London, Kentish Town"
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "emigrated to Lima, Peru"
+  },
+  {
+    "id": "xxxx_sarah__thompson",
+    "name": {
+      "full-name": "Sarah (Thompson)",
+      "firstname": "Sarah",
+      "middle-name": "",
+      "surname": "Thompson",
+      "maiden-name": "Thompson"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1755_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "London, Bow"
+    },
+    "original-info": "emig to Lima, Peru; maiden-name: Thompson",
+    "sources": [
+      {
+        "source": "census 1901 59 Cobbold Rd, Willesden, 33, laundress, employer, working at home, B London, Bow"
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Sarah (Thompson)' vs constructed='Sarah Thompson', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "emig to Lima, Peru"
+  },
+  {
+    "id": "1901_bertie_hone",
+    "name": {
+      "full-name": "Bertie Hone",
+      "firstname": "Bertie",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1901-Q2",
+      "location": "Hendon"
+    },
+    "original-info": "B 1901 Q2. Hendon; emig to Lima, Peru",
+    "sources": [
+      {
+        "source": "census 1901 59 Cobbold Rd, 'Bert', 1 mnth, B Willesden"
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "B 1901 Q2. Hendon; emig to Lima, Peru"
+  },
+  // Harry died aged 77; no independent death year supplied.
+  {
+    "id": "1896_charles_hone",
+    "name": {
+      "full-name": "Charles Walter Hone",
+      "firstname": "Charles",
+      "middle-name": "Walter",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1896-Q2",
+      "location": "Edmonton"
+    },
+    "original-info": "B 1896 Q2, Edmonton; emig to Lima, Peru",
+    "sources": [
+      {
+        "source": "census 1901 59 Cobbold Rd, 5, B Edmonton"
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "B 1896 Q2, Edmonton; emig to Lima, Peru"
+  },
+  {
+    "id": "1899_george_hone",
+    "name": {
+      "full-name": "George Hone",
+      "firstname": "George",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1899-Q3",
+      "location": "Hendon"
+    },
+    "original-info": "B 1899 Q3, Hendon; emig to Lima, Peru",
+    "sources": [
+      {
+        "source": "census 1901 59 Cobbold Rd, 2, B Willesden"
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "B 1899 Q3, Hendon; emig to Lima, Peru"
+  },
+  {
+    "id": "xxxx_yolanda__chalier",
+    "name": {
+      "full-name": "Yolanda (Chalier)",
+      "firstname": "Yolanda",
+      "middle-name": "",
+      "surname": "Chalier",
+      "maiden-name": "Chalier"
+    },
+    "cisgender": "female",
+    "original-info": "maiden-name: Chalier",
+    "todo": "name_mismatch: name mismatch: full-name='Yolanda (Chalier)' vs constructed='Yolanda Chalier', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_arthur_hone",
+    "name": {
+      "full-name": "Arthur Hone",
+      "firstname": "Arthur",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_jacqueline_hone",
+    "name": {
+      "full-name": "Jacqueline Hone",
+      "firstname": "Jacqueline",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_doris_hone",
+    "name": {
+      "full-name": "Doris Hone",
+      "firstname": "Doris",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_edith__hone",
+    "name": {
+      "full-name": "Edith (Hone)",
+      "firstname": "Edith",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "",
+      "location": "St Pancras"
+    },
+    "original-info": "maiden-name: Hone",
+    "sources": [
+      {
+        "source": "census 1881 17 Victoria Rd, 10, scholar, B St Pancras."
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Edith (Hone)' vs constructed='Edith Hone', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_james_ellis",
+    "name": {
+      "full-name": "James Ellis",
+      "firstname": "James",
+      "middle-name": "",
+      "surname": "Ellis",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "original-info": "printer's machine minder, & Edith Annie Ellis formerly Hone",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "printer's machine minder, & Edith Annie Ellis formerly Hone"
+  },
+  {
+    "id": "xxxx_edgar_hone",
+    "name": {
+      "full-name": "Edgar Hone",
+      "firstname": "Edgar",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Brixton, Surrey"
+    },
+    "sources": [
+      {
+        "source": "census 1881 17 Victoria Rd, 9, scholar, B Brixton, Surrey."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_lena_hone",
+    "name": {
+      "full-name": "Lena Hone",
+      "firstname": "Lena",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Wandsworth"
+    },
+    "sources": [
+      {
+        "source": "census 1881 17 Victoria Rd, 7, scholar, B Wandsworth."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_bertie_hone",
+    "name": {
+      "full-name": "Bertie Hone",
+      "firstname": "Bertie",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Wandsworth"
+    },
+    "sources": [
+      {
+        "source": "census 1881 17 Victoria Rd, 3, B Wandsworth."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_daisy_hone",
+    "name": {
+      "full-name": "Daisy V Hone",
+      "firstname": "Daisy",
+      "middle-name": "V",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Stoke Newington, London"
+    },
+    "sources": [
+      {
+        "source": "census 1901 59 Cobbold Rd, Willesden, sister of Edward Hone head of household, single, 18, laundress, working at home, B Stoke Newington, London."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_william_hone",
+    "name": {
+      "full-name": "William Hone",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jacob_burn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1875_woldemar_sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "children": [
+        "1828_allan_burn"
+      ]
+    },
+    "born": {
+      "date": "",
+      "location": "St Pancras"
+    },
+    "sources": [
+      {
+        "source": "census 1841 William St, Hampstead Rd, 3"
+      },
+      {
+        "source": "census 1851 12 London St, 12, scholar, B St Pancras."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1842_frances__hone",
+    "name": {
+      "full-name": "Frances (Hone)",
+      "firstname": "Frances",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1842-Q1",
+      "location": "St Pancras"
+    },
+    "original-info": "B Q1 1842, St Pancras; maiden-name: Hone",
+    "sources": [
+      {
+        "source": "census 1851 12 London St, 9, B St Pancras, scholar."
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Frances (Hone)' vs constructed='Frances Hone', death: missing death date, parents: missing parents",
+    "remaining-info": "B Q1 1842, St Pancras"
+  },
+  {
+    "id": "xxxx_samuel_beadell",
+    "name": {
+      "full-name": "Samuel Beadell",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Beadell",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_nathaniel_beadell",
+    "name": {
+      "full-name": "Nathaniel Beadell",
+      "firstname": "Nathaniel",
+      "middle-name": "",
+      "surname": "Beadell",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "St Pancras"
+    },
+    "sources": [
+      {
+        "source": "census 1881 17 Victoria Rd, Hornsey, 16, B St Pancras, compositor."
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1844_nathaniel_hone",
+    "name": {
+      "full-name": "Nathaniel Johnson Hone",
+      "firstname": "Nathaniel",
+      "middle-name": "Johnson",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1844",
+      "location": "St Pancras"
+    },
+    "original-info": "1859 emig Adelaide, S Australia (DP 26/2/1997)",
+    "sources": [
+      {
+        "source": "census 1851 12 London St, 6, B St Pancras, scholar"
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "1859 emig Adelaide, S Australia (DP 26/2/1997)"
+  },
+  {
+    "id": "xxxx_frank_hone",
+    "name": {
+      "full-name": "Frank Sandland Hone",
+      "firstname": "Frank",
+      "middle-name": "Sandland",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "original-info": "(DP 26/2/1997)",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "(DP 26/2/1997)"
+  },
+  {
+    "id": "xxxx_brian_hone",
+    "name": {
+      "full-name": "Brian William Hone",
+      "firstname": "Brian",
+      "middle-name": "William",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "original-info": "headmaster of Melbourne Church of England Grammar School (DP 26/2/1979)",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "headmaster of Melbourne Church of England Grammar School (DP 26/2/1979)"
+  },
+  {
+    "id": "xxxx_john_hone",
+    "name": {
+      "full-name": "John Hone",
+      "firstname": "John",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "original-info": "drowned at sea (MEHS)",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "drowned at sea (MEHS)"
+  },
+  {
+    "id": "1814_emma__hone",
+    "name": {
+      "full-name": "Emma (Hone)",
+      "firstname": "Emma",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1781_1881__john_walker",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "mother": "",
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1814-03-14",
+      "location": "parish of Christchurch, Surrey"
+    },
+    "died": {
+      "date": "1880"
+    },
+    "original-info": "parish of Christchurch, Surrey; King's Weigh House Chapel by Thomas Binney, & publisher, & Sarah (Johnson); went to Cape Town with Dr Robert Moffatt, London Missionary Soc, to become a teacher in a missionary training college; maiden-name: Hone",
+    "sources": [
+      {
+        "source": "baptism 30 Dec 1834"
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Emma (Hone)' vs constructed='Emma Hone'",
+    "remaining-info": "parish of Christchurch, Surrey; King's Weigh House Chapel by Thomas Binney, & publisher, & Sarah (Johnson); went to Cape Town with Dr Robert Moffatt, London Missionary Soc, to become a teacher in a missionary training college"
+  },
+  {
+    "id": "1818_carl_hahn",
+    "name": {
+      "full-name": "Carl Hugo Hahn",
+      "firstname": "Carl",
+      "middle-name": "Hugo",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1837_emma__hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ],
+      "parents": {
+        "father": ""
+      }
+    },
+    "born": {
+      "date": "1818-10-18",
+      "location": "nr Riga, Russian Province of Livonia"
+    },
+    "died": {
+      "date": "1895-11-24",
+      "location": "Cape Town"
+    },
+    "original-info": "( 1774-1863), nr Riga in the Russian Province of Livonia; Rhenish Missionary Soc missionary in Damaraland 1842-1870; afterwards pastor of St Martin's Lutheran Church Cape Town; , Cape Town",
+    "remaining-info": "( 1774-1863), nr Riga in the Russian Province of Livonia; Rhenish Missionary Soc missionary in Damaraland 1842-1870; afterwards pastor of St Martin's Lutheran Church Cape Town; , Cape Town"
+  },
+  {
+    "id": "xxxx_annie__von_linsingen",
+    "name": {
+      "full-name": "Annie Judith Julie Auguste (von Linsingen)",
+      "firstname": "Annie",
+      "middle-name": "Judith Julie Auguste",
+      "surname": "von Linsingen",
+      "maiden-name": "von Linsingen"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1783_joseph_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "original-info": "maiden-name: von Linsingen",
+    "todo": "name_mismatch: name mismatch: full-name='Annie Judith Julie Auguste (von Linsingen)' vs constructed='Annie Judith Julie Auguste von Linsingen', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1844_josaphat_hahn",
+    "name": {
+      "full-name": "Josaphat Hahn",
+      "firstname": "Josaphat",
+      "middle-name": "",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1844-08-07",
+      "location": "Windhoek, S Africa"
+    },
+    "original-info": "Windhoek, S Africa",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Windhoek, S Africa"
+  },
+  // Married 1881 Jan 25.
+  {
+    "id": "1846_carl_hahn",
+    "name": {
+      "full-name": "Carl Hugo Hahn",
+      "firstname": "Carl",
+      "middle-name": "Hugo",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1837_emma__hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1846",
+      "location": "Otjikango, S Africa"
+    },
+    "original-info": "Otjikango, S Africa; pastor at Paarl, Cape Province (MEHS)",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Otjikango, S Africa; pastor at Paarl, Cape Province (MEHS)"
+  },
+  {
+    "id": "1848_elieser_hahn",
+    "name": {
+      "full-name": "Elieser Traugott Hahn",
+      "firstname": "Elieser",
+      "middle-name": "Traugott",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1848-08-15",
+      "location": "Otjikango, S Africa"
+    },
+    "died": {
+      "date": "1939-03-19",
+      "location": "Burgdorf, Hanover, Germany"
+    },
+    "original-info": "Otjikango, S Africa; Burgdorf, Hanover, Germany",
+    "todo": "parents: missing parents",
+    "remaining-info": "Otjikango, S Africa; Burgdorf, Hanover, Germany"
+  },
+  {
+    "id": "1850_rosalie__paling",
+    "name": {
+      "full-name": "Rosalie (Paling)",
+      "firstname": "Rosalie",
+      "middle-name": "",
+      "surname": "Paling",
+      "maiden-name": "Paling"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1850-10-23",
+      "location": "Jaama"
+    },
+    "died": {
+      "date": "1905-01-05",
+      "location": "Tallinn"
+    },
+    "original-info": "Jaama; Tallinn; maiden-name: Paling",
+    "todo": "name_mismatch: name mismatch: full-name='Rosalie (Paling)' vs constructed='Rosalie Paling', parents: missing parents",
+    "remaining-info": "Jaama; Tallinn"
+  },
+  {
+    "id": "1874_gotthilft_hahn",
+    "name": {
+      "full-name": "Gotthilft Traugott Hahn",
+      "firstname": "Gotthilft",
+      "middle-name": "Traugott",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1874-02-13",
+      "location": "Kuressaare"
+    },
+    "died": {
+      "date": "1874-03-28",
+      "location": "Valjala"
+    },
+    "original-info": "Kuressaare; Valjala",
+    "todo": "parents: missing parents",
+    "remaining-info": "Kuressaare; Valjala"
+  },
+  // Married 1903 Aug 29 / 1903 Sep 12, Tallinn.
+  {
+    "id": "1875_gotthilft_hahn",
+    "name": {
+      "full-name": "Gotthilft Traugott Hahn",
+      "firstname": "Gotthilft",
+      "middle-name": "Traugott",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1875-02-01",
+      "location": "R'uge"
+    },
+    "original-info": "B 1/13 Feb 1875 R'uge",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "B 1/13 Feb 1875 R'uge"
+  },
+  {
+    "id": "1878_gerta__von_zur_mhlen",
+    "name": {
+      "full-name": "Gerta Ernestine Anna (von zur M'hlen)",
+      "firstname": "Gerta",
+      "middle-name": "Ernestine Anna",
+      "surname": "von zur M'hlen",
+      "maiden-name": "von zur M'hlen"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1755_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1878-08-28",
+      "location": "Tallinn"
+    },
+    "died": {
+      "date": "1974-01-13",
+      "location": "Heidelberg"
+    },
+    "original-info": "Tallinn; Heidelberg; maiden-name: von zur M'hlen",
+    "todo": "name_mismatch: name mismatch: full-name='Gerta Ernestine Anna (von zur M'hlen)' vs constructed='Gerta Ernestine Anna von zur M'hlen', parents: missing parents",
+    "remaining-info": "Tallinn; Heidelberg"
+  },
+  {
+    "id": "1876_wilhelm_hahn",
+    "name": {
+      "full-name": "Wilhelm Hugo Hahn",
+      "firstname": "Wilhelm",
+      "middle-name": "Hugo",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1876-08-30",
+      "location": "R'uge"
+    },
+    "died": {
+      "date": "1894-11-08",
+      "location": "Tallinn"
+    },
+    "original-info": "R'uge: Tallinn",
+    "todo": "parents: missing parents",
+    "remaining-info": "R'uge: Tallinn"
+  },
+  {
+    "id": "1878_emma__hahn",
+    "name": {
+      "full-name": "Emma (Hahn)",
+      "firstname": "Emma",
+      "middle-name": "",
+      "surname": "Hahn",
+      "maiden-name": "Hahn"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1781_1881__john_walker",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1878-08-03",
+      "location": "R'uge"
+    },
+    "died": {
+      "date": "1955-05-15",
+      "location": "Wetmar, Hanover"
+    },
+    "original-info": "R'uge; Wetmar, Hanover; maiden-name: Hahn",
+    "todo": "name_mismatch: name mismatch: full-name='Emma (Hahn)' vs constructed='Emma Hahn', parents: missing parents",
+    "remaining-info": "R'uge; Wetmar, Hanover"
+  },
+  // SIELMANN FAMILY
+  {
+    "id": "1875_woldemar_sielmann",
+    "name": {
+      "full-name": "Woldemar Paul Sielmann",
+      "firstname": "Woldemar",
+      "middle-name": "Paul",
+      "surname": "Sielmann",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1755_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1780_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1807_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "xxxx_william_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1875-03-23",
+      "location": "T'stamaa"
+    },
+    "died": {
+      "date": "1942-08-03",
+      "location": "Burgdorf"
+    },
+    "original-info": "T'stamaa; Burgdorf",
+    "todo": "parents: missing parents",
+    "remaining-info": "T'stamaa; Burgdorf"
+  },
+  // Married 1934 Mar 25, Frankfurt am Main.
+  {
+    "id": "1904_burchard_sielmann",
+    "name": {
+      "full-name": "Burchard Traugott Sielmann",
+      "firstname": "Burchard",
+      "middle-name": "Traugott",
+      "surname": "Sielmann",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1908_marianne__von_grgens",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1904-07-21",
+      "location": ""
+    },
+    "died": {
+      "date": "1954-11-09",
+      "location": "Hanau"
+    },
+    "original-info": "B 21 July/3 Aug 1904; phil dr: Hanau",
+    "todo": "parents: missing parents",
+    "remaining-info": "B 21 July/3 Aug 1904; phil dr: Hanau"
+  },
+  {
+    "id": "1908_marianne__von_grgens",
+    "name": {
+      "full-name": "Marianne (von G'rgens)",
+      "firstname": "Marianne",
+      "middle-name": "",
+      "surname": "von G'rgens",
+      "maiden-name": "von G'rgens"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1904_burchard_sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1908-04-20",
+      "location": "P'lgaste"
+    },
+    "died": {
+      "date": "1965-10-08",
+      "location": "Hanau"
+    },
+    "original-info": "P'lgaste; Hanau; maiden-name: von G'rgens",
+    "todo": "name_mismatch: name mismatch: full-name='Marianne (von G'rgens)' vs constructed='Marianne von G'rgens', middle-name:_full-name_suggests_'(von': missing middle-name: full-name suggests '(von', parents: missing parents",
+    "remaining-info": "P'lgaste; Hanau"
+  },
+  // Married 1936 Sep 06.
+  {
+    "id": "1907_heinrich_sielmann",
+    "name": {
+      "full-name": "Heinrich Wolfgang Traugott Sielmann",
+      "firstname": "Heinrich",
+      "middle-name": "Wolfgang Traugott",
+      "surname": "Sielmann",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1910_martha__dietrich",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1907-02-06",
+      "location": ""
+    },
+    "died": {
+      "date": "1945-03-27",
+      "location": "Frankfurt/M"
+    },
+    "original-info": "jur dr; Frankfurt/M",
+    "todo": "parents: missing parents",
+    "remaining-info": "jur dr; Frankfurt/M"
+  },
+  {
+    "id": "1910_martha__dietrich",
+    "name": {
+      "full-name": "Martha (Dietrich)",
+      "firstname": "Martha",
+      "middle-name": "",
+      "surname": "Dietrich",
+      "maiden-name": "Dietrich"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1907_heinrich_sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1910-04-15",
+      "location": "Frankfurt/M"
+    },
+    "original-info": "Frankfurt/M; maiden-name: Dietrich",
+    "todo": "name_mismatch: name mismatch: full-name='Martha (Dietrich)' vs constructed='Martha Dietrich', death: missing death date, parents: missing parents",
+    "remaining-info": "Frankfurt/M"
+  },
+  {
+    "id": "1910_hildegard__sielmann",
+    "name": {
+      "full-name": "Hildegard (Sielmann)",
+      "firstname": "Hildegard",
+      "middle-name": "",
+      "surname": "Sielmann",
+      "maiden-name": "Sielmann"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1912_werner_hesseken",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1910-06-01",
+      "location": ""
+    },
+    "died": {
+      "date": "1964-11-02"
+    },
+    "original-info": "maiden-name: Sielmann",
+    "todo": "name_mismatch: name mismatch: full-name='Hildegard (Sielmann)' vs constructed='Hildegard Sielmann', parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1912_werner_hesseken",
+    "name": {
+      "full-name": "Werner Hesseken",
+      "firstname": "Werner",
+      "middle-name": "",
+      "surname": "Hesseken",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1910_hildegard__sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1912-02-02",
+      "location": "Rostock"
+    },
+    "died": {
+      "date": "1964-11-05",
+      "location": "Wettmar"
+    },
+    "original-info": "Rostock; med dr; Wettmar",
+    "todo": "parents: missing parents",
+    "remaining-info": "Rostock; med dr; Wettmar"
+  },
+  {
+    "id": "1913_marie__sielmann",
+    "name": {
+      "full-name": "Marie (Sielmann)",
+      "firstname": "Marie",
+      "middle-name": "",
+      "surname": "Sielmann",
+      "maiden-name": "Sielmann"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1910_harald_donath",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1878_alma__von_brggen",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1886_alexandrine__von_baggehufvudt",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "1887_franz_hannula",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1913-12-13",
+      "location": ""
+    },
+    "original-info": "maiden-name: Sielmann",
+    "todo": "name_mismatch: name mismatch: full-name='Marie (Sielmann)' vs constructed='Marie Sielmann', death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1910_harald_donath",
+    "name": {
+      "full-name": "Harald Donath",
+      "firstname": "Harald",
+      "middle-name": "",
+      "surname": "Donath",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1913_marie__sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1910-12-20",
+      "location": "Riia"
+    },
+    "died": {
+      "date": "1944-04-14",
+      "location": "Agram"
+    },
+    "original-info": "Riia; jur dr; Agram",
+    "todo": "parents: missing parents",
+    "remaining-info": "Riia; jur dr; Agram"
+  },
+  {
+    "id": "1879_august_hahn",
+    "name": {
+      "full-name": "August Daniel Theodor Johannes Hahn",
+      "firstname": "August",
+      "middle-name": "Daniel Theodor Johannes",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1879-08-25",
+      "location": "Tartu"
+    },
+    "died": {
+      "date": "1924-05-09",
+      "location": "Frankfurt"
+    },
+    "original-info": "Tartu: Frankfurt",
+    "todo": "parents: missing parents",
+    "remaining-info": "Tartu: Frankfurt"
+  },
+  {
+    "id": "1878_alma__von_brggen",
+    "name": {
+      "full-name": "Alma Gabriele Charlotte (von Br'ggen)",
+      "firstname": "Alma",
+      "middle-name": "Gabriele Charlotte",
+      "surname": "von Br'ggen",
+      "maiden-name": "von Br'ggen"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1913_marie__sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1878-07-30",
+      "location": ""
+    },
+    "died": {
+      "date": "1951-03-22",
+      "location": "Bethel"
+    },
+    "original-info": "Bethel; maiden-name: von Br'ggen",
+    "todo": "name_mismatch: name mismatch: full-name='Alma Gabriele Charlotte (von Br'ggen)' vs constructed='Alma Gabriele Charlotte von Br'ggen', parents: missing parents",
+    "remaining-info": "Bethel"
+  },
+  // Married 1911 Jun 19.
+  {
+    "id": "1881_georg_hahn",
+    "name": {
+      "full-name": "Georg Bruno Martin Hahn",
+      "firstname": "Georg",
+      "middle-name": "Bruno Martin",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1881-08-24",
+      "location": "R'uge"
+    },
+    "died": {
+      "date": "1959-04-25",
+      "location": "Z'rich"
+    },
+    "original-info": "R'uge; Z'rich",
+    "todo": "parents: missing parents",
+    "remaining-info": "R'uge; Z'rich"
+  },
+  {
+    "id": "1886_elisabeth__silverberg",
+    "name": {
+      "full-name": "Elisabeth (Silverberg)",
+      "firstname": "Elisabeth",
+      "middle-name": "",
+      "surname": "Silverberg",
+      "maiden-name": "Silverberg"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1886-03-22",
+      "location": "Bedburg"
+    },
+    "original-info": "Bedburg; maiden-name: Silverberg",
+    "todo": "name_mismatch: name mismatch: full-name='Elisabeth (Silverberg)' vs constructed='Elisabeth Silverberg', death: missing death date, parents: missing parents",
+    "remaining-info": "Bedburg"
+  },
+  {
+    "id": "1883_magdalene__hahn",
+    "name": {
+      "full-name": "Magdalene Elisabeth Seni (Hahn)",
+      "firstname": "Magdalene",
+      "middle-name": "Elisabeth Seni",
+      "surname": "Hahn",
+      "maiden-name": "Hahn"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1883-08-22",
+      "location": "R'uge"
+    },
+    "died": {
+      "date": "1943-11-15",
+      "location": "Giesen"
+    },
+    "original-info": "R'uge; Giesen; maiden-name: Hahn",
+    "todo": "name_mismatch: name mismatch: full-name='Magdalene Elisabeth Seni (Hahn)' vs constructed='Magdalene Elisabeth Seni Hahn', parents: missing parents",
+    "remaining-info": "R'uge; Giesen"
+  },
+  // Married 1910 Dec 09 / 1910 Dec 22, Tallinn.
+  {
+    "id": "1886_carl_hahn",
+    "name": {
+      "full-name": "Carl Hugo Hahn",
+      "firstname": "Carl",
+      "middle-name": "Hugo",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1837_emma__hemsley",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1886-09-22",
+      "location": "Tallinn"
+    },
+    "died": {
+      "date": "1957-11-05",
+      "location": "Dresden"
+    },
+    "original-info": "B 22 Sept/4 Oct (Russian/Western calendars) 1886 Tallinn; Dresden",
+    "todo": "parents: missing parents",
+    "remaining-info": "B 22 Sept/4 Oct (Russian/Western calendars) 1886 Tallinn; Dresden"
+  },
+  {
+    "id": "1886_alexandrine__von_baggehufvudt",
+    "name": {
+      "full-name": "Alexandrine Pauline Erika (von Baggehufvudt)",
+      "firstname": "Alexandrine",
+      "middle-name": "Pauline Erika",
+      "surname": "von Baggehufvudt",
+      "maiden-name": "von Baggehufvudt"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1913_marie__sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1886-11-22",
+      "location": "Haapsalu"
+    },
+    "died": {
+      "date": "1942-02-05",
+      "location": "Stuttgart"
+    },
+    "original-info": "Haapsalu; Stuttgart; maiden-name: von Baggehufvudt",
+    "todo": "name_mismatch: name mismatch: full-name='Alexandrine Pauline Erika (von Baggehufvudt)' vs constructed='Alexandrine Pauline Erika von Baggehufvudt', parents: missing parents",
+    "remaining-info": "Haapsalu; Stuttgart"
+  },
+  {
+    "id": "1888_natalie_hahn",
+    "name": {
+      "full-name": "Natalie Friederike Sophie Hahn",
+      "firstname": "Natalie",
+      "middle-name": "Friederike Sophie",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1888-02-08",
+      "location": "Tallinn"
+    },
+    "died": {
+      "date": "1952-06-15",
+      "location": "Radebeul/Dresden"
+    },
+    "original-info": "Tallinn; D 15.06.1952 Radebeul/Dresden",
+    "todo": "parents: missing parents",
+    "remaining-info": "Tallinn; D 15.06.1952 Radebeul/Dresden"
+  },
+  {
+    "id": "1889_maria_hahn",
+    "name": {
+      "full-name": "Maria Hahn",
+      "firstname": "Maria",
+      "middle-name": "",
+      "surname": "Hahn",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1889-04-30",
+      "location": "Tallinn"
+    },
+    "original-info": "Tallinn",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Tallinn"
+  },
+  {
+    "id": "1892_maria__hahn",
+    "name": {
+      "full-name": "Maria Elisabeth Margarete (Hahn)",
+      "firstname": "Maria",
+      "middle-name": "Elisabeth Margarete",
+      "surname": "Hahn",
+      "maiden-name": "Hahn"
+    },
+    "cisgender": "female",
+    "born": {
+      "date": "1892-06-24",
+      "location": "Tallinn"
+    },
+    "died": {
+      "date": "1953-06-04",
+      "location": "Abo, Soome"
+    },
+    "original-info": "B 24.06.1892 Tallinn; Abo, Soome; maiden-name: Hahn",
+    "todo": "name_mismatch: name mismatch: full-name='Maria Elisabeth Margarete (Hahn)' vs constructed='Maria Elisabeth Margarete Hahn', parents: missing parents",
+    "remaining-info": "B 24.06.1892 Tallinn; Abo, Soome"
+  },
+  {
+    "id": "1887_franz_hannula",
+    "name": {
+      "full-name": "Franz Edward Hannula",
+      "firstname": "Franz",
+      "middle-name": "Edward",
+      "surname": "Hannula",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1913_marie__sielmann",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "born": {
+      "date": "1887-08-14",
+      "location": "Olukonda, Edela Aafrica"
+    },
+    "original-info": "Olukonda, Edela Aafrica",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Olukonda, Edela Aafrica"
+  },
+  {
+    "id": "1850_emma__hahn",
+    "name": {
+      "full-name": "Emma (Hahn)",
+      "firstname": "Emma",
+      "middle-name": "",
+      "surname": "Hahn",
+      "maiden-name": "Hahn"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1781_1881__john_walker",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1850-07-06",
+      "location": "Rehobeth, Namaland, S Africa"
+    },
+    "died": {
+      "date": "1906-11-06",
+      "location": "Bronx, New York"
+    },
+    "original-info": "Rehobeth, Namaland, S Africa; emigrated to USA 1880s; Bronx, New York; maiden-name: Hahn",
+    "todo": "name_mismatch: name mismatch: full-name='Emma (Hahn)' vs constructed='Emma Hahn', parents: missing parents",
+    "remaining-info": "Rehobeth, Namaland, S Africa; emigrated to USA 1880s; Bronx, New York"
+  },
+  // BEIDERBECKE FAMILY
+  {
+    "id": "1845_heinrich_beiderbecke",
+    "name": {
+      "full-name": "Heinrich Beiderbecke",
+      "firstname": "Heinrich",
+      "middle-name": "",
+      "surname": "Beiderbecke",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "born": {
+      "date": "1845",
+      "location": ""
+    },
+    "died": {
+      "date": "1936-05-10",
+      "location": "Glen Rock, New Jersey"
+    },
+    "original-info": "emigrated to USA 1880s; pastor in New York (MEHS); Glen Rock, New Jersey",
+    "todo": "parents: missing parents",
+    "remaining-info": "emigrated to USA 1880s; pastor in New York (MEHS); Glen Rock, New Jersey"
+  },
+  {
+    "id": "xxxx_charlotte_hone",
+    "name": {
+      "full-name": "Charlotte Hone",
+      "firstname": "Charlotte",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "died": {
+      "date": "in infancy"
+    },
+    "original-info": "died in infancy",
+    "todo": "birthday: missing birthday, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1876_frederick_beiderbecke",
+    "name": {
+      "full-name": "Frederick Christian Beiderbecke",
+      "firstname": "Frederick",
+      "middle-name": "Christian",
+      "surname": "Beiderbecke",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_catherine__thum",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1876",
+      "location": "SW Africa"
+    },
+    "original-info": "SW Africa",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "SW Africa"
+  },
+  {
+    "id": "xxxx_catherine__thum",
+    "name": {
+      "full-name": "Catherine (Thum)",
+      "firstname": "Catherine",
+      "middle-name": "",
+      "surname": "Thum",
+      "maiden-name": "Thum"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1876_frederick_beiderbecke",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "original-info": "maiden-name: Thum",
+    "todo": "name_mismatch: name mismatch: full-name='Catherine (Thum)' vs constructed='Catherine Thum', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  // Source spells this descendant's surname Beidebecker.
+  {
+    "id": "1911_joseph_beidebecker",
+    "name": {
+      "full-name": "Joseph Thum Beidebecker",
+      "firstname": "Joseph",
+      "middle-name": "Thum",
+      "surname": "Beidebecker",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1911",
+      "location": ""
+    },
+    "died": {
+      "date": "1995"
+    },
+    "todo": "parents: missing parents",
+    "remaining-info": ""
+  },
+  // Charlotte and unnamed child died in infancy; death years unknown.
+  {
+    "id": "1818_rose_hone",
+    "name": {
+      "full-name": "Rose Hone",
+      "firstname": "Rose",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "mother": "1755_william_hone",
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1818-08-27",
+      "location": "parish of St Bride's Fleet St"
+    },
+    "died": {
+      "date": "1898-08-13",
+      "location": "Abney Park",
+      "date-burried": "Abney"
+    },
+    "original-info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); , Park gv 76795 sq 76 beside gv of Willian & Sarah Hone",
+    "sources": [
+      {
+        "source": "baptism 30 Dec 1834"
+      },
+      {
+        "source": "census 1871 4 Milner Sq, Islington, household of sister Matilda Hone, 52, schoolmistress"
+      },
+      {
+        "source": "census 1881 3 Nightingale Rd, household of brother-in-law Joseph Simmonds Soul, 62"
+      }
+    ],
+    "remaining-info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); , Park gv 76795 sq 76 beside gv of Willian & Sarah Hone"
+  },
+  {
+    "id": "1820_samuel_hone",
+    "name": {
+      "full-name": "Samuel Parr Hone",
+      "firstname": "Samuel",
+      "middle-name": "Parr",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "residing at Peckham Rye Common who will provide him a Master'"
+      }
+    },
+    "born": {
+      "date": "1820-05-09",
+      "location": ""
+    },
+    "died": {
+      "date": "1870",
+      "location": "Q2, aged 49, Islington"
+    },
+    "original-info": "St Mary's Islington; 3 Apr 1829 presentation to Christ's Hospital, ' & Spectaclemaker', by Thomas Piper of 42 Eastcheap, admitted from St Mary Islington Middlesex, 'cloathed' 9 Oct 1829; 12 June 1835 discharged from Christ's Hospital 'by his engaged in The Times Printing Office; D 1870 Q2, aged 49, Islington",
+    "sources": [
+      {
+        "source": "baptism 15 Mar 1829"
+      }
+    ],
+    "remaining-info": "St Mary's Islington; 3 Apr 1829 presentation to Christ's Hospital, ' & Spectaclemaker', by Thomas Piper of 42 Eastcheap, admitted from St Mary Islington Middlesex, 'cloathed' 9 Oct 1829; 12 June 1835 discharged from Christ's Hospital 'by his engaged in The Times Printing Office"
+  },
+  {
+    "id": "1822_ellen__hone",
+    "name": {
+      "full-name": "Ellen (Hone)",
+      "firstname": "Ellen",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_joseph_soul",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "mother": "",
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1822-03-31",
+      "location": "parish of St Bride's Fleet St"
+    },
+    "died": {
+      "date": "1910-11-24",
+      "location": "Abney Park",
+      "date-burried": "Abney"
+    },
+    "original-info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); became a teacher in one of the earliest established infant schools; , Park gv 70572 sq 49, from 3 Nightingale Rd, Lower Clapton; maiden-name: Hone",
+    "sources": [
+      {
+        "source": "baptism 30 Dec 1834"
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Ellen (Hone)' vs constructed='Ellen Hone'",
+    "remaining-info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); became a teacher in one of the earliest established infant schools; , Park gv 70572 sq 49, from 3 Nightingale Rd, Lower Clapton"
+  },
+  {
+    "id": "xxxx_joseph_soul",
+    "name": {
+      "full-name": "Joseph Simmonds Soul",
+      "firstname": "Joseph",
+      "middle-name": "Simmonds",
+      "surname": "Soul",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1822_ellen__hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "original-info": "See soul.md for details",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "See soul.md for details"
+  },
+  {
+    "id": "1825_alice__hone",
+    "name": {
+      "full-name": "Alice (Hone)",
+      "firstname": "Alice",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jeanbaptiste_lovati",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "mother": "",
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1825-12-08",
+      "location": "parish of St Bride's Fleet St"
+    },
+    "original-info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); later Lovati (Italian), lived in Paris, afterwards Fourdinois (French), lived in Paris, then Bizerte, Tunisia, N Africa, in London Sep 1869 to Sep 1870 during siege of Paris, Franco-Prussian War; maiden-name: Hone",
+    "sources": [
+      {
+        "source": "baptism 30 Dec 1834"
+      }
+    ],
+    "todo": "name_mismatch: name mismatch: full-name='Alice (Hone)' vs constructed='Alice Hone', death: missing death date",
+    "remaining-info": "parish of St Bride's Fleet St, King's Weigh House Chapel, & publisher, & Sarah (Johnson); later Lovati (Italian), lived in Paris, afterwards Fourdinois (French), lived in Paris, then Bizerte, Tunisia, N Africa, in London Sep 1869 to Sep 1870 during siege of Paris, Franco-Prussian War"
+  },
+  {
+    "id": "xxxx_jeanbaptiste_lovati",
+    "name": {
+      "full-name": "Jean-Baptiste Lovati",
+      "firstname": "Jean-Baptiste",
+      "middle-name": "",
+      "surname": "Lovati",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1911_alice_granberg",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1862_alice__burn",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1825_alice__hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1847_alice_lovati",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "original-info": "1= Jean-Baptiste Lovati",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "1= Jean-Baptiste Lovati"
+  },
+  {
+    "id": "1847_alice_lovati",
+    "name": {
+      "full-name": "Alice Romola Lovati",
+      "firstname": "Alice",
+      "middle-name": "Romola",
+      "surname": "Lovati",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_jeanbaptiste_lovati",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1847-Q4",
+      "location": "St George's Hanover Sq district"
+    },
+    "died": {
+      "date": "1851",
+      "location": "Abney Park",
+      "date-burried": "Abney"
+    },
+    "original-info": "B 1847 Q4, St George's Hanover Sq district; aged 3 yrs 8 mnths, Park, gv 316 sq 76, 3 July 1851, from 19 Cumming St, Pentonville",
+    "todo": "parents: missing parents",
+    "remaining-info": "B 1847 Q4, St George's Hanover Sq district; aged 3 yrs 8 mnths, Park, gv 316 sq 76, 3 July 1851, from 19 Cumming St, Pentonville"
+  },
+  {
+    "id": "xxxx_agnes_lovati",
+    "name": {
+      "full-name": "Agnes Lovati",
+      "firstname": "Agnes",
+      "middle-name": "",
+      "surname": "Lovati",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_henriauguste_fourdinois",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "London"
+    },
+    "original-info": "later Salme (MEHS)",
+    "sources": [
+      {
+        "source": "census 1871 4 Milner Sq, Islington, unmarried, 20, visitor, B London"
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "later Salme (MEHS)"
+  },
+  {
+    "id": "xxxx_henriauguste_fourdinois",
+    "name": {
+      "full-name": "Henri-Auguste Fourdinois",
+      "firstname": "Henri-Auguste",
+      "middle-name": "",
+      "surname": "Fourdinois",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_agnes_lovati",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "original-info": "2= Henri-Auguste Fourdinois",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "2= Henri-Auguste Fourdinois"
+  },
+  {
+    "id": "xxxx_emma_fourdinois",
+    "name": {
+      "full-name": "Emma Fourdinois",
+      "firstname": "Emma",
+      "middle-name": "",
+      "surname": "Fourdinois",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1781_1881__john_walker",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "",
+      "location": "Paris"
+    },
+    "original-info": "later Roulez (MEHS)",
+    "sources": [
+      {
+        "source": "census 1871 4 Milner Sq, Islington, 12, visitor, B Paris"
+      }
+    ],
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "later Roulez (MEHS)"
+  },
+  {
+    "id": "1869_angeline_fourdinois",
+    "name": {
+      "full-name": "Angeline Fourdinois",
+      "firstname": "Angeline",
+      "middle-name": "",
+      "surname": "Fourdinois",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1869-06-29",
+      "location": "Champagne"
+    },
+    "original-info": "(MEHS); later Sanze (MEHS)",
+    "sources": [
+      {
+        "source": "census 1871 4 Milner Sq, Islington, 1, visitor, B Champagne"
+      }
+    ],
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "(MEHS); later Sanze (MEHS)"
+  },
+  // Second marriage: 1840 May 21, Hobart Town.
+  // Joseph was already widowed; do not apply first-marriage ages to him.
+  {
+    "id": "1783_joseph_hone",
+    "name": {
+      "full-name": "Joseph Hone",
+      "firstname": "Joseph",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_james_hobbs",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "xxxx_ann__lamport",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "xxxx_annie_unknown",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        },
+        {
+          "id": "xxxx_annie__von_linsingen",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1783-12-30",
+      "location": ""
+    },
+    "died": {
+      "date": "1861-09-22",
+      "location": "Macquarie St, Hobart Town"
+    },
+    "original-info": "Lawyer and civil servant, barrister of Gray's Inn; appointed Master of the Tasmanian Supreme Court; arrived in Hobart Town in July 1824",
+    "todo": "parents: missing parents",
+    "remaining-info": "Lawyer and civil servant, barrister of Gray's Inn; appointed Master of the Tasmanian Supreme Court; arrived in Hobart Town in July 1824"
+  },
+  {
+    "id": "xxxx_ann__lamport",
+    "name": {
+      "full-name": "Ann (Lamport)",
+      "firstname": "Ann",
+      "middle-name": "",
+      "surname": "Lamport",
+      "maiden-name": "Lamport"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1783_joseph_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "died": {
+      "date": "1839-01-15",
+      "location": "St David's Park, Hobart",
+      "date-burried": "St"
+    },
+    "original-info": "1824 emig Hobart Town; aged 61 yrs, David's Park, Hobart, 'wife of Joseph Hone barrister at law of Gray's Inn'; maiden-name: Lamport",
+    "todo": "name_mismatch: name mismatch: full-name='Ann (Lamport)' vs constructed='Ann Lamport', birthday: missing birthday, parents: missing parents",
+    "remaining-info": "1824 emig Hobart Town; aged 61 yrs, David's Park, Hobart, 'wife of Joseph Hone barrister at law of Gray's Inn'"
+  },
+  {
+    "id": "xxxx_hannah__hone",
+    "name": {
+      "full-name": "Hannah (Hone)",
+      "firstname": "Hannah",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "original-info": "= [William Fletcher](./fletcher.md#WilliamFletcher); maiden-name: Hone",
+    "todo": "name_mismatch: name mismatch: full-name='Hannah (Hone)' vs constructed='Hannah Hone', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": "= [William Fletcher](./fletcher.md#WilliamFletcher)"
+  },
+  {
+    "id": "xxxx_william_fletcher",
+    "name": {
+      "full-name": "William Fletcher",
+      "firstname": "William",
+      "middle-name": "",
+      "surname": "Fletcher",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_mary__hone",
+    "name": {
+      "full-name": "Mary (Hone)",
+      "firstname": "Mary",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": "Hone"
+    },
+    "cisgender": "female",
+    "died": {
+      "date": "1850-09-02"
+    },
+    "original-info": "maiden-name: Hone",
+    "todo": "name_mismatch: name mismatch: full-name='Mary (Hone)' vs constructed='Mary Hone', birthday: missing birthday, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_james_hobbs",
+    "name": {
+      "full-name": "James Hobbs",
+      "firstname": "James",
+      "middle-name": "",
+      "surname": "Hobbs",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1783_joseph_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1842_joseph_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        },
+        {
+          "id": "1848_joseph_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "todo": "birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "xxxx_martha_hone",
+    "name": {
+      "full-name": "Martha Ann Hone",
+      "firstname": "Martha",
+      "middle-name": "Ann",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "mother": "joseph_cox"
+      }
+    },
+    "died": {
+      "date": "1839-09-07",
+      "location": "St David's Park, Hobart",
+      "date-burried": "St"
+    },
+    "original-info": "aged 28, David's Park, Hobart, ''s Inn'",
+    "todo": "birthday: missing birthday",
+    "remaining-info": "aged 28, David's Park, Hobart, ''s Inn'"
+  },
+  {
+    "id": "xxxx_elizabeth__rowe",
+    "name": {
+      "full-name": "Elizabeth (Rowe)",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Rowe",
+      "maiden-name": "Rowe"
+    },
+    "cisgender": "female",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "1810_alfred_hone",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": false
+        }
+      ]
+    },
+    "original-info": "maiden-name: Rowe",
+    "todo": "name_mismatch: name mismatch: full-name='Elizabeth (Rowe)' vs constructed='Elizabeth Rowe', birthday: missing birthday, death: missing death date, parents: missing parents",
+    "remaining-info": ""
+  },
+  {
+    "id": "1842_joseph_hone",
+    "name": {
+      "full-name": "Joseph Hone",
+      "firstname": "Joseph",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_james_hobbs",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1842-05-01",
+      "location": "Hobart Town"
+    },
+    "original-info": "B 1-3 May 1842, Hobart Town",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "B 1-3 May 1842, Hobart Town"
+  },
+  {
+    "id": "1848_joseph_hone",
+    "name": {
+      "full-name": "Joseph William James Hone",
+      "firstname": "Joseph",
+      "middle-name": "William James",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "spouses": [
+        {
+          "id": "xxxx_james_hobbs",
+          "marriedYear": "",
+          "marriedDate": "",
+          "marriedPlace": "",
+          "main": true
+        }
+      ],
+      "parents": {
+        "father": "1755_william_hone",
+        "mother": "1755_william_hone"
+      }
+    },
+    "born": {
+      "date": "1848-06-04",
+      "location": "Hobart Town"
+    },
+    "original-info": "Hobart Town",
+    "todo": "death: missing death date, parents: missing parents",
+    "remaining-info": "Hobart Town"
+  },
+  {
+    "id": "1789_judah_hone",
+    "name": {
+      "full-name": "Judah Hone",
+      "firstname": "Judah",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "xxxx_william_hone"
+      }
+    },
+    "born": {
+      "date": "1789-06-04",
+      "location": "13 Hand Court, Holbourn"
+    },
+    "original-info": "at 13 Hand Court, Holbourn; bpt Providence Chapel, Gray's Inn, 24 Aug 1789, & Frances Mariah his wife",
+    "todo": "death: missing death date",
+    "remaining-info": "at 13 Hand Court, Holbourn; bpt Providence Chapel, Gray's Inn, 24 Aug 1789, & Frances Mariah his wife"
+  },
+  {
+    "id": "1796_sarah_hone",
+    "name": {
+      "full-name": "Sarah Hone",
+      "firstname": "Sarah",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "female",
+    "relationship": {
+      "parents": {
+        "mother": "xxxx_william_hone"
+      }
+    },
+    "born": {
+      "date": "1796-06-23",
+      "location": "16 Albemarle St, Clerkenwell"
+    },
+    "original-info": "at 16 Albemarle St, Clerkenwell, in the united parishes of St James's and St John's Clerkenwell, bpt Providence Chapel, Gray's Inn, 1 Aug 1796, & Frances Maria his wife",
+    "todo": "death: missing death date",
+    "remaining-info": "at 16 Albemarle St, Clerkenwell, in the united parishes of St James's and St John's Clerkenwell, bpt Providence Chapel, Gray's Inn, 1 Aug 1796, & Frances Maria his wife"
+  },
+  {
+    "id": "1798_samuel_hone",
+    "name": {
+      "full-name": "Samuel Hone",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Hone",
+      "maiden-name": ""
+    },
+    "cisgender": "male",
+    "relationship": {
+      "parents": {
+        "father": "xxxx_william_hone"
+      }
+    },
+    "born": {
+      "date": "1798-09-07",
+      "location": "parish of St John Clerkenwell"
+    },
+    "original-info": "in the parish of St John Clerkenwell, bpt Providence Chapel 12 Nov 1798, & Frances Maria his wife",
+    "todo": "death: missing death date",
+    "remaining-info": "in the parish of St John Clerkenwell, bpt Providence Chapel 12 Nov 1798, & Frances Maria his wife"
+  }
+]

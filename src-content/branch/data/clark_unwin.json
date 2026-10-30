@@ -1,18 +1,22 @@
 [
   {
-    "id": "james_clarke",
-    "full-name": "James Clarke",
-    "name": "James Clarke",
-    "birthday": "",
-    "birthplace": "",
+    "id": "1776_1814__james_clarke",
+    "name": {
+      "full": "James Clarke",
+      "firstname": "James",
+      "middle-name": "",
+      "surname": "Clarke",
+      "maiden_name": ""
+    },
     "gender": "M",
     "occupation": "Boot maker",
     "spouses": [
       {
-        "id": "sarah_clarke",
+        "id": "1776_1814__sarah_clarke",
         "marriedYear": "",
         "marriedDate": "",
-        "marriedPlace": ""
+        "marriedPlace": "",
+        "main": true
       }
     ],
     "children": [
@@ -29,30 +33,34 @@
       "father": "",
       "mother": ""
     },
-    "original_info": "Of the parish of Gt Waltham, Essex",
-    "info": "Of the parish of Gt Waltham, Essex",
+    "original-info": "Of the parish of Gt Waltham, Essex",
     "sources": [],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "James",
-      "middle-name": "",
-      "surname": "Clarke"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "remaining-info": "Of the parish of Gt Waltham, Essex"
   },
   {
-    "id": "sarah_clarke",
-    "full-name": "Sarah Clarke",
-    "name": "Sarah Clarke",
-    "birthday": "",
-    "birthplace": "",
+    "id": "1776_1814__sarah_clarke",
+    "name": {
+      "full": "Sarah Clarke",
+      "firstname": "Sarah",
+      "middle-name": "",
+      "surname": "Clarke",
+      "maiden_name": ""
+    },
     "gender": "F",
     "occupation": "",
     "spouses": [
       {
-        "id": "james_clarke",
+        "id": "1776_1814__james_clarke",
         "marriedYear": "",
         "marriedDate": "",
-        "marriedPlace": ""
+        "marriedPlace": "",
+        "main": false
       }
     ],
     "children": [
@@ -69,26 +77,29 @@
       "father": "",
       "mother": ""
     },
-    "info": "",
     "sources": [],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Sarah",
-      "middle-name": "",
-      "surname": "Clarke"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date",
+      "parents": "missing parents"
+    },
+    "remaining-info": ""
   },
   {
     "id": "1816_hephzibah_clarke",
-    "full-name": "Hephzibah Clarke",
-    "name": "Hephzibah Clarke",
-    "birthday": "1816-10-29",
-    "birthplace": "Gt Waltham, Essex",
+    "name": {
+      "full": "Hephzibah Clarke",
+      "firstname": "Hephzibah",
+      "middle-name": "",
+      "surname": "Clarke",
+      "maiden_name": ""
+    },
     "gender": "F",
     "occupation": "",
     "spouses": [
       {
-        "id": "samuel_unwin",
+        "id": "xxxx_samuel_unwin",
         "marriedYear": "1853",
         "marriedDate": "21 Mar 1853",
         "marriedPlace": "St Matthew's Bethnal Green"
@@ -96,25 +107,30 @@
     ],
     "children": [],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "baptised at the Meeting House, & Sarah of the parish of Gt Waltham, Essex",
-    "info": "baptised at the Meeting House, & Sarah of the parish of Gt Waltham, Essex",
+    "original-info": "baptised at the Meeting House, & Sarah of the parish of Gt Waltham, Essex",
     "sources": [],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Hephzibah",
-      "middle-name": "",
-      "surname": "Clarke"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1816-10-29",
+      "place": "Gt Waltham, Essex"
+    },
+    "remaining-info": "baptised at the Meeting House, & Sarah of the parish of Gt Waltham, Essex"
   },
   {
     "id": "1818_sarah_clark",
-    "full-name": "Sarah Clark",
-    "name": "Sarah Clark",
-    "birthday": "1818-09-22",
-    "birthplace": "Little Waltham, Essex",
+    "name": {
+      "full": "Sarah Clark",
+      "firstname": "Sarah",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "F",
     "died": {
       "date": "1852"
@@ -122,7 +138,7 @@
     "occupation": "",
     "spouses": [
       {
-        "id": "samuel_unwin",
+        "id": "xxxx_samuel_unwin",
         "marriedYear": "1838",
         "marriedDate": "1838-Q1",
         "marriedPlace": "Poplar"
@@ -130,105 +146,122 @@
     ],
     "children": [],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "Indep, Little Waltham, Essex, & Sarah; aged 33",
-    "info": "Indep, Little Waltham, Essex, & Sarah; aged 33",
+    "original-info": "Indep, Little Waltham, Essex, & Sarah; aged 33",
     "sources": [
       "baptism 25 Oct 1818"
     ],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Sarah",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "birth": {
+      "date": "1818-09-22",
+      "place": "Little Waltham, Essex"
+    },
+    "remaining-info": "Indep, Little Waltham, Essex, & Sarah; aged 33"
   },
   {
     "id": "1821_ann_clark",
-    "full-name": "Ann Clark",
-    "name": "Ann Clark",
-    "birthday": "1821-04-16",
-    "birthplace": "Little Waltham, Essex",
+    "name": {
+      "full": "Ann Clark",
+      "firstname": "Ann",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "F",
     "occupation": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "Little Waltham, Essex, & Sarah",
-    "info": "Little Waltham, Essex, & Sarah",
+    "original-info": "Little Waltham, Essex, & Sarah",
     "sources": [
       "baptism 8 Oct 1821"
     ],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Ann",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1821-04-16",
+      "place": "Little Waltham, Essex"
+    },
+    "remaining-info": "Little Waltham, Essex, & Sarah"
   },
   {
     "id": "1823_elizabeth_clark",
-    "full-name": "Elizabeth Clark",
-    "name": "Elizabeth Clark",
-    "birthday": "1823-02-16",
-    "birthplace": "Little Waltham, Essex",
+    "name": {
+      "full": "Elizabeth Clark",
+      "firstname": "Elizabeth",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "F",
     "occupation": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "Little Waltham, Essex, & Sarah",
-    "info": "Little Waltham, Essex, & Sarah",
+    "original-info": "Little Waltham, Essex, & Sarah",
     "sources": [
       "baptism 8 June 1823"
     ],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Elizabeth",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1823-02-16",
+      "place": "Little Waltham, Essex"
+    },
+    "remaining-info": "Little Waltham, Essex, & Sarah"
   },
   {
     "id": "1827_priscilla_clark",
-    "full-name": "Priscilla Clark",
-    "name": "Priscilla Clark",
-    "birthday": "1827-07-07",
-    "birthplace": "Little Waltham, Essex",
+    "name": {
+      "full": "Priscilla Clark",
+      "firstname": "Priscilla",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "F",
     "occupation": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "Little Waltham, Essex, & Sarah",
-    "info": "Little Waltham, Essex, & Sarah",
+    "original-info": "Little Waltham, Essex, & Sarah",
     "sources": [
       "baptism 27 Aug 1827"
     ],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Priscilla",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1827-07-07",
+      "place": "Little Waltham, Essex"
+    },
+    "remaining-info": "Little Waltham, Essex, & Sarah"
   },
   {
     "id": "1829_hannah_clark",
-    "full-name": "Hannah Clark",
-    "name": "Hannah Clark",
-    "birthday": "1829-10-06",
-    "birthplace": "Little Waltham, Essex",
+    "name": {
+      "full": "Hannah Clark",
+      "firstname": "Hannah",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "F",
     "died": {
       "date": "1854-08-30",
@@ -247,11 +280,10 @@
       "1854_hannah_coles"
     ],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "Little Waltham, Essex, & Sarah; aged 25, 1 Bird-in-Hand Court, Cheapside, City of London, wife of Charles John Coles billiard marker, uterine haemorrhage. Marriage record states she was",
-    "info": "Little Waltham, Essex, & Sarah; aged 25, 1 Bird-in-Hand Court, Cheapside, City of London, wife of Charles John Coles billiard marker, uterine haemorrhage. Marriage record states she was",
+    "original-info": "Little Waltham, Essex, & Sarah; aged 25, 1 Bird-in-Hand Court, Cheapside, City of London, wife of Charles John Coles billiard marker, uterine haemorrhage. Marriage record states she was",
     "sources": [
       "baptism 21 Mar 1830"
     ],
@@ -262,91 +294,106 @@
         "relationship": "married into"
       }
     ],
-    "name-parts": {
-      "firstname": "Hannah",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "birth": {
+      "date": "1829-10-06",
+      "place": "Little Waltham, Essex"
+    },
+    "remaining-info": "Little Waltham, Essex, & Sarah; aged 25, 1 Bird-in-Hand Court, Cheapside, City of London, wife of Charles John Coles billiard marker, uterine haemorrhage. Marriage record states she was"
   },
   {
     "id": "1832_emma_clark",
-    "full-name": "Emma Clark",
-    "name": "Emma Clark",
-    "birthday": "1832-04-15",
-    "birthplace": "Little Waltham, Essex",
+    "name": {
+      "full": "Emma Clark",
+      "firstname": "Emma",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "F",
     "occupation": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "baptised Aug 1832 Little Waltham, Essex, & Sarah",
-    "info": "baptised Aug 1832 Little Waltham, Essex, & Sarah",
+    "original-info": "baptised Aug 1832 Little Waltham, Essex, & Sarah",
     "sources": [],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Emma",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1832-04-15",
+      "place": "Little Waltham, Essex"
+    },
+    "remaining-info": "baptised Aug 1832 Little Waltham, Essex, & Sarah"
   },
   {
     "id": "1834_samuel_clark",
-    "full-name": "Samuel Clark",
-    "name": "Samuel Clark",
-    "birthday": "1834-04-16",
-    "birthplace": "Little Waltham, Essex",
+    "name": {
+      "full": "Samuel Clark",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "M",
     "occupation": "",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "james_clarke",
-      "mother": "sarah_clarke"
+      "father": "james_arthur_liddle",
+      "mother": "sarah_ann_wilson"
     },
-    "original_info": "Little Waltham, Essex, & Sarah",
-    "info": "Little Waltham, Essex, & Sarah",
+    "original-info": "Little Waltham, Essex, & Sarah",
     "sources": [
       "baptism 20 July 1834"
     ],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Samuel",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "fix": {
+      "death": "missing death date"
+    },
+    "birth": {
+      "date": "1834-04-16",
+      "place": "Little Waltham, Essex"
+    },
+    "remaining-info": "Little Waltham, Essex, & Sarah"
   },
   {
-    "id": "samuel_clark",
-    "full-name": "Samuel Clark",
-    "name": "Samuel Clark",
-    "birthday": "",
-    "birthplace": "",
+    "id": "xxxx_samuel_clark",
+    "name": {
+      "full": "Samuel Clark",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Clark",
+      "maiden_name": ""
+    },
     "gender": "M",
     "occupation": "Tailor",
     "spouses": [],
     "children": [],
     "parents": {
-      "father": "of Hannah Clark per marriage record to Charles John Coles 22 Aug 1852",
+      "father": "1838_ann_bruce_holt",
       "mother": ""
     },
-    "info": "",
     "sources": [],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Samuel",
-      "middle-name": "",
-      "surname": "Clark"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date"
+    },
+    "remaining-info": ""
   },
   {
-    "id": "samuel_unwin",
-    "full-name": "Samuel Unwin",
-    "name": "Samuel Unwin",
-    "birthday": "",
-    "birthplace": "",
+    "id": "xxxx_samuel_unwin",
+    "name": {
+      "full": "Samuel Unwin",
+      "firstname": "Samuel",
+      "middle-name": "",
+      "surname": "Unwin",
+      "maiden_name": ""
+    },
     "gender": "M",
     "occupation": "Farmer",
     "spouses": [
@@ -365,42 +412,43 @@
     ],
     "children": [],
     "parents": {
-      "father": "joseph_unwin",
-      "mother": "James Clark boot maker"
+      "father": "joseph_cox",
+      "mother": "1771_1801_james_clarke"
     },
-    "original_info": "Widower, farmer, of 2 Prospect St, 's Bethnal Green, spinster, of 2 Prospect St, ; & widower, farmer, of 2 Prospect St",
-    "info": "Widower, farmer, of 2 Prospect St, 's Bethnal Green, spinster, of 2 Prospect St, ; & widower, farmer, of 2 Prospect St",
+    "original-info": "Widower, farmer, of 2 Prospect St, 's Bethnal Green, spinster, of 2 Prospect St, ; & widower, farmer, of 2 Prospect St",
     "sources": [],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Samuel",
-      "middle-name": "",
-      "surname": "Unwin"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date"
+    },
+    "remaining-info": "Widower, farmer, of 2 Prospect St, 's Bethnal Green, spinster, of 2 Prospect St, ; & widower, farmer, of 2 Prospect St"
   },
   {
-    "id": "joseph_unwin",
-    "full-name": "Joseph Unwin",
-    "name": "Joseph Unwin",
-    "birthday": "",
-    "birthplace": "",
+    "id": "1753_1783__joseph_unwin",
+    "name": {
+      "full": "Joseph Unwin",
+      "firstname": "Joseph",
+      "middle-name": "",
+      "surname": "Unwin",
+      "maiden_name": ""
+    },
     "gender": "M",
     "occupation": "Miller",
     "spouses": [],
     "children": [
-      "samuel_unwin"
+      "xxxx_samuel_unwin"
     ],
     "parents": {
-      "father": "of Samuel Unwin miller",
+      "father": "2013_samuel_teo",
       "mother": ""
     },
-    "info": "",
     "sources": [],
     "crossBranch": [],
-    "name-parts": {
-      "firstname": "Joseph",
-      "middle-name": "",
-      "surname": "Unwin"
-    }
+    "fix": {
+      "birthday": "missing birthday",
+      "death": "missing death date"
+    },
+    "remaining-info": ""
   }
 ]

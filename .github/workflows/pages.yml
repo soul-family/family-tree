@@ -56,6 +56,8 @@ jobs:
           find _site -name "*.html" -type f -exec sed -i 's/\.md\([#"]\)/\1/g' {} +
           find _site -name "*.html" -type f -exec sed -i 's|\.md"|/"|g' {} +
           find _site -name "*.html" -type f -exec sed -i "s|\.md'|/'|g" {} +
+          # Make external links open in new tab
+          find _site -name "*.html" -type f -exec sed -i -E 's|<a href="(https?://[^"]+)"([^>]*)>|<a href="\1"\2 target="_blank" rel="noopener noreferrer">|g' {} +
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -142,7 +142,7 @@
       "type": "string",
       "description": "Any additional structured notes or biographical info that could not be extracted into structured fields"
     },
-    "original_info": {
+    "original-info": {
       "type": "string",
       "description": "The very original info text before any extraction or cleaning"
     },

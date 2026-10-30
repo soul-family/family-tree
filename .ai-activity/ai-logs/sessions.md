@@ -20,3 +20,7 @@ Session index for the archive project. Detailed entries are in `interactions.md`
 | 2026-09-05 | Repository optimization and tooling improvements | Database optimized from 92 MB to 86 MB. All verification tools operational. |
 | 2026-09-12 | HTML simplification and documentation updates | All familytree HTML files simplified. Presentational attributes and unnecessary bold tags removed. Missing PRE closing tags fixed. Merge conflict resolved. |
 | 2026-09-15 | Merge contact and license into about page, remove sitemap | Merged contact and license content into about.html, removed sitemap page and all links, updated all sidebars. |
+| 2026-10-12 | Family tree report restructure and v1 to v2 conversion preparation | Report split into journey, comparison, and report; v1 and v2 structures documented separately; horizontal and vertical ASCII expansion and conversion skill created. |
+| 2026-10-13 | ASCII expansion connector continuity and horizontal lines | Expanded trees keep connector runs continuous, lengthen horizontal lines to the minimum gap, and preserve all text segments. |
+| 2026-10-13 | ASCII expansion column realignment for vertical connectors | Second horizontal phase realigns anchor columns so every vertical connector lines up; zero misaligned pipe columns across 16 branches. |
+| 2026-10-13 | ASCII expansion sibling marker alignment | Child markers of one parent line up as drawn, and bars keep their offset from the parent pipe; all 16 branches verified. |

@@ -1,22 +1,24 @@
-# Handley Family Tree - Simplified Diagram
+# Handley Family Tree
 
-```mermaid
+```mermaid------
+config:
+  layout: elk
+---
 flowchart TD
-    1784_thomas_handley(Thomas Handley<br/>1784) === elizabeth_jebb(+Elizabeth Jebb)
-    elizabeth_jebb === 1817_eliza_handley(Eliza Sarah Handley<br/>1817)
-    elizabeth_jebb === 1821_mary_handley(Mary Anne Handley<br/>1821-03-17)
-    elizabeth_jebb === 1823_thomas_handley(Thomas Handley<br/>1823)
-    1817_eliza_handley === frederick_harraden(+Frederick Harraden)
-    1787_caleb_soul(Caleb Soul<br/>1817-01-13) === 1819_jane_peters(+Jane Elizabeth Peters<br/>1819-01-24)
-    1819_jane_peters === 1841_emma_soul(Emma Jane Soul<br/>1841-02-16)
-    1819_jane_peters === 1845_washington_soul(Washington Handley Soul<br/>1845-11-06)
-    1819_jane_peters === 1847_arabella_soul(Arabella Handley Soul<br/>1847-10-03)
-    1787_caleb_soul === 1821_mary_handley(+Mary Anne Handley<br/>1821-03-17)
-    1821_mary_handley === 1841_emma_soul
-    1821_mary_handley === 1845_washington_soul
-    1821_mary_handley === 1847_arabella_soul
-    1845_washington_soul === 1849_charlotte_bird(+Charlotte Louisa Bird<br/>1849-10-10)
-    1877_gertrude_soul(Gertrude Arabella Soul<br/>1877-06-30) === 1876_arif_nassoor(+Arif Amin Nassoor<br/>1876-10-02)
+  1784_thomas_handley["Thomas Handley (c. 1784–1859)"]
+  1780_elizabeth_jebb__["Elizabeth Jebb (c. 1780–1863)"]
+  1820_elizasarah_handley__["Eliza Sarah Handley (c. 1820–1879)"]
+  1821_maryanne_handley__["Mary Anne Handley (1821–1897)"]
+  xxx_frederick_harraden["Frederick Harraden"]
+  xxx_caleb_soul["Caleb Soul"]
+  1823_thomas_handley["Thomas Handley (c. 1823–1873)"]
+
+  1784_thomas_handley -->|married| 1780_elizabeth_jebb__
+  1780_elizabeth_jebb__ --> 1820_elizasarah_handley__
+  1780_elizabeth_jebb__ --> 1821_maryanne_handley__
+  1820_elizasarah_handley__ -->|married| xxx_frederick_harraden
+  1821_maryanne_handley__ -->|married 2| xxx_caleb_soul
+  1780_elizabeth_jebb__ --> 1823_thomas_handley
 
     linkStyle default stroke:#555
 ```
